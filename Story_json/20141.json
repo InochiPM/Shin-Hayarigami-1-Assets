@@ -1,0 +1,310 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 20141,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00342b0100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c000c2b0200"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130100"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0007000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……やっぱり、相当な"
+		]
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "24000a000002"
+	},
+	{
+		"STRINGS": [
+			"ショックよね、"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "1c000800"
+	},
+	{
+		"STRINGS": [
+			"　田村さんたちのこと。",
+			"　確かに、見知った人がこうも次々と……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 11,
+		"NAME": "Minase Haruka"
+	},
+	{
+		"STRINGS": [
+			"\"……ええ。一体どうして……なんで……みんな……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"精神的に参ってしまうのもわかるわ。",
+			"　だってこんな事件……考えられないもの\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 11,
+		"NAME": "Minase Haruka"
+	},
+	{
+		"STRINGS": [
+			"\"……ええ、ホントに……どうしてこんな……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"そう言って震える彼女は、",
+			"本当に今回の件で哀しんでいるのもわかる。",
+			"瞳には涙も浮かべている。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"STRINGS": [
+			"……しかし、どうなんだろう？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000600"
+	},
+	{
+		"STRINGS": [
+			"私にはどうしても彼女が、",
+			"青天の霹靂とばかりに衝撃を受けている……",
+			"ようには、見えなかった。これだけの大事件なのに。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LIARSART_DEMOEND",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "080010000d00000302000000"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 20151
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "080010000d000003ffff0000"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 20152
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 20153
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

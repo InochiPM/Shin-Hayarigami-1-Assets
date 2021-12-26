@@ -1,0 +1,477 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 30661,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00aa0f0300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d20f0200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00c80f0100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0085030000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"……必死にごまかすしかない。",
+			"この友人の思いやりに対して私にできる策は、",
+			"もはやそれだけだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……ああ、だからアライグマなのよ。",
+			"　角砂糖洗ったら溶けちゃうのよ。可愛いでしょ？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00c80f0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 10,
+		"NAME": "Tachibana Misuzu"
+	},
+	{
+		"STRINGS": [
+			"\"いや、あのね……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"あと酷いわよねあのアニメの最終回。",
+			"　飼えなくなったから森に還そうって無責任にペットを",
+			"　野山に捨てに行くのよ。クズよね、名作だけど\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c002c100200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 10,
+		"NAME": "Tachibana Misuzu"
+	},
+	{
+		"STRINGS": [
+			"\"だから何が名作なのそれ。そんな話して何がしたいの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00c80f0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 10,
+		"NAME": "Tachibana Misuzu"
+	},
+	{
+		"STRINGS": [
+			"\"っていうか！　さっきから支離滅裂よ？",
+			"　何を誤魔化そうとしてるの？　バレバレじゃない\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000600"
+	},
+	{
+		"STRINGS": [
+			"バレバレ……まあそうだろう。",
+			"どう考えたって私は気が動転している。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"えっ？　あ……イヤだなぁ。そんなことないって。",
+			"　だからラッコとシマリスとね、その……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "18000e000f0001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 10,
+		"NAME": "Tachibana Misuzu"
+	},
+	{
+		"STRINGS": [
+			"\"紗希！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "14000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000808080003c000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00c40380800000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000900"
+	},
+	{
+		"STRINGS": [
+			"美鈴は私の両肩を押さえ、ジっと瞳を覗き込む。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 30671
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

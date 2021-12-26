@@ -1,0 +1,1938 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 50011,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0002080300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c000c080200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ce130100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b0130000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d45d0400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c0014020000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0058020000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0006000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e009c0380800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000005a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00ba0380800000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"地下の特ラ課オフィスから階上へと登る。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "08000c005a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a005a00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000100"
+	},
+	{
+		"STRINGS": [
+			"いつもは無駄に騒々しい警察署の一階なのに、",
+			"今日に限っては無音で、日々の喧噪が全くない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"職員たちの姿は全く見えない。",
+			"一体どうしたのだろう？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000300"
+	},
+	{
+		"STRINGS": [
+			"総務担当の職員も皆無だった。",
+			"留守番の一人も置いていない有様だ。",
+			"さすがに小首をかしげる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"当然こんな状態では電話の不調も対処できないだろう。",
+			"仕方なく一階の電話を手に取ってみる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e00f80180800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c0010001402000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00460000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000001e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000500"
+	},
+	{
+		"STRINGS": [
+			"……外線も通じていなかった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "08000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00fb020000"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00fb020000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ちょっと待って……！？",
+			"　私たちが地下で安穏としてる内に一体何があったの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"というか、何かあったなら教えてくれても良いでしょう！？",
+			"そこまで特ラ課は相手にされていないのか……。",
+			"ため息が漏れる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e001f0296960000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000800"
+	},
+	{
+		"STRINGS": [
+			"その時、警察無線から音声が飛び交った。",
+			"電話は通じないのに無線の方はＯＫなのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000404040801e000000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000fb02000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000fb02000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00800000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00d45d0400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012002c01baff400600000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "140010008080800000000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000808080801e000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "100012002c01ceff40063c000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "14000a005a00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e001f0280800000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 24,
+		"NAME": "Police Officer"
+	},
+	{
+		"STRINGS": [
+			"\"––全員集結。非常線を絶対死守。",
+			"　繰り返す、全員集結––これ以上の侵入を許すな！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "18000e001f0280800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000500"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00190280800000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000a00"
+	},
+	{
+		"STRINGS": [
+			"ザーッとまたノイズ……。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000808080001e000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000808080801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"えええっ！？　な、何……？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000c00"
+	},
+	{
+		"STRINGS": [
+			"さすがに呆然とする。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "MSG_STOP",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "MSG_READY",
+		"UNK0": "0c000c000000a803"
+	},
+	{
+		"TYPE": "MSG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "MSG_PLAY",
+		"UNK0": "0c000e000000a8038000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "MSG_VOL",
+		"UNK0": "0c000e0000001e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"……今のは何です？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0000000400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000e00"
+	},
+	{
+		"STRINGS": [
+			"気がつけば黒田課長も下階から登って来て、",
+			"私の隣に立っていた。私と同じく呆然とした表情だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……何ですかって、聞きたいのは私の方です\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b0130000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001000"
+	},
+	{
+		"STRINGS": [
+			"ぐるりと署内を見渡す。",
+			"……本当に、人っ子一人いない。",
+			"いつの間に……何故こんなことに……？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"遺失物の届けとか罰金の払いとか、",
+			"　あと道案内だとかで来る一般の方も",
+			"　姿がありませんね……？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……何かこう、総出で向かうような",
+			"　大きな祭りとかありましたっけ？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"無いよねぇ、この田舎町には……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001400"
+	},
+	{
+		"STRINGS": [
+			"町というか村だけど。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e006c00fafa0000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e000f0001030f00"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e001e000001c800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b0130100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a007800"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e000a0001010f00"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e001e0000010a00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e006c00fafa0000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001500"
+	},
+	{
+		"STRINGS": [
+			"ガタン、ドスン、と階段から音がした。",
+			"びくりと私と黒田課長がその方向に振り向いた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0088130000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00a803dcdc0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0006000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"ふわぁぁあ……、あーオハヨウございまぁス……",
+			"　……あれ、何なんスか、これ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……風守さん！　どこ行ってたんですかッ！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"どこって……休憩室で寝てたっつーの。",
+			"　悪いか？　こちとら連日忙しくてだな……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"風守さん、別に忙しくはないじゃないですか……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ce130100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"いや、そんな話はどうでもいいから……。",
+			"　あのね、風守クンは何か聞いてないかね？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"何かって、何をです？",
+			"　……ていうか、何で誰も居ないんです？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ce130000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"……駄目だ、こりゃ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001d00"
+	},
+	{
+		"STRINGS": [
+			"揃いも揃って、私たち特ラ課だけが蚊帳の外か……。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001e00"
+	},
+	{
+		"STRINGS": [
+			"私たち三人でお互いの顔を見合わせた後、",
+			"黒田課長がヤレヤレとばかりに無線機を手にした。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00ce130100"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0020080200"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00180232320000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e001f0280800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"こちらＰＳ、特ラ課の黒田です。",
+			"　署内が無人ですが、何が起きたんです？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00ce130000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000404040801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e001f0280800000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b002000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 24,
+		"NAME": "Police Officer"
+	},
+	{
+		"STRINGS": [
+			"\"ＰＭ総員で現急せよという緊配を知らないのか！？",
+			"　早く来い！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "18001000808080801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"ええと、どこにでしょう？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b002200"
+	},
+	{
+		"STRINGS": [
+			"……総員って。ええと何それ？",
+			"もしかして厳戒態勢な感じの緊急状態……？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002300"
+	},
+	{
+		"STRINGS": [
+			"幾ら何でも、受付や総務まで出払う事態なの？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002400"
+	},
+	{
+		"STRINGS": [
+			"クーデターでも起きたの？",
+			"まさか……この現代の日本で？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b0130000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000404040801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e001f0280800000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b002500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 24,
+		"NAME": "Police Officer"
+	},
+	{
+		"STRINGS": [
+			"\"県道×号線、Ｃ村入口のトンネルだ！！",
+			"　至急現急！　来るぞ！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "18001000808080801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "MSG_STOP",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "MSG_READY",
+		"UNK0": "0c000c0000000301"
+	},
+	{
+		"TYPE": "MSG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "MSG_PLAY",
+		"UNK0": "0c000e00000003010000"
+	},
+	{
+		"TYPE": "MSG_VOL",
+		"UNK0": "10000e00000000008000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002600"
+	},
+	{
+		"STRINGS": [
+			"一体何なんだ、と私たち全員、お互いの顔を見合わせた途端、",
+			"ヒュゥゥゥ……と何かの落下音……いや、飛来音がした。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "MSG_VOL",
+		"UNK0": "08000e00000000000000"
+	},
+	{
+		"TYPE": "MSG_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0c00180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e001e0001010f00"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e003c0000010000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00040180800000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a00b400"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002700"
+	},
+	{
+		"STRINGS": [
+			"ズドオォォォン……。",
+			"遠くで爆発音が響く。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"……おいおいおいッ！？",
+			"　まじか？　何だ……！？",
+			"　どっかの国から宣戦布告でもされたかァ！？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002900"
+	},
+	{
+		"STRINGS": [
+			"私達は慌てて外に飛び出した。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00aa0380800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000500"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e00b40396960000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000805a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 50021
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

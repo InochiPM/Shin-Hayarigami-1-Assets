@@ -1,0 +1,241 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10133,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130100"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0007000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e000f0001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\""
+		]
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000002"
+	},
+	{
+		"STRINGS": [
+			"Shut up!"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "14000800"
+	},
+	{
+		"STRINGS": [
+			"I'm tired of hearing your excuses!\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"You're quite attractive when your angry.",
+			"I even feel affection for you, but.......",
+			"I told you I don't have time for this.\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"Then you'll have to help me more.",
+			"I need a more concrete testimony.",
+			"This isn't a lecture hall where you",
+			"can show off your academic acumen.\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"Why don't you examine some more",
+			"of my words a little bit?\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"I felt dizzy from the back-and-forth."
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"STRINGS": [
+			"How am I supposed to interact with him?",
+			"The only thing I am sure of is that trying to upset",
+			"him with an emotional response will not be effective."
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 10141
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

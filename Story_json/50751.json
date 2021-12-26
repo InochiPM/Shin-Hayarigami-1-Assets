@@ -1,0 +1,809 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 50751,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00202b0300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00e4070200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0098170100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00e4070000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00bc020000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0004000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"……風守さんも理解はしてくれたか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"だがな、行くとするなら男手だろう。",
+			"　北條じゃ無理だ。俺と……おい、金谷！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00d0070000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"えっ？　俺？　……ま、まあ良いけど\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000300"
+	},
+	{
+		"STRINGS": [
+			"本当は嫌で仕方がないという顔で、",
+			"それでもここで断る勇気も彼には無いようだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c000c080100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"頼りねェが、俺と金谷の二人で行く。",
+			"　通用口の開閉はお前と関本で当たれ。",
+			"　一番危険の少ない屋上からの誘導は遥だ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 11,
+		"NAME": "Minase Haruka"
+	},
+	{
+		"STRINGS": [
+			"\"わ、私ね……？　が、頑張るわ……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00d60b0300"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"感染者にロープを引っ張られて落っこちるなよ？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"何だかんだ言って、こうしてリーダーシップを取って",
+			"みんなをキッチリ仕切れるのは風守さんだけだ。",
+			"ようやく私はホっと出来た。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c000c080000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"そして、気に食わねェが……今はこうするしかねぇ。",
+			"　おい関本、両手を出せ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00b50180800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000900"
+	},
+	{
+		"STRINGS": [
+			"風守さんは、関本の手錠を外した。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000006070200b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"やれやれ……これでやっとラジオ体操もできるよ。",
+			"　何日ぶりだろうね\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"お前は本当に減らず口しか叩かねェな！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000005070300b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"私の手錠まで外す時点で、",
+			"　君も相当切羽詰まっているのが良くわかるよ。",
+			"　期待に添えるだけの働きはしよう\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000d00"
+	},
+	{
+		"STRINGS": [
+			"ジロリと睨む風守さんに、ニヤリと笑う関本……。",
+			"やっぱり水と油な二人だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"と……とにかく！",
+			"　みんなで協力してやりましょう！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000f00"
+	},
+	{
+		"STRINGS": [
+			"正直なところ、このチームの心はバラバラだ。",
+			"それでも今は手を取り合わなければ駄目だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001000"
+	},
+	{
+		"STRINGS": [
+			"そして、どれだけ作戦を立てようと、",
+			"結局やることは正面突破でしかない。",
+			"……その危険性は十分覚悟していた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CALL_DEMO",
+		"UNK0": "0c001c00a41f000000000000000000000000000000000000"
+	},
+	{
+		"TYPE": "WAIT_DEMO_ALL",
+		"UNK0": "1c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "080010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c005a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a005a00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 50761
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

@@ -1,0 +1,4245 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 70231,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "10000c00b2040200"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c000c080200"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00f9020100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c000c080000"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00f7020000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00100e0000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000f702000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0080005a000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00f50280800000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000005a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"視界を取り戻した時、",
+			"私の周囲に広がっていた光景は",
+			"山林だった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"……どうして、こんな抜け穴を知っているんだよ。",
+			"　お前、何を隠してんだ、関本サンよう……？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"詰め寄った風守さんに臆することなく、",
+			"彼は人差し指を自分の唇にあてた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0016080000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"地獄から生還して、ほっ、としたのは喜ばしいが、",
+			"　これ以上揉めると気付かれるぞ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"そう小声で呟いた彼は、私達の後方を指さした。",
+			"そんなに遠くない距離で、金谷家の敷地が見える。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000f902000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00300078000100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000500"
+	},
+	{
+		"STRINGS": [
+			"無数の発電機がうなりを上げていて、",
+			"家屋を包囲するように、複数の作業用水銀灯が",
+			"煌々と光を放っていた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000600"
+	},
+	{
+		"STRINGS": [
+			"その真っ白な光に照らされて、複数の人影が",
+			"時折せわしなく蠢いていた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000006070200b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"それを見た風守さんは、ぎょっ、としていた。",
+			"関本は落ち着いた様子で、ゆっくりと風守に近づいた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"まだ電車ごっこは終わっちゃいないんだよ。",
+			"　このまま"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3804,
+		"KEYWORD": "Conductor"
+	},
+	{
+		"STRINGS": [
+			"の指示通り闇に紛れて逃げよう。",
+			"　それとも、今ここで疑惑を解消したいのか？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000900"
+	},
+	{
+		"STRINGS": [
+			"彼の声はとても小さかった。",
+			"しかし、風守さんの威勢を削ぐには充分すぎるものがあった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000003c000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "100010004040408078000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00d60b0000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a002800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00af000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000af00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0030005a000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000a00"
+	},
+	{
+		"STRINGS": [
+			"それから私は、できるだけ身を小さくしながら",
+			"山林の獣道を進んだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000b00"
+	},
+	{
+		"STRINGS": [
+			"周囲に明かりなどあるはずもなく、星明かりだけが頼りの",
+			"足下が悪い道だった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000c00"
+	},
+	{
+		"STRINGS": [
+			"防護服の連中には全く出くわさなかったが、",
+			"時々、枝葉にあの芋虫たちを見ることができた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000000000805a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a009600"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080808078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000d00"
+	},
+	{
+		"STRINGS": [
+			"そのまましばらく、私達は数十分ほど静かに進んだ。",
+			"もう充分に距離を稼ぐ事ができたと思われたその時、",
+			"関本が手を挙げて立ち止まった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "08000e0000003c000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c0070000100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"休憩を取ろう。少しは体力を回復させておかないとな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000f00"
+	},
+	{
+		"STRINGS": [
+			"疲労困憊の私達は、地面に座り込んだ。",
+			"水分を補給したいところだが、贅沢も言っていられない。",
+			"あの芋虫地獄から逃れられただけでもありがたい。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001000"
+	},
+	{
+		"STRINGS": [
+			"私は関本を見上げた。",
+			"彼は、涼しい顔をしていた。",
+			"まるで、私からの追及を待っているかに見えた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"聞きたい事が山ほどあるの\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"そりゃそうだろう。",
+			"　何から知りたいんだ？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "18001000404040801e000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00d60b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001300"
+	},
+	{
+		"STRINGS": [
+			"私は頭の中を整理して質問をピックアップした。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "08001000202020801e000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e00000003001400"
+	},
+	{
+		"STRINGS": [
+			"留置所からどうやって出られたのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000100"
+	},
+	{
+		"STRINGS": [
+			"　　",
+			"どうしてあの芋虫の事に詳しいのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000100"
+	},
+	{
+		"STRINGS": [
+			"　　",
+			"私達の居場所をどうやって知ったのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000100"
+	},
+	{
+		"STRINGS": [
+			"　　",
+			"なぜ隠し通路を知っていたのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000100"
+	},
+	{
+		"STRINGS": [
+			"　　",
+			"これからどうやって脱出するのか。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "08000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001500"
+	},
+	{
+		"STRINGS": [
+			"––どれもが私にとって気に掛かるものだ。",
+			"優先順位なんて付けられない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "08001000808080803c000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001600"
+	},
+	{
+		"STRINGS": [
+			"ひとまず私は、胸に抱いているこれらの質問を",
+			"全てぶつけてみる事にした。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"どうして私達の居場所がわかったの\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "18000e0000003c000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0011000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"逮捕前にここに来たことがあるんだ。",
+			"　研究でね。"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3805,
+		"KEYWORD": "Folklore"
+	},
+	{
+		"STRINGS": [
+			"に関連して古民家の構造を",
+			"　調査した。それがあの彼の家だ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"その時に対応してくれたのが、",
+			"　金谷くんだったんだ。",
+			"　あの家には古くから面白いものがある––\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"それが、あの地下の隠し通路だったというわけだ。",
+			"　私はそれを覚えていたんだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b001b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"どうして古民家の調査をしたのよ。",
+			"　建築学にも興味があるの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00cc0b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"民俗学は、民話を収集し分類するだけが研究じゃない。",
+			"　民話から得られる当時の思想は、必ず他の分野にも",
+			"　関連している\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"例えば隠し通路がそれだ。",
+			"　あれの本来の目的は、軒下からやってくる土着神を",
+			"　迎え入れるために作るのが、この地域では当たり前だ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d0070300"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"建築学の観点では、家屋に溜まる湿気の通気口として",
+			"　機能している。過度の湿気は家屋にダメージが大きい\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"あの湿気抜きの地下通路は、当時の者にとっては",
+			"　神の所業に思えた––それが民俗学的な観点だ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b002000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"なるほどね……もうひとつ聞かせてほしいの。",
+			"　なぜあなたは無傷で助けにこれたの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"答えは簡単だ。",
+			"　私が専攻する民俗学においてあの虫の事を",
+			"　知る機会があった。そのおかげだよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c0001006d02"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"もともとあの芋虫——",
+			"　私は『"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "14000a00",
+		"KEYWORD_ID": 3806,
+		"KEYWORD": "Caterpillar"
+	},
+	{
+		"STRINGS": [
+			"』と呼んでいた\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"民俗学的に言えば、あれは、Ｃ村の民間伝承で",
+			"　重要な存在なんだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"『人柱』というものを知っているか？",
+			"　言葉くらいは聞いた事があるだろう\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b002500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"たしか、犠牲にするための囮とか、",
+			"　そういう意味じゃなかったかな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"それは現代用語に転化した際に発生した意味だな。",
+			"　本来は、建立した大規模建造物の永年の存続を祈願する",
+			"　人身御供の事だよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"その人柱は、このＣ村では豪農の家屋の建築の際にも",
+			"　用いられてきた\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00cc0b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"ただし、その意味は呪術的な目的だけじゃない。",
+			"　実に合理的な意味が当時から存在していたんだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"キャタピラーは、元々は土中に棲息し、",
+			"　一生を土の中で暮らす。",
+			"　土の中には豊富な栄養分と水分が存在しているからな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"だが、そうはいっても、その土が奴等を養うための",
+			"　栄養分を蓄積するには限界がある。",
+			"　そんな状態に陥ると奴等は地表に現われて新天地を目指す\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"その際に、キャタピラー達が出くわすのは、森の木々や",
+			"　我々人間が建築した家屋だったんだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"特に家屋は人間のために温度管理ができている。",
+			"　キャタピラー達にとっては極楽のような場所なんだろう。",
+			"　奴等は柱の中に巣くうが、人間にはたまったもんじゃない\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b002d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"すぐに建物にガタがきてしまう。",
+			"　当初は祈祷を繰り返していた。",
+			"　その時に行き着いたのが人柱だったんだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b002e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"建物の建立の際に、一番大きな柱に人身御供を括り付けた。",
+			"　すると、今まで散々悩まされてきたキャタピラーの食害が",
+			"　ぴたりと収まったんだよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b002f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"それはつまり、あいつらが人柱をねぐらにしたって事？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0200"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c000100a405"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b003000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"その通りだ。奴等の習性から湿気と栄養分を効率的に",
+			"　得る為に、人柱の目と口から侵入してそのまま",
+			"　住み着くのは"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "1c000a00",
+		"KEYWORD_ID": 3807,
+		"KEYWORD": "Research"
+	},
+	{
+		"STRINGS": [
+			"で判明している\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"それと、今回の金谷の家での大発生とどう関係がある？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"ここからが推測の領域を出ないのだが——",
+			"　建築技術の発達が全ての発端だ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00cc0b0000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b003300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"２０世紀に入ってからの建築技術の爆発的発展により、",
+			"　金谷家のような古民家は次々と姿を消した。",
+			"　その代わりにコンクリートで地盤を固めた家屋が普及する\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"当然キャタピラー達は、",
+			"　コンクリートを餌にする事はできない。",
+			"　環境の変化により自然淘汰が進んだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"おそらく現在は、個体数は激減しているはずだ。",
+			"　だがそうなると、またもう一つの問題が現われる\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……それはなに？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"個体数の爆発的発生の潜在可能性だよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……どういう事？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"土中の栄養分が欠乏してくると、キャタピラー達は",
+			"　地表や家屋への侵入を目指す\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"だが、その新天地も今となっては彼らの安住の地ではない\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"そうなると、土中で自滅を迎えるしかない。",
+			"　そうして減少した結果、",
+			"　土中では再び栄養蓄積フェイズになる\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"ということは、このキャタピラー達は増加と減少の",
+			"　サイクルを何世代に渡って繰り返す事になる\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"それと同時に、局地的に栄養分布に偏りも発生するはずだ。",
+			"　つまり、今回はたまたま金谷家が旧来の条件に合致し、",
+			"　そのために"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3808,
+		"KEYWORD": "Underground"
+	},
+	{
+		"STRINGS": [
+			"で大量発生を招いたんじゃないか––\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b003e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"––それが私の推論だ。",
+			"　この仮定を原因として立脚した場合、",
+			"　今回の結果にぴたり、と、符号する\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b003f00"
+	},
+	{
+		"STRINGS": [
+			"古来の民間伝承が、",
+			"科学技術に触れた結果の悲劇。",
+			"それが彼の推論だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b004000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"つまり、ただの虫害という事でしょう？",
+			"　それほど大げさな印象は感じない。",
+			"　どうして防護服の連中が村外からやって来たの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "18000c000100a005"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"それに全村"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3809,
+		"KEYWORD": "Evacuation"
+	},
+	{
+		"STRINGS": [
+			"まで出されちまっている。",
+			"　いったいコレはなんなんだ？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"それは、連中に直接聞くしかあるまい\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b004300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"まだ聞きたい事が残っている。",
+			"　あなたはどうして留置所から出てこれたの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00d60b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"私がいたＣ村分署が",
+			"　機能停止になったのは知っているか？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b004500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ええ。鑑識の美鈴から。",
+			"　でも後続隊が引き継ぐって聞いたけど\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c000100a205"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"その時、私も解放された。",
+			"　君達の居所を聞いたのはその時だ。",
+			"　用意されたバスに"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "20000a00",
+		"KEYWORD_ID": 3810,
+		"KEYWORD": "Guidance"
+	},
+	{
+		"STRINGS": [
+			"されたが抜け出してきた\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b004700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"どうして？　安全な場所まで",
+			"　連れて行ってくれるでしょう？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00cc0b0100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"君達の事が心配だった。",
+			"　そういう理由じゃだめかな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c005a000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0080005a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "08000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"あなた……バカじゃないの？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b004a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"……たしかに。君の指摘の通りバカかもな。",
+			"　下心もあったのは確かだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "18000e00050001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b004b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"し、下心って……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b004c00"
+	},
+	{
+		"STRINGS": [
+			"妙な言葉を突然投げつけられて、",
+			"私は瞬間的に、喉が詰まるような感覚がする。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0020080200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000005070300b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"なんだよ、お前も男なんだな。",
+			"　北條に"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "10000a00",
+		"KEYWORD_ID": 3811,
+		"KEYWORD": "Colored Eyes"
+	},
+	{
+		"STRINGS": [
+			"を使いやがって\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "18000e000f0001020f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b004e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"風守さんっ！　そういうツッコミはやめて下さい。",
+			"　べ、べつに私はそういうのは迷惑なだけで……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ce130000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b004f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"色目を私が？　どうして君はそんな見当違いな事を",
+			"　言っているんだ？　意味がわからんよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000006070200b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00e4070300"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"私はただ、推論を立てていたキャタピラーを",
+			"　確かめたかったんだよ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b005100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"あ、そ、そうですよね……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ce130100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"あれ、落ち込んじゃった？",
+			"　関本クンも女心を知らないねえ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "18000e000a0001020f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b005300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ですからっ！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0088130000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005400"
+	},
+	{
+		"STRINGS": [
+			"本音は嬉しかった。",
+			"もし彼がやって来てくれなかったら、",
+			"あのままキャタピラーに食われていたのは間違いなかった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b005500"
+	},
+	{
+		"STRINGS": [
+			"例え、研究成果の確認のためとはいえ、",
+			"来てもらったことはありがたい事に違いない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"署の面々は、皆無事に避難したって事でいいんだね\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702005001"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005700"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\""
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "10000a00",
+		"KEYWORD_ID": 3812,
+		"KEYWORD": "Appropriate Measures"
+	},
+	{
+		"STRINGS": [
+			"が講じられているはずだ。",
+			"　私以外は皆、用意されたマイクロバスに乗車していた\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00ba130000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005800"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"他の住民達は？　彼らにも避難手段を用意したのかな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b005900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"そこまではわからない。",
+			"　だが、住民達にも適切な処置を施しているはずだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000008070000b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"それは……あの防護服の連中が",
+			"　手配したって事でいいのよね\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b005b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"おそらくそうだろう。",
+			"　状況発生から素早い広域対応ができるのは",
+			"　民間じゃありえない\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b005c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"おそらく、政府関係……だと信じたい所だな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "18001000ffffff0014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"政府関係……か。要は俺たちと同じ公務員だろ。",
+			"　お仲間なのに、酷い仕打ちだったな、まったく\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b005e00"
+	},
+	{
+		"STRINGS": [
+			"風守さんが納得できないのも無理はない。",
+			"なにせ、見捨てられたのだから。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080800000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000dc0500000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "14001000808080803c000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b005f00"
+	},
+	{
+		"STRINGS": [
+			"彼らは言っていた。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000000f000000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c0010007000000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0080003c000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "10001200000000001f4e00000100"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "14000a000200"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0002000200"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000404040803c000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00100e0100"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b006000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 22,
+		"NAME": "Hazmat Man 2"
+	},
+	{
+		"STRINGS": [
+			"\"………………"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "1c000a00",
+		"KEYWORD_ID": 3813,
+		"KEYWORD": "Containment"
+	},
+	{
+		"STRINGS": [
+			"。",
+			"　計画に変更はない。マニュアル通りだ\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000803c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010004040408000000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "100010000000000000000200"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000200"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0002000200"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000003c000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0040003c000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b006100"
+	},
+	{
+		"STRINGS": [
+			"『封じ込め』",
+			"この言葉の意味が気に掛かる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b006200"
+	},
+	{
+		"STRINGS": [
+			"全村避難まで敢行して、一体どのような措置を執るの？",
+			"そこまでするほど、キャタピラーの危険性はいったい……。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e000f0001020f00"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e001e0000010000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e008a0280800000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a00b400"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000808080801e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 70241
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

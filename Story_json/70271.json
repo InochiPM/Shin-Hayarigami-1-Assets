@@ -1,0 +1,1230 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 70271,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "10000c008d020000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00b80b0300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00da070200"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "0c000c00aa000100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0088130100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00da070100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0016080000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00740e0000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0010000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"私は錠剤を飲み込んだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "08000e000a0001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"……んっく……ん……！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e005b023c3c0000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000000000801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"はぁ……と小さな吐息をつく。",
+			"そして目を閉じてしばし待つが、",
+			"体調変化は現れない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "08001000808080805a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"北條……なにやってんだよお前は！？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"私には、誰かに毒物を飲ませる事なんてできません。",
+			"　だからすいません、お先です\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e000f0001020f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"仕事あがりみたいな挨拶すんなよ！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000600"
+	},
+	{
+		"STRINGS": [
+			"風守さんのツッコミに笑おうとしたが、",
+			"うまく表情を作る事ができなかった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "08000c003c000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000404040801e000000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080800000000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000808080401e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000008046000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "100010008080800028000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120000000000080700000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffff0000000100"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00aa0064000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "10001000ffffff100a000100"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00bc02ffff0000"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e001e0000010000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000202020803c000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "10001000ffffff003c000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080808078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "080010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0088130100"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "0c000c00c8000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0013000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"薬が効き始めたのだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000800"
+	},
+	{
+		"STRINGS": [
+			"続いて全身の筋肉が小刻みに震え始める。",
+			"内臓も痙攣をしているのがわかる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000900"
+	},
+	{
+		"STRINGS": [
+			"消化器官が、この毒を体外に排出しようと暴れ出す。",
+			"強烈な吐き気が襲いかかった直後、逆流を防ごうと",
+			"食道がきゅっと締まって来た。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "08000e000f0001020f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"あっが……がぐ……！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000b00"
+	},
+	{
+		"STRINGS": [
+			"この吐瀉物の逆流と飲み込みが辛い。",
+			"おかげで呼吸がままならない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "0c000e000a0001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"北條！　北條！",
+			"　てめえら……！？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000d00"
+	},
+	{
+		"STRINGS": [
+			"視界が明滅してきたため、逆上した風守さんの姿が",
+			"コマ送りのように見えて仕方がない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000e00"
+	},
+	{
+		"STRINGS": [
+			"風守さんが、関本らに掴みかかるが、疲労困憊のため、",
+			"動きが鈍い。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000f00"
+	},
+	{
+		"STRINGS": [
+			"逆に彼はいとも容易く捕まってしまい、",
+			"何度も殴られて地面にうずくまってしまった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001000"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 5,
+		"NAME": "Kazamori Hayato"
+	},
+	{
+		"STRINGS": [
+			"\"このクソ野郎が……！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"今際の言葉はそれでいいのか\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00b80b0300"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e008b02a0a00000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120000000000080700000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffff0000000100"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00c80064000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "10001000ffffff301e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080800000000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "10001000ffffffff1e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff0000301e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffff201e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff0000101e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a002800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001200"
+	},
+	{
+		"STRINGS": [
+			"風守さんが、炎で焼かれた。",
+			"悲鳴は聞こえない。",
+			"もう聴覚がおかしくなっている。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "08000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001300"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"瀕死の男もやってくれ。",
+			"　どうせ自分で飲み込む力は残っちゃいない\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001400"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 3,
+		"NAME": "Sekimoto Soujirou"
+	},
+	{
+		"STRINGS": [
+			"\"ただし、彼女だけはこのままだ。",
+			"　自分で死を選んだ覚悟に敬意を表してな\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "34000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "08001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e008b02a0a00000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c0010008d02000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0080003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffff601e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff0000301e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffff201e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff0000101e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a002800"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffffff1e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff00004028000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a002800"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffff301e000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff0000101e000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a002800"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001500"
+	},
+	{
+		"STRINGS": [
+			"意識を喪失している黒田課長も呆気なく焼き殺された。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001600"
+	},
+	{
+		"STRINGS": [
+			"私は全身の感覚が喪失していくなか、見ているしかなかった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "48000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001700"
+	},
+	{
+		"STRINGS": [
+			"意識が消える直前、服毒自殺と奴等に焼き殺される事——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b001800"
+	},
+	{
+		"STRINGS": [
+			"––結局、そのどちらが楽だったのかだけが疑問に残った。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "48000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e000000f0000000"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "10000c00f0000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c00100000000080f0000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a00f000"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "08000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 8344
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

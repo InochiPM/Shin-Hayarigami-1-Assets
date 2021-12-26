@@ -1,0 +1,159 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 70270,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "10000c00740e0000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0010000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "SELECT",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 187,
+		"SELECT_ITEM_INFO": "１：I'll drink it.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"自分で飲んだ"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "1c000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 188,
+		"SELECT_ITEM_INFO": "２：Ask Kazamori to drink.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"風守さんに飲むよう求めた"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 189,
+		"SELECT_ITEM_INFO": "３：Give it to Chief Kuroda.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"黒田課長に飲ませる事にした"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "SELECTtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00000000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 70271
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00010000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 70272
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00020000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 70273
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "08000800"
+	}
+]

@@ -1,0 +1,492 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 80481,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "10000c0090010000"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0013000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "100010004040408000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000500"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000808080801e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"––黒田課長だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "08000c000100db04"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"STRINGS": [
+			"もし最初の田村さん殺害の現場に人形があったとして、",
+			"その現場から人形を"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "20000a00",
+		"KEYWORD_ID": 3622,
+		"KEYWORD": "Hide"
+	},
+	{
+		"STRINGS": [
+			"ことができたのも……。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "08000c000100dc04"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"亘さんの現場から"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "20000a00",
+		"KEYWORD_ID": 3623,
+		"KEYWORD": "Confiscated"
+	},
+	{
+		"STRINGS": [
+			"した人形に、"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "0c000a00",
+		"KEYWORD_ID": 3624,
+		"KEYWORD": "Handiwork"
+	},
+	{
+		"STRINGS": [
+			"を施したり隠したりできたのも。",
+			"……それに不自然なまでの連絡ミス、証拠物の"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "38000a00",
+		"KEYWORD_ID": 3625,
+		"KEYWORD": "Lost"
+	},
+	{
+		"STRINGS": [
+			"。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "10000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000300"
+	},
+	{
+		"STRINGS": [
+			"今にして思えば、課長の立場での"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "30000a00",
+		"KEYWORD_ID": 3626,
+		"KEYWORD": "Manipulation"
+	},
+	{
+		"STRINGS": [
+			"か。",
+			"どれだけ以前から"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "1c000a00",
+		"KEYWORD_ID": 3627,
+		"KEYWORD": "Planted"
+	},
+	{
+		"STRINGS": [
+			"のか？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "14000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"いや……人形の呪いに出会う前から杜撰な事をしてた？",
+			"そこまでは、最近転属されたばかりの私にはわからない。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"STRINGS": [
+			"そして美鈴の殺害後、砂堀家に"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "2c000a00",
+		"KEYWORD_ID": 3628,
+		"KEYWORD": "Placing the Doll"
+	},
+	{
+		"STRINGS": [
+			"のだって。",
+			"私たちと別行動をしていた課長こそ、",
+			"それが可能な唯一の人物だ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "08000c000100e204"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000600"
+	},
+	{
+		"STRINGS": [
+			"そもそも課長の言動には不自然が過ぎる。",
+			"美鈴の時に"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3629,
+		"KEYWORD": "Video"
+	},
+	{
+		"STRINGS": [
+			"を見て来るように言ったのも、",
+			"砂堀酒造へ"
+		]
+	},
+	{
+		"TYPE": "KEYWORD",
+		"UNK0": "18000a00",
+		"KEYWORD_ID": 3630,
+		"KEYWORD": "Errand"
+	},
+	{
+		"STRINGS": [
+			"を頼むのも……。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"だとするならばその動機は––？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "08000c00f0000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c00100000000080b4000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a00f000"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "080010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000200"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000200"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0002000200"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000300"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000300"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0003000300"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000400"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000400"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0004000400"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e00000000000100"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0000000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0000000600"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000700"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0000000800"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 80500
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

@@ -1,0 +1,1133 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 11181,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c0079000100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0088130100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c001c1b0300"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00081b0100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00f41a0000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c002c010000"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c00ff020000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c001000ff02000000000000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00460000000000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00f41a0200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"私はこのまま尋問を強行した。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000100"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ねえ、教えて。",
+			"　あなたはやったの？　やってないの？",
+			"　どっちなの！？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "18000e000f0001010f00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"北條クン！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000300"
+	},
+	{
+		"STRINGS": [
+			"黒田課長の叱責を耳に入れる余裕なんてなかった。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"STRINGS": [
+			"風守さんを犬死させたくない––その一心だったのだ。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"金谷大夢、答えなさい！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000070701000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000600"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"あ……あははは……何を焦ってるんだ？",
+			"　そんなに俺とのお別れが惜しいの？",
+			"　そう言われたら俺、延長しよっかな……あはは……\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000700"
+	},
+	{
+		"STRINGS": [
+			"だめだ、金谷大夢はまた夢想の世界に",
+			"片足を突っ込んでいる。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "24000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000800"
+	},
+	{
+		"STRINGS": [
+			"これ以上、私に有効な手立てはないのか……！"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000900"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ねえ、金谷さんったら！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "18000a000200"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000060702000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000a00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"お、お、お、お\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e00d70082820000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e001e0001010f00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000b00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"俺––\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e00d70082820000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e001e0001010f00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000c00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"俺は––\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "18000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "18000e00d70082820000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e001e0001020f00"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff00000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010008080800000000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000ff00000000000100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000d00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"ちょっと何してるの……！？",
+			"　やめなさい！！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "20000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "08001000ff0000300a000100"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00d70064640000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e006f0264640000"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e001e0001020f00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ff0000000a000100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "10000e0000000b000e00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 6,
+		"NAME": "Houjou Saki"
+	},
+	{
+		"STRINGS": [
+			"\"金谷ッ！？\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "18000e0000000b000f00"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 18,
+		"NAME": "Kanaya Hiromu"
+	},
+	{
+		"STRINGS": [
+			"\"俺は遥が好きなんだー！\""
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "28000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ff0000300a000100"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120000000000dc0500000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffff0000000100"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00790064000100"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "10001000ffffffff3c000100"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e00d70064640000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e006c028c8c0000"
+	},
+	{
+		"TYPE": "PAD_VIB",
+		"UNK0": "10000e001e000001c800"
+	},
+	{
+		"TYPE": "SCR_VIB",
+		"UNK0": "10000e001e0001030f00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0012000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000ffffff005a000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00000000000000"
+	},
+	{
+		"TYPE": "LOOPS_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a006400"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "CALL_DEMO",
+		"UNK0": "0c001c007017000000000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "1c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "MSPEED",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000004"
+	},
+	{
+		"STRINGS": [
+			"彼はスイカが破裂したかのように、"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000004"
+	},
+	{
+		"STRINGS": [
+			"額が割れて脳漿が飛び散った。"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e005902dcdc0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e007102c8c80000"
+	},
+	{
+		"TYPE": "MSPEED",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001100"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000004"
+	},
+	{
+		"STRINGS": [
+			"しばしの間、血溜まりの中で痙攣を繰り返したが、"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000004"
+	},
+	{
+		"STRINGS": [
+			"すぐに動かなくなった。"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "24000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "MSPEED",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001200"
+	},
+	{
+		"TYPE": "SPEAKER",
+		"UNK0": "10000a00",
+		"CHARACTER_ID": 7,
+		"NAME": "Kuroda Kunio"
+	},
+	{
+		"STRINGS": [
+			"\"救急車だ！　彼を死なせるな！！"
+		]
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "2c000c005a000400"
+	},
+	{
+		"STRINGS": [
+			"　事件解決の鍵を握っているんだ！！\""
+		]
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "30000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "08000e00b403fafa0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005a00"
+	},
+	{
+		"TYPE": "MSPEED",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001300"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000004"
+	},
+	{
+		"STRINGS": [
+			"黒田課長が慌ただしく外に飛び出す中、"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000004"
+	},
+	{
+		"STRINGS": [
+			"私は呆然とするしかなかった。"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "MSPEED",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b001400"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000004"
+	},
+	{
+		"STRINGS": [
+			"そして、この一連の事件が迷宮入りしてしまう"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000004"
+	},
+	{
+		"STRINGS": [
+			"恐ろしさで全身が震えていた。"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BWAIT",
+		"UNK0": "08000c005a000400"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a003c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a004600"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0078000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c00100000000080f0000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a00f000"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a007800"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BGM_STOP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "080010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "CALL_DEMO",
+		"UNK0": "08001c007117000000000000000000000000000000000000"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "1c000c00",
+		"SCRIPT_ID": 8304
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

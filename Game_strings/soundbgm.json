@@ -1,0 +1,177 @@
+{
+	"1": {
+		"Type": "BGM",
+		"String1": "序開き",
+		"String2": "タイトル画面。出だしインパクト、そのあとは環境音",
+		"String3": "",
+		"String4": ""
+	},
+	"2": {
+		"Type": "BGM",
+		"String1": "真 流行り神 メインテーマ",
+		"String2": "オープニングムービー",
+		"String3": "",
+		"String4": ""
+	},
+	"3": {
+		"Type": "BGM",
+		"String1": "腐の粘着",
+		"String2": "どろどろとした感じ、どす黒い。うす汚れた感じ、ねっとりとした気持ち悪さ",
+		"String3": "",
+		"String4": ""
+	},
+	"4": {
+		"Type": "BGM",
+		"String1": "古来風伝",
+		"String2": "データベース曲、デモ中でも使用可だが、多用はなるべく控える",
+		"String3": "",
+		"String4": ""
+	},
+	"5": {
+		"Type": "BGM",
+		"String1": "無機質空間",
+		"String2": "無機質な空間。息が詰まるような重い空間",
+		"String3": "",
+		"String4": ""
+	},
+	"6": {
+		"Type": "BGM",
+		"String1": "窓際の団欒",
+		"String2": "特ラ課内での日常的な会話。明るめの話題、おふざけ",
+		"String3": "",
+		"String4": ""
+	},
+	"7": {
+		"Type": "BGM",
+		"String1": "Liar's Art",
+		"String2": "ライアーズアート専用曲",
+		"String3": "",
+		"String4": ""
+	},
+	"8": {
+		"Type": "BGM",
+		"String1": "思考回路",
+		"String2": "推理ロジック専用曲",
+		"String3": "",
+		"String4": ""
+	},
+	"9": {
+		"Type": "BGM",
+		"String1": "ひとひらの雫",
+		"String2": "純粋に優しい気持ちからくる悲しさ。可哀想と思う気持ち、しんみり",
+		"String3": "",
+		"String4": ""
+	},
+	"10": {
+		"Type": "BGM",
+		"String1": "黒き侵食",
+		"String2": "生け贄編で地下からロビーに戻る時など、じわじわ系、次第に精神が破壊されていく",
+		"String3": "",
+		"String4": ""
+	},
+	"11": {
+		"Type": "BGM",
+		"String1": "追憶",
+		"String2": "過去の辛い記憶。切ない感じ",
+		"String3": "",
+		"String4": ""
+	},
+	"12": {
+		"Type": "BGM",
+		"String1": "恐慌クラスター",
+		"String2": "感染者や虫の大群に襲われている時などのパニック系。緊急事態、急げ！",
+		"String3": "",
+		"String4": ""
+	},
+	"13": {
+		"Type": "BGM",
+		"String1": "一筋の光",
+		"String2": "癒し、リラクゼーション。静かな時間、温かな優しさ、ホッとした",
+		"String3": "",
+		"String4": ""
+	},
+	"14": {
+		"Type": "BGM",
+		"String1": "忍び寄る影",
+		"String2": "忍び寄る影、不穏な空気。怪しげなところを探索していく",
+		"String3": "",
+		"String4": ""
+	},
+	"15": {
+		"Type": "BGM",
+		"String1": "螺旋脅威",
+		"String2": "恐ろしい状況、\"不穏\"よりも近い恐怖。確実に近づいてくる恐怖、絶望",
+		"String3": "",
+		"String4": ""
+	},
+	"16": {
+		"Type": "BGM",
+		"String1": "閉ざされた光",
+		"String2": "死なないバッドエンド系、道は閉ざされた的な",
+		"String3": "",
+		"String4": ""
+	},
+	"17": {
+		"Type": "BGM",
+		"String1": "幻影",
+		"String2": "夜の張り込み、静かな不安、前ぶれ",
+		"String3": "",
+		"String4": ""
+	},
+	"18": {
+		"Type": "BGM",
+		"String1": "凄惨的末路",
+		"String2": "バッドエンド専用（ループ無し）恐ろしい目に合って死亡",
+		"String3": "",
+		"String4": ""
+	},
+	"19": {
+		"Type": "BGM",
+		"String1": "永遠の休息",
+		"String2": "バッドエンド系。やり切れない想い、切なさ残る死、寂しさ",
+		"String3": "",
+		"String4": ""
+	},
+	"20": {
+		"Type": "BGM",
+		"String1": "疑心暗鬼",
+		"String2": "疑い、怪しい、雰囲気悪い",
+		"String3": "",
+		"String4": ""
+	},
+	"21": {
+		"Type": "BGM",
+		"String1": "不可思議",
+		"String2": "不可解なことが起きている。まだ直接的な恐怖ではない",
+		"String3": "",
+		"String4": ""
+	},
+	"22": {
+		"Type": "BGM",
+		"String1": "Final Liar's Art",
+		"String2": "ルート内最後や緊迫した場面の。ライアーズアート",
+		"String3": "",
+		"String4": ""
+	},
+	"23": {
+		"Type": "BGM",
+		"String1": "NKPリズム",
+		"String2": "NKP店内（営業中）",
+		"String3": "",
+		"String4": ""
+	},
+	"24": {
+		"Type": "BGM",
+		"String1": "NKPハッスル",
+		"String2": "秘密クラブ編のハッスルタイム",
+		"String3": "",
+		"String4": ""
+	},
+	"25": {
+		"Type": "BGM",
+		"String1": "セピアの軌跡",
+		"String2": "",
+		"String3": "",
+		"String4": ""
+	}
+}

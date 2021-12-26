@@ -1,0 +1,331 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10013,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0061ea0400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00800c0300"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130100"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000300"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000050703000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000300"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0061ea0400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c00120000000000dc0500000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "140010008080800000000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000808080503c000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a005000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"~Tutorial: Keywords~"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "08000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c00120000004600780500000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "140010008080800000000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000460078051e000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080801e000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "100012000000640078053c000500"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "14000a003c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"The green effect you just say was a Keyword."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "40000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"During the course of the investigation, "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"the game will auto pick up keywords related to the game."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "24000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000200"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"We will explain later how to use"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"these keywords to make inferences."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "080012000000820078053c000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "14000c0050c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000820078051e000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080001e000500"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000808080003c000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0000000500"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001006e19"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 10012
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

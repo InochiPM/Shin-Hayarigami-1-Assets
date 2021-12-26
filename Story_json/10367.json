@@ -1,0 +1,81 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10367,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "10000e003c03a4021e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c00100000000002cd0b0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0800100000000002ce0b0000"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "10000e0005000f000002"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0800100000000002cf0b0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0800100000000002d20b0000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "08000c00",
+		"SCRIPT_ID": 10368
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

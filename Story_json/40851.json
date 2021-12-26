@@ -1,0 +1,309 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 40851,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e00d90473031e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "140010000000000000000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a00064000000"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c001000000000023e110000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "0c000e000b0080800000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffffff00000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a00064000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "08001000000000023f110000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "0c000e0005000f000002"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "10000e00050001000002"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e000d0080800000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffffff00000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a0006e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "080010000000000241110000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "0c000e0005000f000002"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "10000e00050001000002"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e000d0080800000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffffff00000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a0006e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "080010000000000248110000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "0c000e0005000f000002"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "10000e00050001000002"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e000d0080800000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffffff00000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a0006e000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "08001000000000024a110000"
+	},
+	{
+		"TYPE": "ANIME_LOAD",
+		"UNK0": "10000c00a0000000"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "0c000e0002000f000002"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "10000e00020001000002"
+	},
+	{
+		"TYPE": "SE_PLAY",
+		"UNK0": "10000e000c0080800000"
+	},
+	{
+		"TYPE": "ANIME_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "ANIME_MOVE",
+		"UNK0": "0c00120080026801640000000000"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "14001000ffffffff00000000"
+	},
+	{
+		"TYPE": "ANIME_PLAY",
+		"UNK0": "10000e00a00078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001e00"
+	},
+	{
+		"TYPE": "ANIME_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "ANIME_STOP",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 40852
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

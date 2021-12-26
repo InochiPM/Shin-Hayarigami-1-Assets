@@ -1,0 +1,166 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 70280,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00440c0000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00740e0100"
+	},
+	{
+		"TYPE": "LOOPS_READY",
+		"UNK0": "0c000c0026020100"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c000c000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "LOOPS_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "LOOPS_PLAY",
+		"UNK0": "0c0010002602000000000100"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e00800000000100"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0c00180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "SELECT",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 190,
+		"SELECT_ITEM_INFO": "１：Show Mercy.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"情けをかける"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "1c000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 191,
+		"SELECT_ITEM_INFO": "２：Settle my grudge.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"ここで恨みを晴らす"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "24000800"
+	},
+	{
+		"TYPE": "SELECTtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00000000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 70281
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00010000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 70282
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "08000800"
+	}
+]

@@ -1,0 +1,312 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 11340,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000a00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e00aa05f6033c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600000000007e86736070277daf7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000000"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000000"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"自分の家族と田村さんの殺害を自供した後、",
+			"自ら舌を噛み切り死亡した金谷大夢——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000100"
+	},
+	{
+		"STRINGS": [
+			"彼は一体どんな人物だったのか？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "0800140000060004e00be10be20bea0b"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "14000a000600"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e00a80564023c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600010000007e86736070277dae7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000100"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000100"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000100"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"STRINGS": [
+			"死亡した金谷大夢とブラインドマンとの繋がり——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000100"
+	},
+	{
+		"STRINGS": [
+			"その繋がりとは？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "1c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "0800140000080104e40be90beb0bec0b"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "14000a000801"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e008d04a3023c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600020000007e86736070277dad7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000200"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000200"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000200"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"都市伝説に登場する架空の人物ブラインドマン——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000100"
+	},
+	{
+		"STRINGS": [
+			"果たしてブラインドマンの正体とは？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "080028000001020eb80bb90bba0bbb0bc30bc60bcc0bd00bd10bd30bd70bdb0bdc0bdf0b"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "28000a000102"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 11341
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

@@ -1,0 +1,842 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10052,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c00800c0100"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00e60c0000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "0c000e0000003c000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "10001000000000803c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000000"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0000000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c00e60c0000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffff0014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000100"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c00800c0100"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"~Tutorial: Branching Tree~"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000100"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"This is the branching tree system."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "ICON",
+		"UNK0": "0c000a000300"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"It's displayed by selecting the option"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"from the pause/system menu."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000200"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"You can also get to the Branching tree from"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"the main menu option."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "24000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "08000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c00120000004600780500000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "140010008080800000000400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000460078051e000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080801e000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "100012000000640078053c000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "14000a003c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000300"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"Lines and scene icons show the path you have"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"taken so far in the story."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"This tree information will be automatically updated"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"and will continue to be available while playing."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"You can also check the choices you have not yet made."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"The bright lines and icons are the paths we've taken."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "080012000000820078053c000400"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "14000c005ac30400"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000400"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000820078051e000400"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080001e000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "0c000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c00120000004600780500000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "140010008080800000000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000460078051e000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080801e000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "100012000000640078053c000500"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "14000a003c00"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000600"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"In the branching tree, there is a jump function."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000700"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"The jump function is a feature that allows you to"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"resume from a scene you've previously gone through."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000800"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"Move the cursor over the icon"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "ICON",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"and press to "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"resume from that scene."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000900"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"Please note that when you restart, the path you "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"took and the keywords you acquired will be the "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"same as the last time you went through the scene."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000820078053c000500"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "14000c0064c30500"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "0c000a000500"
+	},
+	{
+		"TYPE": "CI_MOVE",
+		"UNK0": "0c0012000000820078051e000500"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "14001000808080001e000500"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a004600"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c0001007019"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c0001008219"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000803c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c0010000000000000000100"
+	},
+	{
+		"TYPE": "BG_MOVE",
+		"UNK0": "1000120000000000d00700000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "14000c0001000100"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "0c001000ffffff0000000500"
+	},
+	{
+		"TYPE": "LOOPS_VOL",
+		"UNK0": "10000e0080003c000000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000000"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c001000000007070100b0fe"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000003c000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 10051
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

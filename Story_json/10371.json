@@ -1,0 +1,85 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10371,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a005a00"
+	},
+	{
+		"TYPE": "PARAM_COMPARE",
+		"UNK0": "0c000c0001000f00"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "0c000e00000000000300"
+	},
+	{
+		"TYPE": "LOGIC_DRAW_MARK",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000f00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00000000000000"
+	},
+	{
+		"TYPE": "LOGIC_DRAW_MARK",
+		"UNK0": "10000a000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000f00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a003c00"
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "080010000000008078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a008000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000e00000250035103"
+	},
+	{
+		"TYPE": "LOGIC_SAVE",
+		"UNK0": "10000a000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 10461
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

@@ -1,0 +1,311 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 70460,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000a00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e004703e4043c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600000000007e86736070277daf7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000000"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000000"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000000"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"新種の生物と言われる凶暴な害虫『キャタピラー』——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "44000a000100"
+	},
+	{
+		"STRINGS": [
+			"この虫についてわかっていることとは？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "0800140000040004df0ee00ee60ee70e"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "14000a000400"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e0042032d033c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600010000007e86736070277dae7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000100"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000100"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000100"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000100"
+	},
+	{
+		"STRINGS": [
+			"Ｃ村に被害をもたらしている『キャタピラー』——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "40000a000100"
+	},
+	{
+		"STRINGS": [
+			"この虫によって黒田課長と金谷大夢はどうなったか？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "3c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "0800160000070105ed0eee0eef0ef00ef10e"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "18000a000701"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e00e3012e043c00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "PHRASE_SET",
+		"UNK0": "0c001600020000007e86736070277dad7e85"
+	},
+	{
+		"TYPE": "PHRASE_MOVE",
+		"UNK0": "180012009600c800bb0200000200"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "140010000080808000000200"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "100010008080808014000200"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000200"
+	},
+	{
+		"STRINGS": [
+			"Ｃ村にやってきている怪しい調査チーム——"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "38000a000100"
+	},
+	{
+		"STRINGS": [
+			"彼らがキャタピラーに関わる目的は？"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "30000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "CHOOSE_KEYWORD",
+		"UNK0": "0800180000000206e10ee50eea0eeb0eef0ef20e"
+	},
+	{
+		"TYPE": "LOGIC_SET_KEY",
+		"UNK0": "18000a000002"
+	},
+	{
+		"TYPE": "PHRASE_FADE",
+		"UNK0": "0c0010000080808014000200"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a003c00"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 70461
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

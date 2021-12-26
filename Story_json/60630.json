@@ -1,0 +1,112 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 60630,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_LOAD",
+		"UNK0": "10000c0020080000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "0c000c0089130200"
+	},
+	{
+		"TYPE": "LIARSART_START",
+		"UNK0": "0c000a007700"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0016000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000200"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0002000200"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000200"
+	},
+	{
+		"TYPE": "CI_LOAD_WAIT",
+		"UNK0": "10000a000000"
+	},
+	{
+		"TYPE": "CI_BUSTUP_CENTERING",
+		"UNK0": "0c0010000000080700000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000ffffffff14000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a001400"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "0c000e00000000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 60634
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00010000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 60631
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00020000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 60632
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00030000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 60633
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "08000800"
+	}
+]

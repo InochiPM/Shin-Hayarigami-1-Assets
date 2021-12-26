@@ -1,0 +1,151 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 30580,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "10000c0089130300"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000300"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0003000300"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000300"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "SELECT",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 98,
+		"SELECT_ITEM_INFO": "１：Keep going.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"そのまま出る"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "1c000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 99,
+		"SELECT_ITEM_INFO": "２：retrace my steps",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"引き返す"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 100,
+		"SELECT_ITEM_INFO": "３：be cautious",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"警戒する"
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "SELECTtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00000000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 30581
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00010000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 30582
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00020000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 30583
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "08000800"
+	}
+]

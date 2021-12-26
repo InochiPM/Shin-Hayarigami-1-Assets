@@ -1,0 +1,491 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 10092,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "CI_FADE",
+		"UNK0": "10001000808080000a000400"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "10001000808080001e000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "LIARSART_TUTORIAL",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "LIARSART_START",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0c00180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000a00"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"~Tutorial: Liar's Art - Part 1~"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000100"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"The Liar's Art is the main character's special skill"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000002"
+	},
+	{
+		"STRINGS": [
+			"to get the information he needs or to get out of"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "08000a000003"
+	},
+	{
+		"STRINGS": [
+			"a situation successfully by manipulating lies and"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "08000a000002"
+	},
+	{
+		"STRINGS": [
+			"acting in a one-on-one"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "08000a000003"
+	},
+	{
+		"STRINGS": [
+			"other person."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"dialogue format with the other person."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "44000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000200"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"When you enter the Liar's Art, some of the words"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"you throw at your opponent, "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "30000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000002"
+	},
+	{
+		"STRINGS": [
+			"the key words, will"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "1c000800"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "08000a000003"
+	},
+	{
+		"STRINGS": [
+			"appear in your brain as choices."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000300"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"If you make a choice within the time limit,"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "40000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"You will speak those words you chose to your opponent"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"You can also decide not to choose anything."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000400"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"You can also select the fourth option \"......\" to "
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "40000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"proceed to the [no choice] stage without waiting"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "3c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"for the time limit."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "24000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000500"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"We will explain the rest of this later, so let's"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "34000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"make a selection first."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "08000e0000000b000600"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "10000a000003"
+	},
+	{
+		"STRINGS": [
+			"Please note that you will not be able to use any"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "28000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"of the items in the"
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "2c000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FONT",
+		"UNK0": "0c000a000003"
+	},
+	{
+		"STRINGS": [
+			"system menu during Liar's Art."
+		]
+	},
+	{
+		"TYPE": "FONTtm",
+		"UNK0": "38000800"
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "08000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LIARSART_TUTORIAL",
+		"UNK0": "08000a000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "0c000c0001007219"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 10100
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]

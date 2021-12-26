@@ -1,0 +1,342 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 11342,
+		"UNK1": "00000000"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180000000000010000000000000000000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "180010000000000000000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0000012203"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0c00180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a000a00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000001e000000"
+	},
+	{
+		"TYPE": "LOGIC_INFER",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "LOGIC_MODE",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000100"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000200"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000300"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000400"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000500"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000600"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000700"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "LOGIC_GET_KEY",
+		"UNK0": "08000a000800"
+	},
+	{
+		"TYPE": "IFPARAM",
+		"UNK0": "0c0010000000000200000000"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "10000c0001002203"
+	},
+	{
+		"TYPE": "IFPARAMtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IF",
+		"UNK0": "08000c0001002203"
+	},
+	{
+		"TYPE": "OPTWND",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "TXTWND_IN",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e0000000b000000"
+	},
+	{
+		"STRINGS": [
+			"空白のスロットがあります。",
+			"全てのスロットを埋めて下さい。"
+		]
+	},
+	{
+		"TYPE": "BR",
+		"UNK0": "2c000a000103"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "0800180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001400"
+	},
+	{
+		"TYPE": "OPTWND",
+		"UNK0": "0c000a000000"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "08000c0000012203"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 11342
+	},
+	{
+		"TYPE": "IFtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "YES_NO_DLG",
+		"UNK0": "08002800",
+		"STRING": "これで確定してよろしいですか？"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "28000e00000000000200"
+	},
+	{
+		"TYPE": "STOP_SKIP",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "FLAG",
+		"UNK0": "08000c0000012203"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 11342
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00010000000200"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "100010000000008078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "ILZOOM",
+		"UNK0": "0c000c0000000000"
+	},
+	{
+		"TYPE": "ILCAMERA",
+		"UNK0": "0c000e00800268010000"
+	},
+	{
+		"TYPE": "LOGIC_CTL",
+		"UNK0": "10000a000100"
+	},
+	{
+		"TYPE": "LOGIC_MODE",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "PARAM",
+		"UNK0": "0c000e00640001000000"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "100010000000000078000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a007800"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "0c000c00",
+		"SCRIPT_ID": 11343
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "0c000800"
+	}
+]
