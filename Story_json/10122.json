@@ -55,7 +55,7 @@
 	},
 	{
 		"STRINGS": [
-			"~Tutorial: Liars Art - Part 2~"
+			"Tutorial: Liar's Art - Part 2"
 		]
 	},
 	{
@@ -80,7 +80,7 @@
 	},
 	{
 		"STRINGS": [
-			"Depending on the decision you have just made,"
+			"Depending on the decision you made,"
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"your opponent's reaction will change and the"
+			"your opponent's reaction will change, and the needle"
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			"needle to and from [Suspect] or [Sincere]."
+			"on the meter will swing from [Suspect] to [Sincere]."
 		]
 	},
 	{
@@ -139,7 +139,7 @@
 	},
 	{
 		"STRINGS": [
-			"This meter indicates their psychological state."
+			"This meter indicates the psychological state of the other party."
 		]
 	},
 	{
@@ -156,7 +156,7 @@
 	},
 	{
 		"STRINGS": [
-			"The more towards [Sincere] the better."
+			"The more you lean toward [Sincere] the better."
 		]
 	},
 	{
@@ -181,7 +181,7 @@
 	},
 	{
 		"STRINGS": [
-			"You will repeat this process a set number of times."
+			"This process is repeated a number of times."
 		]
 	},
 	{
@@ -198,7 +198,7 @@
 	},
 	{
 		"STRINGS": [
-			"Depending on where the needle lands, the"
+			"The final position of the needle will determine"
 		]
 	},
 	{
@@ -215,7 +215,7 @@
 	},
 	{
 		"STRINGS": [
-			"Story Progression "
+			"Story Progression"
 		]
 	},
 	{
@@ -228,7 +228,7 @@
 	},
 	{
 		"STRINGS": [
-			" and "
+			" and the amount of"
 		]
 	},
 	{
@@ -241,7 +241,7 @@
 	},
 	{
 		"STRINGS": [
-			"Courage Point recovery amount"
+			"Courage Points"
 		]
 	},
 	{
@@ -254,7 +254,7 @@
 	},
 	{
 		"STRINGS": [
-			" Will be calculated."
+			" returned."
 		]
 	},
 	{
@@ -279,7 +279,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please note: This will also be in your Final Evaluation."
+			"Please note that this will change the final evaluation."
 		]
 	},
 	{

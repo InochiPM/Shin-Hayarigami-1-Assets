@@ -59,7 +59,7 @@
 	},
 	{
 		"STRINGS": [
-			"〜チュートリアル『推理ロジック』〜"
+			"Tutorial: Inference Logic"
 		]
 	},
 	{
@@ -84,7 +84,7 @@
 	},
 	{
 		"STRINGS": [
-			"これまでに、事件に関連すると思われる"
+			"So far, we have obtained several keywords that"
 		]
 	},
 	{
@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"キーワードをいくつか入手してきました。"
+			"we believe are related to the case."
 		]
 	},
 	{
@@ -126,7 +126,7 @@
 	},
 	{
 		"STRINGS": [
-			"これらのキーワードは『推理ロジック』で使用します。"
+			"These Keywords will be used during [Inference Logic]."
 		]
 	},
 	{
@@ -147,7 +147,7 @@
 	},
 	{
 		"STRINGS": [
-			"を押して『推理ロジック』を選択すれば、"
+			"You can enter the Inference Logic mode at any time"
 		]
 	},
 	{
@@ -164,7 +164,7 @@
 	},
 	{
 		"STRINGS": [
-			"いつでも推理ロジックモードに入れます。"
+			"by selecting it in the [System Menu]."
 		]
 	},
 	{
@@ -193,7 +193,7 @@
 	},
 	{
 		"STRINGS": [
-			"推理ロジックは事件の全体像を整理するための"
+			"Inference Logic is a logic diagram that"
 		]
 	},
 	{
@@ -210,7 +210,7 @@
 	},
 	{
 		"STRINGS": [
-			"ロジック図です。"
+			"helps you organize the whole case."
 		]
 	},
 	{
@@ -235,7 +235,7 @@
 	},
 	{
 		"STRINGS": [
-			"基本的に登場人物は自動で組み込まれます。"
+			"Basically, the characters are automatically incorporated."
 		]
 	},
 	{
@@ -252,7 +252,7 @@
 	},
 	{
 		"STRINGS": [
-			"人物や重要事項をつなぐ項目が空欄になっていますので、"
+			"The fields connecting people and info are left blank,"
 		]
 	},
 	{
@@ -269,7 +269,7 @@
 	},
 	{
 		"STRINGS": [
-			"入手したキーワードで埋めて事件を整理してください。"
+			"Please fill them out with the correct info."
 		]
 	},
 	{
@@ -294,7 +294,7 @@
 	},
 	{
 		"STRINGS": [
-			"なお、事件終盤に推理ロジックの最終チェックがあります。"
+			"There will be a final check of the Logic at the end."
 		]
 	},
 	{
@@ -311,7 +311,7 @@
 	},
 	{
 		"STRINGS": [
-			"これは最終評価の対象になりますので、ご注意ください。"
+			"Please note the final evaluation also is effected."
 		]
 	},
 	{
@@ -368,7 +368,7 @@
 	},
 	{
 		"STRINGS": [
-			"カーソルを空欄（キーワードスロット）に移動させて、"
+			"Move the cursor to an empty field and press the"
 		]
 	},
 	{
@@ -389,7 +389,7 @@
 	},
 	{
 		"STRINGS": [
-			"を押します。"
+			" Button."
 		]
 	},
 	{
@@ -414,7 +414,7 @@
 	},
 	{
 		"STRINGS": [
-			"空欄に入れられるキーワードの一覧が表示されますので、"
+			"A list of words will appear that you can place"
 		]
 	},
 	{
@@ -431,7 +431,7 @@
 	},
 	{
 		"STRINGS": [
-			"カーソルの上下でキーワードを選択し、"
+			"in the blank spaces by pressing the "
 		]
 	},
 	{
@@ -448,7 +448,7 @@
 	},
 	{
 		"STRINGS": [
-			"で決定します。"
+			" Button."
 		]
 	},
 	{
@@ -473,7 +473,7 @@
 	},
 	{
 		"STRINGS": [
-			"空欄にカーソルを合わせた状態で"
+			"You can skip to the next blank field by pressing the"
 		]
 	},
 	{
@@ -490,7 +490,7 @@
 	},
 	{
 		"STRINGS": [
-			"を押すと、"
+			" Button "
 		]
 	},
 	{
@@ -507,7 +507,7 @@
 	},
 	{
 		"STRINGS": [
-			"次の空欄へスキップすることができます。"
+			"while the cursor is on a blank option."
 		]
 	},
 	{
@@ -532,7 +532,7 @@
 	},
 	{
 		"STRINGS": [
-			"カーソルを人物パネルにあわせて"
+			"Move the cursor to a person and press the"
 		]
 	},
 	{
@@ -549,7 +549,7 @@
 	},
 	{
 		"STRINGS": [
-			"ボタンを押すと、"
+			" Button."
 		]
 	},
 	{
@@ -566,7 +566,7 @@
 	},
 	{
 		"STRINGS": [
-			"その人物に関する説明が表示されますので、"
+			"a description about the person will be displayed to"
 		]
 	},
 	{
@@ -583,7 +583,7 @@
 	},
 	{
 		"STRINGS": [
-			"捜査の参考にしてください。"
+			"help you with your investigation."
 		]
 	},
 	{
@@ -608,7 +608,7 @@
 	},
 	{
 		"STRINGS": [
-			"人物パネル選択中に"
+			"While selecting a person you can press the "
 		]
 	},
 	{
@@ -625,7 +625,7 @@
 	},
 	{
 		"STRINGS": [
-			"ボタンを続けて押すことで"
+			"button to check"
 		]
 	},
 	{
@@ -642,7 +642,7 @@
 	},
 	{
 		"STRINGS": [
-			"全ての人物をチェックすることも出来ます。"
+			"all of the existing characters continuously."
 		]
 	},
 	{
@@ -667,7 +667,7 @@
 	},
 	{
 		"STRINGS": [
-			"では、ここで実際に『推理ロジック』を"
+			"Now, let's actually organize the"
 		]
 	},
 	{
@@ -684,7 +684,7 @@
 	},
 	{
 		"STRINGS": [
-			"整理してみましょう。"
+			"[Inference Logic] board."
 		]
 	},
 	{
@@ -709,7 +709,7 @@
 	},
 	{
 		"STRINGS": [
-			"当てはまるキーワードが無いと思ったら空欄のまま"
+			"If you don't see a keyword that fits, you can leave"
 		]
 	},
 	{
@@ -726,7 +726,7 @@
 	},
 	{
 		"STRINGS": [
-			"保留しておくことも可能です。"
+			"it blank and leave it pending."
 		]
 	},
 	{
@@ -751,7 +751,7 @@
 	},
 	{
 		"STRINGS": [
-			"この後もまだたくさんのキーワードを入手し、"
+			"You will still get many more keywords after this,"
 		]
 	},
 	{
@@ -768,7 +768,7 @@
 	},
 	{
 		"STRINGS": [
-			"いつでも修正は出来ますので、"
+			"and you can always revise it."
 		]
 	},
 	{
@@ -785,7 +785,7 @@
 	},
 	{
 		"STRINGS": [
-			"整理ができましたら"
+			"so please close the deduction logic with "
 		]
 	},
 	{
@@ -802,7 +802,7 @@
 	},
 	{
 		"STRINGS": [
-			"で推理ロジックを閉じてください。"
+			"when you are ready to sort it out."
 		]
 	},
 	{

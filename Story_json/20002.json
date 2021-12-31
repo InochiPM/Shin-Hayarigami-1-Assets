@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"〜チュートリアル『ルート分岐』〜"
+			"Tutorial: Route Branching"
 		]
 	},
 	{
@@ -116,7 +116,7 @@
 	},
 	{
 		"STRINGS": [
-			"新しいルートに分岐しました。"
+			"We have branched off into a new route."
 		]
 	},
 	{
@@ -141,7 +141,7 @@
 	},
 	{
 		"STRINGS": [
-			"新しいルートに入ると、これまでに取得した"
+			"When entering a new rout, the [Keywords] you have acquired"
 		]
 	},
 	{
@@ -158,7 +158,7 @@
 	},
 	{
 		"STRINGS": [
-			"キーワード（人物以外）がリセットされ、"
+			"so far will be reset and the [Inference Logic] board"
 		]
 	},
 	{
@@ -175,7 +175,7 @@
 	},
 	{
 		"STRINGS": [
-			"推理ロジックが自動的に組み変わります。"
+			"will automatically be re-configured."
 		]
 	},
 	{
@@ -200,7 +200,7 @@
 	},
 	{
 		"STRINGS": [
-			"また、評価点もリセットされるため、"
+			"Moreover, your points towards your evaluation will reset"
 		]
 	},
 	{
@@ -217,7 +217,7 @@
 	},
 	{
 		"STRINGS": [
-			"もしここまでに評価点を落とすような選択をしていても"
+			"so your choices up to this point won't lower"
 		]
 	},
 	{
@@ -234,7 +234,7 @@
 	},
 	{
 		"STRINGS": [
-			"関係ありませんのでご安心ください。"
+			"and points you have earned towards the final evaluation."
 		]
 	},
 	{
@@ -259,7 +259,7 @@
 	},
 	{
 		"STRINGS": [
-			"それでは、新たなストーリーをお楽しみください。"
+			"So please enjoy the new story."
 		]
 	},
 	{

@@ -175,7 +175,7 @@
 	},
 	{
 		"STRINGS": [
-			"~Tutorial: Branching Tree~"
+			"Tutorial: Scene Tree"
 		]
 	},
 	{
@@ -200,7 +200,7 @@
 	},
 	{
 		"STRINGS": [
-			"This is the branching tree system."
+			"This is the Scene Tree."
 		]
 	},
 	{
@@ -221,7 +221,7 @@
 	},
 	{
 		"STRINGS": [
-			"It's displayed by selecting the option"
+			"You can get to this menu by selecting the"
 		]
 	},
 	{
@@ -238,7 +238,7 @@
 	},
 	{
 		"STRINGS": [
-			"from the pause/system menu."
+			"[Scene Tree] option in the Pause/System menu."
 		]
 	},
 	{
@@ -263,7 +263,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can also get to the Branching tree from"
+			"Moreover, you can get ot this menu by"
 		]
 	},
 	{
@@ -280,7 +280,7 @@
 	},
 	{
 		"STRINGS": [
-			"the main menu option."
+			"selecting [Scenes] from the Title Screen."
 		]
 	},
 	{
@@ -349,7 +349,7 @@
 	},
 	{
 		"STRINGS": [
-			"Lines and scene icons show the path you have"
+			"In the tree, you'll see icons and lines that indicate"
 		]
 	},
 	{
@@ -366,7 +366,7 @@
 	},
 	{
 		"STRINGS": [
-			"taken so far in the story."
+			"the paths you have taken thus far in the story."
 		]
 	},
 	{
@@ -391,7 +391,7 @@
 	},
 	{
 		"STRINGS": [
-			"This tree information will be automatically updated"
+			"The Scene Tree will automatically be updated every time"
 		]
 	},
 	{
@@ -408,7 +408,7 @@
 	},
 	{
 		"STRINGS": [
-			"and will continue to be available while playing."
+			"you advance the story or make a choice."
 		]
 	},
 	{
@@ -425,7 +425,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can also check the choices you have not yet made."
+			"Make sure to check for branching paths not yet taken."
 		]
 	},
 	{
@@ -450,7 +450,7 @@
 	},
 	{
 		"STRINGS": [
-			"The bright lines and icons are the paths we've taken."
+			"The Highlighted line and icons are the path your on."
 		]
 	},
 	{
@@ -547,7 +547,7 @@
 	},
 	{
 		"STRINGS": [
-			"In the branching tree, there is a jump function."
+			"Moreover the tree features a jump function, that"
 		]
 	},
 	{
@@ -572,7 +572,7 @@
 	},
 	{
 		"STRINGS": [
-			"The jump function is a feature that allows you to"
+			"allows you to jump from scene to scene that you have"
 		]
 	},
 	{
@@ -589,7 +589,7 @@
 	},
 	{
 		"STRINGS": [
-			"resume from a scene you've previously gone through."
+			"already seen/played before."
 		]
 	},
 	{
@@ -614,7 +614,7 @@
 	},
 	{
 		"STRINGS": [
-			"Move the cursor over the icon"
+			"To jump scenes, move the cursor over and press the"
 		]
 	},
 	{
@@ -631,7 +631,7 @@
 	},
 	{
 		"STRINGS": [
-			"and press to "
+			" Button"
 		]
 	},
 	{
@@ -648,7 +648,7 @@
 	},
 	{
 		"STRINGS": [
-			"resume from that scene."
+			"to resume from that scene."
 		]
 	},
 	{
@@ -673,7 +673,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please note that when you restart, the path you "
+			"Please note, when you start over the Keywords"
 		]
 	},
 	{
@@ -690,7 +690,7 @@
 	},
 	{
 		"STRINGS": [
-			"took and the keywords you acquired will be the "
+			"And the path you have taken will remain the same"
 		]
 	},
 	{
@@ -707,7 +707,7 @@
 	},
 	{
 		"STRINGS": [
-			"same as the last time you went through the scene."
+			"as the last time you went through the selected scene."
 		]
 	},
 	{

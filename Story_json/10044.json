@@ -118,7 +118,7 @@
 	},
 	{
 		"STRINGS": [
-			"疑問を口にしてみる"
+			"Speak my mind."
 		]
 	},
 	{
@@ -134,7 +134,7 @@
 	},
 	{
 		"STRINGS": [
-			"怒らせてみる"
+			"Try to annoy him."
 		]
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"STRINGS": [
-			"〜チュートリアル『カリッジポイント』〜"
+			"Tutorial: Courage Points"
 		]
 	},
 	{
@@ -196,7 +196,7 @@
 	},
 	{
 		"STRINGS": [
-			"画面右上に表示されているゲージは"
+			"The gauge displayed in the upper right part"
 		]
 	},
 	{
@@ -213,7 +213,7 @@
 	},
 	{
 		"STRINGS": [
-			"『カリッジポイント』と呼ばれるものです。"
+			"of the screen is called 'Courage Points'."
 		]
 	},
 	{
@@ -238,7 +238,7 @@
 	},
 	{
 		"STRINGS": [
-			"選択肢の中には"
+			"Some of the"
 		]
 	},
 	{
@@ -255,7 +255,7 @@
 	},
 	{
 		"STRINGS": [
-			"マークが付いているものがあり、"
+			"Options are marked and require"
 		]
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"STRINGS": [
-			"これを選択するには勇気（カリッジ）を必要とします。"
+			"Courage Points to select them!"
 		]
 	},
 	{
@@ -297,7 +297,7 @@
 	},
 	{
 		"STRINGS": [
-			"カリッジポイントが無くなってしまうと、"
+			"When you run out of Courage Points however,"
 		]
 	},
 	{
@@ -314,7 +314,7 @@
 	},
 	{
 		"STRINGS": [
-			"カリッジマークの付いている選択肢を選ぶことが"
+			"you'll not be able to select any of the options"
 		]
 	},
 	{
@@ -331,7 +331,7 @@
 	},
 	{
 		"STRINGS": [
-			"できなくなります。"
+			"marked with Courage Points."
 		]
 	},
 	{
@@ -356,7 +356,7 @@
 	},
 	{
 		"STRINGS": [
-			"冷静な判断で限りあるポイントをうまく使い、"
+			"Utilize your Courage Points well and with"
 		]
 	},
 	{
@@ -373,7 +373,7 @@
 	},
 	{
 		"STRINGS": [
-			"情報を集めていきましょう。"
+			"clear judgment, gather information."
 		]
 	},
 	{
@@ -398,7 +398,7 @@
 	},
 	{
 		"STRINGS": [
-			"また、選んだ選択肢によっては最終評価に"
+			"With that said, please note some of the choices you make"
 		]
 	},
 	{
@@ -415,7 +415,7 @@
 	},
 	{
 		"STRINGS": [
-			"影響することもありますのでご注意ください。"
+			"will effect your final evaluation score."
 		]
 	},
 	{

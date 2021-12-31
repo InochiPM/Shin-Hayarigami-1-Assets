@@ -105,7 +105,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Plea Bargaining.\""
+			"[Plea Bargain]"
 		]
 	},
 	{
@@ -154,7 +154,7 @@
 	},
 	{
 		"STRINGS": [
-			"~Tutorial: F.O.A.F Database~"
+			"Tutorial: F.O.A.F Database"
 		]
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"STRINGS": [
-			"Technical terms may appear in the story."
+			"Technical terms will occasionally appear in the story."
 		]
 	},
 	{
@@ -188,7 +188,7 @@
 	},
 	{
 		"STRINGS": [
-			"For example"
+			"For Example."
 		]
 	},
 	{
@@ -215,7 +215,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Plea Bargain"
+			"[Plea"
 		]
 	},
 	{
@@ -224,7 +224,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			" Bargain]"
 		]
 	},
 	{
@@ -245,7 +245,7 @@
 	},
 	{
 		"STRINGS": [
-			"...and it will be registered in the database like this."
+			"will be registered in the database like this."
 		]
 	},
 	{
@@ -270,7 +270,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can refer to the registered terms"
+			"You can refer to the terms at any time by pressing the"
 		]
 	},
 	{
@@ -287,7 +287,7 @@
 	},
 	{
 		"STRINGS": [
-			"at any time by clicking on"
+			" Button on"
 		]
 	},
 	{
@@ -304,7 +304,7 @@
 	},
 	{
 		"STRINGS": [
-			"the button and selecting"
+			"the [Database] option"
 		]
 	},
 	{
@@ -321,7 +321,7 @@
 	},
 	{
 		"STRINGS": [
-			"the [Database.] option"
+			"in the System Menu."
 		]
 	},
 	{
@@ -346,7 +346,7 @@
 	},
 	{
 		"STRINGS": [
-			"The database contains a total of 100 items."
+			"The database contains a total of 100 entries."
 		]
 	},
 	{
@@ -363,7 +363,7 @@
 	},
 	{
 		"STRINGS": [
-			"Some terms might be skipped depending on how you play."
+			"Some terms may require you to play a different route."
 		]
 	},
 	{
