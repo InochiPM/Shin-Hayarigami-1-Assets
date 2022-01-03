@@ -129,9 +129,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"The document I have just given you is an outline",
-			"of a murder case that has been",
-			"occurring in Town C, prefecture S.\""
+			"\"The documents I've given you are an outline",
+			"of a series of murder cases that have been",
+			"occurring in Town C, S Prefecture.\""
 		]
 	},
 	{
@@ -160,7 +160,7 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto listened to my story while",
+			"Sekimoto listened to me while",
 			"looking over the materials.",
 			"Eventually, he stopped. His eyes on a picture."
 		]
@@ -208,8 +208,8 @@
 	{
 		"STRINGS": [
 			"It was the body of a naked man.",
-			"The body was found in a river not far",
-			"from the town C sub-station."
+			"He was found in a river not far",
+			"from the town C train station."
 		]
 	},
 	{
@@ -226,8 +226,8 @@
 	},
 	{
 		"STRINGS": [
-			"What is unique is the method of killing.",
-			"He pierced both eyes with the blade",
+			"What's unique is the method of killing.",
+			"Both eyes were pierced with the blades",
 			"of a large pair of scissors."
 		]
 	},
@@ -245,9 +245,9 @@
 	},
 	{
 		"STRINGS": [
-			"Also, all of the victim's teeth had been pulled out.",
-			"Making it impossible to identify him",
-			"from removal of his eyes."
+			"As well as the victim's teeth had been removed.",
+			"Making it almost impossible to identify him",
+			"by way of eyes and dental records."
 		]
 	},
 	{
@@ -264,9 +264,9 @@
 	},
 	{
 		"STRINGS": [
-			"No belongings, as he was found completely ",
-			"naked. No surgical scars.",
-			"At present, this cadaver is [nameless]."
+			"He had no belongings, as he was found completely",
+			"naked. as well as no surgical scars.",
+			"At present, this cadaver is «Nameless»."
 		]
 	},
 	{
@@ -341,7 +341,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"That's pretty......impressive.\""
+			"\"That's pretty...horrific.\""
 		]
 	},
 	{
@@ -392,8 +392,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Even a guy whos seen this before,",
-			"Your gonna turn your eyes away?\""
+			"\"Are you serious?",
+			"Even a guy like you has to look away?\""
 		]
 	},
 	{
@@ -450,7 +450,7 @@
 		"STRINGS": [
 			"\"At the same time, there have been a number of",
 			"missing persons cases in the vicinity of Town C.",
-			"However, the connection to this case is unknown\""
+			"However, the connection to this case is unknown.\""
 		]
 	},
 	{
@@ -561,7 +561,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"That's when your testimony popped up as a ray of light.\""
+			"\"That's when your testimony",
+			"popped in like a ray of sunshine.\""
 		]
 	},
 	{
@@ -619,7 +620,7 @@
 	{
 		"STRINGS": [
 			"I dared to call him [Mister].",
-			"This is the kind of inflection you need",
+			"This is the kind of title you need",
 			"when you step into someone's mind."
 		]
 	},
@@ -693,8 +694,7 @@
 	},
 	{
 		"STRINGS": [
-			"I looked him in the eye.",
-			"I gazed at him so intently it was",
+			"I looked him in the eyes gazing so intently,",
 			"like I was casting a spell.",
 			"So that he could not escape my question."
 		]
@@ -719,9 +719,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I guess I have no credibility.",
-			"I can't believe it's from a loaded question",
-			"like that one, with all its assumptions.\""
+			"\"I guess I have no credibility here.",
+			"I can't believe you would use the same",
+			"question more than once.\""
 		]
 	},
 	{
@@ -748,7 +748,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Answer with yes or no.\""
+			"\"Yes or no, answer the question.\""
 		]
 	},
 	{
@@ -796,8 +796,8 @@
 	},
 	{
 		"STRINGS": [
-			"I dare you to try to satisfy me",
-			"without using specific words"
+			"Daringly, he tries to satisfy my goal only",
+			"without using the specified words."
 		]
 	},
 	{
@@ -820,8 +820,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Is this information directly",
-			"connected to the killer?\""
+			"\"Is this information directly connected to the killer?\""
 		]
 	},
 	{
@@ -848,7 +847,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"That's right.\""
+			"\"That's correct.\""
 		]
 	},
 	{
@@ -876,7 +875,7 @@
 	{
 		"STRINGS": [
 			"\"Now, I'm going to ask you a straightforward question.",
-			"Who are they? I need a straightforward answer.\""
+			"Who are they? Provide me with direct information on them.\""
 		]
 	},
 	{
@@ -927,7 +926,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"... The"
+			"\"...It's the "
 		]
 	},
 	{
@@ -992,7 +991,7 @@
 		"STRINGS": [
 			"His confident words were completely unexpected.",
 			"Of course, I had never heard of a blind man before.",
-			"I felt the anger burning towards his words."
+			"I felt anger burning towards his words."
 		]
 	},
 	{
@@ -1045,7 +1044,7 @@
 		"STRINGS": [
 			"\"Of course, I'm not kidding.",
 			"There is only one person in the world who can",
-			"pull off this trick, and that's the Blind Man.\""
+			"pull off this trick, and that's the «Blind Man».\""
 		]
 	},
 	{
@@ -1097,7 +1096,7 @@
 	{
 		"STRINGS": [
 			"\"Don't fuck with us.",
-			"We asked you who that was.\""
+			"We asked you who they are.\""
 		]
 	},
 	{
@@ -1377,8 +1376,8 @@
 	{
 		"STRINGS": [
 			"\"The Blind Man is a fictional character in urban legend.",
-			"He is a demonic man who appears in front of",
-			"people walking alone on the street late at night",
+			"He is a demonic person who appears in front of",
+			"people who walk the streets alone late at night",
 			"and kills them with the help of scissors in both eyes.\""
 		]
 	},
@@ -1408,7 +1407,7 @@
 		"STRINGS": [
 			"\"No one knows its true identity.",
 			"But because of the uniqueness of its modus operandi,",
-			"he has been given the name [Light Stealer.]\""
+			"he has been given the name «Light Stealer».\""
 		]
 	},
 	{
@@ -1445,9 +1444,9 @@
 	},
 	{
 		"STRINGS": [
-			"I want to peel off his skin.",
-			"I want to expose his true nature,",
-			"hidden behind his aloof attitude."
+			"I want to peel off his skin",
+			"and expose his true nature,",
+			"hidden behind that aloof attitude!"
 		]
 	},
 	{

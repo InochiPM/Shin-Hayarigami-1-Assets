@@ -78,7 +78,7 @@
 	},
 	{
 		"STRINGS": [
-			"Swallow my words"
+			"Swallow my words."
 		]
 	},
 	{
@@ -98,7 +98,7 @@
 	},
 	{
 		"STRINGS": [
-			"Speak cynically"
+			"Speak cynically."
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			"Scold Harshly"
+			"Scold harshly."
 		]
 	},
 	{
@@ -135,7 +135,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "0c000e00000000000200"
+		"UNK0": "0c000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -148,7 +150,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00010000000200"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 1,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -161,7 +165,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00020000000200"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 2,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -182,7 +188,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "0c000e00000000000200"
+		"UNK0": "0c000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -195,7 +203,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00010000000200"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 1,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",

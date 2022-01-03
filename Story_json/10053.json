@@ -105,7 +105,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Plea Bargaining."
+			"\"Plea"
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			" Bargaining.\""
 		]
 	},
 	{
@@ -135,8 +135,8 @@
 	},
 	{
 		"STRINGS": [
-			"Having said that, the plea bargaining system",
-			"is not allowed in Japan."
+			"Having said that, the plea bargaining",
+			"system is not legal in Japan."
 		]
 	},
 	{
@@ -153,8 +153,9 @@
 	},
 	{
 		"STRINGS": [
-			"In other words, this is an attempt to use all the",
-			"powers of the administrator to tamper with the situation."
+			"In other words, this is an attempt to use",
+			"all the powers of the warden",
+			"to tamper with the case."
 		]
 	},
 	{
@@ -177,8 +178,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Yes that is correct.",
-			"So I've come up with three conditions.\""
+			"\"So I came up with tree conditions.\""
 		]
 	},
 	{
@@ -201,9 +201,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I will be allowed to go to the place where the",
-			"incident occurred, and you, Saki Houjou,",
-			"will be in charge of me.\""
+			"\"You' re going to let me go to the place",
+			"where the incident happened,",
+			"and Houjou Saki is going to be in charge of me.\""
 		]
 	},
 	{
@@ -230,7 +230,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"What, me?　How did-\""
+			"\"What, me? Why would you...\""
 		]
 	},
 	{
@@ -251,8 +251,7 @@
 	},
 	{
 		"STRINGS": [
-			"Suddenly mentioning my name,",
-			"I couldn't help but become confused."
+			"I became confused as the sudden mention of my name."
 		]
 	},
 	{
@@ -275,8 +274,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"What's the other one?",
-			"You've only mention two up to now.\""
+			"\"What's the other condition?",
+			"You've only said two so far.\""
 		]
 	},
 	{
@@ -303,8 +302,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"He wants me to confirm the truth of a rumor",
-			"about the Tokyo Detention Center.\""
+			"\"He wants me to confirm a rumor that's been",
+			"going around about the Tokyo Detention Center.\""
 		]
 	},
 	{
@@ -327,8 +326,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I wonder if a certain death row inmate",
-			"who's immortal really exists?\""
+			"\"So, I thought, does this place have a",
+			"real death row inmate that doesn't die?\""
 		]
 	},
 	{
@@ -387,7 +386,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hah! Who the hell are they?\""
+			"\"Who would that be?\""
 		]
 	},
 	{
@@ -418,9 +417,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I really must know, because of my profession.",
-			"I'm a university professor.",
-			"Im a researcher on Folklore and Urban Legends.\""
+			"\"Because of my profession, I really wanted to know.",
+			"I'm a university professor that studies folklore.",
+			"Mostly Urban Legends to be precise.\""
 		]
 	},
 	{
@@ -463,7 +462,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"So, how did they react?\""
+			"\"So, what was their reaction?\""
 		]
 	},
 	{
@@ -490,10 +489,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"He said [I'll tell you as much as",
-			"you want if you prove useful.]",
-			"That's why I decided to fully cooperate with you guys.",
-			"That's why i gave my statement during that court case.\""
+			"\"«I'll tell you all about it when you become useful.» ",
+			"So I've decided to cooperate fully with you people.",
+			"That's why i chose to speak at my trial.\""
 		]
 	},
 	{
@@ -514,8 +512,8 @@
 	},
 	{
 		"STRINGS": [
-			"Academics are beyond my understanding.",
-			"The word [Eccentric] is appropriate."
+			"Academics are beyond my comprehension.",
+			"The word «Eccentric» is appropriate I think."
 		]
 	},
 	{
@@ -565,7 +563,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"You're not used to being approached by men, are you?\""
+			"\"You're not used to being",
+			"approached by men, are you?\""
 		]
 	},
 	{
@@ -592,7 +591,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"It was a serious question.\""
+			"\"Answer me, seriously.\""
 		]
 	},
 	{
@@ -619,8 +618,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I don't mind being scolded by a woman.",
-			"It's not that big of a deal.",
+			"\"I'm not opposed to being scolded by a woman.",
+			"There wasn't much of a reason.",
 			"I found out about you from a magazine.\""
 		]
 	},
@@ -644,9 +643,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I heard that there's an incredibly beautiful",
-			"detective at the station that has jurisdiction",
-			"over in Town C.\""
+			"\"I heard that there was a very beautiful",
+			"detective at the station that had",
+			"jurisdiction over the City C.\""
 		]
 	},
 	{
@@ -689,7 +688,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hey, hey, Hojo, what do we do?",
+			"\"Hey, hey, Hojo, what are you going to do?",
 			"You've got a murderer hitting on you.\""
 		]
 	},
@@ -718,8 +717,8 @@
 	{
 		"STRINGS": [
 			"\"I didn't mean to.",
-			"If you want, I can tell you that",
-			"I fell in love with you at first sight.\""
+			"Or should I say, I fell in love",
+			"with you at first sight?\""
 		]
 	},
 	{
@@ -740,10 +739,9 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto's mouth is hanging loose. Is he trying",
-			"to catch us off guard with his",
-			"light-hearted way of speaking?",
-			"...... I can't read him."
+			"Sekimoto's jaw hung loose.",
+			"Is he trying to catch us off guard with his",
+			"light-hearted words? ...He's so hard to read."
 		]
 	},
 	{
@@ -760,8 +758,9 @@
 	},
 	{
 		"STRINGS": [
-			"But he might be aiming for that confusion.",
-			"So I decided to keep a blank expression on my face."
+			"It's best not to take the bait",
+			"if hes even aiming for that.",
+			"So I decided to play it cool and keep a straight face."
 		]
 	},
 	{
@@ -784,7 +783,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Sorry to break it to you, but I still think the",
+			"\"Sorry to break it to you, but I still think the ",
 			"higher-ups are skeptical of your story.\""
 		]
 	},
@@ -834,7 +833,7 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto's mouth morphs into a grin."
+			"His mouth curled into a grin."
 		]
 	},
 	{
@@ -913,8 +912,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Then why do you believe that?",
-			"I'd like to know your reasoning.\"　"
+			"\"Then why would you think that?",
+			"I'd like to know why.\"　"
 		]
 	},
 	{
@@ -1024,8 +1023,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Pfft ...... hahahahaha!",
-			"You're the best, you've got"
+			"\"Pfft...Hahahaha!!",
+			"You're the best! A real "
 		]
 	},
 	{
@@ -1036,7 +1035,7 @@
 	},
 	{
 		"STRINGS": [
-			"written all over your face!\""
+			"!\""
 		]
 	},
 	{
@@ -1124,8 +1123,8 @@
 	{
 		"STRINGS": [
 			"\"I'm sorry to disappoint you, but we're not.",
-			"We don't work murder, robbery, sex ",
-			"crimes, or any other violent cases.\""
+			"We' re not in charge of violent cases",
+			"like murders, robberies, break-ins, sex crimes.\""
 		]
 	},
 	{
@@ -1152,7 +1151,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Then ...... what?\""
+			"\"So......what?\""
 		]
 	},
 	{
@@ -1179,7 +1178,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"We go bt the name [Special Law Enforcement Unit].\""
+			"\"We go by the name «Special Agent».\""
 		]
 	},
 	{
@@ -1234,7 +1233,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Special...law unit?\""
+			"\"Meaning...?\""
 		]
 	},
 	{
@@ -1255,8 +1254,9 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto's expression faltered a little.",
-			"For the first time, he was biting at our words."
+			"Sekimoto's expression faltered slightly.",
+			"It was the first time he had actually",
+			"responded to our words."
 		]
 	},
 	{
@@ -1279,8 +1279,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"The official name is [Special Police Division,",
-			"Town C, S Prefectural Police.]"
+			"\"The official name is «Special Police Division,",
+			"City C Devision, S Prefecture.»"
 		]
 	},
 	{
@@ -1289,8 +1289,8 @@
 	},
 	{
 		"STRINGS": [
-			"The section was established to support other divisions.",
-			"Our job is to verify evidence and review it.\""
+			"It was created to help support other divisions.",
+			"Our job is to verify evidence.\""
 		]
 	},
 	{
@@ -1316,7 +1316,7 @@
 			"\"The main purpose is to arrange appropriate",
 			"support personnel to deal with each department",
 			"and each case for the purpose of flexible",
-			"operation of investigation personnel.\""
+			"operation of investigation.\""
 		]
 	},
 	{
@@ -1339,9 +1339,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"At the same time, we manage past case files and",
-			"analyzes information on unsolved cases,",
-			"preserving the investigation system. Do you understand?\""
+			"\"At the same time, maintaining past case files and",
+			"analyzing information on unsolved cases.",
+			"Do you understand?\""
 		]
 	},
 	{
@@ -1392,9 +1392,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"In other words, your useless/",
-			"When they' re so busy that they need a helping",
-			"hand, you guys are filling in for them.\""
+			"\"In other words, a useless department.",
+			"They call on you to fill in the empty spaces",
+			"when they're to busy to do it themselves.\""
 		]
 	},
 	{
@@ -1453,9 +1453,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"You're right on the money.",
-			"In an organization thats top-to-bottom.",
-			"We go side-to-side, we get all kinds of juicy info.\""
+			"\"You're right on the money!",
+			"This is the only department that goes side-to-side",
+			"in an organization that goes top-to-bottom.",
+			"At least we get good ventilation.\""
 		]
 	},
 	{
@@ -1507,7 +1508,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"And then it was up to us, the Special Agent",
+			"\"Then, the task fell to us, the Special Affairs",
 			"Section, who could never say no.\""
 		]
 	},
@@ -1530,9 +1531,8 @@
 	{
 		"STRINGS": [
 			"It doesn't feel good to self-identify",
-			"as a useless blowhard.",
-			"But it's better to let the facts",
-			"be known for what they are."
+			"as a useless blowhard. But it's better",
+			"to let people know the facts as they are."
 		]
 	},
 	{
@@ -1549,8 +1549,8 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto was silent.",
-			"Was he disappointed after all?",
+			"Sekimoto remained silent.",
+			"I guess he was disappointed.",
 			"Or did he lose interest?"
 		]
 	},
@@ -1568,8 +1568,8 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori-san also looked at him as if to say,",
-			"\"You must be disappointed.\""
+			"Kazamori-san looked at him as",
+			"if to say, \"You must be disappointed.\""
 		]
 	},
 	{
@@ -1592,9 +1592,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I see.",
-			"Useless detectives and an unwieldy defendant.",
-			"It's going to be interesting.\""
+			"\"I get it.",
+			"Useless detectives and an unruly defendant.",
+			"This is shaping up to be fun.\""
 		]
 	},
 	{

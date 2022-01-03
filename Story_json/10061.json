@@ -108,8 +108,8 @@
 	{
 		"STRINGS": [
 			"After a two and a half hour drive, we arrived at",
-			"our destination, the Town C Police Station",
-			"in Prefecture S."
+			"our destination. The Town C Police Station",
+			"in S Prefecture."
 		]
 	},
 	{
@@ -326,8 +326,8 @@
 	},
 	{
 		"STRINGS": [
-			"They took Sekimoto straight to",
-			"the underground detention center."
+			"They whisked Sekimoto away to the",
+			"underground detention center swiftly"
 		]
 	},
 	{
@@ -522,7 +522,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Here, we've arrived at the suite",
+			"\"Here, we've arrived at your suite",
 			"I've prepared for you. Do you like it?\""
 		]
 	},
@@ -633,8 +633,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hojo, please give us a basic",
-			"description of this place.\""
+			"\"Houjou, please give us a basic description of this place.\""
 		]
 	},
 	{
@@ -689,8 +688,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"Yes, sir. Normally, you'll live here.",
-			"You'll be handcuffed at all times except in your cell.\""
+			"\"Yes sir. Normally, you'll live here by yourself.",
+			"You'll be handcuffed at all times",
+			"except when in your cell.\""
 		]
 	},
 	{
@@ -1069,8 +1069,8 @@
 	},
 	{
 		"STRINGS": [
-			"The next corpse?",
-			"I latched onto that word."
+			"The next victim?",
+			"I latched onto those words."
 		]
 	},
 	{
