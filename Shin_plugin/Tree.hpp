@@ -682,7 +682,7 @@ std::vector<Text> Tree2C = {
 
 std::vector<Text> Tree4C {
     {"疑問を口にしてみる", "I'm going to speak my mind."},
-    {"皮肉を言う", "speak cynically"},
+    {"皮肉を言う", "Speak cynically"},
     {"答えなさい！", "Answer me!"},
     {"関本に会いに行く", "I'm going to see Sekimoto."},
     {"刑事告訴ものです", "That's a criminal complaint."},
