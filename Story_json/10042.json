@@ -126,8 +126,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"...You stated before the person you killed",
-			"was a student from your lab right?\""
+			"\"It's said the person you murdered was",
+			"a student in your class... Correct?\""
 		]
 	},
 	{
@@ -150,8 +150,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"How does it feel to have your career wiped",
-			"out because you killed a valued student?\""
+			"\"How does it feel to know your careers been",
+			"wiped clean because of your criminal standing?\""
 		]
 	},
 	{
@@ -198,12 +198,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazemori Hayato"
+		"NAME": "Kazamori Hayato"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Hojo ......,",
-			"how many other ways can you say that?\""
+			"\"Woah, Houjou. Can't you say that",
+			"a little more delicately?\""
 		]
 	},
 	{
@@ -224,8 +224,8 @@
 	},
 	{
 		"STRINGS": [
-			"I was surprised at how easily I was able to",
-			"come up with a terrible incendiary phrase."
+			"I was surprised how easy it was to come up",
+			"with such a burning question."
 		]
 	},
 	{
@@ -248,10 +248,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"You'r trying to make me angry to see how I react.",
-			"Unfortunately, I've been through a",
-			"lot of that in the hearing room.",
-			"Personally, I'm tired of hearing it.\""
+			"\"You're trying to make me react angerly I see.",
+			"Unfortunately I have been through a lot of that already",
+			"having been arrested and questioned by the police.\""
 		]
 	},
 	{
@@ -268,8 +267,9 @@
 	},
 	{
 		"STRINGS": [
-			"......I see.",
-			"It seems that I can't exploit his skills in that way."
+			"I see now.",
+			"It appears you can't catch him off",
+			"guard with words alone"
 		]
 	},
 	{

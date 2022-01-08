@@ -73,8 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"お忙しいのにご協力を感謝致します。",
-			"　"
+			"\"Thank you for your time and cooperation.",
+			"Miss "
 		]
 	},
 	{
@@ -85,7 +85,7 @@
 	},
 	{
 		"STRINGS": [
-			"（みなせ・はるか）さん\""
+			".\""
 		]
 	},
 	{
@@ -128,7 +128,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい……あの、私が何をしたんでしょうか……\""
+			"\"Yes... Um, what did I do...\""
 		]
 	},
 	{
@@ -149,7 +149,8 @@
 	},
 	{
 		"STRINGS": [
-			"２０代になったばかりの彼女が不安がるのは無理もない。"
+			"She was just in her twenties,",
+			"so it was understandable that she was worried."
 		]
 	},
 	{
@@ -166,8 +167,8 @@
 	},
 	{
 		"STRINGS": [
-			"私は、出来るだけ彼女を不安がらせないように",
-			"柔和な表情に努めた。"
+			"I tried to keep my expression as soft as",
+			"possible so as not to alarm her."
 		]
 	},
 	{
@@ -190,9 +191,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"こういう場所に来る機会もないと思うので",
-			"　不安になるのはわかります。",
-			"　今日はただ、お話を伺いたいだけです\""
+			"\"I know you're' anxious about coming here today",
+			"so I'll get to the point, I just want to talk.\""
 		]
 	},
 	{
@@ -247,7 +247,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お話……ですか？\""
+			"\"Are you talking about...?\""
 		]
 	},
 	{
@@ -274,8 +274,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい。先日、この村で殺人事件が起きた事は",
-			"　知っていますね？\""
+			"\"Yes. You do know that there was a murder",
+			"in this Town the other day, don't you?\""
 		]
 	},
 	{
@@ -298,8 +298,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その被害者––田村光太郎さんについて",
-			"　お話を伺いたいのです\""
+			"\"I'd like to talk to you about",
+			"the victim, a Mr Tamura Koutaro.\""
 		]
 	},
 	{
@@ -354,8 +354,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"……はい。",
-			"　でも、どこで彼と私の関係を知ったんですか？\""
+			"\"Yes...",
+			"But where did you find out about",
+			"my relationship with him?\""
 		]
 	},
 	{
@@ -414,8 +415,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"悪いが、そういうのは教えられないんだ。",
-			"　ただ、頑張って足で稼いだって事で勘弁してくれ\""
+			"\"I'm sorry, but I can't tell you how.",
+			"Just that I worked hard on my own two feet to get it.\""
 		]
 	},
 	{
@@ -468,9 +469,9 @@
 	},
 	{
 		"STRINGS": [
-			"遥さんは、警察の情報収集力に",
-			"怯えているようだった。",
-			"何か知っているのか……と妙に勘ぐりたくなる。"
+			"Haruka seemed to be frightened by the",
+			"police's ability to gather information.",
+			"I feel strangely tempted to ask if they know something..."
 		]
 	},
 	{
@@ -493,8 +494,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"さて、本題に入ります。",
-			"　彼とはどこで知り合ったんですか？\""
+			"\"Now, let's get down to business.",
+			"Where did you meet him?\""
 		]
 	},
 	{
@@ -549,8 +550,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"私が通っている大学です。",
-			"　知り合ったのは本当に偶然でした\""
+			"\"The university I attend.",
+			"It was really a coincidence",
+			"that we knew each other.\""
 		]
 	},
 	{
@@ -573,9 +575,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"文学部の事務室の前で偶然。",
-			"　……事務員の方を探しているみたいで",
-			"　何度かそこで会ううちに親しくなったんです\""
+			"\"I happened to be in front of the",
+			"office of the literature department.",
+			"They were looking for a clerk, and we got to ",
+			"know each other, meeting there a few times.\""
 		]
 	},
 	{
@@ -602,8 +605,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その事務員にはどんな用事があったのか、",
-			"　何か聞いています？\""
+			"\"Did you ask the clerk anything about",
+			"what kind of business he had?\""
 		]
 	},
 	{
@@ -658,8 +661,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なんでもローン返済が滞っているとかで……。",
-			"　督促のために通っているとか\""
+			"\"I was told that he was behind on his",
+			"loan repayments for everything. ......",
+			"They were going through all of it to remind him.\""
 		]
 	},
 	{
@@ -682,9 +686,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"田村さんの督促はとにかく厳しいみたいで……。",
-			"　かなりしつこくつきまとっていたみたい。",
-			"　終いにはその事務員さんは無断欠勤になっちゃって……\""
+			"\"Tamura's reminders seemed to be very strict.",
+			"It seemed like he was constantly pestering her.",
+			"In the end, the clerk went AWOL...\""
 		]
 	},
 	{
@@ -711,8 +715,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"田村さんは仕事で通っていたんですね……。",
-			"　あなたと田村さんはどんな関係だったんです？\""
+			"\"So Mr. Tamura went to work...",
+			"What was the relationship between you and Mr. Tamura?\""
 		]
 	},
 	{
@@ -771,7 +775,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"単なる"
+			"\"He was just a"
 		]
 	},
 	{
@@ -782,9 +786,9 @@
 	},
 	{
 		"STRINGS": [
-			"です。",
-			"　大学の友人は勘違いしてましたけど。",
-			"　あの、"
+			", Thats all.",
+			"My college friends were mistaken, though.",
+			"Uh.. It's not like I'm his "
 		]
 	},
 	{
@@ -795,7 +799,7 @@
 	},
 	{
 		"STRINGS": [
-			"とかそういうのじゃないです。絶対に\""
+			" or anything.\""
 		]
 	},
 	{
@@ -846,7 +850,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"正直、ちょっと怖いなって……\""
+			"\"To be honest, I'm a little scared...\""
 		]
 	},
 	{
@@ -867,9 +871,9 @@
 	},
 	{
 		"STRINGS": [
-			"遥さんは、身をすくめた。",
-			"その様子から、田村さんにも被害を受ける一因が",
-			"あるんじゃないかと邪推したくなる。"
+			"Haruka slumped down.",
+			"From the way she looked at me, I could see that",
+			"Mr.Tamura might be responsible for something."
 		]
 	},
 	{
@@ -892,7 +896,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"怖い……って、どんなところが？\""
+			"\"What is it that scares you?...\""
 		]
 	},
 	{
@@ -919,8 +923,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"あの人、なんていうか……その。",
-			"　スキンシップが激しいんです\""
+			"\"That guy, how do you say....",
+			"He liked to get really close.\""
 		]
 	},
 	{
@@ -943,9 +947,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"馴れ馴れしいというか、彼を嫌いとかじゃないんですけど、",
-			"　隙あらば、私の身体に触ってきたり",
-			"　恋人っぽく振る舞おうとするんです\""
+			"\"It's not that I didn't like him or anything, but",
+			"whenever he got a chance, he tried to touch my",
+			"body and act like we were lovers.\""
 		]
 	},
 	{
@@ -1016,8 +1020,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そりゃ、アンタみたいな可愛い子なら、",
-			"　そういうモーションを仕掛けるのはわかるよな\""
+			"\"Well, I can see why a pretty girl",
+			"like you would make those motions.\""
 		]
 	},
 	{
@@ -1044,7 +1048,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"殴ったりしても？\""
+			"\"Like hitting him?\""
 		]
 	},
 	{
@@ -1083,7 +1087,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"え、なんだって？\""
+			"\"Huh? What was that?\""
 		]
 	},
 	{
@@ -1110,8 +1114,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"殴ったりしてたんです。",
-			"　ねえ、これって"
+			"\"I used to hit him and stuff.",
+			"Hey it's like "
 		]
 	},
 	{
@@ -1122,7 +1126,7 @@
 	},
 	{
 		"STRINGS": [
-			"ですよね？\""
+			" Isn't it?\""
 		]
 	},
 	{
@@ -1171,8 +1175,8 @@
 	},
 	{
 		"STRINGS": [
-			"『ＤＶ』とはドメスティックバイオレンスの略称だ。",
-			"一般には家庭内暴力に対して用いられる言葉だ。"
+			"DV is an abbreviation for domestic violence.",
+			"The term is generally used for violence in the home."
 		]
 	},
 	{
@@ -1189,8 +1193,9 @@
 	},
 	{
 		"STRINGS": [
-			"近年では社会問題化し、その対処に警察が介入する事も",
-			"珍しいものでは無くなってきた。"
+			"In recent years, it has become a social problem and",
+			"it is not uncommon for the police to",
+			"intervene to deal with it."
 		]
 	},
 	{
@@ -1223,8 +1228,9 @@
 	},
 	{
 		"STRINGS": [
-			"遥さんは、私に救いを求めるように見つめてきた。",
-			"その眼差しから相当悩んでいたのが見受けられる。"
+			"Haruka looked at me as if she was asking for help.",
+			"I could see from her gaze that she was",
+			"in considerable distress."
 		]
 	},
 	{
@@ -1247,8 +1253,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"落ち着いて、遥さん。",
-			"　失礼かもしれないけど、もうその心配はないのよ\""
+			"\"Calm down, Haruka.",
+			"I don't mean to be rude, but you don't",
+			"have to worry about that anymore.\""
 		]
 	},
 	{
@@ -1275,7 +1282,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"でも、こんなになっちゃったんですよ！\""
+			"\"But it's gotten so bad!\""
 		]
 	},
 	{
@@ -1382,7 +1389,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"こいつは……！\""
+			"\"That's...!\""
 		]
 	},
 	{
@@ -1403,7 +1410,8 @@
 	},
 	{
 		"STRINGS": [
-			"普段は軽妙な語り口調の風守さんでも絶句してしまう。"
+			"Even Kazamori, who usually speaks in a",
+			"light-hearted tone, is at a loss for words."
 		]
 	},
 	{
@@ -1420,8 +1428,7 @@
 	},
 	{
 		"STRINGS": [
-			"私達の視界に飛び込んできたのは、",
-			"いまだ腫れの引かない生々しい"
+			"What came into our view was a fresh, still swollen "
 		]
 	},
 	{
@@ -1432,7 +1439,7 @@
 	},
 	{
 		"STRINGS": [
-			"だった。"
+			"."
 		]
 	},
 	{
@@ -1455,7 +1462,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"これを……田村さんが？\""
+			"\"This is from...Mr.Tamura?\""
 		]
 	},
 	{
@@ -1512,9 +1519,10 @@
 	},
 	{
 		"STRINGS": [
-			"こくり、と遥さんは力なくうなずいた。",
-			"瞳に涙を滲ませている。",
-			"遥さんが髪で必死に隠していたのも頷ける。"
+			"Haruka nodded her head emphatically.",
+			"Tears welled up in her eyes.",
+			"No wonder Haruka was trying so",
+			"hard to hide them with her hair."
 		]
 	},
 	{
@@ -1537,8 +1545,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"遥さん……大変でしたね。",
-			"　お気持ちはよくわかります\""
+			"\"Haruka... I'm sorry to hear about your difficult time.",
+			"I know exactly how you feel.\""
 		]
 	},
 	{
@@ -1561,8 +1569,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"確かにそんな事をされたら憤りを感じるのはもっともです。",
-			"　仮に私が同じ目にあったとしたら––\""
+			"\"You are right to feel resentful if",
+			"someone does that to you.",
+			"If I were to be subjected to the same thing...\""
 		]
 	},
 	{

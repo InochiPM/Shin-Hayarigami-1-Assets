@@ -73,7 +73,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あなたこそ、"
+			"\"What is it that you"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"どっちがいいの？"
+			" want? "
 		]
 	},
 	{
@@ -91,7 +91,8 @@
 	},
 	{
 		"STRINGS": [
-			"　まずはあなたの希望を聞かせてほしいんだけど\""
+			"",
+			"I'd like to hear that from you\""
 		]
 	},
 	{
@@ -118,9 +119,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"決まってる。ここで真実を突き詰めたい。",
-			"　だが、現状ではとてもじゃないが無理だ。",
-			"　このままではみすみすブラインドマンを逃がしてしまう\""
+			"\"It's obvious. I want to get to the bottom of this.",
+			"But it's impossible under the current circumstances.",
+			"If we don't do something, we'll lose the Blind Man.\""
 		]
 	},
 	{
@@ -147,8 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"つまり、私達があなたの助言のもとに捜査しろ。",
-			"　……そう言いたいのね\""
+			"\"In other words, we're to investigate on your advice.",
+			"...Is that what your saying?\""
 		]
 	},
 	{
@@ -175,7 +176,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうだ。頭の回転が速くて助かるな\""
+			"\"That's right. Thank God you're so quick-witted.\""
 		]
 	},
 	{
@@ -192,8 +193,8 @@
 	},
 	{
 		"STRINGS": [
-			"そう言うと、彼は満足そうに頷いた。",
-			"どうやら彼の目論見を満たす事が出来たようだ。"
+			"He nodded his head in satisfaction.",
+			"Apparently, he was able to fulfill his plan."
 		]
 	},
 	{
@@ -210,8 +211,8 @@
 	},
 	{
 		"STRINGS": [
-			"だが、どうしてブラインドマンに執着をするんだろうか？",
-			"このあたりをもっと注意深く尋ねなければ……。"
+			"But why the obsession with  the Blind Man?",
+			"We need to ask more carefully about this..."
 		]
 	},
 	{

@@ -77,10 +77,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"Now, what are you going to do?",
-			"Are you going to listen to me?",
-			"Or are you going to let me go back to Tokyo?",
-			"It' s not my choice. Just decide quickly.\""
+			"\"Now, what are you going to do? Are you going",
+			"to listen to me? Or are you going to let me go",
+			"back to Tokyo? I have no say in this.",
+			"Just decide quickly.\""
 		]
 	},
 	{

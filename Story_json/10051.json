@@ -118,7 +118,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Aster I had spoke at the trial-\""
+			"\"After what I said at the trial...\""
 		]
 	},
 	{
@@ -141,9 +141,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"The superintendent came to the Tokyo Detention Center.",
-			"To see if I meant what I said.",
-			"And he made this offer.\""
+			"\"The Warden came to the Tokyo Detention Center,",
+			"to see if I meant what I said.",
+			"And he made me this offer\""
 		]
 	},
 	{
@@ -166,8 +166,9 @@
 	},
 	{
 		"STRINGS": [
-			"\" 'If you cooperate, we'll reduce your",
-			"sentence. Give me the information you know.' \""
+			"\" «If you promise to cooperate and give",
+			"me the info I want your sentence will be lessened» ",
+			"Is what he said.\""
 		]
 	},
 	{

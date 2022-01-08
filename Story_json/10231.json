@@ -123,9 +123,10 @@
 	},
 	{
 		"STRINGS": [
-			"やはり、関本に会いに行こう。",
-			"何か新情報を得られるかもしれない。",
-			"その期待を込めて、私達は再び留置所に向かった。"
+			"Let's go see Sekimoto.",
+			"We might be able to give some new information.",
+			"With this expectation, we headed back",
+			"to the detention center."
 		]
 	},
 	{
@@ -276,8 +277,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おや、戻りが早いな。",
-			"　私の事が嫌いじゃないのか\""
+			"\"Oh, you're back early.",
+			"I guess you don't hate me.\""
 		]
 	},
 	{
@@ -304,8 +305,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"個人的な感情と仕事は別です。",
-			"　必要だから会いに来ただけですから\""
+			"\"My personal feelings and my work are separate.",
+			"I only came to see you because I needed to.\""
 		]
 	},
 	{
@@ -332,9 +333,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふん、まあいい。",
-			"　……その人は？",
-			"　君も吹きだまり部署の一員か？\""
+			"\"Hmm, okay.",
+			"Who is that woman?",
+			"You're part of the blowhard department?\""
 		]
 	},
 	{
@@ -397,8 +398,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"はじめまして。鑑識課の立花といいます。",
-			"　新天地の檻の中はどう？\""
+			"\"Nice to meet you. ",
+			"I'm Tachibana from the Forensics Section.",
+			"How's it going in your new cage?\""
 		]
 	},
 	{
@@ -469,9 +471,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"なかなか悪くない。",
-			"　東京拘置所は君みたいな女性と会う機会はなかったからな。",
-			"　それだけでも夢心地だよ\""
+			"\"Not bad at all.",
+			"There's not a woman like you at the",
+			"Detention center ill tell you that.",
+			"That alone is a dream come true.\""
 		]
 	},
 	{
@@ -534,7 +537,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"美鈴、気を付けて。口だけはうまいんだから\""
+			"\"Misuzu, be careful. He's a good talker.\""
 		]
 	},
 	{
@@ -561,9 +564,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかってるって。",
-			"　––さて。キミに聞きたいんだけど、",
-			"　Ｃ村の犯人はブラインドマンなんだって？\""
+			"\"I know that.",
+			"-Now then. I have a question for you.",
+			"is the Blind Man responsible for the murders in Town C?\""
 		]
 	},
 	{
@@ -634,7 +637,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ああ。そうだが\""
+			"\"Ahh, well..\""
 		]
 	},
 	{
@@ -697,8 +700,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ついさっき、私達は被害者の身元の特定が出来たの。",
-			"　あなたは、そのブラインドマンの正体はわかる？\""
+			"\"Just a moment ago, we were",
+			"able to identify a victim.",
+			"Can you identify the Blind Man?\""
 		]
 	},
 	{
@@ -769,7 +773,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……何が言いたいのか、よくわからないが？\""
+			"\"...I'm not sure what your getting at.\""
 		]
 	},
 	{
@@ -826,9 +830,10 @@
 	},
 	{
 		"STRINGS": [
-			"美鈴の口の端に笑みが浮かんだ。",
-			"彼女が笑うときは、必ず相手に何かをけしかける時だ。",
-			"なんだか嫌な予感がする。"
+			"A smile appeared on the corner of Misuzu's mouth.",
+			"Whenever she smiles, it's always when she's",
+			"trying to get someone to do something.",
+			"I have a bad feeling about this."
 		]
 	},
 	{
@@ -851,9 +856,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"私の仕事は現場に残された遺留品を",
-			"　特定する事と言ってもいい。",
-			"　あなたのような根も葉もない話で仕事をしないって事\""
+			"\"You could say that my job is to",
+			"identify the remains left at the scene.",
+			"It means I don't work with baseless stories like yours.\""
 		]
 	},
 	{
@@ -876,7 +881,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"噂じゃ、殺人事件の被害者は生まれない\""
+			"\"Rumor has it, the victim was never born.\""
 		]
 	},
 	{
@@ -931,8 +936,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい、おい北條。",
-			"　……なんかやばい雰囲気じゃないか\""
+			"\"Hey, hey, Hojo.",
+			"This looks like it could be bad...\""
 		]
 	},
 	{
@@ -953,9 +958,9 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんが、不安そうに耳打ちしてきた。",
-			"美鈴は職務上、根拠のないオカルトを毛嫌いしているのを",
-			"今さら思い出した。"
+			"Kazamori-san gave me an uneasy earful.",
+			"He remembered that in the course of",
+			"her duties, Misuzu hated unsubstantiated occultism."
 		]
 	},
 	{
@@ -972,8 +977,8 @@
 	},
 	{
 		"STRINGS": [
-			"適当なところで切り上げないと、面倒な事に",
-			"なってしまいそうだ。"
+			"If I don't cut off this conversation at the",
+			"right place, I'm going to get into trouble."
 		]
 	},
 	{
@@ -1012,8 +1017,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"美鈴、これくらいでいいかな。",
-			"　あなたも仕事が溜まっているんでしょ？\""
+			"\"Misuzu, I think that's enough.",
+			"You've got a lot of work piling up too, don't you?\""
 		]
 	},
 	{
@@ -1068,9 +1073,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"だが、時として根拠のない噂は人を不安に陥れて、",
-			"　凶行に走らせる事もある。",
-			"　私は自分が無意味な存在だとは思っていないよ\""
+			"\"But sometimes unsubstantiated rumors can make",
+			"people feel uneasy and lead them to commit heinous acts.",
+			"I don't consider myself to be a senseless person.\""
 		]
 	},
 	{
@@ -1133,8 +1138,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"つまり、この事件は、でっち上げが生み出した",
-			"　人外の存在によって引き起こされたものだと？\""
+			"\"So you're saying that this incident was caused by",
+			"an inhuman entity created by a myth?\""
 		]
 	},
 	{
@@ -1155,9 +1160,9 @@
 	},
 	{
 		"STRINGS": [
-			"だめだ、美鈴のハートに火が付いた。",
-			"風守さんの指摘通り、なかなかヤバい方向に",
-			"向かって突き進んでいるのは明らかだ。"
+			"It's no use, Misuzu's heart's been set a flame.",
+			"As Kazamori pointed out, it's clear that she's ",
+			"heading in a very bad direction."
 		]
 	},
 	{
@@ -1224,8 +1229,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"人外だなんて……ただ、オカルティズムを",
-			"　無闇に否定するべきじゃないとは思うが\""
+			"\"It''s not like it's out of the ordinary...",
+			"I just don't think we should dismiss",
+			"occultism without a second thought..\""
 		]
 	},
 	{
@@ -1248,9 +1254,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"たしかにオカルトは非科学的、非現実的だと言われている。",
-			"　だが、それはオカルトを信奉してしまう背景や",
-			"　心理的構造の科学的解析を否定する事にはならない\""
+			"\"It is true that the occult is said to be",
+			"unscientific and unrealistic. But that doesn't negate",
+			"the analysis of the background and psychological structure",
+			"that leads people to believe in the occult.\""
 		]
 	},
 	{
@@ -1313,8 +1320,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いい？　私達警察は学問を追究したいわけじゃないの。",
-			"　あなたみたいな犯罪者と一緒にしないで\""
+			"\"Okay?　We're not here to pursue academics.",
+			"Don't lump us in with criminals like you.\""
 		]
 	},
 	{
@@ -1381,8 +1388,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"君こそ物質至上主義の申し子は、データだけに満足して",
-			"　物事の本質を見落とす恐れがあるぞ\""
+			"\"You, the poster child for material supremacy, are ",
+			"so satisfied with the data that you risk missing",
+			"the point of the matter.\""
 		]
 	},
 	{
@@ -1441,8 +1449,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい、そこまで！！",
-			"　もういいでしょ。これ以上彼を刺激しないで\""
+			"\"Yes! That's quite enough!",
+			"Don't provoke him any further.\""
 		]
 	},
 	{
@@ -1485,8 +1493,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"あら、私はそんなつもりはないけど。",
-			"　ただ彼と議論をしてただけよ\""
+			"\"Oh, I didn't mean to.",
+			"I was just having an argument with him.\""
 		]
 	},
 	{
@@ -1553,9 +1561,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"その通りだ。なかなか楽しかったよ。",
-			"　今回は途中で止められたけど、",
-			"　機会があればまたお願いするよ\""
+			"\"You're right. It was a lot of fun.",
+			"They stopped me in the middle this time,",
+			"but I'll ask again if I get a chance.\""
 		]
 	},
 	{
@@ -1610,7 +1618,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ええ。こちらこそまたお願いするわね\""
+			"\"Yeah. I'm sure we'll be seeing you around.\""
 		]
 	},
 	{
@@ -1639,8 +1647,9 @@
 	},
 	{
 		"STRINGS": [
-			"二人は、にっこり、と微笑んだ。",
-			"だが、それに薄ら寒さを感じたのは私だけじゃないだろう。"
+			"The two of them smiled at each other.",
+			"But I wasn't the only one who felt a",
+			"twinge of chill."
 		]
 	},
 	{

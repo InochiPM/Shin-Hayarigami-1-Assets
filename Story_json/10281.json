@@ -83,7 +83,8 @@
 	},
 	{
 		"STRINGS": [
-			"二人目の事情聴取は、地元で酒蔵を営んでいる"
+			"The second interview was with a",
+			"local sake brewery owner "
 		]
 	},
 	{
@@ -98,7 +99,7 @@
 	},
 	{
 		"STRINGS": [
-			"（すなほり・まさはる）だ。"
+			"."
 		]
 	},
 	{
@@ -115,8 +116,8 @@
 	},
 	{
 		"STRINGS": [
-			"代々このＣ村で、地酒造りを営んでおり、",
-			"地元に親しまれている。"
+			"It has been brewing local sake in Town C",
+			"for generations, and is well known by the locals."
 		]
 	},
 	{
@@ -133,8 +134,8 @@
 	},
 	{
 		"STRINGS": [
-			"その味はなかなかで、",
-			"分署の署員でも贔屓にしている者は多い。"
+			"The taste is quite good, and even many",
+			"of the staff at the branch station like it."
 		]
 	},
 	{
@@ -151,9 +152,10 @@
 	},
 	{
 		"STRINGS": [
-			"今回呼ばれた砂堀さんは職人肌タイプの人間だ。",
-			"その気概だからこそ、毎年美味しいお酒を作り上げると",
-			"言っても過言ではない。"
+			"Mr. Sunahori, is a craftsman type of person.",
+			"It would not be an exaggeration to say that it is",
+			"because of his spirit that he is able to produce",
+			"delicious sake every year."
 		]
 	},
 	{
@@ -170,8 +172,8 @@
 	},
 	{
 		"STRINGS": [
-			"だからこそ、私は今回の事情聴取に呼ばれた事を",
-			"意外に感じた。"
+			"That's why I found it surprising that",
+			"I was called in for this interview."
 		]
 	},
 	{
@@ -246,8 +248,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"よう砂堀。相変わらず仏頂面だな。",
-			"　仕事の方はどうなんだ？\""
+			"\"Hey, Sunahori. You still look so serious.",
+			"How's work going?\""
 		]
 	},
 	{
@@ -274,7 +276,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そろそろ今年の新作を考えなきゃならん時期だな\""
+			"\"It's time to start thinking about what's new this year.\""
 		]
 	},
 	{

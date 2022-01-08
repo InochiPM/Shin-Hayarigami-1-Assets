@@ -111,7 +111,7 @@
 	},
 	{
 		"STRINGS": [
-			"Speak my Mind."
+			"Speak my mind."
 		]
 	},
 	{
@@ -134,7 +134,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Um, why are you-\""
+			"\"Um, why are you...\""
 		]
 	},
 	{
@@ -161,9 +161,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"One of the people involved in the case is a",
-			"distant relative of a high-ranking official in the",
-			"prosecutor's office. Thought you might wanna know."
+			"\"It would appear that i have a relative of some",
+			"official working the prosecutes office",
+			"I thought you guy's should know.\""
 		]
 	},
 	{
@@ -186,8 +186,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Though i guess your grasping at straws.",
-			"As well as solve a case.\""
+			"\"I guess you're grasping at straws.",
+			"I'm trying to solve the case.\""
 		]
 	},
 	{
@@ -204,8 +204,8 @@
 	},
 	{
 		"STRINGS": [
-			"I perked up.",
-			"Did he read my mind?"
+			"That shocked me.",
+			"Was he reading my mind?"
 		]
 	},
 	{

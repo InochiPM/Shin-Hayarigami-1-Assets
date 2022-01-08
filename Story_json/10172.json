@@ -77,7 +77,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいや。あなたには"
+			"\"No, you have"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"利用価値がある。"
+			" Value."
 		]
 	},
 	{
@@ -95,8 +95,9 @@
 	},
 	{
 		"STRINGS": [
-			"　……正直、ここで点数を稼げばこんな掃きだめ部署から",
-			"　抜け出せるきっかけが掴めるかもね\""
+			"Honestly, if I could score some points here,",
+			"I'd be able to get out of this cesspool department.",
+			"Maybe we can find a way out of this.\""
 		]
 	},
 	{
@@ -151,8 +152,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"……いいね。その欲望に正直になる瞬間が。",
-			"　もしかしたら君と私は似た者同士かもしれないぞ\""
+			"\"I like that.... The moment of honesty in that desire.",
+			"You know, maybe you and I could be a lot alike.\""
 		]
 	},
 	{
@@ -179,7 +180,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あまり、嬉しくないわね、それ\""
+			"\"I'm not too happy about that.\""
 		]
 	},
 	{
@@ -206,9 +207,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"他人に怯え、他人を利用し、他人を出し抜くために、",
-			"　他人に誠実である。人間とはそういうものだ。",
-			"　いつか自由になったらまた会ってくれるかい\""
+			"\"They are scared of other people, use other people, and",
+			"are honest with other people in order to outsmart them,",
+			"That's what human beings are all about.",
+			"One day, when you are free, will you see me again?\""
 		]
 	},
 	{
@@ -225,8 +227,8 @@
 	},
 	{
 		"STRINGS": [
-			"な、なに、そのアプローチ？",
-			"もしかしてナンパのつもりなの？"
+			"What's with the approach?",
+			"Is he trying to hit on me?"
 		]
 	},
 	{
@@ -267,8 +269,8 @@
 	},
 	{
 		"STRINGS": [
-			"あまり男性に言い寄られた経験がないため、",
-			"思わず、どきっ、とさせられる。"
+			"Since I have not had much experience",
+			"with men wooing me, I was surprised."
 		]
 	},
 	{

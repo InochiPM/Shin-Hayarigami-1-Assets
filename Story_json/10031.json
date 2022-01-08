@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"I stole a glance at his profile.",
-			"I knew he had a cool expression on his face."
+			"I stole a glance at him.",
+			"He still had the calm and collected look."
 		]
 	},
 	{
@@ -148,8 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"Why did he mention the case that happened in C",
-			"City S prefecture, which had nothing",
+			"Why did he mention the case that happened in",
+			"City C, S prefecture, which had nothing",
 			"to do with him at all?"
 		]
 	},
@@ -168,7 +168,7 @@
 	{
 		"STRINGS": [
 			"Why did the higher-ups trust his statements",
-			"and let him make bail in secret?......"
+			"and let him make bail in secret?..."
 		]
 	},
 	{
@@ -203,8 +203,7 @@
 	},
 	{
 		"STRINGS": [
-			"...I can't find anything at all.",
-			"Ho's so different from them."
+			"There's gotta be something that proves hes a murderer."
 		]
 	},
 	{
@@ -221,8 +220,8 @@
 	},
 	{
 		"STRINGS": [
-			"No, I don't feel anything",
-			"What can I say, he's not like other men."
+			"It's no use, I can't find a thing.",
+			"He's so much different from the others."
 		]
 	},
 	{
@@ -253,7 +252,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"...... You look like you want to ask me something.\""
+			"\"You look like you want to ask me something...\""
 		]
 	},
 	{
@@ -320,24 +319,24 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazemori Hayato"
+		"NAME": "Kazamori Hayato"
 	},
 	{
 		"STRINGS": [
-			"\"Damned"
+			"\"Tch, Damned "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "14000a00",
 		"KEYWORD_ID": 3006,
-		"KEYWORD": "ナンパ野郎"
+		"KEYWORD": "Pick-up Artist"
 	},
 	{
 		"STRINGS": [
 			".",
-			"You're talking to a woman.",
-			"Hey, Hojo, tell him to get his ass in gear.\""
+			"You only talk to women now?",
+			"Hey Houjou, go tell this guy to kick rocks.\""
 		]
 	},
 	{

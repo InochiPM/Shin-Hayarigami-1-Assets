@@ -89,8 +89,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"仮に私が同じ目にあったとしたら——",
-			"　刑事告訴ものです\""
+			"\"If the same thing had happened to me...",
+			"I'd file a criminal complaint.\""
 		]
 	},
 	{
@@ -145,8 +145,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ですよね？　よかった、刑事さんも同じ思いで……。",
-			"　あの、今から被害届は出せますか？\""
+			"\"Thank God you feel the same way as me...",
+			"Uhm...Can I file that complaint now?\""
 		]
 	},
 	{
@@ -201,9 +201,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"残念だが、訴えたい相手––田村はもう死んでいる。",
-			"　被疑者死亡でも告訴は出来るが、",
-			"　田村からの心からの謝罪はない\""
+			"\"I'm sorry, the person you want to sue is already dead.",
+			"You can still file a complaint even if the suspect is",
+			"dead, but you won't get a sincere apology from Tamura.\""
 		]
 	},
 	{
@@ -226,7 +226,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"大変同情するが、それでアンタが救われるわけじゃない\""
+			"\"I feel very sorry for you,",
+			"but it doesn't mean you'll be saved.\""
 		]
 	},
 	{
@@ -333,7 +334,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"…………！！\""
+			"\"......!!\""
 		]
 	},
 	{
@@ -378,8 +379,8 @@
 	},
 	{
 		"STRINGS": [
-			"遥さんは唇を噛みしめながら、机を叩いた。",
-			"おそらく、今まで抑え込んでいた感情が噴出したのだろう。"
+			"Haruka bit her lip and slammed the desk.",
+			"Perhaps the emotions she had been suppressing erupted."
 		]
 	},
 	{
@@ -396,8 +397,8 @@
 	},
 	{
 		"STRINGS": [
-			"その心情には心から同情するしかない。",
-			"だが同時に、ある疑念が沸いてきた。"
+			"I can only sympathize with her feelings.",
+			"But at the same time, something made me suspicious."
 		]
 	},
 	{
@@ -414,8 +415,8 @@
 	},
 	{
 		"STRINGS": [
-			"遥さんにも、田村さんを殺害するに値する",
-			"充分な動機が存在する……と。"
+			"Haruka-san also has a sufficient",
+			"motive to kill Tamura......"
 		]
 	},
 	{

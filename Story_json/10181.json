@@ -73,8 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いい？　あなたの口からきちんと聞かせて。",
-			"　あなたは何を望むのかしら\""
+			"\"Okay? I want to hear it straight from your mouth.",
+			"What do you want from me?\""
 		]
 	},
 	{
@@ -105,8 +105,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"……素直に私の言葉に耳を傾けてほしい。",
-			"　これ以上、君達の不手際で死体を増やしたくないならな\""
+			"\"...I want you to listen to my words honestly.",
+			"Unless you want to add more",
+			"bodies to your misadventures.\""
 		]
 	},
 	{

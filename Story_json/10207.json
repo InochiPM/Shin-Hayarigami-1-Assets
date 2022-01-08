@@ -73,7 +73,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"答えなさい！！！\""
+			"\"Answer me!\""
 		]
 	},
 	{
@@ -118,8 +118,9 @@
 	},
 	{
 		"STRINGS": [
-			"だが、関本は一向に返事をしない。",
-			"どんなに詰め寄っても視線すら合わせようとはしなかった。"
+			"But Sekimoto didn't respond at all.",
+			"No matter how hard I pressed him,",
+			"he wouldn't even meet my gaze."
 		]
 	},
 	{
@@ -158,8 +159,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい、もしかしてコイツ……、",
-			"　また黙秘を始めたんじゃないのか？\""
+			"\"Hey, could it be that this guy,",
+			"Isn't he starting to keep quiet again?\""
 		]
 	},
 	{
@@ -188,7 +189,8 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんのその呟きにだけ、かすかに反応して鼻で笑った。"
+			"I snickered, reacting only faintly",
+			"to that murmur of Kazamori's."
 		]
 	},
 	{
@@ -230,8 +232,8 @@
 	},
 	{
 		"STRINGS": [
-			"それからどうアプローチしても",
-			"決して口を開く事はなかった。"
+			"Then, no matter how I approached him,",
+			"he never opened his mouth."
 		]
 	},
 	{

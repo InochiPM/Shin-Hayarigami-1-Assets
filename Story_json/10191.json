@@ -81,8 +81,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ねえ、死体を増やしたくないってどういう事？",
-			"　いい加減、"
+			"\"Hey, what do you mean you don't want more bodies?",
+			"Don't you think your being a little"
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"しつこい"
+			" persistant "
 		]
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"STRINGS": [
-			"って思わないの？\""
+			"here?\""
 		]
 	},
 	{
@@ -155,8 +155,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"……わかった。もういい。",
-			"　君には失望を禁じ得ないよ\""
+			"\"...Okay. That's enough.",
+			"I can't say I'm disappointed in you.\""
 		]
 	},
 	{
@@ -183,8 +183,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ちが––そういう意味じゃないの。",
-			"　言葉が過ぎたわ。だから––\""
+			"\"That's not what I meant.",
+			"I was out of line...\""
 		]
 	},
 	{
@@ -235,9 +235,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふふ……わかってるよ。こっちも冗談の言葉が過ぎた。",
-			"　だがくれぐれも認識して欲しい。",
-			"　膠着した状況を打破する鍵は私かもしれないってね\""
+			"\"Heh...I know. It was a little too",
+			"much of a joke on my part.",
+			"But I want you to be aware.",
+			"That I might be the key to breaking the stalemate.\""
 		]
 	},
 	{
@@ -254,8 +255,8 @@
 	},
 	{
 		"STRINGS": [
-			"私の謝罪に対してすぐさま態度を",
-			"軟化してくれたのはラッキーだった……。"
+			"I was lucky that he softened his attitude",
+			"immediately in response to my apology..."
 		]
 	},
 	{
@@ -296,8 +297,8 @@
 	},
 	{
 		"STRINGS": [
-			"犯罪者に対して下手に出るのはあまり得策ではない。",
-			"だが、それでも彼の扱いは慎重にしたほうが良さそうだ。"
+			"It's not a good idea to make a stand against a criminal.",
+			"But still, it would be best to handle him carefully."
 		]
 	},
 	{

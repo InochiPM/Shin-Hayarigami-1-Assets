@@ -101,8 +101,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"北條クン、もうそれくらいでいいだろう。",
-			"　そうカッカしなさんな\""
+			"\"Hey there, that's enough.",
+			"Don't get so upset.\""
 		]
 	},
 	{
@@ -129,7 +129,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"しかし––\""
+			"\"But-\""
 		]
 	},
 	{
@@ -156,9 +156,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"はいはい、いい子いい子。",
-			"　彼の処遇をウチの課の単独判断で",
-			"　どうにかできるわけがないだろう？\""
+			"\"Yes, yes, that's good.",
+			"There's no way my department should be in",
+			"sole charge of his treatment, right?\""
 		]
 	},
 	{
@@ -181,8 +181,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それは風守クンもわかってるよね。",
-			"　さっき彼女に同調してたけど\""
+			"\"You know that, don't you Kazamori?",
+			"I was in agreement with her earlier.\""
 		]
 	},
 	{
@@ -241,7 +241,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"いやまあ……はあ……\""
+			"\"No well... It's ah...\""
 		]
 	},
 	{
@@ -262,9 +262,9 @@
 	},
 	{
 		"STRINGS": [
-			"いくら彼が役立たずだとは言っても、",
-			"捜査の主導権を握っているわけではない我々の独断で",
-			"処遇を決める事はできない。"
+			"No matter how useless he is, we are not in control",
+			"of the investigation and cannot decide how",
+			"to treat him on our own."
 		]
 	},
 	{
@@ -281,7 +281,7 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長はそう言いたいのだ。"
+			"That's what Chief Kuroda is trying to say."
 		]
 	},
 	{
@@ -336,9 +336,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあ、なんというかね。",
-			"　今の白熱したやりとりをじっくり見させてもらったけど、",
-			"　キミはうちの引受案件にふさわしいと思うよ、ウン\""
+			"\"Well, what can I say?",
+			"I've had a chance to watch your heated exchange,",
+			"and I think you're a good candidate for our lead project.\""
 		]
 	},
 	{
@@ -409,7 +409,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そいつはどうも\""
+			"\"Thanks for that.\""
 		]
 	},
 	{
@@ -472,9 +472,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ただね、キミ。知っておいてほしいんだけど、",
-			"　いくらウチら特ラ課でも、仕事は真面目にやりたいわけ。",
-			"　怒られたくないしね\""
+			"\"But, you know. Even though we're in the",
+			"Special Agent Section, we want to do our job seriously.",
+			"We don't want to get angry.\""
 		]
 	},
 	{
@@ -497,9 +497,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"うちの部下たちもね、ああみえてイイ奴なんだよ？",
-			"　そんなにツンケンする事ないじゃない。",
-			"　仲良くしてやってよ\""
+			"\"You know, my men are good guys too,",
+			"despite their appearance. There's no",
+			"need to be so vicious. You should get",
+			"along with them.\""
 		]
 	},
 	{
@@ -570,7 +571,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それは私だけじゃどうにもならない問題だな\""
+			"\"Well, that's a problem I can't handle alone.\""
 		]
 	},
 	{
@@ -633,8 +634,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあそうだよね、じゃあ仲直りの握手って事で。",
-			"　北條クン、彼と握手\""
+			"\"Well, yeah, I guess so.",
+			"Let's call it a handshake to make up.",
+			"Hojo, shake hands with him.\""
 		]
 	},
 	{
@@ -661,8 +663,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"断固拒否します。",
-			"　コイツと握手なんてしたら変人菌が感染しちゃう\""
+			"\"I firmly refuse.",
+			"If I shake hands with this guy,",
+			"I'll get infected with his weirdo germs.\""
 		]
 	},
 	{
@@ -689,8 +692,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんな小学生みたいな事言わないの！",
-			"　じゃ、じゃあ、風守クン！\""
+			"\"Don't talk like a schoolgirl!",
+			"Well...then Kazamori!\""
 		]
 	},
 	{
@@ -749,7 +752,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"けっ。右に同じ\""
+			"\"Tch. Same as Hojo.\""
 		]
 	},
 	{
@@ -808,7 +811,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんなぁ……\""
+			"\"No way...\""
 		]
 	},
 	{
@@ -879,7 +882,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"管理職は大変だな。同情するよ\""
+			"\"It's tough being a supervisor. I pity you.\""
 		]
 	},
 	{
@@ -942,8 +945,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いやいや他人事じゃないでしょ。",
-			"　とにかく話をまとめるとだ\""
+			"\"No, no. that's no one else's issue but my own.",
+			"Anyway, to wrap things up.\""
 		]
 	},
 	{
@@ -966,9 +969,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"もうちょっと、犯人に直結するような情報ってないの？",
-			"　ブラインドマンって言われても、おじさん困っちゃうよ。",
-			"　スレンダーマンとはどう違うの？\""
+			"\"Don't you have any more information that",
+			"could lead directly to the killer?",
+			"If you call him Blind Man, I'll be in trouble, Mister.",
+			"How is it any different from the Slender Man?\""
 		]
 	},
 	{
@@ -1039,7 +1043,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その話を聞きたいなら、二時間ほど必要だ\""
+			"\"If you want to hear that story,",
+			"I need a couple of hours.\""
 		]
 	},
 	{
@@ -1102,9 +1107,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"あっそ。じゃあ、それは勘弁。",
-			"　とにかくさ〜、せっかくのチャンスなんだから、",
-			"　ウチらに点数を稼がせてくれないかな〜\""
+			"\"Okay. Well, then, please don't do that.",
+			"Anyhow, since we have this chance,",
+			"let us earn a few points.\""
 		]
 	},
 	{
@@ -1175,9 +1180,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"殺害予告は見つからなかったか？",
-			"　『お前の目を寄越せ』って。",
-			"　ブラインドマンは出現前に、なんらかの予告をする\""
+			"\"Did you find any threats around the victims?",
+			"For example «Give Me Your Eyes»",
+			"The Blind Man makes some kind of",
+			"announcement before he appears.\""
 		]
 	},
 	{
@@ -1232,8 +1238,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほど！　さっそく裏をとってみよう！",
-			"　北條クン、風守クン！\""
+			"\"I see!　Let's get to the bottom of this!",
+			"Houjou!, Kazamori!\""
 		]
 	},
 	{
@@ -1276,9 +1282,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"あのなあおっさん！",
-			"　完全に奴に転がされてるじゃねえか！",
-			"　やっぱりコイツに頼るなんて馬鹿げてるって\""
+			"\"Hey, old man!",
+			"He's totally turning you over!",
+			"I knew it was foolish to rely on him.\""
 		]
 	},
 	{
@@ -1301,7 +1307,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"さっさと本庁に報告してやれ。この"
+			"\"Now report to the main office, This "
 		]
 	},
 	{
@@ -1312,9 +1318,9 @@
 	},
 	{
 		"STRINGS": [
-			"は、",
-			"　ただ外の空気が吸いたかったために",
-			"　狂言をまわしやがったってな！　返品だ返品！！\""
+			" just",
+			"wanted to get some air, and went nuts!",
+			"Send him back! Begone!\""
 		]
 	},
 	{
@@ -1417,7 +1423,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はいはい、こちら留置所ですが––\""
+			"\"Yeah, yeah... ",
+			"this is the detention center, but-\""
 		]
 	},
 	{
@@ -1468,7 +1475,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"話聞いてんのかよ、このハゲっ！\""
+			"\"Are you listening to me,",
+			"you bald-headed bastard?\""
 		]
 	},
 	{
@@ -1495,7 +1503,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"うん、はい、はい……ほほー……\""
+			"\"Yeah, yes... Hohoho...\""
 		]
 	},
 	{
@@ -1512,7 +1520,7 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長はさりげなく風守さんの追及をかわしてみせた。"
+			"Chief Kuroda casually dodged Kazamori's pursuit."
 		]
 	},
 	{
@@ -1535,9 +1543,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ああ、そうですか。いやご苦労さま。",
-			"　今から戻るから。オフィスでって事で。",
-			"　いつも悪いね、今度奢るから\""
+			"\"Oh, yeah. Thanks for your help.",
+			"I'll be right back. We'll see you at the office.",
+			"I'm sorry about all this, I'll buy you a drink sometime.\""
 		]
 	},
 	{
@@ -1572,8 +1580,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"鑑識からだよ。",
-			"　ガイシャから新発見があったって\""
+			"\"It's from forensics.",
+			"They said there was a new discovery.\""
 		]
 	},
 	{

@@ -73,8 +73,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"どうした、痛いところを突かれて降参か？",
-			"　君との議論は楽しいんだが……\""
+			"\"What's the matter? You surrender when",
+			"someone hit you where it hurts?",
+			"I enjoy debating with you......\""
 		]
 	},
 	{
@@ -91,9 +92,9 @@
 	},
 	{
 		"STRINGS": [
-			"決して彼の言葉に窮したわけではない。",
-			"彼の返答に失望したのは事実だが、",
-			"その意図について確かめなくてはならない。"
+			"I was never at a loss for his words.",
+			"I was, in fact, disappointed by his response.",
+			"But I have to be sure of his intentions."
 		]
 	},
 	{
@@ -110,7 +111,8 @@
 	},
 	{
 		"STRINGS": [
-			"……なんでもいいから、次は言葉を返した方がよさそうだ。"
+			"......I guess I'd better get back",
+			"some words next time, whatever they are."
 		]
 	},
 	{

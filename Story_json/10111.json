@@ -73,7 +73,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			"\"Ill give you"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"I'll give you credit"
+			"Credit"
 		]
 	},
 	{
@@ -91,9 +91,9 @@
 	},
 	{
 		"STRINGS": [
-			"for using that sophistry to get",
-			"the criminal trial adjourned.",
-			"But that's it.\""
+			"For bringing the",
+			"trial to an adjournment by using",
+			"sophistry, but thats it.\""
 		]
 	},
 	{
@@ -147,9 +147,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"What more do I need to hear from you?",
-			"What's this about an fake monster being the culprit?",
-			"There are real incidents going on.\""
+			"\"What more do you want us to hear?",
+			"What's this about an imaginary monster being the culprit?",
+			"There are real cases out there.\""
 		]
 	},
 	{
@@ -176,9 +176,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"That's right. We have a case.",
-			"Which means it's nothing more than a hint that",
-			"the Blind Man is real.\""
+			"\"That's right. The case is open.",
+			"In other words, it's nothing more than a",
+			"suggestion that the Blind Man is real.\""
 		]
 	},
 	{
@@ -195,10 +195,10 @@
 	},
 	{
 		"STRINGS": [
-			"He didn't change his expression,",
-			"but kept a thin smile on his face.",
+			"He didn't change his expression and",
+			"kept a thin smile on his face.",
 			"It was as if he was completely ignoring my",
-			"feelings. I couldn't help but feel resentful."
+			"feelings, and I couldn't help but feel resentful."
 		]
 	},
 	{
@@ -215,7 +215,7 @@
 	},
 	{
 		"STRINGS": [
-			"What in the world is the purpose of his statement?",
+			"What on earth was the purpose of his statement?",
 			"The possibility that it was just a copycat or a",
 			"coincidence has not been ruled out."
 		]

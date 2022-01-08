@@ -75,7 +75,7 @@
 	},
 	{
 		"STRINGS": [
-			"いや、その必要はない。"
+			"No, that won't be necessary."
 		]
 	},
 	{
@@ -98,7 +98,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"彼に話を持って行くのはやめない？\""
+			"\"Can we stop bringing him up?\""
 		]
 	},
 	{
@@ -153,7 +153,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"え、どうして？\""
+			"\"What? Why?\""
 		]
 	},
 	{
@@ -180,7 +180,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"だって、絶対に美鈴と相性があいそうにないんだもの\""
+			"\"I don't think you two would get along quite well.\""
 		]
 	},
 	{
@@ -231,8 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"会う前から決めつけないでよ。",
-			"　私だって社交性くらいは持っているって\""
+			"\"Please don't judge me before I meet the man.",
+			"I know I'm at least sociable.\""
 		]
 	},
 	{
@@ -261,7 +261,7 @@
 	},
 	{
 		"STRINGS": [
-			"美鈴の言葉に素直にうなずけない。"
+			"I couldn't honestly nod my head to Misuzu's words."
 		]
 	},
 	{
@@ -278,7 +278,8 @@
 	},
 	{
 		"STRINGS": [
-			"関本は都市伝説やオカルトを振りかざす変人だ。"
+			"Sekimoto is a weirdo who wields",
+			"urban legends and the occult."
 		]
 	},
 	{
@@ -295,9 +296,10 @@
 	},
 	{
 		"STRINGS": [
-			"対して美鈴は、現場の地面に這いつくばって",
-			"毛先すらない細かい遺留品から物質分析にかけて、",
-			"そのデータ検出に命をかける偏屈者。"
+			"Misuzu, on one hand, is an eccentric person",
+			"who crawls on the ground at the crime scene and ",
+			"devotes her life to detecting data by analyzing ",
+			"materials."
 		]
 	},
 	{
@@ -314,9 +316,10 @@
 	},
 	{
 		"STRINGS": [
-			"オカルトの申し子の関本爽二朗と科学の申し子の立花美鈴。",
-			"その二人をあわせたらロクでもない事になるのは",
-			"火を見るより明らかだ。"
+			"Sekimoto, on the other hand is the poster",
+			"child for the occult, and Misuzu is the poster",
+			"child for science. It's clear as day that the two",
+			"of them together would be a disaster."
 		]
 	},
 	{
@@ -333,8 +336,9 @@
 	},
 	{
 		"STRINGS": [
-			"既に会う気になっている美鈴には大変申し訳ないが、",
-			"後は私達でやるからと何度も頭を下げた。"
+			"I bowed my head again and again, saying that I",
+			"was very sorry to Misuzu, who agreed to meet with us,",
+			"but we would take care of the rest from there."
 		]
 	},
 	{

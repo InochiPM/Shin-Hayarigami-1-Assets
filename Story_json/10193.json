@@ -77,7 +77,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			"\"You really like making the"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"勝手にルールを"
+			" rules "
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"決めるのがよほどお好きなのね\""
+			"up as you go eh?\""
 		]
 	},
 	{
@@ -122,9 +122,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"その言葉をそっくりそのままお返しするよ。",
-			"　私達に必要なのは感情的なわだかまりの解消だ。",
-			"　それさえ出来なければ、このまま未解決のままだぞ\""
+			"\"I'm going to take you at your word.",
+			"What we need is to resolve our emotional rift.",
+			"If we don't do that, we're going to be",
+			"left with an unsolved problem.\""
 		]
 	},
 	{
@@ -151,7 +152,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"未解決だなんて……そういう訳にいくものですか\""
+			"\"I'm not sure that's how that works...\""
 		]
 	},
 	{
@@ -178,8 +179,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうだろう。だったら互いに歩み寄る必要がある。",
-			"　だが、君の態度がこのままだったら––\""
+			"\"I'm sure you're right.",
+			"Then we need to come to terms with each other.",
+			"But if your attitude continues to be like this...\""
 		]
 	},
 	{
@@ -224,8 +226,8 @@
 	},
 	{
 		"STRINGS": [
-			"にやり、と彼は笑った。",
-			"言葉を要せず、彼の意図を感じた。"
+			"He smiled.",
+			"I felt his intentions without the need for words."
 		]
 	},
 	{
@@ -266,8 +268,8 @@
 	},
 	{
 		"STRINGS": [
-			"どうやって彼をコントロールすればいいのか。",
-			"私は悩みの種を抱えることになりそうだ。"
+			"How am I supposed to control him?",
+			"I am going to have a lot of trouble."
 		]
 	},
 	{

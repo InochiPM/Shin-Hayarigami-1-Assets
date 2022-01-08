@@ -84,7 +84,7 @@
 	{
 		"STRINGS": [
 			"After a report was made to the police,",
-			"officers immediately rushed to the university."
+			"officers rushed to the university."
 		]
 	},
 	{
@@ -121,8 +121,8 @@
 	},
 	{
 		"STRINGS": [
-			"He was standing quietly by his",
-			"side when they stepped onto the scene."
+			"He was standing quietly",
+			"when they stepped onto the scene."
 		]
 	},
 	{
@@ -304,9 +304,8 @@
 	},
 	{
 		"STRINGS": [
-			"The deceased has their heart pierced.",
-			"He had obviously killed the",
-			"victim with the intent to kill."
+			"The torso and heart had been stabbed.",
+			"And the victim had died almost instantly."
 		]
 	},
 	{
@@ -323,8 +322,8 @@
 	},
 	{
 		"STRINGS": [
-			"However, despite his considerable killing",
-			"intent, he was just standing there quietly."
+			"However, despite his considerable killing intent", 
+			"he was just standing there quietly."
 		]
 	},
 	{
@@ -342,8 +341,7 @@
 	{
 		"STRINGS": [
 			"The following officers, who caught up with the",
-			"upset officer, immediately arrested Sekimoto",
-			"and arrested him in an emergency."
+			"upset officer, immediately arrested Sekimoto.",
 		]
 	},
 	{
@@ -461,7 +459,7 @@
 	{
 		"STRINGS": [
 			"No matter what he was asked,",
-			"he stubbornly kept his mouth shut."
+			"he never spoke a word."
 		]
 	},
 	{
@@ -496,8 +494,7 @@
 	},
 	{
 		"STRINGS": [
-			"I was also threatened.",
-			"It was questioned in a severe tone."
+			"They threatened him, and force him into talking."
 		]
 	},
 	{
@@ -514,7 +511,8 @@
 	},
 	{
 		"STRINGS": [
-			"Sometimes he spoke to me in a gentle tone."
+			"But every once and a while they would play the",
+			"good cop, bad cop routine."
 		]
 	},
 	{
@@ -531,7 +529,7 @@
 	},
 	{
 		"STRINGS": [
-			"But he was not going to answer all the questions."
+			"However they tried, he remained silent."
 		]
 	},
 	{
@@ -580,10 +578,9 @@
 	},
 	{
 		"STRINGS": [
-			"Yes, until that statement at the trial.",
-			"And with that one statement, the whole case was",
-			"never going to be solved, and it was",
-			"going to be a confusing one."
+			"...Yeah, up until that moment in the court room.",
+			"his statement set off a mass amount",
+			"hysteria and confusion."
 		]
 	},
 	{

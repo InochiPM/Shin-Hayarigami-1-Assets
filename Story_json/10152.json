@@ -73,7 +73,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あなたの"
+			"\"I have no idea what your"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"意図がさっぱりわからない。"
+			" intentions "
 		]
 	},
 	{
@@ -91,7 +91,8 @@
 	},
 	{
 		"STRINGS": [
-			"　私達を煙に巻いてどうしたいの？\""
+			"are.",
+			"Are you trying to smoke us out?\""
 		]
 	},
 	{
@@ -118,8 +119,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"君らこそ、私の言葉をなぜ受け止めようとしない。",
-			"　犯人はブラインドマンだ。それだけは間違いない\""
+			"\"You are the ones who refuse",
+			"to take my words seriously.",
+			"The killer is the Blind Man.",
+			"That much is certain.\""
 		]
 	},
 	{
@@ -146,8 +149,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その意味がわからないの。",
-			"　私達に都市伝説の検証でもさせようって言うの？\""
+			"\"I don't know what that means.",
+			"Are you trying to get us to verify an urban legend?\""
 		]
 	},
 	{
@@ -174,8 +177,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"どうしてわからないんだ？",
-			"　一連の出来事はこの都市伝説をなぞらえているんだ\""
+			"\"How could you not know?",
+			"The sequence of events traces",
+			"back to this urban legend.\""
 		]
 	},
 	{
@@ -192,7 +196,7 @@
 	},
 	{
 		"STRINGS": [
-			"彼は苛立ちを隠し切れない様子だ。"
+			"He couldn't hide his frustration."
 		]
 	},
 	{
@@ -209,8 +213,8 @@
 	},
 	{
 		"STRINGS": [
-			"だが申し訳ないが、ブラインドマンをなぞらえていると",
-			"言われても、どうすればいいかわからない。"
+			"I'm sorry but, I don't know what to do",
+			"when you say you're tracing the blind man."
 		]
 	},
 	{
@@ -227,8 +231,10 @@
 	},
 	{
 		"STRINGS": [
-			"彼をどう問いただしたら、捜査の糸口を掴めるのか……。",
-			"彼の反応をもう少し注意深く探る必要がありそうだ。"
+			"How can I question him to get some",
+			"clues to the investigation?...",
+			"I will need to explore his response",
+			"a little more carefully."
 		]
 	},
 	{

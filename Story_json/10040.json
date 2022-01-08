@@ -121,12 +121,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 1,
-		"SELECT_ITEM_INFO": "１：疑問を口にしてみる",
+		"SELECT_ITEM_INFO": "１：I'm going to speak my mind.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"Speak my Mind."
+			"Speak my mind."
 		]
 	},
 	{
@@ -137,7 +137,7 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 2,
-		"SELECT_ITEM_INFO": "２：怒らせてみる",
+		"SELECT_ITEM_INFO": "２：I'll try to make him angry.",
 		"UNK1": "00000000"
 	},
 	{
@@ -157,12 +157,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "0c000e00",
 		"SELECT_ITEM_ID": 3,
-		"SELECT_ITEM_INFO": "３：観察する",
+		"SELECT_ITEM_INFO": "３：Observe.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"Observe."
+			"Observe"
 		]
 	},
 	{
@@ -183,7 +183,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00000000000200"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -196,7 +198,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00010000000200"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 1,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",
@@ -213,7 +217,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "0c000e00020000000200"
+		"UNK0": "0c000e00",
+		"CHOICE_ID": 2,
+		"UNK1": "0000000200"
 	},
 	{
 		"TYPE": "JUMP",

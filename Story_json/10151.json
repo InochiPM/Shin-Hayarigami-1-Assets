@@ -73,8 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかった、わかったわよ。",
-			"　あなたは"
+			"\"Alright, I get it!",
+			"Wha is it that"
 		]
 	},
 	{
@@ -83,7 +83,7 @@
 	},
 	{
 		"STRINGS": [
-			"何が望み"
+			" you want? "
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			"なの。はっきり教えて\""
+			"Just tell me.\""
 		]
 	},
 	{
@@ -119,8 +119,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"君達との協力だ。",
-			"　ブラインドマンの正体をこの目で見極めたいんだ\""
+			"\"Cooperation with your team.",
+			"I want to see who the Blind Man is with my own eyes.\""
 		]
 	},
 	{
@@ -147,7 +147,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……本気なの？\""
+			"\"...Are you serious?\""
 		]
 	},
 	{
@@ -174,7 +174,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"こんな状況で嘘をついてなんになる？\""
+			"\"What's the point of lying in a situation like this?\""
 		]
 	},
 	{
@@ -191,8 +191,8 @@
 	},
 	{
 		"STRINGS": [
-			"『協力』の言葉を口にする関本……。",
-			"その表情は決して嘘をついているとは思えない。"
+			"The word «Cooperation» was uttered by Sekimoto...",
+			"The look on his face never seemed to be a lie."
 		]
 	},
 	{
@@ -209,8 +209,8 @@
 	},
 	{
 		"STRINGS": [
-			"ならば、具体的に何の協力が出来るのか",
-			"それを見極めなければ……。"
+			"If so, we need to find out what",
+			"exactly we can do to help..."
 		]
 	},
 	{

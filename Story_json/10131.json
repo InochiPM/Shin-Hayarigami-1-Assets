@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"objective?"
+			" objective "
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			"here?\""
 		]
 	},
 	{
@@ -119,7 +119,7 @@
 	{
 		"STRINGS": [
 			"\"It's not that big of a deal.",
-			"I just want to explore the truth.\""
+			"I just want to explore the truth\""
 		]
 	},
 	{
@@ -176,8 +176,8 @@
 		"STRINGS": [
 			"\"For you, yes.",
 			"But for me, it's a different story.",
-			"I want to know the process by which",
-			"the urban legend materialized.\""
+			"I want to know the process by",
+			"which urban legends materialized.\""
 		]
 	},
 	{
@@ -194,8 +194,8 @@
 	},
 	{
 		"STRINGS": [
-			"Looking into his eyes.",
-			"It's just a hunch, but he isn't lying."
+			"I look into his eyes.",
+			"It's a hunch, but I'm not lying."
 		]
 	},
 	{
@@ -213,7 +213,7 @@
 	{
 		"STRINGS": [
 			"Then I need to listen a little more",
-			"deeply to what he has to say. ......"
+			"deeply to what he has to say......"
 		]
 	},
 	{

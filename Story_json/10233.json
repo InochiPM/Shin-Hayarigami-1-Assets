@@ -105,7 +105,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"彼に興味でもあるの？\""
+			"\"Are you interested in him?\""
 		]
 	},
 	{
@@ -160,7 +160,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"え、どういう意味？\""
+			"\"Huh? What do you mean?\""
 		]
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"いや、最近の美鈴には浮いた話がないから\""
+			"\"No, Misuzu has had no flirtatious stories lately.\""
 		]
 	},
 	{
@@ -216,9 +216,10 @@
 	},
 	{
 		"STRINGS": [
-			"美鈴はたしか、ここしばらく彼氏はいなかったはずだ。",
-			"彼女は決して口にはしないが、最後の彼氏と別れて以降、",
-			"少し神経質になっている気がする。"
+			"Misuzu hasn't had a boyfriend in a while, I think?",
+			"She never talks about it, but I have a feeling she's",
+			"been a little nervous since she broke up with",
+			"her last boyfriend."
 		]
 	},
 	{
@@ -269,9 +270,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"あのね、紗希。",
-			"　いくら私でも殺人犯を彼氏候補にしたいほど",
-			"　困っているわけじゃないの\""
+			"\"You know, Saki.",
+			"No matter how much I want to, I'm not in",
+			"enough trouble to want a murderer as a",
+			"potential boyfriend.\""
 		]
 	},
 	{
@@ -294,8 +296,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そりゃ確かに、非番の日は時間を持て余しているのは",
-			"　事実だけどさ……\""
+			"\"It's true that I have a lot of",
+			"time on my off days...\""
 		]
 	},
 	{
@@ -370,9 +372,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"お、そうなの？",
-			"　じゃあ、俺が美鈴ちゃんの",
-			"　彼氏候補に立候補しちゃおうかな〜！\""
+			"\"Oh, is that so?",
+			"Then maybe I should try to be a",
+			"candidate for Misuzu's boyfriend!\""
 		]
 	},
 	{
@@ -423,7 +425,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"遠慮しておきます\""
+			"\"No, thank you. I'll pass.\""
 		]
 	},
 	{
@@ -464,7 +466,8 @@
 	},
 	{
 		"STRINGS": [
-			"にべもなく断られ、風守さんは気勢を削がれた。"
+			"He was rejected without hesitation,",
+			"Kazamori's hopes were dashed."
 		]
 	},
 	{
@@ -505,8 +508,8 @@
 	},
 	{
 		"STRINGS": [
-			"とにかく、美鈴も彼にそんなに興味がないのだったら、",
-			"わざわざ会いに行かなくてもいいだろう。"
+			"Anyway, if Misuzu wasn't that interested in him,",
+			"she wouldn't have to go out of her way to see him."
 		]
 	},
 	{

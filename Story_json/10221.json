@@ -75,8 +75,9 @@
 	},
 	{
 		"STRINGS": [
-			"留置所から私達の本拠地––『特殊警ら課』に戻った時、",
-			"お目当ての人物は先に到着していた。"
+			"When we returned from the detention center to",
+			"our home base, the person we were looking for",
+			"was already waiting for us."
 		]
 	},
 	{
@@ -115,8 +116,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"……相変わらずむさくるしい場所ね。",
-			"　何度来てもうんざり。まるで場末ね\""
+			"\"...This place is as disgusting as ever.",
+			"I'm tired of coming here again and again. It's a dump.\""
 		]
 	},
 	{
@@ -159,8 +160,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんな言い方すんなよ。",
-			"　それに、今さらそんなヤジは聞き飽きた\""
+			"\"Don't talk to me like that.",
+			"Besides, I'm tired of hearing that crap now.\""
 		]
 	},
 	{
@@ -215,7 +216,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"なら『窓すらない窓際部署』ってのはどう？\""
+			"\"How are you a «Window Department»",
+			"with actually windows?\""
 		]
 	},
 	{
@@ -264,7 +266,7 @@
 	},
 	{
 		"STRINGS": [
-			"彼女の名前は"
+			"Her name's "
 		]
 	},
 	{
@@ -275,8 +277,9 @@
 	},
 	{
 		"STRINGS": [
-			"（たちばな・みすず）。",
-			"私の同期。警察学校からの馴染みだ。"
+			".",
+			"My classmate. We've known each",
+			"other since the police academy."
 		]
 	},
 	{
@@ -293,8 +296,10 @@
 	},
 	{
 		"STRINGS": [
-			"所属はＳ県警鑑識課現場鑑識第一係・現場鑑識担当。",
-			"私達の同期組の中では抜群の成績で着任した。"
+			"She was assigned to the First Field Forensics",
+			"Section of the S Prefectural Police. ",
+			"She was the highest-ranking officer",
+			"among our classmates."
 		]
 	},
 	{
@@ -311,8 +316,9 @@
 	},
 	{
 		"STRINGS": [
-			"本来なら県警に席を置いているのだが、",
-			"Ｃ村分署で発生した例の事件で、ここに身を寄せている。"
+			"Normally, I would be sitting in the prefectural",
+			"police offices, but due to the incident",
+			"that occurred at the Town C station, I am here instead."
 		]
 	},
 	{
@@ -351,8 +357,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"紗希、さっさとこんな部署から抜けたほうがいいわよ。",
-			"　ここにいたってキャリアの邪魔でしょ\""
+			"\"Saki, you should get out of this",
+			"department as soon as possible.",
+			"Staying here is a hindrance to your career.\""
 		]
 	},
 	{
@@ -395,9 +402,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ははは。君は遠慮というものがないな。",
-			"　風守クンともウマがあいそうだし、",
-			"　ウチに移籍しないか？\""
+			"\"Hahaha. You don't hold back.",
+			"You seem to get along well with Kazamori, so ",
+			"why don't you join us?\""
 		]
 	},
 	{
@@ -424,8 +431,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"遠慮しておきます、黒田課長。",
-			"　微粒子片から真相を探る鑑識業務を愛しておりますので\""
+			"\"I'll have to pass, Chief Kuroda.",
+			"I love forensic work, searching for the",
+			"truth from particulate fragments.\""
 		]
 	},
 	{
@@ -448,9 +456,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"それに、特ラ課への情報提供は、",
-			"　同期のよしみでやっているだけです。",
-			"　ご了承下さい\""
+			"\"Besides, I'm only providing information to the ",
+			"Special Section for the good of my peers.",
+			"Thank you for your understanding.\""
 		]
 	},
 	{
@@ -477,8 +485,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"く〜……手厳しいねえ。",
-			"　でも、嫌いじゃないよ\""
+			"\"Koo! that's harsh.",
+			"However, I am not averse to it.\""
 		]
 	},
 	{
@@ -499,8 +507,9 @@
 	},
 	{
 		"STRINGS": [
-			"このストレートな物言いは、正直に言うと得意じゃない。",
-			"だけど、悪意がないのだけはわかっている。"
+			"I have to admit that I'm not good",
+			"at this straight talk.",
+			"But I know there is no malice behind it all."
 		]
 	},
 	{
@@ -517,8 +526,8 @@
 	},
 	{
 		"STRINGS": [
-			"ただ、彼女は相手を気遣って時間を浪費するのを",
-			"好まないだけだ。"
+			"She just doesn't like to waste her",
+			"time worrying about other people."
 		]
 	},
 	{
@@ -573,9 +582,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"美鈴、それくらいで勘弁してよ。",
-			"　本題に入りましょう。",
-			"　ガイシャからの新発見ってなに？\""
+			"\"Misuzu, give me a break.",
+			"Let's get down to business.",
+			"What's this new discovery?\""
 		]
 	},
 	{
@@ -602,7 +611,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"身元がほぼ割れたの\""
+			"\"Were pretty sure we got an I.D.\""
 		]
 	},
 	{
@@ -623,7 +632,7 @@
 	},
 	{
 		"STRINGS": [
-			"そう言って、彼女は書類を机の上に広げた。"
+			"With that, she spread the papers out on the desk."
 		]
 	},
 	{
@@ -662,7 +671,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"被害者の名前は、"
+			"\"The victim's name is "
 		]
 	},
 	{
@@ -673,8 +682,9 @@
 	},
 	{
 		"STRINGS": [
-			"（たむら・こうたろう）。",
-			"　３５歳。麓の市街地にある都市銀行の営業マンよ\""
+			".",
+			"Thirty-five years old.",
+			"Salesman at a big bank in the foothills.\""
 		]
 	},
 	{
@@ -697,9 +707,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"現在、捜査一課が裏を取りに行っているけど、",
-			"　ほぼ間違いないでしょう。",
-			"　念の為、ガイシャのＤＮＡを科捜研で鑑定中よ\""
+			"\"Currently, the forensic team is trying to get a",
+			"background check, but I'm almost certain.",
+			"For the record, the bodies DNA is being",
+			"analyzed by Forensic Scientists.\""
 		]
 	},
 	{
@@ -730,9 +741,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"よくわかったわね。",
-			"　全裸のガイシャは歯すら抜かれて",
-			"　身元特定は不可能だったはずじゃ……\""
+			"\"How could you have known?",
+			"I'm sure the naked body was impossible to ",
+			"identify with even their teeth pulled out...\""
 		]
 	},
 	{
@@ -759,8 +770,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"鑑識を舐めてもらっちゃ困るわよ。",
-			"　私達は徹底的に突き詰めるの\""
+			"\"You can't take forensics for granted.",
+			"We're going to find out everything we can.\""
 		]
 	},
 	{
@@ -783,8 +794,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"決め手は、採取する事が出来たナノレベルの繊維よ。",
-			"　それが彼の爪の間から検出されたの\""
+			"\"The key is the nano-level fibers",
+			"we were able to harvest.",
+			"That's what we found under the victims fingernails.\""
 		]
 	},
 	{
@@ -807,8 +819,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それを質量分析器にかけたところ、",
-			"　ある特徴があったのよ\""
+			"\"I ran it through the mass spectrometer,",
+			"and it had the certain characteristics.\""
 		]
 	},
 	{
@@ -835,7 +847,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"特徴……どんな？\""
+			"\"Characteristics? Like what?\""
 		]
 	},
 	{
@@ -862,9 +874,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"その繊維は、一般では入手できないものが使われていた。",
-			"　データを元に、保有しているデータを調べたら、",
-			"　あるものと一致したの。なんだと思う？\""
+			"\"The fiber was made from something that",
+			"was not available to the public.",
+			"I ran the data through our holdings, and it",
+			"matched something. What do you think it is?\""
 		]
 	},
 	{
@@ -881,9 +894,9 @@
 	},
 	{
 		"STRINGS": [
-			"私達はただ、きょとん、とするしかなかった。",
-			"それは彼女もわかりきっていた。",
-			"美鈴はただ、私達に『わからない』って言わせたいのだ。"
+			"We could only stare blankly at each other.",
+			"She knew exactly what was going on.",
+			"Misuzu just wanted us to say, «I don't know»."
 		]
 	},
 	{
@@ -906,9 +919,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"紙幣の新券をまとめる帯封よ。",
-			"　これは日本銀行で使用されているものと、",
-			"　市中銀行のものとは素材が違うの\""
+			"\"This is the strip that holds the new banknotes.",
+			"The materials used by the Bank of Japan are",
+			"different from those used by commercial banks.\""
 		]
 	},
 	{
@@ -931,8 +944,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"その帯封を取り扱うものは限られているでしょ？",
-			"　だから、銀行関係をしらみつぶしにあたったわけ\""
+			"\"There are only a few people who can",
+			"handle those strips, right?",
+			"That's why I've been going through all the banks.\""
 		]
 	},
 	{
@@ -975,9 +989,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうしたら、ガイシャの特徴にドンピシャな人物が",
-			"　浮かび上がったってわけか……",
-			"　よくそんなものを見つけられたな\""
+			"\"So you found someone who fits",
+			"the description of victim...",
+			"How did you find something like that?\""
 		]
 	},
 	{
@@ -1032,8 +1046,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"どんなに小さな物でも物証さえあれば鑑定できる。",
-			"　今回みたいにね\""
+			"\"Even the smallest object can be authenticated",
+			"as long as it has physical proof.",
+			"Just like in this case.\""
 		]
 	},
 	{
@@ -1054,9 +1069,10 @@
 	},
 	{
 		"STRINGS": [
-			"美鈴は鼻を鳴らして得意そうだ。",
-			"被害者の身元が特定できずに膠着していた状況を打破できて、",
-			"さぞかし彼女はカタルシスを得ている事だろう。"
+			"Misuzu sniffed and looked pleased with herself.",
+			"It must have been cathartic for her to be able to",
+			"break through the stalemate without",
+			"identifying the victim."
 		]
 	},
 	{
@@ -1127,8 +1143,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"じゃあ、今後は被害者の周辺の洗い出しに",
-			"　捜査が移るのね\""
+			"\"So from now on, the investigation will",
+			"shift to finding out who was around the victim.\""
 		]
 	},
 	{
@@ -1155,8 +1171,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そういう事になるな。",
-			"　こりゃ、関本の出番はなさそうだ\""
+			"\"That's how it's going to be.",
+			"It looks like Sekimoto won't be",
+			"able to get out of this one.\""
 		]
 	},
 	{
@@ -1183,7 +1200,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"いや、そんな簡単にいかないかもしれません\""
+			"\"No, it may not be that easy.\""
 		]
 	},
 	{
@@ -1242,7 +1259,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"どういう事だ、北條\""
+			"\"What's this about, Hojo?\""
 		]
 	},
 	{
@@ -1269,8 +1286,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"たしか関本は、まだこれから被害者が増える可能性を",
-			"　示唆していました\""
+			"\"As I recall, Sekimoto suggested that",
+			"there may be more victims to come.\""
 		]
 	},
 	{
@@ -1287,8 +1304,9 @@
 	},
 	{
 		"STRINGS": [
-			"ついさっき、彼の思わせぶりな発言に苛ついた一連の",
-			"出来事を思い出す。"
+			"I remembered the series of events that",
+			"had irritated me just a moment ago with",
+			"his thoughtful comments."
 		]
 	},
 	{
@@ -1311,8 +1329,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"もしかしたら、彼はまだ何か情報を",
-			"　隠し持っているのかも\""
+			"\"Maybe he's still hiding some information.\""
 		]
 	},
 	{
@@ -1371,8 +1388,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"あれ、随分と奴の肩を持つじゃないか。",
-			"　関本とはさっき、かなり喧嘩したくせに\""
+			"\"You're really taking his side, aren't you?",
+			"You and Sekimoto had quite a fight earlier.\""
 		]
 	},
 	{
@@ -1393,8 +1410,10 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長に矛盾を突かれて、ぐっ、と腹部に重い物を感じる。",
-			"たしかに彼の言動で私は憤りを感じたのは事実だ。"
+			"When Chief Kuroda pointed out the contradiction,",
+			"I felt a heavy weight on my stomach.",
+			"It's true that his words and actions",
+			"made me feel resentful."
 		]
 	},
 	{
@@ -1417,8 +1436,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それはそうですが……。",
-			"　それとこれとは別です\""
+			"\"That's true, but...",
+			"That and this are different.\""
 		]
 	},
 	{
@@ -1441,8 +1460,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"可能性として、新たな犯行を匂わせているのならば、",
-			"　予防的対処が可能なのは、私達だけでは？\""
+			"\"As a possibility, if we are able to sniff it out,",
+			"aren't we the only ones who can take preventive measures?\""
 		]
 	},
 	{
@@ -1463,8 +1482,9 @@
 	},
 	{
 		"STRINGS": [
-			"捜査体制の布陣の中心である捜査一課は、",
-			"被害者・田村さんに関する事だけで手一杯だ。"
+			"The Investigation Section, the center of the ",
+			"has its hands full with only the matter",
+			"of the victim, Tamura."
 		]
 	},
 	{
@@ -1481,8 +1501,9 @@
 	},
 	{
 		"STRINGS": [
-			"だとするならば、今後の可能性に着手できる余裕が",
-			"あるのは私達特ラ課だけとなる。"
+			"If that's the case, then only we, the Special",
+			"Section, can afford to start working",
+			"on future possibilities."
 		]
 	},
 	{
@@ -1499,8 +1520,8 @@
 	},
 	{
 		"STRINGS": [
-			"もし空振りだとしても、それでいい。",
-			"それで被害者が生まれなければ。"
+			"If I strike out, so be it.",
+			"As long as it doesn't create any more victims."
 		]
 	},
 	{
@@ -1551,9 +1572,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"例の殺人犯ね。",
-			"　だったら彼から何か引き出さないと。",
-			"　今回の情報を出すか出さないかは任せるけど\""
+			"\"If your right,",
+			"We need to get something out of him.",
+			"I'll leave it to you to decide whether or",
+			"not you want to give us this information.\""
 		]
 	},
 	{
@@ -1612,8 +1634,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"正直、奴に変な事を吹き込みたくないな。",
-			"　ありゃ相当な変人だぞ？\""
+			"\"Honestly, I don't want him getting any weird ideas.",
+			"He's a bit of a weirdo, isn't he?\""
 		]
 	},
 	{
@@ -1668,7 +1690,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ちなみに、その『"
+			"\"By the way, just who is this "
 		]
 	},
 	{
@@ -1679,7 +1701,7 @@
 	},
 	{
 		"STRINGS": [
-			"』はなんて？\""
+			"?\""
 		]
 	},
 	{
@@ -1706,8 +1728,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"この事件の犯人は、都市伝説で有名な",
-			"　『ブラインドマン』の仕業だって\""
+			"\"The culprit in this case is the",
+			"famous urban legend of the Blind Man.\""
 		]
 	},
 	{
@@ -1758,9 +1780,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"はぁ？　なにそれ。",
-			"　完全にバカにされてるじゃないの。",
-			"　しっかりしなさいよ、特ラ課\""
+			"\"Huh? What is that?",
+			"You're being made a complete fool of.",
+			"Get a grip, Special Agent.\""
 		]
 	},
 	{
@@ -1777,9 +1799,9 @@
 	},
 	{
 		"STRINGS": [
-			"……返す言葉もない。",
-			"やはり関本は私達をバカにしているだけなのか。",
-			"それとも他に重要情報を握っているのか。"
+			"I have no words.",
+			"Is Sekimoto just playing us for fools, after all?",
+			"I'm not sure what to say."
 		]
 	},
 	{
@@ -1796,8 +1818,8 @@
 	},
 	{
 		"STRINGS": [
-			"その駆け引きとして、美鈴が持ってきてくれた情報を",
-			"使うのは有効な手かもしれない。"
+			"As a bargaining tactic, using the information",
+			"Misuzu had brought might be an effective."
 		]
 	},
 	{
@@ -1814,8 +1836,8 @@
 	},
 	{
 		"STRINGS": [
-			"しかし、関本と美鈴を引き合わせるのは",
-			"得策とは思えない。"
+			"However, I don't think it's a good idea to",
+			"bring Sekimoto and Misuzu together."
 		]
 	},
 	{
@@ -1832,8 +1854,8 @@
 	},
 	{
 		"STRINGS": [
-			"この二人、相性があまりよくないかも、と、",
-			"私の直感が訴えるのだ。"
+			"My intuition tells me that the two of them",
+			"might not be a good match."
 		]
 	},
 	{

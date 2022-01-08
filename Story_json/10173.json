@@ -73,8 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"個人的な話……ね。聞かせてくれるかしら。",
-			"　できれば私は、あなたを"
+			"\"A personal story? I'd love to hear it.",
+			"I would like to"
 		]
 	},
 	{
@@ -83,7 +83,7 @@
 	},
 	{
 		"STRINGS": [
-			"理解したい"
+			" understand "
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			"you more.\""
 		]
 	},
 	{
@@ -119,9 +119,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"……そんな奴は刑事にも検事にもいなかった。",
-			"　事件を起こして以降、",
-			"　私は疑いと非難の眼差ししか向けられなかった\""
+			"\"There had never been anyone like that,",
+			"not a detective, not a prosecutor.",
+			"Since the incident, I've had nothing but",
+			"suspicion and accusations directed at me.\""
 		]
 	},
 	{
@@ -148,8 +149,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それは不幸ね。素直にそう思う。",
-			"　私でよければ味方になってもいい\""
+			"\"That's unfortunate. I can honestly say that.",
+			"I can be your ally if you want.\""
 		]
 	},
 	{
@@ -176,8 +177,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"……嬉しいね。",
-			"　そんな優しい言葉は久しぶりだ\""
+			"\"...I'm glad.",
+			"Haven't heard such kind words in a long time.\""
 		]
 	},
 	{
@@ -194,7 +195,7 @@
 	},
 	{
 		"STRINGS": [
-			"一瞬だけ、彼は安堵したような目を見せてくれた。"
+			"For a moment, he gave me a look of relief."
 		]
 	},
 	{
@@ -211,8 +212,9 @@
 	},
 	{
 		"STRINGS": [
-			"……悪くない反応だ。",
-			"このまま彼が心を大きく開いてくれればありがたいが……。"
+			"...Not a bad response.",
+			"I would be grateful if he would",
+			"continue to keep an open mind."
 		]
 	},
 	{

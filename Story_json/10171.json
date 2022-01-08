@@ -81,8 +81,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうね、個人的な話なら私には関係はないかも。",
-			"　ただし、奇妙な発言を繰り返すあなたには"
+			"\"Well, if it's personal, it's none of my business.",
+			"However, you keep making strange statements.",
+			"They might be of"
 		]
 	},
 	{
@@ -91,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			"興味がある"
+			" interest "
 		]
 	},
 	{
@@ -100,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"かも\""
+			"to us.\""
 		]
 	},
 	{
@@ -155,8 +156,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"はっ。そいつは光栄だな。",
-			"　感激すら覚える……と言った方が君の気持ちは晴れるか？\""
+			"\"Huh. Well, I'm flattered.",
+			"Would it make you feel better if",
+			"I said, «I'm thrilled»......?\""
 		]
 	},
 	{
@@ -183,8 +185,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいえ。そんな褒め言葉なんて、",
-			"　微塵も捜査の役には立たないから\""
+			"\"Nope, that kind of compliment",
+			"won't help us one iota in our investigation.\""
 		]
 	},
 	{
@@ -235,7 +237,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふっ……まあ、そうだな\""
+			"\"Huh. ...Well, I guess so.\""
 		]
 	},
 	{
@@ -252,8 +254,8 @@
 	},
 	{
 		"STRINGS": [
-			"そう言って、関本は自嘲とも皮肉とも",
-			"受け取れる笑みを浮かべた。"
+			"Then He smiled. A smile that could",
+			"be taken as self-mockery or sarcasm."
 		]
 	},
 	{
@@ -294,8 +296,8 @@
 	},
 	{
 		"STRINGS": [
-			"今の無駄なやりとりを続けるわけにはいかない。",
-			"返答はもっと慎重に行った方がよさそうだ。"
+			"I can't continue the current futile exchange.",
+			"I guess I'd better be more careful in my replies."
 		]
 	},
 	{

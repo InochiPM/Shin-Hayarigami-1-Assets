@@ -55,8 +55,8 @@
 	},
 	{
 		"STRINGS": [
-			"美鈴は、じゃあ仕事に戻るから、",
-			"と言って鑑識課に行った。"
+			"Misuzu said that she should get to work,",
+			"then left heading to the forensics lab."
 		]
 	},
 	{
@@ -73,9 +73,10 @@
 	},
 	{
 		"STRINGS": [
-			"入れ違いに、捜査一課から応援要請が入った。",
-			"目的は、被害者である田村光太郎の関係者を",
-			"署に連れて来る事だ。"
+			"At the same time, I received a request",
+			"for backup from the Investigation Division.",
+			"The goal is to bring anyone who knew Tamura",
+			"to the station."
 		]
 	},
 	{
@@ -92,8 +93,9 @@
 	},
 	{
 		"STRINGS": [
-			"本来なら一課の捜査員が直接行くべきなのだが、",
-			"そこまで手が回っていないようだ。"
+			"Normally, the investigators would",
+			"go there directly, but it seems that they",
+			"haven't gotten around to it."
 		]
 	},
 	{
@@ -110,9 +112,9 @@
 	},
 	{
 		"STRINGS": [
-			"ほどなく、呼び出したい面々の情報が特ラ課に寄せられた。",
-			"私と風守さんは、そのリストに記載されている者を",
-			"迎えに行った。"
+			"Soon after, we sent the information to Special Affairs",
+			"about potential suspects.",
+			"Kazamori and I went to pick up the people on the list."
 		]
 	},
 	{

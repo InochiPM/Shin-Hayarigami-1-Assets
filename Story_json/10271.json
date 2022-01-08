@@ -73,9 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"遥さん、もう少し詳しく教えて下さい。",
-			"　被害者の田村さんが殺された時刻ですが、",
-			"　あなたはどこにいましたか？\""
+			"\"Haruka, can you be more specific?",
+			"Where were you at the time of Tamura's murder?\""
 		]
 	},
 	{
@@ -118,7 +117,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"え……どういう意味ですか？\""
+			"\"What do you mean by that...?\""
 		]
 	},
 	{
@@ -145,9 +144,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そのままの意味です。",
-			"　あなたはどこで何を？",
-			"　それを証明するものは？\""
+			"\"I mean exactly what I said.",
+			"Where are you and what are you doing?",
+			"And do you have proof?\""
 		]
 	},
 	{
@@ -202,8 +201,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ちょっと待って下さい。",
-			"　なんだか私、犯人みたいじゃないですか\""
+			"\"Please wait a minute.",
+			"I look like a criminal, don't I?\""
 		]
 	},
 	{
@@ -230,8 +229,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そういうわけじゃありません。",
-			"　でも、これはきちんと確認しておかないと\""
+			"\"That's not how it works.",
+			"But we need to make sure we get this right.\""
 		]
 	},
 	{
@@ -286,8 +285,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"私はやってません。",
-			"　それでいいでしょ？\""
+			"\"I didn't do it.",
+			"Isn't that enough?\""
 		]
 	},
 	{
@@ -314,7 +313,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それを具体的に仰ってください\""
+			"\"Please be more specific.\""
 		]
 	},
 	{
@@ -369,7 +368,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ほらやっぱり私を疑っている！！\""
+			"\"See, I knew you suspected me!\""
 		]
 	},
 	{
@@ -444,8 +443,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"あのね、自分がやってないというのならば、",
-			"　それを証明しなきゃ。そうだろ？\""
+			"\"You know, if you say you didn't do it,",
+			"then you have to prove it, right?\""
 		]
 	},
 	{
@@ -462,9 +461,9 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんも私に加勢してくれた。",
-			"出来るだけ穏やかな口調だが、",
-			"彼も私と同じ疑念を感じているようだ。"
+			"Kazamori joined me.",
+			"His tone was as gentle as possible, but he ",
+			"seemed to feel the same suspicion I did."
 		]
 	},
 	{
@@ -487,8 +486,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なあ、教えてほしいんだ。",
-			"　アンタは、田村が死んだ時、どこで何をしていたんだ？\""
+			"\"Hey, I want you to tell me something.",
+			"Where were you when Tamura died",
+			"and what were you doing?\""
 		]
 	},
 	{
@@ -543,7 +543,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……言いたくない\""
+			"\"I don't want to say...\""
 		]
 	},
 	{
@@ -570,8 +570,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"遥さん、それじゃ自分で不利な状況に",
-			"　追い込んでいる事になりますよ\""
+			"\"Haruka, you' re putting yourself",
+			"in a disadvantageous situation.\""
 		]
 	},
 	{
@@ -598,9 +598,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"だから言いたくないって言ってるでしょ！",
-			"　ねえ、これって任意なんでしょ？",
-			"　だったらもう終わりにして！！\""
+			"\"I told you I don't want to tell you!",
+			"Hey, this is voluntary, right?",
+			"Then let's get this over with!\""
 		]
 	},
 	{
@@ -651,7 +651,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"アンタはなにを隠しているんだよ！！\""
+			"\"What are you hiding from me?\""
 		]
 	},
 	{
@@ -710,8 +710,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"何でもない！！　絶対に私はやってない！！",
-			"　だから早く帰して！！！\""
+			"\"It's nothing! I swear I didn't do it!",
+			"So get me out of here!\""
 		]
 	},
 	{
@@ -816,8 +816,8 @@
 	},
 	{
 		"STRINGS": [
-			"突然のヒステリーを起こした彼女に",
-			"私達はお手上げとなるしかない。"
+			"She was suddenly hysterical and we",
+			"had no choice but to give her up."
 		]
 	},
 	{
@@ -834,9 +834,10 @@
 	},
 	{
 		"STRINGS": [
-			"終いには、様子を見に来た黒田課長が",
-			"苦渋の表情で、聴取の切り上げを指示したため、",
-			"私達は仕方なく彼女を帰す事にした。"
+			"Finally, Chief Kuroda, who had come to see how",
+			"she was doing, gave us a pained look and",
+			"ordered us to end the interview, so we had no",
+			"choice but to let her go."
 		]
 	},
 	{
@@ -931,7 +932,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"最初の一人でビンゴ……ってか\""
+			"\"Bingo on the first one, huh?\""
 		]
 	},
 	{
@@ -974,7 +975,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"風守クン、思い込みは捜査の足枷になりますよ\""
+			"\"Kazamori, your assumptions",
+			"will hamper our investigation.\""
 		]
 	},
 	{
@@ -1001,8 +1003,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかってるけどよ……でも、いきなりブチ切れたんだぜ。",
-			"　しかもアリバイの供述拒否ときたもんだ\""
+			"\"I know, but she just snapped!",
+			"And refused to give an alibi.\""
 		]
 	},
 	{
@@ -1053,8 +1055,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ありゃ、絶対何か知っているに違いない。",
-			"　北條もそう思うよな？\""
+			"\"I'm sure she knows something.",
+			"You think so to don't you?\""
 		]
 	},
 	{
@@ -1081,8 +1083,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"風守さんと同意見です。",
-			"　……遥さんは、何か知っていると思います\""
+			"\"I agree with Kazamori.",
+			"I think ...... Haruka knows",
+			"something about this.\""
 		]
 	},
 	{
@@ -1105,8 +1108,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"動機も存在している中、",
-			"　彼女が無関係とは思えません\""
+			"\"With the her motive,",
+			"I don't think she's unrelated to the case.\""
 		]
 	},
 	{
@@ -1133,9 +1136,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おっさんはどう思うんだよ？",
-			"　うまくしたら俺たちのお手柄になるかも",
-			"　しれないんだぞ\""
+			"\"What do you think, old man?",
+			"If we do well, we might just get the credit.\""
 		]
 	},
 	{
@@ -1162,9 +1164,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあまあ。そんなに焦ったってしょうがない。",
-			"　まだ聴取する人間はいるんだ。",
-			"　それを聞いてから判断してもいいじゃないか\""
+			"\"Oh, well. There's no point in being so hasty.",
+			"There are still people to interrogate.",
+			"We can decide after we hear from them all.\""
 		]
 	},
 	{
@@ -1187,7 +1189,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"さあ、次のお客さんがさっきから待っているぞ\""
+			"\"Come on, the next person's been",
+			"waiting for you for a while now.\""
 		]
 	},
 	{
@@ -1208,8 +1211,8 @@
 	},
 	{
 		"STRINGS": [
-			"まるで、定食屋の昼の営業がはじまるかのような態度で、",
-			"黒田課長は私達を急かした。"
+			"Chief Kuroda hurried us along as if the lunch",
+			"hour at a nice restaurant was about to begin."
 		]
 	},
 	{
@@ -1260,7 +1263,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"次は誰だっけ？\""
+			"\"Who's next?\""
 		]
 	},
 	{
@@ -1287,7 +1290,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"酒屋の大将だよ\""
+			"\"He's a liquor store owner.\""
 		]
 	},
 	{
@@ -1338,7 +1341,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"げっ、あいつか……\""
+			"\"Tch, it's that guy...\""
 		]
 	},
 	{

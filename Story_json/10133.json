@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"I'm tired of hearing your excuses!\""
+			" I'm sick of this!\""
 		]
 	},
 	{
@@ -122,8 +122,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"You're quite attractive when your angry.",
-			"I even feel affection for you, but.......",
+			"\"You are quite attractive when you are agitated.",
+			"I even feel affection for you but...",
 			"I told you I don't have time for this.\""
 		]
 	},
@@ -152,9 +152,9 @@
 	{
 		"STRINGS": [
 			"\"Then you'll have to help me more.",
-			"I need a more concrete testimony.",
-			"This isn't a lecture hall where you",
-			"can show off your academic acumen.\""
+			"I need more concrete testimony.",
+			"This isn't a lecture hall where you can",
+			"show off your academic acumen.\""
 		]
 	},
 	{
@@ -181,8 +181,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Why don't you examine some more",
-			"of my words a little bit?\""
+			"\"Why don't you examine each and every,",
+			"one of my words a little bit?\""
 		]
 	},
 	{
@@ -216,9 +216,10 @@
 	},
 	{
 		"STRINGS": [
-			"How am I supposed to interact with him?",
+			"How should I treat him?",
 			"The only thing I am sure of is that trying to upset",
-			"him with an emotional response will not be effective."
+			"him with an emotional response won't be",
+			"effective against him."
 		]
 	},
 	{

@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふ……くくくくく\""
+			"\"Fu...Hahahaha...\""
 		]
 	},
 	{
@@ -124,7 +124,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"な……なにが可笑しいの！？\""
+			"\"W-What's so funny?\""
 		]
 	},
 	{
@@ -151,9 +151,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"いや、失礼。",
-			"　君との会話は楽しいと思ってね。",
-			"　こんなの逮捕以来、初めてだよ\""
+			"\"No, it's nothing.",
+			"I just thought it would be fun to",
+			"have a conversation with you.",
+			"I haven't seen you act like this since my arrest.\""
 		]
 	},
 	{
@@ -180,8 +181,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"たのしい……？",
-			"　あなた、言っている意味がわかってる？\""
+			"\"Fun...?",
+			"Do you understand what you're saying?\""
 		]
 	},
 	{
@@ -208,9 +209,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"もちろんだよ。",
-			"　君とはいいコンビを組めそうだ。",
-			"　仲良くやろう。よろしく\""
+			"\"Of course I do.",
+			"I think you and I would make a good team.",
+			"We'll get along great. Nice to meet you.\""
 		]
 	},
 	{
@@ -237,7 +238,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"なにその上から目線！？\""
+			"\"What are you talking about?\""
 		]
 	},
 	{

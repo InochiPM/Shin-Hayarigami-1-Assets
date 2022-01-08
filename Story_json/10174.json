@@ -73,7 +73,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"さすがにそういうのは興味がないか\""
+			"\"I guess you're not interested in that kind of thing.\""
 		]
 	},
 	{
@@ -90,7 +90,7 @@
 	},
 	{
 		"STRINGS": [
-			"……しまった、彼を落胆させてしまった。"
+			"...I've discouraged him."
 		]
 	},
 	{
@@ -107,8 +107,8 @@
 	},
 	{
 		"STRINGS": [
-			"いくら荒唐無稽な言葉を発していたとしても、",
-			"やはり貴重な協力者には変わりない。"
+			"No matter how ridiculous his words were,",
+			"he was still a valuable collaborator."
 		]
 	},
 	{
@@ -125,7 +125,8 @@
 	},
 	{
 		"STRINGS": [
-			"もう少し慎重に、かつ機敏に反応したほうが良さそうだ。"
+			"I think I should react a little",
+			"more carefully and agilely."
 		]
 	},
 	{

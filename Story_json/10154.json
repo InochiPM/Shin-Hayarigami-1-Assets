@@ -73,9 +73,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"黙るな。沈思黙考が有効策だとは思えないがな。",
-			"　はっきり教えよう、それはただの愚考だとね。",
-			"　さあ、早くしないとブラインドマンが襲ってくるぞ？\""
+			"\"Don't be silent. I don't think ",
+			"contemplation is the way to go.",
+			"I'll make it clearer for you to understand.",
+			"if we don't hurry, the Blind Man is going to attack us.\""
 		]
 	},
 	{
@@ -92,7 +93,7 @@
 	},
 	{
 		"STRINGS": [
-			"しまった……答えるタイミングを失ってしまった。"
+			"Oh shit, I lost the timing to answer..."
 		]
 	},
 	{
@@ -109,8 +110,8 @@
 	},
 	{
 		"STRINGS": [
-			"彼も苛立ちを見せている。",
-			"沈黙するくらいなら、なんでも答えた方がいいみたいだ。"
+			"He's showing his frustration too.",
+			"It seems he'd rather answer anything than be silent."
 		]
 	},
 	{

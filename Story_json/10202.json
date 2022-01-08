@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……ふふ\""
+			"\"..Hehe\""
 		]
 	},
 	{
@@ -128,7 +128,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"な、何が可笑しいのよ\""
+			"\"What's so funny?\""
 		]
 	},
 	{
@@ -155,8 +155,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"君を笑ったわけじゃない。",
-			"　自分の愚かしさを嘲笑していたんだ\""
+			"\"I wasn't laughing at you.",
+			"I was laughing at my own stupidity.\""
 		]
 	},
 	{
@@ -179,9 +179,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"つい、自分の教え子と同じような扱いをしてしまった。",
-			"　君は私の門下生でもなんでもないのにな。",
-			"　ただ、それくらい君との会話に熱中したという事だ\""
+			"\"I just treated you as if you were my own student.",
+			"You're not my student or anything, you know.",
+			"It's just that I was that",
+			"enthusiastic about our conversation.\""
 		]
 	},
 	{
@@ -208,7 +209,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……もしかして、それで謝っているつもり？\""
+			"\"...Do you think you're sorry for that, by any chance?\""
 		]
 	},
 	{
@@ -259,7 +260,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それ以外の何がある？\""
+			"\"What else could it be?\""
 		]
 	},
 	{
@@ -286,9 +287,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"自分の立場はわかってるの？",
-			"　教授だかなんだか知らないけど、",
-			"　今はただの刑事裁判の被告人なのよ？\""
+			"\"Do you even know what you're up against?",
+			"I don't know if you're a professor or what, but ",
+			"right now you're just a defendant",
+			"in a criminal trial.\""
 		]
 	},
 	{
@@ -311,8 +313,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それなのに……、",
-			"　なんでそんなに偉そうなのよ\""
+			"\"And yet...",
+			"Why are you being so arrogant?\""
 		]
 	},
 	{
@@ -339,8 +341,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"偉そう……か。",
-			"　自分ではそうは感じないが？\""
+			"\"Arrogant...huh?",
+			"I don't think i've ever been like that.\""
 		]
 	},
 	{
@@ -367,7 +369,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ああ……こいつったら……！\""
+			"\"Oh... Come on...!\""
 		]
 	},
 	{
@@ -384,9 +386,9 @@
 	},
 	{
 		"STRINGS": [
-			"徹底的に自分のペースを崩さない態度に",
-			"げんなりしてしまう。",
-			"私はコイツとしばらく付き合わなければならないのか……。"
+			"I'm thoroughly disgusted by his",
+			"constant self-pacing attitude.",
+			"Will I have to deal with him forever?"
 		]
 	},
 	{

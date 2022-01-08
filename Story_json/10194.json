@@ -73,8 +73,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"犯罪者に指示されるのは嫌いか？",
-			"　まあそうだろう。当たり前だ\""
+			"\"You don't like being told what to do by criminals?",
+			"Of course you don't. Who does?\""
 		]
 	},
 	{
@@ -91,8 +91,8 @@
 	},
 	{
 		"STRINGS": [
-			"どんな言葉を返そうか迷っていたおかげで",
-			"タイミングを失ってしまった。"
+			"Thanks to the fact that I was wondering what words",
+			"I should say to him, I got lost for time."
 		]
 	},
 	{
@@ -109,7 +109,7 @@
 	},
 	{
 		"STRINGS": [
-			"沈黙は金なり––とは今のご時世じゃいかなそうだ。"
+			"I guess silence isn't golden in this day and age."
 		]
 	},
 	{

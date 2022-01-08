@@ -77,7 +77,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかったわ……ただし、"
+			"\"I understand...but,"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"私達の言葉にも"
+			" listen "
 		]
 	},
 	{
@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"耳を傾けて。",
-			"　これ以上は、あなたの裁判に不利になるわよ\""
+			"to what I have to say.",
+			"Any more of this, and it'll go against your case.\""
 		]
 	},
 	{
@@ -151,8 +151,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふ……裁判なんて私にはどうでもいい。",
-			"　だが、君の言葉を聞くというのは悪くない提案だ\""
+			"\"Heh...trial is of no interest to me.",
+			"But taking you at your word is not a bad proposition.\""
 		]
 	},
 	{
@@ -179,8 +179,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"裁判なんてどうでもいいって……どういう事？",
-			"　有罪になっても構わないって事なの？\""
+			"\"What do you mean you don't care about the trial...?",
+			"Are you saying you don't care if your found guilty?\""
 		]
 	},
 	{
@@ -207,9 +207,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"捜査よりも私の心配をしてくれるのか。",
-			"　その優しさに私は報いなければならないな。",
-			"　ふふ、身が引き締まる思いだ\""
+			"\"You're more concerned about me than the investigation.",
+			"I guess I should reciprocate that kindness.",
+			"Heh, I'm feeling a bit tense.\""
 		]
 	},
 	{
@@ -226,8 +226,9 @@
 	},
 	{
 		"STRINGS": [
-			"彼自身の裁判の行方に無関心なのは気に掛かるが、",
-			"協力的な態度を取ってくれるのはありがたい。"
+			"His indifference to the outcome of his own trial is",
+			"worrisome, but it is nice to see him being so",
+			"cooperative."
 		]
 	},
 	{
@@ -268,8 +269,8 @@
 	},
 	{
 		"STRINGS": [
-			"だが、これでようやくスタートラインだ。",
-			"これからどうするのか……全ては私達にかかっている。"
+			"But this is finally the starting line.",
+			"What we do now...all depends on us."
 		]
 	},
 	{

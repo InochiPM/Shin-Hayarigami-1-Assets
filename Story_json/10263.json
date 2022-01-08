@@ -85,8 +85,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"仮に私が同じ目にあったとしたら——",
-			"　"
+			"\"If I had to go through that...",
+			"I would want "
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"をするでしょう\""
+			".\""
 		]
 	},
 	{
@@ -156,8 +156,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい北條……！",
-			"　仮にも刑事がそんな事を口にするんじゃない\""
+			"\"Hey, Hojo!",
+			"Don't talk like that, you are a detective!\""
 		]
 	},
 	{
@@ -184,8 +184,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"すいません……言いすぎなのは自覚しています。",
-			"　ですが、個人的にはそう思わざるを得ません\""
+			"\"I'm sorry. I'm aware that I'm overstepping my bounds.",
+			"But personally, I have to agree.\""
 		]
 	},
 	{
@@ -240,7 +240,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……わかってくれて、ありがとうございます\""
+			"\"Thank you for understanding...\""
 		]
 	},
 	{
@@ -267,7 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"だからこそ、もう少しお伺いしてもいいですか\""
+			"\"That's why I'd like to ask",
+			"you a few more questions.\""
 		]
 	},
 	{
@@ -318,7 +319,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……え？\""
+			"\"...eh?\""
 		]
 	},
 	{
@@ -347,8 +348,7 @@
 	},
 	{
 		"STRINGS": [
-			"水瀬遥が隠し持っていた心情の一端に触れて",
-			"わかったことがある。"
+			"I realized that Haruka had been hiding her feelings."
 		]
 	},
 	{
@@ -365,8 +365,8 @@
 	},
 	{
 		"STRINGS": [
-			"それは、彼女が田村さんを殺害するに値する",
-			"動機を有している……と。"
+			"That is, she has a motive",
+			"worthy of killing Tamura."
 		]
 	},
 	{

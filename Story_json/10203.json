@@ -77,8 +77,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ＯＫ。そこまでだ。",
-			"　お互い、これ以上の時間の浪費は無用だろ？\""
+			"\"OK, stop there.",
+			"Let's not waste any more of each other's time, okay?\""
 		]
 	},
 	{
@@ -105,7 +105,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"どういう意味なのよ\""
+			"\"What the hell does that mean?\""
 		]
 	},
 	{
@@ -156,8 +156,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあ、しょせんは片田舎の小娘だな。",
-			"　もっと期待していたんだがな……\""
+			"\"Well, you're just a little country girl, aren't you?",
+			"I was expecting more from you...\""
 		]
 	},
 	{
@@ -184,8 +184,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ちょっと待って。",
-			"　それどういう意味！？\""
+			"\"Wait, what does that mean?!\""
 		]
 	},
 	{
@@ -212,8 +211,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"正直、君を過大評価していたようだ。",
-			"　君達への協力はなかった事にしてほしい\""
+			"\"I must admit, I think I overestimated you.",
+			"I'm going to have to pretend that my",
+			"cooperation with you guys never happened.\""
 		]
 	},
 	{
@@ -240,7 +240,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"なっ！？　どういう意味だよ、おいっ！！\""
+			"\"What? What do you mean?! Hey!\""
 		]
 	},
 	{
@@ -267,9 +267,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあまあ。そこまで事を荒立てなくてもいいだろう。",
-			"　北條クンも大人げないよ。",
-			"　少しは落ち着いて、ね？\""
+			"\"Oh well. You don't have to make such a big deal out of it.",
+			"Miss Hojo is not mature enough.",
+			"Try to calm down a little, okay?\""
 		]
 	},
 	{
@@ -286,7 +286,8 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長が間に入り、こじれたこの雰囲気の修正を試みる。"
+			"Section Chief Kuroda intervened and tried",
+			"to correct this complicated atmosphere."
 		]
 	},
 	{
@@ -303,8 +304,8 @@
 	},
 	{
 		"STRINGS": [
-			"たしかに、大人げなかったかもしれない。",
-			"私は深呼吸して、高ぶった気持ちを落ち着かせた。"
+			"It was probably not very mature of me.",
+			"I took a deep breath and calmed myself."
 		]
 	},
 	{

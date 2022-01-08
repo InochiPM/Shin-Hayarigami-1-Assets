@@ -73,9 +73,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"確かに私の物言いも悪かったわ。",
-			"　でも、あなたの気分次第で、今はどうにかなる",
-			"　状況だと思ってるの？\""
+			"\"You're right, I was out of line.",
+			"But do you really think this is a situation that can",
+			"be handled now, depending on your mood?\""
 		]
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"…………\""
+			"\"......\""
 		]
 	},
 	{
@@ -123,9 +123,9 @@
 	},
 	{
 		"STRINGS": [
-			"彼は私を見ようとはしない。",
-			"押し黙ったまま、壁の一点を見つめている。",
-			"私の言うことなど、まるで興味がなさそうだ。"
+			"He doesn't want to look at me.",
+			"He remains silent, staring at a point on the wall.",
+			"He doesn't seem to be interested in what I have to say."
 		]
 	},
 	{
@@ -148,7 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"……あのね、関本爽二朗さん、よく聞いて\""
+			"\"...... You know what, Soujiro Sekimoto,",
+			"listen to me carefully.\""
 		]
 	},
 	{
@@ -191,9 +192,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"北條クン、落ち着いて。",
-			"　君は確かに正論を言っている。",
-			"　だが、時には譲歩しないと物事は進展しないよ\""
+			"\"Hojo, calm down.",
+			"You're certainly making a good point.",
+			"But sometimes you have to make concessions",
+			"to get things done.\""
 		]
 	},
 	{
@@ -222,8 +224,9 @@
 	},
 	{
 		"STRINGS": [
-			"口を挟まれたおかげで、一瞬口をつぐんだ。",
-			"そして私が次に発した言葉は——"
+			"Thanks to the interruption,",
+			"I was able to keep my mouth shut for a moment.",
+			"The next words out of my mouth were-"
 		]
 	},
 	{
