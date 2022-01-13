@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……あの、よろしくお願い致します\""
+			"\"...... Um, nice to meet you!\""
 		]
 	},
 	{
@@ -128,7 +128,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"じゃあ、頼んだからね\""
+			"\"Well, I'll leave this to you.\""
 		]
 	},
 	{
@@ -155,9 +155,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"ちょっと待って下さい。",
-			"　彼女で正しいんですか？",
-			"　たしか福祉施設の責任者だって––\""
+			"\"Wait a minute.",
+			"Are you sure she's the right one?",
+			"I thought she said she was in",
+			"charge of a welfare facility.\""
 		]
 	},
 	{

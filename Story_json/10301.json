@@ -117,7 +117,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"本当にすいません、うちの主人がご迷惑をおかけして……\""
+			"\"I'm really sorry, my husband",
+			"caused you a lot of trouble...\""
 		]
 	},
 	{
@@ -144,7 +145,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"い、いえ。私の方こそ動転してご迷惑を……！\""
+			"\"No, no, no. I was the one who",
+			"got upset and caused you trouble...!\""
 		]
 	},
 	{
@@ -177,8 +179,8 @@
 	},
 	{
 		"STRINGS": [
-			"しきりに頭を下げているのは、",
-			"砂堀さんの配偶者である"
+			"The one who kept bowing was Mr. Sunahori's wife."
+			"Mrs. "
 		]
 	},
 	{
@@ -189,7 +191,7 @@
 	},
 	{
 		"STRINGS": [
-			"（すなほり・ゆうこ）だ。"
+			"."
 		]
 	},
 	{
@@ -206,8 +208,9 @@
 	},
 	{
 		"STRINGS": [
-			"事情聴取中に騒ぎが起きたので、",
-			"とにかく迎えに来てほしいと誰かが電話を入れたらしい。"
+			"Apparently there was a commotion during the",
+			"interview and someone called to come",
+			"and pick him up anyway."
 		]
 	},
 	{
@@ -228,7 +231,7 @@
 	},
 	{
 		"STRINGS": [
-			"私と優子さんは互いに頭を下げ続けていた。"
+			"Yuko and I kept bowing our heads to each other."
 		]
 	},
 	{
@@ -245,7 +248,7 @@
 	},
 	{
 		"STRINGS": [
-			"彼女のすぐそばに、息子の"
+			"Right beside her was their son "
 		]
 	},
 	{
@@ -260,8 +263,9 @@
 	},
 	{
 		"STRINGS": [
-			"（すなほり・さとし）くんも付き添っているが、",
-			"どういう状況なのかはまだわからなそうだ。"
+			".",
+			"but she doesn't know what",
+			"the situation is yet."
 		]
 	},
 	{
@@ -352,8 +356,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"優子、それくらいでいいだろ。",
-			"　元はと言えばコイツがけしかけてきたんだしな\""
+			"\"Yuko, that's enough.",
+			"If anything, he's the one who started it all.\""
 		]
 	},
 	{
@@ -380,7 +384,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あなた……！\""
+			"\"Dear!\""
 		]
 	},
 	{
@@ -447,8 +451,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"北條、もうそれくらいにしとけ。",
-			"　とにかく、後できっちり裏をとらせてもらうからな\""
+			"\"Hojo, leave it at that.",
+			"Anyway, I'll make sure to",
+			"corroborate everything later.\""
 		]
 	},
 	{
@@ -479,8 +484,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"だから、風守さんも……！",
-			"　一言多いですって……！\""
+			"\"But thats what i was saying...!",
+			"You spoke one word to many..!\""
 		]
 	},
 	{
