@@ -101,8 +101,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかりました。もういいです。",
-			"　迷惑をかけました。これで退散しますよ\""
+			"\"I understand. That's enough.",
+			"I have caused you trouble. I'll leave you now.\""
 		]
 	},
 	{
@@ -125,12 +125,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"諦めてくれたんですね。",
-			"　こっちも助かります\""
+			"\"You've given up.",
+			"How the mighty fall.\""
 		]
 	},
 	{
@@ -157,9 +157,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ええ。ええ。",
-			"　よくわかりましたから。",
-			"　アンタという人がね\""
+			"\"Yeah yeah.",
+			"I understand now.",
+			"I know who you are.\""
 		]
 	},
 	{
@@ -182,11 +182,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それは、一体どういう意味ですか\""
+			"\"What exactly does that mean?\""
 		]
 	},
 	{
@@ -207,8 +207,8 @@
 	},
 	{
 		"STRINGS": [
-			"すると津田沼さんは鼻を鳴らしてほくそ笑んだ。",
-			"完全に私を見下している表情だ。"
+			"Then he snorted and chuckled.",
+			"It's a look of complete disrespect to me."
 		]
 	},
 	{
@@ -259,9 +259,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"組織のはみ出し部署に所属している現状に満足せず、",
-			"　かと言って、組織の意向に自我を殺す事に甘んじている。",
-			"　盲目的に主人を恐れて命令を守る駄犬のような方だとね\""
+			"\"You are not satisfied with the status quo,",
+			"and yet, you are willing to kill your ego for the sake",
+			"of the organization, That you are like a spoiled dog",
+			"that blindly fears its master and obeys orders.\""
 		]
 	},
 	{
@@ -288,11 +289,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"な––！\""
+			"\"Ugh!\""
 		]
 	},
 	{
@@ -343,7 +344,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それじゃどうも。失礼しましたよ\""
+			"\"Thank you then. I beg your pardon.\""
 		]
 	},
 	{
@@ -400,8 +401,8 @@
 	},
 	{
 		"STRINGS": [
-			"なんなの……アイツは……！",
-			"私は苛立たしい気持ちで、彼の後ろ姿を見送った。"
+			"What the...is he...!",
+			"I looked at him in frustration as he walked away."
 		]
 	},
 	{

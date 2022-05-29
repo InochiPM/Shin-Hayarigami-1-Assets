@@ -109,11 +109,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ふう。こんな形でしょうか……\""
+			"\"Hmmmm...I guess it would look like this?\""
 		]
 	},
 	{
@@ -142,9 +142,10 @@
 	},
 	{
 		"STRINGS": [
-			"私は頭の中で渦巻くフラッシュアイデアをどうにか",
-			"まとめ上げて、ペンを置いた。",
-			"正直、全くもって犯人特定に結びつかない。"
+			"I put down the pen, having somehow managed to",
+			"piece together the ideas swirling around in my head.",
+			"To be honest, it doesn't lead to",
+			"identifying the culprit at all."
 		]
 	},
 	{
@@ -161,9 +162,9 @@
 	},
 	{
 		"STRINGS": [
-			"これではっきりした事は、",
-			"まだ事件の全容を語るには",
-			"パズルのピースが足りないという事だ。"
+			"What this makes clear is that there are still",
+			"missing pieces of the puzzle to tell the full",
+			"story of the case."
 		]
 	},
 	{
@@ -202,8 +203,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"なによりもこれをかき乱しているのは、",
-			"　『ブラインドマン』だ。そうだろ？\""
+			"\"What stirs all this up more than anything else",
+			"is this so called 'Blind Man' right?\""
 		]
 	},
 	{
@@ -226,8 +227,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"なんなんだこいつ。",
-			"　いったい誰なんだよ\""
+			"\"What the hell is he?",
+			"Who the hell is he?\""
 		]
 	},
 	{
@@ -260,8 +261,8 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんの指摘はもっともだ。",
-			"ブラインドマンの存在だけが異様すぎる。"
+			"Kazamori's point is well taken.",
+			"The presence of the Blind Man is too bizarre."
 		]
 	},
 	{
@@ -278,9 +279,9 @@
 	},
 	{
 		"STRINGS": [
-			"本来なら、留置所の案内人・関本爽二朗が",
-			"この事件に対して決定的な情報をもたらし、",
-			"一気に事件が進展するはずだった。"
+			"Since the information we need from Sekimoto",
+			"would bring crucial evidence to the case,",
+			"We would have progressed even more by now."
 		]
 	},
 	{
@@ -297,8 +298,8 @@
 	},
 	{
 		"STRINGS": [
-			"だがしかし、彼が言及したのは自分の得意分野の",
-			"都市伝説『ブラインドマン』の話。"
+			"That is, however, what he refereed to",
+			"as the [Blindman] was his specialty."
 		]
 	},
 	{
@@ -315,8 +316,8 @@
 	},
 	{
 		"STRINGS": [
-			"そのおかげで、結局私達は、",
-			"いつものように地道な地取り捜査を強いられている。"
+			"Thanks to that, were now forced",
+			"to do our usual dirty work for leads."
 		]
 	},
 	{
@@ -355,9 +356,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"……私もね、捜査一課から大目玉をくらったよ。",
-			"　そんな学者様の意味のないご高説くらいしか",
-			"　特ラ課はできないのかってね\""
+			"\"The higher-up's really kicked me in the ass.",
+			"I just wonder if we really have to",
+			"listen to the meaningless opinions of",
+			"of such a scholarly man.\""
 		]
 	},
 	{
@@ -380,9 +382,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"彼らの失望も相当のようだ。",
-			"　このまま彼が役に立たなければ、",
-			"　予定を切り上げて東京拘置所に戻す事もあり得るな\""
+			"\"Their disappointment seems to be considerable.",
+			"If he continues to be useless, we may have to",
+			"cut his schedule short and send him back.\""
 		]
 	},
 	{

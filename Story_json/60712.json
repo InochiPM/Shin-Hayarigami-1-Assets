@@ -94,7 +94,7 @@
 	{
 		"STRINGS": [
 			"\"そうだなぁ、よっしゃ北條。",
-			"　ちょ〜っと痛いが、これも慣れだな\""
+			"　ちょ~っと痛いが、これも慣れだな\""
 		]
 	},
 	{
@@ -117,7 +117,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -292,7 +292,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -359,7 +359,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -475,7 +475,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "FONT",
@@ -599,7 +599,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "FONT",
@@ -680,7 +680,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お〜良い声だ、",
+			"\"お~良い声だ、",
 			"　そうそう、もっと泣き叫ばねーと\""
 		]
 	},
@@ -1026,7 +1026,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "FONT",
@@ -1489,7 +1489,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "FONT",

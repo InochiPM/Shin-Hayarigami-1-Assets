@@ -554,7 +554,7 @@
 	{
 		"STRINGS": [
 			"\"Whew... That was a pretty good distraction.",
-			"Just like in those spy movies!"
+			"Just like in those spy movies!",
 			"Let's bust out a cold one and celebrate!\""
 		]
 	},
@@ -578,7 +578,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -805,7 +805,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1376,7 +1376,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1435,7 +1435,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hahaha. That's true. Interesting isn't it Houjou?",
+			"\"Hahaha. That's true. Interesting isn't it Hojo?",
 			"But I'm definitely curious, too.\""
 		]
 	},
@@ -1502,7 +1502,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

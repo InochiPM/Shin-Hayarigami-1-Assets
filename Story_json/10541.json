@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\""
+			"\"I'm willing to take"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"私もリスクを"
+			" Risks "
 		]
 	},
 	{
@@ -95,9 +95,9 @@
 	},
 	{
 		"STRINGS": [
-			"覚悟しているんです。",
-			"　今の事件を解決するためにはなんでもします。",
-			"　だから、聴取室で話を伺いましょ？\""
+			"as well you know",
+			"I will do whatever it takes to solve the current case.",
+			"So why don't we move to the office and talk there?\""
 		]
 	},
 	{
@@ -148,8 +148,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ははは……すげえわ、アンタ。",
-			"　報道の自由を振りかざしても怯えないとは\""
+			"\"Hahah...you're pretty awesome.",
+			"You're not afraid to wave your",
+			"freedom of the press in my face.\""
 		]
 	},
 	{
@@ -172,12 +173,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それくらい、この事件に本気って事を",
-			"　わかってもらえれば\""
+			"\"That's how serious we are about",
+			"this case, if you understand.\""
 		]
 	},
 	{
@@ -204,7 +205,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はは……こりゃ、アンタとは仲良くできそうだ\""
+			"\"Haha...I think I can get along with you.\""
 		]
 	},
 	{
@@ -221,8 +222,8 @@
 	},
 	{
 		"STRINGS": [
-			"覚悟を示す事で彼に気に入られた––って、",
-			"これでよかったのか？"
+			"He liked it when i showed my readiness.",
+			"Was that the right thing to do?"
 		]
 	},
 	{
@@ -239,8 +240,9 @@
 	},
 	{
 		"STRINGS": [
-			"なんだか余計彼につきまとわれそうな気がしてくる。",
-			"次の出方を慎重にうかがってみよう。"
+			"I feel like I'm going to be",
+			"followed around by him even more.",
+			"Let's wait and see what he does next."
 		]
 	},
 	{

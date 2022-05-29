@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あの……いいですか、津田沼さん。",
-			"　これ以上は、捜査妨害として"
+			"\"Um... Listen, Mr. Tsudanuma.",
+			"If you continue on i'll have to make a"
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"STRINGS": [
-			"立件"
+			" Criminal Case."
 		]
 	},
 	{
@@ -96,7 +96,8 @@
 	},
 	{
 		"STRINGS": [
-			"してもいいんですよ！\""
+			"",
+			"You dont want to held for obstruction do you?\""
 		]
 	},
 	{
@@ -147,9 +148,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"だったら、こっちも大キャンペーンでもやりましょう！",
-			"　『権利概念がない腐敗警察のていたらく捜査！』",
-			"　うわ、部数が倍増しそうだよ！\""
+			"\"Then let's start a big campaign too!",
+			"[A corrupt police force with no concept of rights!]",
+			"Wow, that's going to double our sales!\""
 		]
 	},
 	{
@@ -172,11 +173,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"……脅すつもりですか、警察を\""
+			"\"Are you going to threaten...the police?\""
 		]
 	},
 	{
@@ -203,8 +204,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ストレートな物言いをしないで下さいよ。",
-			"　お互い、大人でしょう？\""
+			"\"Please talk straight with me.",
+			"Were both grown adults here right?\""
 		]
 	},
 	{
@@ -221,8 +222,8 @@
 	},
 	{
 		"STRINGS": [
-			"押しても引いても、巧みにかわしてくる。",
-			"この人はきっと、相当な数の修羅場をくぐってきたんだろう。"
+			"He pushes and pulls, but skillfully dodges.",
+			"This person must have gone through quite a few fights!"
 		]
 	},
 	{
@@ -239,8 +240,8 @@
 	},
 	{
 		"STRINGS": [
-			"きっと彼は私の事を、簡単に抱き込める小娘と",
-			"思っているに違いない。"
+			"He must surely think of me as a",
+			"little girl who can be easily embraced."
 		]
 	},
 	{
@@ -257,8 +258,8 @@
 	},
 	{
 		"STRINGS": [
-			"ここはじっと耐えて、相手の隙を待つ時間だ。",
-			"なんとか持ちこたえよう––そう自分に言い聞かせた。"
+			"This is the time to hold still and wait for an opening.",
+			"I'll hold on somehow, I told myself."
 		]
 	},
 	{

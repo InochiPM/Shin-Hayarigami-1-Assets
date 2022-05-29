@@ -73,7 +73,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" Value."
+			" Value"
 		]
 	},
 	{
@@ -95,6 +95,7 @@
 	},
 	{
 		"STRINGS": [
+			".",
 			"Honestly, if I could score some points here,",
 			"I'd be able to get out of this cesspool department.",
 			"Maybe we can find a way out of this.\""
@@ -176,7 +177,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

@@ -373,7 +373,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -474,7 +474,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1321,7 +1321,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ザっ……各地の高速道路は使用できません。ゥィィィ〜",
+			"\"ザっ……各地の高速道路は使用できません。ゥィィィ~",
 			"　現在利用中の方は速やかにインターチェンジを降ザザ……。",
 			"　各地の警察の指示に従って下さい。自動車の使用ピィ––\""
 		]
@@ -1397,7 +1397,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1698,7 +1698,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

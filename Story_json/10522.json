@@ -73,11 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"でも私、本当に何も知らないんです。"
+			"\"But I really don't know anything about it.",
+			"im just an"
 		]
 	},
 	{
@@ -90,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"　駆け出しの見習い"
+			" intern "
 		]
 	},
 	{
@@ -99,8 +100,8 @@
 	},
 	{
 		"STRINGS": [
-			"程度なんですよ。",
-			"　だから重要情報なんて……\""
+			"for this office.",
+			"I barely know anything media worthy.\""
 		]
 	},
 	{
@@ -127,9 +128,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"またまたご謙遜を〜！",
-			"　ちなみにそうやって取材を巧みにかわす",
-			"　美人刑事って冠で記事を作ってもいいですか？\""
+			"\"You're being so modest!",
+			"By the way, can I make an article with the",
+			"crown of a beautiful detective who",
+			"skillfully dodges interviews like that?\""
 		]
 	},
 	{
@@ -152,12 +154,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"本当に勘弁してくださいよ……。",
-			"　上司に怒られてしまいますよ……もう\""
+			"\"Ugh...Just give me a break already!",
+			"My boss is going to be pissed enough as it is, jeez!\""
 		]
 	},
 	{
@@ -208,9 +210,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"お、なかなか色っぽい！",
-			"　いい、すごくいい。",
-			"　現役美人刑事グラビアでどう？　だめ？\""
+			"\"Oh, it's quite colorful!",
+			"Good, very good.",
+			"How about a beautiful detective in gravure? No?\""
 		]
 	},
 	{
@@ -227,7 +229,7 @@
 	},
 	{
 		"STRINGS": [
-			"よくもまあ、次から次へとネタが浮かぶ人だ。"
+			"How dare he come up with one story after another!"
 		]
 	},
 	{
@@ -244,8 +246,10 @@
 	},
 	{
 		"STRINGS": [
-			"だが、いずれの提案も下世話すぎて協力なんて到底無理。",
-			"私の事を気に入ってくれたようだが、正直ありがた迷惑だ。"
+			"But both proposals are too",
+			"stupid for me to join in on.",
+			"It seems that they like me,",
+			"which is frankly a nuisance."
 		]
 	},
 	{

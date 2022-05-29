@@ -173,7 +173,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -359,7 +359,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……紗希〜？\""
+			"\"……紗希~？\""
 		]
 	},
 	{
@@ -382,7 +382,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -460,8 +460,8 @@
 	{
 		"STRINGS": [
 			"\"ぐっ、げひっ、かはっ……！",
-			"　な、なぁァ？　紗希〜？",
-			"　どーこーにィ、行ゥーくゥーのォ〜？\""
+			"　な、なぁァ？　紗希~？",
+			"　どーこーにィ、行ゥーくゥーのォ~？\""
 		]
 	},
 	{
@@ -502,7 +502,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -580,7 +580,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あぁ……ちゃ〜んと……見張るよう、",
+			"\"あぁ……ちゃ~んと……見張るよう、",
 			"　言ってたのになァ……役に立たないなァ\""
 		]
 	},
@@ -684,7 +684,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -903,7 +903,7 @@
 	{
 		"STRINGS": [
 			"\"もぉさァ……こうなったらさァ……、",
-			"　もう待ったナシだよねェ、紗希〜〜！？\""
+			"　もう待ったナシだよねェ、紗希~~！？\""
 		]
 	},
 	{
@@ -1175,7 +1175,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1258,7 +1258,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1283,7 +1283,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

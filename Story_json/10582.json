@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"言っておきますが、私はアルコールには自信があるんです。",
-			"　狸が仕掛けた悪知恵が、返り討ちにあうかもですよ。",
-			"　あなたは"
+			"\"I have a lot of confidence in alcohol.",
+			"It might be a bad idea if it comes from the racoon.",
+			"Youll make great "
 		]
 	},
 	{
@@ -88,7 +88,7 @@
 	},
 	{
 		"STRINGS": [
-			"さぞかし狸の出汁が"
+			"Racoon Soup"
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"出そうですし\""
+			"you know.\""
 		]
 	},
 	{
@@ -152,9 +152,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ぷ……くくく……！",
-			"　さすがははみ出し部署の才媛だな！",
-			"　こんなに侮辱されたのは初めてだよ……！！\""
+			"\"Eheheheh...",
+			"That's some talent in the measly department!",
+			"I've never been so insulted in my life!!\""
 		]
 	},
 	{
@@ -177,11 +177,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"そう聞こえました？\""
+			"\"Is that what that sounds like?\""
 		]
 	},
 	{
@@ -232,7 +232,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そりゃもう、ね！\""
+			"\"Well, you know!\""
 		]
 	},
 	{
@@ -249,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"侮辱されたと憤りの言葉をだしているが、",
-			"喜色満面で私を見つめていた。"
+			"He was indignant that I had insulted",
+			"him, but he looked at me with glee."
 		]
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"STRINGS": [
-			"これで私の拒絶の意図が伝わればいいんだが……。"
+			"I hope this conveys the intent of my rejection..."
 		]
 	},
 	{

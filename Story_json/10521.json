@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ちなみに"
+			"\"Do you have any"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"コツとか"
+			" Tips & Tricks "
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"あるんですか？\""
+			"you would like to share?\""
 		]
 	},
 	{
@@ -118,9 +118,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうですねえ。強いて言うならば……",
-			"　……って、危ない危ない！",
-			"　危うく喋ってしまうとこだった\""
+			"\"I guess i can tell you...",
+			"w-wait! That was close!",
+			"I almost spoke out of turn.\""
 		]
 	},
 	{
@@ -143,11 +143,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"もったいぶらずに教えて下さいよ\""
+			"\"Don't be coy, just tell me.\""
 		]
 	},
 	{
@@ -174,7 +174,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ダメダメ！　情報の一個一個がメシの種なんですから！\""
+			"\"Nop, not a chance!",
+			"Each piece of information is a meal ticket for me!\""
 		]
 	},
 	{
@@ -191,8 +192,8 @@
 	},
 	{
 		"STRINGS": [
-			"う〜ん……なかなかつけいる隙が見あたらない。",
-			"何かいい妙案はないものか……。"
+			"Hmmm... I cant seem to find an opening...",
+			"I wonder if i can catch him off guard? "
 		]
 	},
 	{

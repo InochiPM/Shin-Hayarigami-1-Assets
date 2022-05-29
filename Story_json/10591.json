@@ -77,8 +77,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"でもしかし……あなたは実に面白い人だ。",
-			"　個人的に興味がわきましたよ\""
+			"\"You are a really interesting person.",
+			"You've piqued my personal interest.\""
 		]
 	},
 	{
@@ -101,12 +101,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それってまさか、",
-			"　褒め言葉じゃないですよね\""
+			"\"I don't think that's a compliment.\""
 		]
 	},
 	{
@@ -157,8 +156,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"受け止め方はお任せしますよ。",
-			"　––よし、こうしましょう\""
+			"\"I'll leave it to you to accept.",
+			"--Okay, here's what we'll do.\""
 		]
 	},
 	{
@@ -181,7 +180,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"まずは私が知っている事をお伝えしましょう\""
+			"\"Let me first tell you what I know.\""
 		]
 	},
 	{
@@ -204,12 +203,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え、いいんですか。",
-			"　でも情報源の秘匿は……\""
+			"\"Huh, Is that okay though?",
+			"What happened to the confidentially of the source?\""
 		]
 	},
 	{
@@ -230,8 +229,10 @@
 	},
 	{
 		"STRINGS": [
-			"突然の態度の軟化に、正直驚きを隠せなかった。",
-			"何か裏がありそうな気もして仕方がない。"
+			"I honestly could not hide my surprise",
+			"at the sudden softening of his attitude.",
+			"I couldn't help but feel that there",
+			"might be something behind it."
 		]
 	},
 	{
@@ -254,9 +255,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"お近づきの印に、という名目じゃダメですか。",
-			"　それを知って、もし役に立ちそうならば、あなたからも。",
-			"　ギブ＆テイクというのでどうでしょう？\""
+			"\"You can call it a token of our new relationship.",
+			"Knowing that, it would be useful, from you as well.",
+			"How about a give and take situation?\""
 		]
 	},
 	{
@@ -273,9 +274,10 @@
 	},
 	{
 		"STRINGS": [
-			"……本音を言えば迷う始末。",
-			"聞くだけ聞いて切り捨てる事も可能だ。",
-			"その意味では、私が一方的に有利というのも気がかりだ。"
+			"...They are lost when it comes down to it.",
+			"I could just ask and cut them off.",
+			"In that sense, I am concerned that",
+			"I have a one-sided advantage."
 		]
 	},
 	{

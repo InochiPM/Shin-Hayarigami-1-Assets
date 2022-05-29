@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それなら私はここで"
+			"\"I'll just have to"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"舌を噛み切って"
+			" bite off my own tongue "
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"死んでもいい\""
+			"and die.\""
 		]
 	},
 	{
@@ -150,20 +150,21 @@
 	},
 	{
 		"STRINGS": [
-			"\"ほう……なかなかの気概ですね。",
-			"　その凜とした様子に惚れてしまいそうです。",
-			"　私があと１０歳若かったら"
+			"\"Wow...that's the spirit.",
+			"I think I'm going to fall in",
+			"love with that interesting look.",
+			"If I were Ten years younger I would "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "28000a00",
 		"KEYWORD_ID": 3034,
-		"KEYWORD": "Proposal"
+		"KEYWORD": "Propose"
 	},
 	{
 		"STRINGS": [
-			"してましたよ\""
+			" to you.\""
 		]
 	},
 	{
@@ -186,11 +187,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"……セクハラですよ、それ\""
+			"\"Thats sexual harassment you know.\""
 		]
 	},
 	{
@@ -241,8 +242,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"やだなあ。あなたに対する賞賛を",
-			"　私なりに表現しただけですって\""
+			"\"Oh no. I was just expressing my",
+			"admiration for you in my own way.\""
 		]
 	},
 	{
@@ -259,7 +260,8 @@
 	},
 	{
 		"STRINGS": [
-			"彼は悪びれる様子もなく、言葉を並べ立てた。"
+			"He didn't seem to take offense,",
+			"but he put the words out there."
 		]
 	},
 	{
@@ -276,8 +278,9 @@
 	},
 	{
 		"STRINGS": [
-			"彼と共闘を組むメリットはあるかもしれないが、",
-			"それよりもデメリットの方が勝っているとしか思えない。"
+			"There may be advantages to working with",
+			"him, but I can only assume that the",
+			"Cons outweigh the Pros."
 		]
 	},
 	{
@@ -294,8 +297,10 @@
 	},
 	{
 		"STRINGS": [
-			"虎穴にいらずんば虎児を得ず——",
-			"それでも彼と手を組んだ方がいいのか？"
+			"You know what they say,",
+			"No entry into a tiger's den",
+			"brings about no capture of its cub",
+			"should I still join forces with him?"
 		]
 	},
 	{

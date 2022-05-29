@@ -69,13 +69,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ふふ……あなたもそれなりのリスクを背負って",
-			"　いるようなんですね。",
-			"　ならば、その情報源について聴取室で伺っても\""
+			"\"Hmmm...I see... you are also taking",
+			"a certain amount of risk.",
+			"Then may I ask where you got said",
+			"Information from?\""
 		]
 	},
 	{
@@ -106,8 +107,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"あれあれ？　そんな事をしてもいいんですか？",
-			"　それこそ公権力に関する報道の自由の侵害では？\""
+			"\"Huh, huh? Is it okay to do that?",
+			"Isn't that a violation of freedom of",
+			"the press regarding public authority?\""
 		]
 	},
 	{

@@ -105,9 +105,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほど、黙秘ですか……。",
-			"　じゃあそれは警察の意図的な隠蔽って事で",
-			"　受け止めますね。くっくっく\""
+			"\"I see, so you are silent...",
+			"Then I'll take that as a deliberate cover-up by ",
+			"the police. Hehehe.\""
 		]
 	},
 	{
@@ -148,8 +148,10 @@
 	},
 	{
 		"STRINGS": [
-			"口八丁手八丁を駆使して、彼は自分勝手な解釈を振りかざす。",
-			"このまま勝手に喋らせ続けると、何をされるかわからない。"
+			"Using his mouth and hands,",
+			"he wields his own selfish interpretation.",
+			"If I continue to let him speak without",
+			"permission, I don't know what he will do."
 		]
 	},
 	{
@@ -166,8 +168,9 @@
 	},
 	{
 		"STRINGS": [
-			"お世辞にも上品とは言えない中年男性一人に、",
-			"私達の捜査の邪魔をされるなんてまっぴらだ。"
+			"I will not have my investigation interrupted",
+			"by a single middle-aged man",
+			"who is not very elegant."
 		]
 	},
 	{

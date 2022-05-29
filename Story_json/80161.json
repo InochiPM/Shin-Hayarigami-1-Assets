@@ -224,7 +224,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ひょ〜、おっかねぇなァ！",
+			"\"ひょ~、おっかねぇなァ！",
 			"　これが本物かぁ……有名なんだろ、この人形？",
 			"　何でも呪いがかかってるって\""
 		]
@@ -326,7 +326,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それで。お人形さんに呪い？　呪いこわいこわい〜って？",
+			"\"それで。お人形さんに呪い？　呪いこわいこわい~って？",
 			"　アナタ呪いがあるって本気で信じているの？",
 			"　……馬鹿らしい。だから特ラ課は馬鹿にされるのよ\""
 		]
@@ -557,7 +557,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -813,7 +813,7 @@
 	{
 		"STRINGS": [
 			"\"高級って意味では髪も天然の蚕糸（さんし）ね。",
-			"　これだって高価とはいえ一巻き３〜４千円ってとこよ。",
+			"　これだって高価とはいえ一巻き３~４千円ってとこよ。",
 			"　まあ、一部人毛も編み込まれてるようだけど\""
 		]
 	},
@@ -1033,7 +1033,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1154,7 +1154,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1238,7 +1238,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1363,7 +1363,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1437,7 +1437,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1567,7 +1567,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

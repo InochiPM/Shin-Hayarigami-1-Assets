@@ -84,7 +84,7 @@
 	},
 	{
 		"STRINGS": [
-			"So far, we have obtained several keywords that"
+			"So far, we have obtained several keywords"
 		]
 	},
 	{
@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"we believe are related to the case."
+			"that we believe are related to the case."
 		]
 	},
 	{
@@ -126,7 +126,7 @@
 	},
 	{
 		"STRINGS": [
-			"These Keywords will be used during [Inference Logic]."
+			"These keywords are used in Inference Logic."
 		]
 	},
 	{
@@ -147,7 +147,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can enter the Inference Logic mode at any time"
+			"You can enter the Inference Logic mode at any "
 		]
 	},
 	{
@@ -164,7 +164,7 @@
 	},
 	{
 		"STRINGS": [
-			"by selecting it in the [System Menu]."
+			"By selecting it from the pause menu."
 		]
 	},
 	{
@@ -193,7 +193,7 @@
 	},
 	{
 		"STRINGS": [
-			"Inference Logic is a logic diagram that"
+			"Reasoning Logic is a logic diagram that"
 		]
 	},
 	{
@@ -235,7 +235,7 @@
 	},
 	{
 		"STRINGS": [
-			"Basically, the characters are automatically incorporated."
+			"Basically, the characters are automatically added."
 		]
 	},
 	{
@@ -252,7 +252,7 @@
 	},
 	{
 		"STRINGS": [
-			"The fields connecting people and info are left blank,"
+			"The fields connecting important info are left blank,"
 		]
 	},
 	{
@@ -269,7 +269,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please fill them out with the correct info."
+			"fill them with the keywords, and organize the case."
 		]
 	},
 	{
@@ -294,7 +294,7 @@
 	},
 	{
 		"STRINGS": [
-			"There will be a final check of the Logic at the end."
+			"A final check will happen at the end of the case."
 		]
 	},
 	{
@@ -311,7 +311,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please note the final evaluation also is effected."
+			"Please note, this will be the final evaluation."
 		]
 	},
 	{
@@ -368,7 +368,7 @@
 	},
 	{
 		"STRINGS": [
-			"Move the cursor to an empty field and press the"
+			"Move the cursor to an empty field and press the "
 		]
 	},
 	{
@@ -414,7 +414,7 @@
 	},
 	{
 		"STRINGS": [
-			"A list of words will appear that you can place"
+			"A list of keywords will be displayed when clicked."
 		]
 	},
 	{
@@ -431,7 +431,7 @@
 	},
 	{
 		"STRINGS": [
-			"in the blank spaces by pressing the "
+			"Use the cursor and the "
 		]
 	},
 	{
@@ -448,7 +448,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button."
+			" button to select a keyword."
 		]
 	},
 	{
@@ -473,7 +473,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can skip to the next blank field by pressing the"
+			"You can skip to the next blank by pressing the"
 		]
 	},
 	{
@@ -490,7 +490,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button "
+			" Button"
 		]
 	},
 	{
@@ -507,7 +507,7 @@
 	},
 	{
 		"STRINGS": [
-			"while the cursor is on a blank option."
+			"while the cursor is on the blank space."
 		]
 	},
 	{
@@ -532,7 +532,7 @@
 	},
 	{
 		"STRINGS": [
-			"Move the cursor to a person and press the"
+			"Move the cursor to the person panel and press the "
 		]
 	},
 	{
@@ -549,7 +549,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button."
+			" Button"
 		]
 	},
 	{
@@ -566,7 +566,7 @@
 	},
 	{
 		"STRINGS": [
-			"a description about the person will be displayed to"
+			"to display a description of the person"
 		]
 	},
 	{
@@ -583,7 +583,7 @@
 	},
 	{
 		"STRINGS": [
-			"help you with your investigation."
+			"that you can use as a reference for the case."
 		]
 	},
 	{
@@ -608,7 +608,7 @@
 	},
 	{
 		"STRINGS": [
-			"While selecting a person you can press the "
+			"While selecting a person panel using the"
 		]
 	},
 	{
@@ -625,7 +625,7 @@
 	},
 	{
 		"STRINGS": [
-			"button to check"
+			"button,"
 		]
 	},
 	{
@@ -642,7 +642,7 @@
 	},
 	{
 		"STRINGS": [
-			"all of the existing characters continuously."
+			"you can swiftly check all the people."
 		]
 	},
 	{
@@ -684,7 +684,7 @@
 	},
 	{
 		"STRINGS": [
-			"[Inference Logic] board."
+			"case using the Inference Logic board."
 		]
 	},
 	{
@@ -709,7 +709,7 @@
 	},
 	{
 		"STRINGS": [
-			"If you don't see a keyword that fits, you can leave"
+			"If you don't find any keywords that apply,"
 		]
 	},
 	{
@@ -726,7 +726,7 @@
 	},
 	{
 		"STRINGS": [
-			"it blank and leave it pending."
+			"you can leave it blank."
 		]
 	},
 	{
@@ -751,7 +751,7 @@
 	},
 	{
 		"STRINGS": [
-			"You will still get many more keywords after this,"
+			"There are still many more keywords to come,"
 		]
 	},
 	{
@@ -768,7 +768,7 @@
 	},
 	{
 		"STRINGS": [
-			"and you can always revise it."
+			"and you can modify them at any time, so"
 		]
 	},
 	{
@@ -785,7 +785,7 @@
 	},
 	{
 		"STRINGS": [
-			"so please close the deduction logic with "
+			"please close Inference Logic"
 		]
 	},
 	{
@@ -802,7 +802,7 @@
 	},
 	{
 		"STRINGS": [
-			"when you are ready to sort it out."
+			"when you are done."
 		]
 	},
 	{

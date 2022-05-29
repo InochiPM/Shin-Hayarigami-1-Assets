@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ああもう……しつこいなぁ……\""
+			"\"Oh my god...you're so persistent...\""
 		]
 	},
 	{
@@ -132,9 +132,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"褒め言葉として受け止めておきますよ。",
-			"　そうです、私、しつこいんです。",
-			"　だから、さっさと喋っちまって下さいよ〜\""
+			"\"I'll take that as a compliment.",
+			"Yes, I am persistent.",
+			"So, please get to talking~\""
 		]
 	},
 	{

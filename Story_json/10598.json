@@ -75,7 +75,7 @@
 	},
 	{
 		"STRINGS": [
-			"結局、私はもう二度と彼と会うことはなかった。"
+			"In the end, I never saw him again."
 		]
 	},
 	{
@@ -92,8 +92,8 @@
 	},
 	{
 		"STRINGS": [
-			"––そう、直接には。",
-			"それから数日後の事だ。"
+			"--Yes, Never again in person.",
+			"Then a few days later."
 		]
 	},
 	{
@@ -110,7 +110,8 @@
 	},
 	{
 		"STRINGS": [
-			"私達は一向に進展しない状況に焦っていた。"
+			"We were getting impatient with the",
+			"situation, which was not progressing at all."
 		]
 	},
 	{
@@ -127,8 +128,8 @@
 	},
 	{
 		"STRINGS": [
-			"関本に何度となく事情聴取を繰り返し、",
-			"有用な情報を引き出そうと苦心していた。"
+			"He interviewed Sekimoto repeatedly",
+			"and took pains to extract anything useful from him."
 		]
 	},
 	{
@@ -145,8 +146,9 @@
 	},
 	{
 		"STRINGS": [
-			"だが関本の発言は、ことごとく抽象的で、",
-			"事件に関して具体的な話は一切なかった。"
+			"However, Sekimoto's statements were",
+			"abstract at every turn, and nothing concrete",
+			"was said about the case."
 		]
 	},
 	{
@@ -163,7 +165,7 @@
 	},
 	{
 		"STRINGS": [
-			"そんなある日の朝の事だった——"
+			"Then, one morning--"
 		]
 	},
 	{
@@ -234,8 +236,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"北條クン！　風守クン！！",
-			"　一体君達は何をしでかしたんだね！？\""
+			"\"Hojo!  Kazamori!",
+			"What in the world have you guys done!\""
 		]
 	},
 	{
@@ -340,8 +342,8 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長が怒号と共に机の上に投げつけたのは",
-			"中年男性向けの週刊誌だった。"
+			"Chief Kuroda threw a weekly magazine",
+			"for middle-aged men on the desk with an angry shout."
 		]
 	},
 	{
@@ -408,8 +410,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"週刊サラリー……。",
-			"　これがどうかしたのか？\""
+			"\"The Weekly Salary.",
+			"What's wrong with it?\""
 		]
 	},
 	{
@@ -452,9 +454,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"どうもこうもないよ！",
-			"　どうして留置所の彼の事が",
-			"　スッパ抜かれているんだよ！！\""
+			"\"I don't care!",
+			"Why is he in jail being mentioned in the Column!\""
 		]
 	},
 	{
@@ -521,7 +522,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"嘘だろう……！？\""
+			"\"You're lying!?\""
 		]
 	},
 	{
@@ -594,8 +595,8 @@
 	},
 	{
 		"STRINGS": [
-			"私達が記事に目を通すと、",
-			"確かに関本の事が記事になっている。"
+			"We looked through the pages and sure enough,",
+			"Sekimoto was mentioned in the article."
 		]
 	},
 	{
@@ -612,8 +613,9 @@
 	},
 	{
 		"STRINGS": [
-			"『政府の陰謀を暴く！",
-			"　殺人犯Ｓを極秘出獄させた無能警察の思惑！！』"
+			"[The government conspiracy is exposed!]",
+			"[The Incompetent Police Department's",
+			"Intentions in Secretly Releasing Murderer S.]"
 		]
 	},
 	{
@@ -630,8 +632,9 @@
 	},
 	{
 		"STRINGS": [
-			"『殺人犯にあてがった美人刑事の正体！！",
-			"　極秘部署の存在をスッパ抜く！！』"
+			"[The identity of the beautiful detective assigned",
+			"to the murderer!] [The existence of a",
+			"[top-secret department is revealed!]"
 		]
 	},
 	{
@@ -648,9 +651,10 @@
 	},
 	{
 		"STRINGS": [
-			"『警察組織の腐敗はここまで来た！？",
-			"　凶悪殺人犯に捜査協力を依頼したＳ県警の",
-			"　体たらくを大公開！！！』"
+			"[The corruption of the police has come this far!]",
+			"[The  S. Prefectural Police who asked a vicious ]",
+			"[murderer to cooperate with their",
+			"investigation is now on full display!]"
 		]
 	},
 	{
@@ -669,11 +673,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"これって……もしかして関本の事なの……！？\""
+			"\"Is this... possibly Sekimoto's fault??\""
 		]
 	},
 	{
@@ -694,9 +698,10 @@
 	},
 	{
 		"STRINGS": [
-			"関本の具体的な名前はない。",
-			"イニシャルで記載されているだけだ。",
-			"事件内容も、可能な限りぼかしてある。"
+			"There is no specific name for Sekimoto.",
+			"He is only listed by his initials.",
+			"The details of the case are also",
+			"blurred out as much as possible."
 		]
 	},
 	{
@@ -713,9 +718,9 @@
 	},
 	{
 		"STRINGS": [
-			"その内容は憶測と誇大妄想で装飾されていると",
-			"言ってもいい。",
-			"しかし……。"
+			"It is safe to say that its content is embellished",
+			"with speculation and paranoia.",
+			"However..."
 		]
 	},
 	{
@@ -778,8 +783,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おいおい……関係者が見れば一発で",
-			"　何の事かわかるぞ、コレ……！？\""
+			"\"Hey hey...if the officials see this, they'll know",
+			"what it''s all about in an instant!!\""
 		]
 	},
 	{
@@ -834,8 +839,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"今朝、署長から事情を厳しく正された。",
-			"　まさか君達は、この記事に関与していないよね？\""
+			"\"This morning, the chief of police sternly",
+			"corrected me on the situation.",
+			"You guys are not involved in this story, are you?\""
 		]
 	},
 	{
@@ -890,8 +896,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"当たり前だろ！　こんな三文週刊誌に",
-			"　情報を渡す理由はないだろ！\""
+			"\"Of course! There's no reason to",
+			"give information to this bad mag!!\""
 		]
 	},
 	{
@@ -918,7 +924,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……北條クンは？\""
+			"\"Hojo?...\""
 		]
 	},
 	{
@@ -1079,8 +1085,9 @@
 	},
 	{
 		"STRINGS": [
-			"私は思い出した。",
-			"数日前、津田沼陽一と名乗る男に取引を持ちかけられた事に。"
+			"I remembered. A few days ago, I was",
+			"approached by a man claiming to be",
+			"Yoichi Tsudanuma with a business offer."
 		]
 	},
 	{
@@ -1149,8 +1156,9 @@
 	},
 	{
 		"STRINGS": [
-			"ハッとして黒田課長を見た時、",
-			"その表情だけで何かを察したようだ。"
+			"When he looked at Chief Kuroda with a",
+			"huff, he seemed to have guessed something",
+			"just by the look on my face."
 		]
 	},
 	{
@@ -1173,8 +1181,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"……北條クン、これから県警本部に行ってもらう事になる。",
-			"　そこで内部調査に協力してもらうよ、いいね\""
+			"\"...... Hojo kun, you will now go to",
+			"the prefectural police headquarters.",
+			"I'll ask you to cooperate with the",
+			"internal investigation there, okay?\""
 		]
 	},
 	{
@@ -1197,13 +1207,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あの、私は何も知りません。",
-			"　たしかに記者には食い下がられましたが",
-			"　何も話してはいません\""
+			"\"Well, I don't know anything.",
+			"Yes, the reporter did try to get me",
+			"to talk, but I didn't tell him anything.\""
 		]
 	},
 	{
@@ -1230,8 +1240,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"もはや事態は、君だけの問題じゃない。",
-			"　釈明は私にじゃなく、本部でしたまえ\""
+			"\"This is no longer your problem alone.",
+			"You can explain yourself at headquarters, not to me.\""
 		]
 	},
 	{
@@ -1248,7 +1258,8 @@
 	},
 	{
 		"STRINGS": [
-			"もはや、これ以上の言い訳ができる雰囲気ではない。"
+			"The atmosphere is no longer",
+			"conducive to any more excuses."
 		]
 	},
 	{
@@ -1285,8 +1296,9 @@
 	},
 	{
 		"STRINGS": [
-			"本部での調査次第では、もう二度と私は",
-			"警察官としての職務を全うできないだろう。"
+			"Depending on the investigation at headquarters,",
+			"I may never be able to fulfill my",
+			"duties as a police officer again.。"
 		]
 	},
 	{
@@ -1303,7 +1315,7 @@
 	},
 	{
 		"STRINGS": [
-			"私は、愕然として、全身の力が抜けてしまった。"
+			"I was aghast, and my whole body was drained."
 		]
 	},
 	{

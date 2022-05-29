@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"まず"
+			"\"If you could just answer "
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"私の質問に"
+			"my question"
 		]
 	},
 	{
@@ -91,8 +91,8 @@
 	},
 	{
 		"STRINGS": [
-			"答えてくれたら、",
-			"　あなたへの協力を考えても構いませんが\""
+			" first,",
+			"Then I would be willing to cooperate with you.\""
 		]
 	},
 	{
@@ -119,8 +119,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"やだなあ。そうやって主導権を握ろうと",
-			"　しているんでしょ？\""
+			"\"Oh?",
+			"That's how you're trying to take",
+			"control, isn't it?\""
 		]
 	},
 	{
@@ -137,7 +138,7 @@
 	},
 	{
 		"STRINGS": [
-			"……しまった。見抜かれていたか。"
+			"Damnit... I guess they saw right through me."
 		]
 	},
 	{
@@ -154,8 +155,9 @@
 	},
 	{
 		"STRINGS": [
-			"この記者はなかなか頭が切れそうだ。",
-			"返答はもっと慎重にならないと面倒な事になりそうだ。"
+			"This reporter seems pretty smart.",
+			"I'll have to be more careful in my replies or",
+			"I'll get more trouble."
 		]
 	},
 	{

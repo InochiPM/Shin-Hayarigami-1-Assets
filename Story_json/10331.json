@@ -85,7 +85,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほど、自殺ねえ……複雑な事情があるもんだね\""
+			"\"I see. Suicide... That's a complicated situation.\""
 		]
 	},
 	{
@@ -114,8 +114,8 @@
 	},
 	{
 		"STRINGS": [
-			"そう言いながら、黒田課長はホワイトボードに",
-			"書き出してゆく。"
+			"As he said this, Chief Kuroda",
+			"started writing on the whiteboard."
 		]
 	},
 	{
@@ -136,8 +136,9 @@
 	},
 	{
 		"STRINGS": [
-			"被害者である田村さん。",
-			"そして今回聴取した三人、遥さん、砂堀さん、早苗さん。"
+			"Mr.Tamura, the victim.",
+			"And the three people we interviewed",
+			"this time, Haruka, Sunahori, and Sanae."
 		]
 	},
 	{
@@ -164,7 +165,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"さて、これをどう解釈したらいいのやら、だ\""
+			"\"Well, I don't know what to make of this.\""
 		]
 	},
 	{
@@ -187,13 +188,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"まず、明らかなのは",
-			"　被害者の田村さんは決して褒められた人物では",
-			"　ないという事です\""
+			"\"First of all, it's clear that the victim,",
+			"Mr. Tamura, is not a person to be admired.\""
 		]
 	},
 	{
@@ -256,8 +256,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"どの人間にもほどよくトラブルの種を抱えている。",
-			"　性格もよさそうじゃなさそうだ\""
+			"\"Every human being has their own amount of trouble.",
+			"Doesn't look like he has a good personality either.\""
 		]
 	},
 	{
@@ -280,12 +280,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"特にこの中では、砂堀さんが一番強い",
-			"　動機を持っていると言えるかもしれません\""
+			"\"Of all of them, Mr. Sunahori",
+			"may have the strongest motivation.\""
 		]
 	},
 	{
@@ -340,8 +340,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"とはいうものの、遥ちゃんだってなかなかのものだ。",
-			"　若い女の子の肌に傷を付けられたらたまったもんじゃない\""
+			"\"However, Haruka is also a prime suspect.",
+			"It would be a shame to have a young girl's skin damaged.\""
 		]
 	},
 	{
@@ -400,9 +400,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"牧村早苗に関しては何とも言えないな。",
-			"　直接的な動機はない。",
-			"　なにより、被害者の死で利益を得られない\""
+			"\"As for Sanae, I can't say for sure.",
+			"There is no direct motive.",
+			"Above all, she can't profit from the victim's death.\""
 		]
 	},
 	{
@@ -425,8 +425,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"できれば、その理事長の自殺前に話が聞ければ",
-			"　良かったなぁ……\""
+			"\"I wish I could have talked",
+			"to the man before he committed suicide...\""
 		]
 	},
 	{
@@ -443,9 +443,10 @@
 	},
 	{
 		"STRINGS": [
-			"黒田課長は、うんうん、と唸りながら。",
-			"ホワイトボードにペン先を当てていた。",
-			"どうこれを纏めればいいのか思いあぐねているのだ。"
+			"Kuroda mumbled to himself.",
+			"He put his pen to the whiteboard.",
+			"He was having a hard time figuring",
+			"out how to put this together."
 		]
 	},
 	{
@@ -468,8 +469,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"だめだ、固くなった私の頭じゃなんともいかん。",
-			"　北條クンならどうする？\""
+			"\"No, my hardened brain can't handle it.",
+			"What would you do Hojo?\""
 		]
 	},
 	{
@@ -492,11 +493,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え、私ですか？\""
+			"\"Huh? Me?\""
 		]
 	},
 	{
@@ -547,7 +548,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうだ。この図に君なりの解釈を入れてほしい\""
+			"\"That's right. I want you to put your own",
+			"interpretation on this diagram.\""
 		]
 	},
 	{
@@ -594,9 +596,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうすれば、何か新しいものが見えてくるかも",
-			"　しれないしね。",
-			"　さ、頼むよ\""
+			"\"And if you do, maybe you'll see something new.",
+			"Now lets try it!\""
 		]
 	},
 	{
@@ -625,8 +626,8 @@
 	},
 	{
 		"STRINGS": [
-			"私は、黒田課長から水性ペンを渡された。",
-			"私はホワイトボードの前に立ち、腕を組む。"
+			"Having been handed a dry erase marker,",
+			"I stood in front of the whiteboard and crossed my arms."
 		]
 	},
 	{
@@ -643,8 +644,8 @@
 	},
 	{
 		"STRINGS": [
-			"被害者の田村さんと、この周辺の人物の関係から",
-			"滲み出てくるもの……。"
+			"What exudes from the relationship between the victim,",
+			"Mr. Tamura, and the people around him..."
 		]
 	},
 	{
@@ -661,9 +662,10 @@
 	},
 	{
 		"STRINGS": [
-			"私は思いつくままに書き始めた。",
-			"頭の中に思い描いた図とはかなり簡略化している。",
-			"それを全て書き出すにはあまりにもスペースが足りないのだ。"
+			"I began to write while I thought.",
+			"It was a much more simplified version of",
+			"the diagram I had in my head.",
+			"There was just too little space to write it all down."
 		]
 	},
 	{
@@ -696,7 +698,7 @@
 	},
 	{
 		"STRINGS": [
-			"そう私の頭の中に描いた全容は——"
+			"That' s how I pictured the whole thing in my head."
 		]
 	},
 	{

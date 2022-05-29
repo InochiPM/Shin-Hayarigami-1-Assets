@@ -303,8 +303,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"新米が出来るまでヒマって事だな。",
-			"　じゃあ今日はじっくり話を聞かせてもらおうかね\""
+			"\"I guess that means you're not",
+			"busy until the new crop is ready.",
+			"Well, then, let's have a long talk today, shall we?\""
 		]
 	},
 	{
@@ -331,9 +332,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"お前と違って、俺は要領が悪い。",
-			"　頭の中も仕事の事で手一杯なんだ。",
-			"　用があるなら手短にしてくれ\""
+			"\"Unlike you, I'm not up to date.",
+			"My mind is occupied with my work.",
+			"If you have something for me, make it quick.\""
 		]
 	},
 	{
@@ -360,9 +361,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"相変わらず手厳しいなあ。",
-			"　忙しいフリをしているワリには、",
-			"　夜はお盛んだって聞いているぞ\""
+			"\"You're still as tough as ever.",
+			"I've heard that you're very busy at night,",
+			"even though you pretend not to be.\""
 		]
 	},
 	{
@@ -389,7 +390,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お前ほどじゃない\""
+			"\"Not as much as you.\""
 		]
 	},
 	{
@@ -444,9 +445,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"へいへい。北條。",
-			"　どうやらこの大将は俺の事が好かんらしい。",
-			"　お前に任せた\""
+			"\"Hey, hey. Hojo.",
+			"Apparently, this big boss doesn't like me.",
+			"I leave it to you.\""
 		]
 	},
 	{
@@ -499,9 +500,9 @@
 	},
 	{
 		"STRINGS": [
-			"なんだか最初から不穏な空気だ。",
-			"砂堀さんの全身からも、いきなり呼びつけられて",
-			"迷惑しているという雰囲気を漂わせている。"
+			"The whole atmosphere was unsettling from the start.",
+			"Sunahori's whole body gave off an air of",
+			"displeasure at being summoned out of the blue."
 		]
 	},
 	{
@@ -518,8 +519,9 @@
 	},
 	{
 		"STRINGS": [
-			"出来るだけ、その空気に飲み込まれないように",
-			"私は平静を装って聴取をはじめる事にした。"
+			"As much as possible, I tried not to be swallowed up",
+			"by the atmosphere, so I decided to keep my",
+			"composure and start the interview."
 		]
 	},
 	{
@@ -554,12 +556,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"砂堀さん、お忙しい中、貴重なお時間を割いて頂き",
-			"　ありがとうございます\""
+			"\"Thank you, Mr.Sunahori for taking time out",
+			"of your busy schedule to help us!\""
 		]
 	},
 	{
@@ -586,8 +588,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"社交辞令はいい。さっさとはじめてくれよ。",
-			"　田村の事を聞きたいんだろ\""
+			"\"Don't be a social butterfly. Just get on with it.",
+			"You want to hear about Tamura.\""
 		]
 	},
 	{
@@ -610,11 +612,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ええ、はい……\""
+			"\"Uhh...Yes.\""
 		]
 	},
 	{
@@ -631,8 +633,8 @@
 	},
 	{
 		"STRINGS": [
-			"なんだか、やりにくいな……。",
-			"なかなか主導権を握る事が出来やしない。"
+			"I don't know about this...",
+			"I can't seem to take the initiative."
 		]
 	},
 	{
@@ -651,11 +653,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"砂堀さんと田村さんのご関係ってなんですか？\""
+			"\"What was your relation with Tamura, Mr.Sunahori?\""
 		]
 	},
 	{
@@ -682,8 +684,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"あいつは、ウチの担当だったんだよ、銀行の。",
-			"　資金の融通をしてもらっていた\""
+			"\"He was our banker, you know.",
+			"He's been loaning us money.\""
 		]
 	},
 	{
@@ -706,7 +708,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"だが最近になって、あいつは手のひらを返したんだよ\""
+			"\"But lately, he's been losing his touch.\""
 		]
 	},
 	{
@@ -729,11 +731,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"……というと？\""
+			"\"And that means...?\""
 		]
 	},
 	{
@@ -800,18 +802,18 @@
 	},
 	{
 		"STRINGS": [
-			"\"『"
+			"\"Do you know what a "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "10000a00",
 		"KEYWORD_ID": 3021,
-		"KEYWORD": "Load Repayment"
+		"KEYWORD": "Loan Repayment"
 	},
 	{
 		"STRINGS": [
-			"』って知ってるかい\""
+			" is?\""
 		]
 	},
 	{
@@ -834,12 +836,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"金融関係は専門じゃないんですが、",
-			"　かいつまんでなら\""
+			"\"I'm not a financial expert,",
+			"but if I could just recap...\""
 		]
 	},
 	{
@@ -860,8 +862,9 @@
 	},
 	{
 		"STRINGS": [
-			"『貸し剥がし』とは、融資契約を打ち切って",
-			"貸していた資金の急な返済を迫る事だ。"
+			"The term «Defualting» refers to terminating a",
+			"loan agreement and forcing the borrower",
+			"to repay the loaned funds suddenly."
 		]
 	},
 	{
@@ -878,8 +881,9 @@
 	},
 	{
 		"STRINGS": [
-			"一般的に中小企業は、全て自前で経営が",
-			"まわるほど潤沢な資金があるはずがない。"
+			"In general, small and medium-sized companies do",
+			"not have enough money to run their",
+			"businesses entirely on their own."
 		]
 	},
 	{
@@ -896,8 +900,8 @@
 	},
 	{
 		"STRINGS": [
-			"それを銀行の資金調達によって支払を行い、",
-			"その分、毎月微々たる額で返済を続けていく。"
+			"This is paid for by the bank's funding,",
+			"which is then repaid in tiny amounts each month."
 		]
 	},
 	{
@@ -914,9 +918,10 @@
 	},
 	{
 		"STRINGS": [
-			"このサイクルで中小企業は経営を維持していくのだが、",
-			"いきなり貸しているお金を全て返せと言われたら、",
-			"とてもじゃないが経営が維持できるはずがない。"
+			"This cycle is how small and medium-sized businesses",
+			"maintain their operations, but if they were suddenly",
+			"asked to pay back all the money they have lent, there",
+			"is no way they would be able to maintain operations."
 		]
 	},
 	{
@@ -967,8 +972,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"田村は、ウチに貸している金を一気に返済しろって",
-			"　迫ったんだよ\""
+			"\"Tamura wanted us to repay the",
+			"money we owed him in one go.\""
 		]
 	},
 	{
@@ -991,11 +996,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それは、いつ頃の話ですか？\""
+			"\"When did that happen?\""
 		]
 	},
 	{
@@ -1022,9 +1027,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"あいつが殺される３週間前だ。",
-			"　なんでも銀行の方針が変わって、",
-			"　経営審査を厳しく行うようになったとか\""
+			"\"That was three weeks before he was killed.",
+			"I heard that the bank's policy had changed, and ",
+			"they were going to be more strict with",
+			"their business screening.\""
 		]
 	},
 	{
@@ -1083,8 +1089,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それで、どうしたんだよ。お前は。",
-			"　まさか"
+			"\"So, what's the matter with you?",
+			"Dont tell me you wait on a "
 		]
 	},
 	{
@@ -1095,7 +1101,7 @@
 	},
 	{
 		"STRINGS": [
-			"に行ったんじゃないだろうな\""
+			".\""
 		]
 	},
 	{
@@ -1154,9 +1160,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんなわけはないだろう。",
-			"　優子と一緒に必死に頭を下げに行ったさ。",
-			"　その時、奴はなんて言ったと思う\""
+			"\"How can that be?",
+			"I went with Yuuko and we frantically bowed.",
+			"What do you think he said then?\""
 		]
 	},
 	{
@@ -1209,8 +1215,8 @@
 	},
 	{
 		"STRINGS": [
-			"私は風守さんと顔を見合わせた。",
-			"正直、あまり良くない事を言われたに違いない。"
+			"I looked at Kazamori.",
+			"Honestly, he must have said something not very nice."
 		]
 	},
 	{
@@ -1259,8 +1265,8 @@
 	},
 	{
 		"STRINGS": [
-			"だが、私はあえてそこに触れず、",
-			"彼の言葉を待った。"
+			"But I didn't dare touch on it",
+			"I waited for him to say something."
 		]
 	},
 	{
@@ -1283,7 +1289,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"『貸し剥がしを勘弁して欲しければ、"
+			"\"«If you want me to give",
+			"you a break you'll have to"
 		]
 	},
 	{
@@ -1294,8 +1301,8 @@
 	},
 	{
 		"STRINGS": [
-			"しろ』",
-			"　––そう奴は言いやがった\""
+			".» ",
+			"-That's what he said.\""
 		]
 	},
 	{
@@ -1354,7 +1361,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それでアンタはどうしたんだよ\""
+			"\"So tell me, how did you do it?\""
 		]
 	},
 	{
@@ -1413,9 +1420,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"土下座でなんとかなるんだったらと思って",
-			"　きっちりやってやった。",
-			"　その時の屈辱は忘れられん\""
+			"\"I thought if I could manage it",
+			"on my knees, I'd do it right.",
+			"I'll never forget the humiliation of that moment.\""
 		]
 	},
 	{
@@ -1438,8 +1445,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"でも結局、奴は貸し剥がしを撤回しなかった。",
-			"　土地を売ってでも返済しろと迫られたんだよ\""
+			"\"But in the end, he didn't withdraw the loan.",
+			"He forced me to pay him back even",
+			"if I had to sell the land.\""
 		]
 	},
 	{
@@ -1462,11 +1470,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それは……\""
+			"\"Thats just...\""
 		]
 	},
 	{
@@ -1487,8 +1495,9 @@
 	},
 	{
 		"STRINGS": [
-			"だめだ、上手く言葉が出てこない。",
-			"私は、被害者・田村さんに同情が出来なくなってきていた。"
+			"No, I can't find the right words.",
+			"I was beginning to lose sympathy",
+			"for Mr.Tamura."
 		]
 	},
 	{
@@ -1511,9 +1520,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"結局、奴は頑としてこっちの頼みを",
-			"　聞き入れてくれやしない。",
-			"　正直、殺したいと思ったよ\""
+			"\"In the end, he stubbornly",
+			"refused to listen to my request.",
+			"To be honest, I wanted him dead.\""
 		]
 	},
 	{
@@ -1572,8 +1581,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"『殺したい』？",
-			"　おいアンタ、まさか……！？\""
+			"\"«Wanted him dead» ?",
+			"Hey you, you can't be serious...!\""
 		]
 	},
 	{
@@ -1594,8 +1603,8 @@
 	},
 	{
 		"STRINGS": [
-			"直接的な動機を示す言葉がいきなり切り出されて、",
-			"風守さんと同じく私も反応した。"
+			"The words that indicated a direct",
+			"motive were there, and like Kazamori, I reacted."
 		]
 	},
 	{
@@ -1644,8 +1653,8 @@
 	},
 	{
 		"STRINGS": [
-			"それをいち早く察知した砂堀さんは、",
-			"軽く咳払いをしながら居住まいを正す。"
+			"Mr.Sunahori, who was the first to notice this,",
+			"coughed lightly and straightened up his posture."
 		]
 	},
 	{
@@ -1668,9 +1677,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"勘違いするなよ。",
-			"　ただ思っただけだ。",
-			"　俺じゃねえ\""
+			"\"Don't get me wrong.",
+			"It was just a thought.",
+			"It wasn't me.\""
 		]
 	},
 	{
@@ -1693,12 +1702,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"しかし、その田村さんは殺害されました。",
-			"　それで貸し剥がしの件はどうなったんですか？\""
+			"\"However, that Mr.Tamura was murdered.",
+			"So what happened to the matter of the loan?\""
 		]
 	},
 	{
@@ -1725,9 +1734,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"さあな。あれから新しい担当がくるわけでもなしだ。",
-			"　……って、死体が田村だって",
-			"　わかったのはついこの間の話だろ？\""
+			"\"I don't know. we've not had contact or",
+			"gotten a new handler since then.",
+			"It was only a few days ago that we found",
+			"out that the dead body was Tamura, wasn't it?\""
 		]
 	},
 	{
@@ -1750,8 +1760,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"もし、貸し剥がしの件が再燃するならばだ、",
-			"　もう少し時間がかかるはずだ。そうだろ\""
+			"\"That's if the whole thing with the loan comes",
+			"back up again, which would take a while.",
+			"Then you're right.\""
 		]
 	},
 	{
@@ -1774,13 +1785,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"砂堀さん、ちなみになんですが、",
-			"　田村さんの殺害時刻の頃、",
-			"　あなたはどこで何をしていましたか\""
+			"\"By the way, Mr. Sunahori,",
+			"what were you doing at the",
+			"time of Mr. Tamura's murder?\""
 		]
 	},
 	{
@@ -1807,8 +1818,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"家族と一緒にいた。",
-			"　自宅でくつろいでいた、それだけだ\""
+			"\"I was with my family.",
+			"At home, relaxing, that's all.\""
 		]
 	},
 	{
@@ -1883,9 +1894,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほどな……。",
-			"　そのアリバイは後で裏を取らせてもらうよ。",
-			"　いいな？\""
+			"\"I see... Hmm...",
+			"We'll be able to corroborate that alibi",
+			"later, right?\""
 		]
 	},
 	{
@@ -1912,7 +1923,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"好きにしろ\""
+			"\"Do what you want.\""
 		]
 	},
 	{
@@ -1983,8 +1994,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"でもまあ土下座の要求とはなあ……。",
-			"　俺でもキレるぞ、それ\""
+			"\"But I'm not sure I'd get down",
+			"on my knees for something like that...",
+			"I'd be pissed, too.\""
 		]
 	},
 	{
@@ -2011,7 +2023,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……ふん\""
+			"\"Hmm...\""
 		]
 	},
 	{
@@ -2038,7 +2050,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それを動機でやっちまうには、充分ってやつかな……\""
+			"\"I guess that would be enough",
+			"to motivate me to do it...\""
 		]
 	},
 	{
@@ -2061,11 +2074,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"風守さん、失言です\""
+			"\"Kazamori, reword that please.\""
 		]
 	},
 	{
@@ -2132,7 +2145,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい、そりゃどういう意味だ？\""
+			"\"Hey, what's that supposed to mean?\""
 		]
 	},
 	{
@@ -2155,11 +2168,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え？　ちょっと砂堀さん！？\""
+			"\"What?　Hey, Mr. Sunahori!\""
 		]
 	},
 	{
@@ -2204,8 +2217,8 @@
 	},
 	{
 		"STRINGS": [
-			"––風守さんのつい漏れた言葉に、",
-			"砂堀さんは即座に反応した。"
+			"--Mr. Sunahori immediately",
+			"responded to Kazamori's words."
 		]
 	},
 	{
@@ -2234,7 +2247,8 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんの胸ぐらを掴んで、顔を突きつける。"
+			"He grabbed Kazamori by the chest",
+			"pilled him close by his shirt."
 		]
 	},
 	{
@@ -2265,8 +2279,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おいおい勘弁してくれよ。",
-			"　そりゃ公務執行妨害ってもんだぞ？\""
+			"\"Come on, give me a break.",
+			"That's called obstruction of justice, okay?\""
 		]
 	},
 	{
@@ -2321,7 +2335,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"てめえは俺を人殺し扱いしたじゃねえか！\""
+			"\"You're treating me like a murderer!\""
 		]
 	},
 	{
@@ -2344,11 +2358,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ちょっと二人とも！\""
+			"\"Hey, you two!\""
 		]
 	},
 	{
@@ -2403,8 +2417,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"やんのかこらあ！",
-			"　テメエんとこの酒をもう買ってやんねえぞ！！\""
+			"\"You can't be serious!",
+			"I'm not buying any more of your liquor!\""
 		]
 	},
 	{
@@ -2435,9 +2449,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ああ上等だコラァ！",
-			"　丹精込めて作った俺の酒を、",
-			"　テメエみたいな汚い口に呑ませられるか！\""
+			"\"Oh, that' s good!",
+			"I can't let a filthy mouth like yours",
+			"drink my carefully brewed sake!\""
 		]
 	},
 	{
@@ -2464,8 +2478,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"んだと！？",
-			"　今晩ガチで豚箱でお泊まりすっか！？\""
+			"\"Oh, yeah?",
+			"Are we going to sleep in a pigpen tonight?\""
 		]
 	},
 	{
@@ -2492,7 +2506,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"うちの卸先のキャバクラから出入り禁止にされてえか！！\""
+			"\"Do you want to get banned from the",
+			"cabaret club that's our wholesale supplier!\""
 		]
 	},
 	{
@@ -2523,7 +2538,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"んだコラァ！\""
+			"\"What was that?!\""
 		]
 	},
 	{
@@ -2554,7 +2569,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"んだとゴラァ！！\""
+			"\"You heard me!\""
 		]
 	},
 	{
@@ -2585,7 +2600,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"しゃーなろァ！\""
+			"\"I'm not going anywhere!\""
 		]
 	},
 	{
@@ -2616,7 +2631,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ゴラァァァァ！！\""
+			"\"Why you!!!!\""
 		]
 	},
 	{
@@ -2639,11 +2654,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あああああ……二人とも……！！！！\""
+			"\"Ohhhh... both of you...!!!!\""
 		]
 	},
 	{
@@ -2664,8 +2679,8 @@
 	},
 	{
 		"STRINGS": [
-			"なんて言うか、しょうもない。",
-			"まるで発情期の猫が苛立っているような感じだ。"
+			"I don't know what to say.",
+			"It's like two cats in heat losing their temper!"
 		]
 	},
 	{
@@ -2688,7 +2703,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"てめえ北條！　なにボケっとしてんだよ！\""
+			"\"Hey, Hojo! What are you waiting for?\""
 		]
 	},
 	{
@@ -2715,11 +2730,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え、私！？\""
+			"\"Huh.. me??\""
 		]
 	},
 	{
@@ -2746,7 +2761,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"おまえはどっちの味方なんだよ！？\""
+			"\"Whose side are you on, huh?\""
 		]
 	},
 	{
@@ -2773,7 +2788,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"こんな横暴刑事を放っておくのか、ああん！？\""
+			"\"You're going to just let this",
+			"arrogant detective get away with this?\""
 		]
 	},
 	{
@@ -2790,8 +2806,9 @@
 	},
 	{
 		"STRINGS": [
-			"ああああああああああ……どうしよう。",
-			"この状況を、非力な私がどうやって打開すればいいの……！？"
+			"Aaahhhhhh... What should I do?",
+			"How can I, an helpless person,",
+			"get out of this situation...!?"
 		]
 	},
 	{

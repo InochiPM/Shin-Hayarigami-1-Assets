@@ -77,12 +77,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"なるほど、そうですか……。",
-			"　でもそれは私達にとって"
+			"\"I see, I get it now.",
+			"This could lead to"
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"捜査妨害"
+			" Obstruction "
 		]
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"STRINGS": [
-			"になりかねません\""
+			"of our investigation.\""
 		]
 	},
 	{
@@ -151,8 +151,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"えぇっ！？　ちょっとそいつは勘弁して下さいよ。",
-			"　国民の知る権利を侵すつもりですか？\""
+			"\"Huh?! Give me a break, please!",
+			"Are you trying to violate the",
+			"public's right to information?\""
 		]
 	},
 	{
@@ -175,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ここで憲法を持ち出すのはずるいですよ\""
+			"\"It's not fair to bring up the Constitution here.\""
 		]
 	},
 	{
@@ -230,8 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はははっ！　何を言ってるんですか！",
-			"　『知る権利』は憲法にはないですよ？\""
+			"\"Hahaha! What are you babbling about?",
+			"The \"Right To Know\" isn't in the constitution.\""
 		]
 	},
 	{
@@ -248,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"……え、うそ？　そうだったっけ？",
-			"自分の知識に自信がもてなくなってきた。"
+			"Wait...what? You're lying. did I really say that?",
+			"I am becoming less and less confident in my knowledge."
 		]
 	},
 	{
@@ -266,8 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"彼は私の失態にさも嬉しそうな表情を浮かべている。",
-			"まずい、このままでは彼のペースに巻き込まれそうだ。"
+			"He looks pleased with my blunder.",
+			"I'm afraid that I'll be swept away by his annoyances."
 		]
 	},
 	{

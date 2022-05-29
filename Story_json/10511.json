@@ -65,13 +65,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"そうですか……しかし、あなたには驚かされます。",
-			"　私達は組織をあげて情報を追っているのに、",
-			"　あなたはたった一人で奮闘されている\""
+			"\"Right, but you amaze me.",
+			"We have an entire organization chasing ",
+			"information, and you alone are struggling.\""
 		]
 	},
 	{
@@ -126,8 +126,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"くくくく……そいつはどうも。",
-			"　これも商売ですから\""
+			"\"Huhuhu...Thanks for that.",
+			"But its just business as usual.\""
 		]
 	},
 	{

@@ -97,7 +97,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -173,7 +173,7 @@
 	{
 		"STRINGS": [
 			"\"そこはさあ、もっとこう気持ちよく、",
-			"　ハイ、やらせて頂きます〜って言いなよ。",
+			"　ハイ、やらせて頂きます~って言いなよ。",
 			"　新人さんなんだよ？　キミは\""
 		]
 	},
@@ -267,7 +267,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

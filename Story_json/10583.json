@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"私を見くびらないでほしいのですが。",
-			"　あなたが蛇か狸ならば、"
+			"\"Don't underestimate me.",
+			"Be it snake or racoon I'm "
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"STRINGS": [
-			"私は狐"
+			" the fox "
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 	},
 	{
 		"STRINGS": [
-			"かも\""
+			".\""
 		]
 	},
 	{
@@ -151,9 +151,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふ……ふふふふふ。",
-			"　おお、怖い怖い。",
-			"　私もどうやら覚悟を試されているようだ\""
+			"\"Hehehehe...",
+			"Oh, scary, scary.",
+			"Apparently I'm being tested on my resolve as well.\""
 		]
 	},
 	{
@@ -176,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"その狐の策謀でも味わってみる？\""
+			"\"Would you like a taste of that fox's scheming?\""
 		]
 	},
 	{
@@ -231,7 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"私を出し抜く自信がさぞかしおありのようだ……くく\""
+			"\"I can see how confident you are",
+			"in your ability to outsmart me...hehe\""
 		]
 	},
 	{
@@ -248,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"私が出来るのは、言葉を濁して",
-			"彼の強烈なプッシュをかわす事だけだ。"
+			"All I can do is mumble words and fend",
+			"off his strong advance."
 		]
 	},
 	{
@@ -266,7 +267,7 @@
 	},
 	{
 		"STRINGS": [
-			"このまま諦めてくれるといいのだが……。"
+			"Hopefully they will just give up on this."
 		]
 	},
 	{

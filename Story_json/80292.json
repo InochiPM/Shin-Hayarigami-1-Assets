@@ -69,7 +69,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -120,7 +120,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……う〜ん。それは犯行現場を見たというだけで、",
+			"\"……う~ん。それは犯行現場を見たというだけで、",
 			"　呪いの実在を証明するには弱いんじゃないかね？\""
 		]
 	},
@@ -168,7 +168,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

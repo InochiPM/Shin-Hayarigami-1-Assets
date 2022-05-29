@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"そんなに"
+			"\"Don't be in such a "
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"慌てないで"
+			"Hurry"
 		]
 	},
 	{
@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"下さい。",
-			"　この事を上に相談させて下さい\""
+			".",
+			"Let me discuss this with you upstairs.\""
 		]
 	},
 	{
@@ -151,8 +151,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"おっと！　そいつは勘弁してくださいよ。",
-			"　特定のマスコミだけ優遇するわけないでしょう？\""
+			"\"Whoa! That just wont do.",
+			"You wouldn't just give preferential treatment",
+			"to a single media outlet, would you?\""
 		]
 	},
 	{
@@ -175,13 +176,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それは私からはなんとも……",
-			"　でも、私個人の判断で動くわけにもいきません。",
-			"　下手をすればあなたに迷惑がかかります\""
+			"\"I cannot say.",
+			"But I can't move on my own personal decision.",
+			"If I make a bad move, it could get me in trouble.\""
 		]
 	},
 	{
@@ -232,7 +233,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"でも、何か妙案があるんですか？\""
+			"\"Any other bright ideas?\""
 		]
 	},
 	{
@@ -249,9 +250,10 @@
 	},
 	{
 		"STRINGS": [
-			"えっと、それは––と言いかけて慌てて口をつぐんだ。",
-			"いつの間にか、彼に協力をする前提で",
-			"返事をしようとしていた……あぶない。"
+			"I was about to say, \"Well, that's because-\"",
+			"and then I hurriedly stopped talking.",
+			"Before I knew it, I was about to reply on the",
+			"premise of cooperating with him..."
 		]
 	},
 	{
@@ -268,8 +270,9 @@
 	},
 	{
 		"STRINGS": [
-			"もう少し冷静になろう。",
-			"そうしないと余計な情報まで漏らしてしまいかねない。"
+			"Let's be a little more calm.",
+			"If we don't, we might even leak",
+			"unnecessary information."
 		]
 	},
 	{

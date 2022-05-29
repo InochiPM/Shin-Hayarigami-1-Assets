@@ -73,11 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"はっ！　あなたと？　もちろんお断りです。"
+			"\"Ha! With you? Of course I refuse.",
+			"If i spend a night of drinking with you"
 		]
 	},
 	{
@@ -90,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"　蛇にも似た"
+			" and your snake eyes"
 		]
 	},
 	{
@@ -99,8 +100,8 @@
 	},
 	{
 		"STRINGS": [
-			"卑しい目つきのあなたと酒宴を過ごしたら",
-			"　どんなに美味しい酒でも泥の味がするでしょうから\""
+			".",
+			"Even the best sake will taste of mud.\""
 		]
 	},
 	{
@@ -155,9 +156,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"くくくくく……中々舌がまわりますねえ。",
-			"　イヤ、感心感心。",
-			"　どうやら文学の素養もおありのようだ\""
+			"\"You have a very sharp tongue, don't you?",
+			"No, I am impressed.",
+			"It seems you have a literary background as well.\""
 		]
 	},
 	{
@@ -180,12 +181,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"褒めて頂くのは悪い気がしません。",
-			"　でも、それとこれとは別です\""
+			"\"I don't feel bad about receiving compliments.",
+			"But it doesn't feel quite right.\""
 		]
 	},
 	{
@@ -236,8 +237,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"わかってますって。",
-			"　私はただ信頼をして頂きたいだけですから\""
+			"\"I understand.",
+			"I just want you to trust me.\""
 		]
 	},
 	{
@@ -254,7 +255,7 @@
 	},
 	{
 		"STRINGS": [
-			"彼はわざとらしい揉み手を繰り返す。"
+			"He repeatedly rubs his hands deliberately."
 		]
 	},
 	{
@@ -271,8 +272,8 @@
 	},
 	{
 		"STRINGS": [
-			"おそらく彼は、目的のためなら",
-			"協力者をためらいなく蹴落とすだろう。"
+			"He probably would not hesitate to kick",
+			"down collaborators for the sake of his cause."
 		]
 	},
 	{

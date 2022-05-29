@@ -73,7 +73,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -149,7 +149,7 @@
 	{
 		"STRINGS": [
 			"\"いや、ウソじゃねーって！",
-			"　マジで！　腹立つなぁ〜！",
+			"　マジで！　腹立つなぁ~！",
 			"　俺はちゃーんと本当の話してんのに！\""
 		]
 	},

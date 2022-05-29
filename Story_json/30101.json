@@ -57,7 +57,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -101,7 +101,7 @@
 		"STRINGS": [
 			"物資が乏しい時代には製品の質だって落ちる。",
 			"そしてマズい物、出来が悪い物を前に、不平不満と一緒に",
-			"『これは○○が使ってあるんだぜ』と軽口を叩かれる。"
+			"『これはóóが使ってあるんだぜ』と軽口を叩かれる。"
 		]
 	},
 	{
@@ -120,7 +120,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

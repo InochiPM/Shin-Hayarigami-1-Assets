@@ -101,7 +101,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -180,7 +180,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -267,8 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Oh well. You don't have to make such a big deal out of it.",
-			"Miss Hojo is not mature enough.",
+			"\"Oh well. You don't have to make such a",
+			"big deal out of it. Miss Hojo is not mature enough.",
 			"Try to calm down a little, okay?\""
 		]
 	},

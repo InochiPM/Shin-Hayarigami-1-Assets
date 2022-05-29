@@ -71,8 +71,9 @@
 	},
 	{
 		"STRINGS": [
-			"到着した先には、既に多くの署員が集まっていた。",
-			"全員、壁のあるものを凝視している。"
+			"When we arrived, many of the station's",
+			"employees had already gathered.",
+			"All of them were staring at something on the wall."
 		]
 	},
 	{
@@ -89,9 +90,9 @@
 	},
 	{
 		"STRINGS": [
-			"それは無数のテレビだ。",
-			"ここが警察署じゃなければ、",
-			"テレビ局の編成室を思わせる。"
+			"It is a myriad of televisions.",
+			"If this were not a police station, it would",
+			"remind one of a TV station's programming room."
 		]
 	},
 	{
@@ -108,9 +109,9 @@
 	},
 	{
 		"STRINGS": [
-			"それは、この村で『役立たず』と称されていた。",
-			"国からＣ村に与えられた巨額の交付金によって",
-			"整備されたものだ。"
+			"They called it \"Useless\" in this Town.",
+			"It was mostly maintained by a huge grant",
+			"given to us by the government of Town C."
 		]
 	},
 	{
@@ -127,9 +128,10 @@
 	},
 	{
 		"STRINGS": [
-			"村内各地に設置された街頭カメラ。",
-			"もちろん、防犯目的のものだが、",
-			"村の人口が多くない以上、このカメラが役に立つはずもない。"
+			"Street cameras were installed throughout the village.",
+			"Of course, they are for security purposes, but",
+			"as the population of the village is not",
+			"large, these cameras cannot be useful."
 		]
 	},
 	{
@@ -146,8 +148,9 @@
 	},
 	{
 		"STRINGS": [
-			"その防犯カメラが設置以来、",
-			"初めて不審なものを捉えていた。"
+			"That security camera captured",
+			"something suspicious for the",
+			"first time since its installation."
 		]
 	},
 	{
@@ -166,11 +169,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"なに……あれ……？\""
+			"\"What...is that...?\""
 		]
 	},
 	{
@@ -211,8 +214,9 @@
 	},
 	{
 		"STRINGS": [
-			"防犯テレビを見つめている他の署員たちも同じ感想だ。",
-			"あれがなんだか、判断がつかない。"
+			"The other station employees staring at the",
+			"security TVs share the same opinion.",
+			"I can't decide what that is."
 		]
 	},
 	{
@@ -229,8 +233,8 @@
 	},
 	{
 		"STRINGS": [
-			"その歩き方はおかしい。",
-			"ヨタヨタ、フラフラ、と足取りがおぼつかない。"
+			"The way he's walking is strange.",
+			"He was unsteady on his feet."
 		]
 	},
 	{
@@ -247,9 +251,10 @@
 	},
 	{
 		"STRINGS": [
-			"姿勢もおかしい。",
-			"不自然なまでに上体をかがめている。",
-			"まるで頭が極度に重くてバランスが取れないかのようだ。"
+			"His posture is also strange.",
+			"His upper body is bent over to an unnatural degree.",
+			"It is as if his head is so",
+			"heavy that he cannot balance."
 		]
 	},
 	{
@@ -266,8 +271,8 @@
 	},
 	{
 		"STRINGS": [
-			"そのためか、両手は宙をかくように",
-			"前へ突き出している。"
+			"Perhaps this is why his hands are thrust",
+			"forward as if he is daring others to do the same."
 		]
 	},
 	{
@@ -284,8 +289,8 @@
 	},
 	{
 		"STRINGS": [
-			"その奇妙な歩き方をしている不審者には、",
-			"薄ら寒い恐怖すら感じる。"
+			"I even have a thinly veiled fear of",
+			"suspicious people with their strange walking style."
 		]
 	},
 	{
@@ -302,9 +307,9 @@
 	},
 	{
 		"STRINGS": [
-			"人間である事には間違いない。",
-			"間違いないのだが、ふと、それが別の異形な怪物",
-			"のようにも思えてくるのだ。"
+			"There is no doubt that it is a human being.",
+			"But I suddenly felt as if it were",
+			"a different kind of monster."
 		]
 	},
 	{
@@ -359,8 +364,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"何やってんだお前たち！！",
-			"　現場に急行ぉぉぉぉッ！！！\""
+			"\"What the hell are you guys doing!",
+			"Hurry to the scene of the crime!\""
 		]
 	},
 	{
@@ -433,9 +438,10 @@
 	},
 	{
 		"STRINGS": [
-			"私の背後の誰かが、恐怖を振り払うかのように叫んだ。",
-			"その号令に弾かれるように署員達が続々と外に飛び出す。",
-			"そして私は——"
+			"Someone behind me shouted as if to shake off my fear.",
+			"As if spurred on by that order, the station ",
+			"staff rushed out one after another.",
+			"And then I--"
 		]
 	},
 	{

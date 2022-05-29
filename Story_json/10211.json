@@ -125,7 +125,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -338,7 +338,8 @@
 		"STRINGS": [
 			"\"Well, what can I say?",
 			"I've had a chance to watch your heated exchange,",
-			"and I think you're a good candidate for our lead project.\""
+			"and I think you're a good",
+			"candidate for our lead project.\""
 		]
 	},
 	{
@@ -659,7 +660,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1239,7 +1240,7 @@
 	{
 		"STRINGS": [
 			"\"I see!　Let's get to the bottom of this!",
-			"Houjou!, Kazamori!\""
+			"Hojo!, Kazamori!\""
 		]
 	},
 	{

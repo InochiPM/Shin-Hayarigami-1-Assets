@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"今後、私に情報提供を確約してほしい。",
-			"　つまりはそういう事ですよね？",
-			"　これだと私に"
+			"\"You want us to keep you informed about future",
+			"cases is what your trying to say, correct?",
+			"It seems your not"
 		]
 	},
 	{
@@ -88,7 +88,7 @@
 	},
 	{
 		"STRINGS": [
-			"見返りがない"
+			" giving us anything "
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"ようですが\""
+			"in return,\""
 		]
 	},
 	{
@@ -152,9 +152,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんな事はないですよ！",
-			"　あなたを主役にしたダイナミックな記事が作られる。",
-			"　わくわくしません？\""
+			"\"That's not true!",
+			"A dynamic article will be created",
+			"with you as the main character.",
+			"Isn't that exciting?\""
 		]
 	},
 	{
@@ -177,12 +178,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あのですね、警察組織の中で個人のスタンドプレイなんて",
-			"　デメリットしかないんですよ\""
+			"\"You see, there is nothing but disadvantages",
+			"for an individual to be a comedian in a",
+			"police organization.\""
 		]
 	},
 	{
@@ -233,8 +235,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうやって個性を主張しないなんてもったいないですよ。",
-			"　そんなに綺麗なのに、ねえ？\""
+			"\"It would be a shame not to assert",
+			"your individuality in that way.",
+			"You are so pretty that way.\""
 		]
 	},
 	{
@@ -251,8 +254,8 @@
 	},
 	{
 		"STRINGS": [
-			"……ニヤニヤと笑いながらおべんちゃらを並べ立ててくる。",
-			"彼の執拗な食い下がりをかわすことができない。"
+			"He's a...smirking, giggling sycophant.",
+			"I can't fend off his relentless devotion."
 		]
 	},
 	{
@@ -269,8 +272,8 @@
 	},
 	{
 		"STRINGS": [
-			"さすが記者、なかなか手強い。",
-			"上手いあしらい方をなんとか見出さなくては……！"
+			"As one would expect from a reporter, he is quite tough.",
+			"We must find a way to get rid of him easily!"
 		]
 	},
 	{

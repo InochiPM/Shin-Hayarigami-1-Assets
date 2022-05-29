@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"話が堂々巡りをしています。",
-			"　諦めて下さい。",
-			"　信頼関係がないのに喋れるわけがないでしょ\""
+			"\"This conversation is going in circles.",
+			"Please give it up.",
+			"You talk as if you don't trust me?\""
 		]
 	},
 	{
@@ -134,9 +134,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほど！　信頼関係！",
-			"　ならば今晩、一杯行きません？",
-			"　飲みニケーションって奴です\""
+			"\"I see!　Trust!",
+			"Then why don't we have a drink tonight?",
+			"A drinking game.\""
 		]
 	},
 	{

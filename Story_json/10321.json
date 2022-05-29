@@ -151,14 +151,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
 			"\"Wait a minute.",
 			"Are you sure she's the right one?",
-			"I thought she said she was in",
-			"charge of a welfare facility.\""
+			"I thought you said she was in",
+			"charge of a welfare facility?\""
 		]
 	},
 	{
@@ -207,8 +207,8 @@
 	},
 	{
 		"STRINGS": [
-			"私の戸惑いで何かを察したのか、",
-			"目の前の彼女は萎縮した様子を見せた。"
+			"She seemed to have sensed something in my confusion,",
+			"She shrunk into herself."
 		]
 	},
 	{
@@ -231,8 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"彼女で間違いないよ。",
-			"　ええと、名前は……\""
+			"\"I'm pretty sure it's her.",
+			"Uh, her name is...\""
 		]
 	},
 	{
@@ -295,7 +295,7 @@
 	},
 	{
 		"STRINGS": [
-			"\""
+			"\" I'm "
 		]
 	},
 	{
@@ -306,8 +306,8 @@
 	},
 	{
 		"STRINGS": [
-			"（まきむら・さなえ）と言います。",
-			"　どうぞよろしくお願い致します……\""
+			".",
+			"Please to make your acquaintance....\""
 		]
 	},
 	{
@@ -328,8 +328,9 @@
 	},
 	{
 		"STRINGS": [
-			"こんな若い女性が田村さんとどんな関係なんだ？",
-			"まさか遥さんと同様、個人的な間柄なんだろうか……。"
+			"How can such a young girl be involved",
+			"with a person like Mr. Tamura?",
+			"They can't be in a relation ship can they?"
 		]
 	},
 	{
@@ -352,9 +353,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"正確にはね、彼女は代理人なんだ。",
-			"　在籍しているスタッフの中で",
-			"　今まともに話が聞けるのが彼女しかいないんだよ\""
+			"\"Technically, she's a representative.",
+			"She's the only one on the staff that we",
+			"can talk to properly right now.\""
 		]
 	},
 	{
@@ -413,7 +414,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"おっさん、そりゃどういう意味なんだ？\""
+			"\"What's that supposed to mean, old man?\""
 		]
 	},
 	{
@@ -468,9 +469,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"イチイチ根掘り葉掘り聞かないでよ。",
-			"　そういうのも含めて事情聴取してちょうだい。",
-			"　じゃあよろしくね\""
+			"\"Don't go digging up every little detail.",
+			"Do your job right and be mindful when interrogating her.",
+			"I'm counting on you two.\""
 		]
 	},
 	{
@@ -549,11 +550,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"……行っちゃった\""
+			"\"And, hes gone...\""
 		]
 	},
 	{
@@ -598,9 +599,10 @@
 	},
 	{
 		"STRINGS": [
-			"とにかく彼女に聞けって言われても……。",
-			"咄嗟に風守さんを見たが、面倒事の匂いを巧みに感じたのか、",
-			"ジェスチャーで私に行けとけしかけるばかりだ。"
+			"He told me to ask her the questions...",
+			"I looked to Kazamori as quickly as I could,",
+			"but he gestured over to me as if it was to much",
+			"effort for him."
 		]
 	},
 	{
@@ -617,9 +619,9 @@
 	},
 	{
 		"STRINGS": [
-			"どうして、特ラ課の男たちは",
-			"こうも役立たずなんだか……。",
-			"ごく小さくため息をついた私は、早苗さんを見つめた。"
+			"Why are the men of the Special Division",
+			"so freaking useless?",
+			"I turned to Sanae, unsure as what to say."
 		]
 	},
 	{
@@ -670,13 +672,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"えっと、ドタバタしてすいません。",
-			"　さっそく始めさせてもらいます。",
-			"　私は北條、そこの彼は風守です。よろしくね\""
+			"\"I'm sorry for the confusion.",
+			"I'll get started right away.",
+			"I'm Hojo, and that guy over there",
+			"is Kazamori. Nice to meet you.\""
 		]
 	},
 	{
@@ -703,7 +706,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい……\""
+			"\"Mhm...\""
 		]
 	},
 	{
@@ -726,11 +729,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"先日、この村で起きた殺人事件の事は知っているわね\""
+			"\"You know about the murders that took",
+			"place in town the other day, right?.\""
 		]
 	},
 	{
@@ -757,8 +761,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ええ。しっかりとニュースを見ているわけでは",
-			"　ないですけど。話には聞いています\""
+			"\"Yes, I have heard some stories,",
+			"but I have't been watching the news lately.\""
 		]
 	},
 	{
@@ -781,12 +785,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"被害者の身元が判明したの。",
-			"　銀行員の田村光太郎さん。知ってるわね？\""
+			"\"We got an I.D. on the victim.",
+			"Kotaro Tamura, a bank employee.",
+			"You know him, right?\""
 		]
 	},
 	{
@@ -813,7 +818,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいえ\""
+			"\"No...\""
 		]
 	},
 	{
@@ -848,11 +853,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え……知らないの？\""
+			"\"huh..? But I thought...\""
 		]
 	},
 	{
@@ -879,9 +884,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ええ。まったく。",
-			"　私はその人とは会った事がありません。",
-			"　……すみません\""
+			"\"Yeah. Not at all.",
+			"I've never met the guy.",
+			"Sorry...\""
 		]
 	},
 	{
@@ -898,9 +903,10 @@
 	},
 	{
 		"STRINGS": [
-			"どういう事？",
-			"どうして会った事もない人が呼び出されたの？",
-			"……何か面倒な匂いが、私にまで漂ってきた。"
+			"What is this about?",
+			"Why did we even summon her if",
+			"she's never met the man?",
+			"The smell of something suspicious was getting to me."
 		]
 	},
 	{
@@ -917,8 +923,9 @@
 	},
 	{
 		"STRINGS": [
-			"またしても風守さんに視線を送る。",
-			"……わざと気づかないフリをしている、ああ、もう。"
+			"Again, I look to Kazamori.",
+			"Who's now deliberately ignoring",
+			"the situation....Great job."
 		]
 	},
 	{
@@ -945,7 +952,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"おそらく、その田村さんは"
+			"\"Perhaps This Mr. Tamura is related to the "
 		]
 	},
 	{
@@ -956,9 +963,9 @@
 	},
 	{
 		"STRINGS": [
-			"と関係が",
-			"　あるんじゃないでしょうか。",
-			"　最初に理事長宛で連絡が来てましたし\""
+			"?",
+			"I'm sure of it.",
+			"He's called him a couple of times.\""
 		]
 	},
 	{
@@ -981,8 +988,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"でも、私が話せるのは、聞きかじり程度の",
-			"　事なんですが……それでもいいですか？\""
+			"\"But all I can tell you is",
+			"what I've heard. ...... Is that okay?\""
 		]
 	},
 	{
@@ -1005,11 +1012,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"構いません。そういうのも調べるのが警察ですから\""
+			"\"That's fine. It's the police",
+			"who check things like that.\""
 		]
 	},
 	{
@@ -1058,8 +1066,8 @@
 	},
 	{
 		"STRINGS": [
-			"居住まいを正した早苗さんは、",
-			"改めて私達に口を開いた。"
+			"After straightening up her appearance,",
+			"Sanae began to talk to us."
 		]
 	},
 	{
@@ -1082,9 +1090,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"私が勤めている福祉施設は、常に資金難でした。",
-			"　おそらく理事長とその被害者の方は",
-			"　それで関係があるのかと\""
+			"\"The welfare facility I work at has always",
+			"had financial difficulties.",
+			"Perhaps the chairman",
+			"and the victim had some kind of connection?\""
 		]
 	},
 	{
@@ -1107,9 +1116,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"今はいくらか改善されましたが、給与遅配も",
-			"　しょっちゅうでした。",
-			"　そのため、多くの先輩が退職されました\""
+			"\"The situation has improved somewhat now,",
+			"but late salaries were still common.",
+			"Because of this, many of our",
+			"senior staff left the company.\""
 		]
 	},
 	{
@@ -1132,11 +1142,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あなたはどうして未だに在籍しているんですか\""
+			"\"Why are you still with them?\""
 		]
 	},
 	{
@@ -1163,8 +1173,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"介護福祉士の国家試験に実務経験が必要なんです。",
-			"　だから私は今も在籍しているというわけなんです\""
+			"\"The national exam for care",
+			"takers requires work experience.",
+			"That's why I'm still enrolled.\""
 		]
 	},
 	{
@@ -1189,8 +1200,8 @@
 	},
 	{
 		"STRINGS": [
-			"なるほど……。",
-			"健気な介護学生というわけだ。"
+			"I see now...",
+			"She's a health care student."
 		]
 	},
 	{
@@ -1207,9 +1218,10 @@
 	},
 	{
 		"STRINGS": [
-			"表面的に見れば同情できる部分はたっぷりある。",
-			"だが、冷静に考えれば他の施設に移籍すればいいだけの話だ。",
-			"ましてや、介護業界は人手不足と聞いている。"
+			"On the surface, there is plenty of compassion.",
+			"But if you think about it calmly, it's just",
+			"a matter of transferring to another facility.",
+			"Even with a shortage of workers in that field."
 		]
 	},
 	{
@@ -1226,7 +1238,7 @@
 	},
 	{
 		"STRINGS": [
-			"田村さんと"
+			"Mr. Tamura "
 		]
 	},
 	{
@@ -1237,8 +1249,8 @@
 	},
 	{
 		"STRINGS": [
-			"と言うが、",
-			"はたして本当なのか試しに探ってみる事にした。"
+			" Her, but I decided to press further",
+			"to see if that was really the truth or not."
 		]
 	},
 	{
@@ -1257,12 +1269,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あなたは田村さんとお会いした事がないと言いましたが、",
-			"　彼を恨んでいますか？\""
+			"\"You said you've never met Mr. Tamura.",
+			"Is there any bad blood between you two?\""
 		]
 	},
 	{
@@ -1317,7 +1329,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"えっと……おっしゃっている意味がよくわかりません\""
+			"\"Uhm... I'm not to sure what you mean by that.\""
 		]
 	},
 	{
@@ -1340,13 +1352,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"資金難だった原因は、田村さんが融資要請を断ったから。",
-			"　その事があなたの冷遇に直結しています。",
-			"　そうよね？\""
+			"\"The reason you were having financial difficulties",
+			"was because Mr.Tamura refused your request for a loan.",
+			"Is that right?\""
 		]
 	},
 	{
@@ -1401,9 +1413,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"確かにそうですね……考えてもみなかったですけど。",
-			"　給料が出なくて困ったのは確かです。",
-			"　でも、寮を用意してくれて賄いも頂けますから\""
+			"\"That's true...I hadn't thought of that, though.",
+			"I did have a problem with not getting paid.",
+			"But they provided me with a dorm room and",
+			"in the end I was able to receive payment.\""
 		]
 	},
 	{
@@ -1478,8 +1491,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"なかなか健気な子じゃねえか。",
-			"　今どきには珍しい\""
+			"\"She's a very spirited girl, isn't she?",
+			"It's rare nowadays.\""
 		]
 	},
 	{
@@ -1534,8 +1547,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ありがとうございます……って",
-			"　言ったほうがいいんですよね？\""
+			"\"Thank you very much...I think?\""
 		]
 	},
 	{
@@ -1590,9 +1602,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"困り事もあるだろう。",
-			"　その時は遠慮なく連絡してくれ。",
-			"　俺の携帯だけど––\""
+			"\"I'm sure you'll have some troubles.",
+			"If you do, don't hesitate to call me.",
+			"I always have my phone-\""
 		]
 	},
 	{
@@ -1615,11 +1627,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"風守さん、プライベートの交換はダメです\""
+			"\"Mr. Kazamori, you are not allowed",
+			"to exchange private information.\""
 		]
 	},
 	{
@@ -1674,8 +1687,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"別にやましい気持ちじゃねえって。",
-			"　融通のきかないやつだな、ったく\""
+			"\"I don't feel guilty about it.",
+			"You're such a stick in the mud.\""
 		]
 	},
 	{
@@ -1698,8 +1711,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それでなくても、犯人はまだ捕まっていないんだ。",
-			"　それだけでも怖いだろう？\""
+			"\"Besides, the murderer hasn't been caught yet.\""
 		]
 	},
 	{
@@ -1754,8 +1766,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい……正直に言えば。",
-			"　施設には男の方がいないものですから\""
+			"\"Hmmm...to be honest.",
+			"There are no men in the facility.\""
 		]
 	},
 	{
@@ -1778,11 +1790,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"風守さん、公私混同はナシです\""
+			"\"Mr. Kazamori, we don't mix public and private.\""
 		]
 	},
 	{
@@ -1801,12 +1813,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それに、まだ事情聴取は終わっていません。",
-			"　早苗さん。最後にひとつお伺いしていいかしら？\""
+			"\"Besides, the interview isn't over yet.",
+			"Sanae. May I ask you one last question?\""
 		]
 	},
 	{
@@ -1877,7 +1889,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい。なんでも\""
+			"\"Of course.\""
 		]
 	},
 	{
@@ -1900,13 +1912,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"今日、理事長はどこに行ったの？",
-			"　後日、ご本人にも聞かなきゃいけない事に",
-			"　なると思うんだけど、それは構わないかしら\""
+			"\"Where did the chairman go today?",
+			"I think I'm going to need to question him later,",
+			"if that's okay with you.\""
 		]
 	},
 	{
@@ -1957,7 +1969,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それは難しい話だと思います\""
+			"\"That' s a tough one.\""
 		]
 	},
 	{
@@ -1980,11 +1992,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"お忙しい方なのかしら\""
+			"\"Is he a busy man?\""
 		]
 	},
 	{
@@ -2047,9 +2059,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"理事長は……",
-			"　経営不振の責任をとって自殺したんです。",
-			"　今はその"
+			"\"The chairman's...He committed suicide because of the",
+			"poor conditions of the facility.",
+			"We're somehow managing to keep open",
+			"with the "
 		]
 	},
 	{
@@ -2060,7 +2073,7 @@
 	},
 	{
 		"STRINGS": [
-			"でなんとか持っています\""
+			" we received.\""
 		]
 	},
 	{
@@ -2083,11 +2096,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"自殺……？\""
+			"\"Suicide?...\""
 		]
 	},
 	{
@@ -2142,8 +2155,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はい。理事長は、自分の命で",
-			"　私と施設を救ってくれたんです\""
+			"\"Yes... The chairman saved the lives in",
+			"the facility and my own by taking his own life.\""
 		]
 	},
 	{
@@ -2160,8 +2173,8 @@
 	},
 	{
 		"STRINGS": [
-			"……早苗さんは浮かない表情で答えた。",
-			"私と風守さんは、なんと反応していいかわからなかった。"
+			"...Sanae replied with a blank expression on her face.",
+			"I'm not sure how to respond to that."
 		]
 	},
 	{

@@ -73,9 +73,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"やだなあ、黙っちゃって。",
-			"　変な意味に捉えないで下さいよ！",
-			"　ただの居酒屋飲みですって！\""
+			"\"Don't get quiet on me now!",
+			"Don't take this the wrong way!",
+			"It's just a drink at the pub!\""
 		]
 	},
 	{
@@ -92,8 +92,8 @@
 	},
 	{
 		"STRINGS": [
-			"別にそんな意味ではないんだが……。",
-			"ただ言葉に窮していたのは事実だ。"
+			"I didn't mean it that way...",
+			"I was just at a loss for words, that's all."
 		]
 	},
 	{

@@ -95,9 +95,9 @@
 	},
 	{
 		"STRINGS": [
-			"私は思わず口を抑えた。",
-			"モニターにうつる人物の様子が、",
-			"妙な生理的嫌悪感を催させる。"
+			"I held my tongue and kept quiet.",
+			"The person on the monitor was making me",
+			"feel creeped out."
 		]
 	},
 	{
@@ -111,12 +111,12 @@
 	{
 		"TYPE": "PAGE",
 		"UNK0": "08000e0000000b000100"
-	},
+	}, 
 	{
 		"STRINGS": [
-			"気味の悪さに、胃が不意に収縮して",
-			"お腹の中のものを全て戻そうとする。",
-			"それを防ごうと必死で口を塞ぐしかできない。"
+			"The uneasiness made my stomach turn, ",
+			"making my lunch almost come back up.",
+			"I tried to cover my mouth to prevent it escaping."
 		]
 	},
 	{
@@ -163,8 +163,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい、北條！！　何チンタラやってんだよ！！",
-			"　現場に行くぞ、さっさと来い！\""
+			"\"Hey, Hojo! What the hell are you doing?",
+			"We're going to the field. Come on!\""
 		]
 	},
 	{
@@ -301,9 +301,10 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんに首根っこを掴まれる形で",
-			"車両に押し込まれた。",
-			"急発進して揺れる車内で余計気持ちが悪くなる。"
+			"I was pushed into the vehicle with Kazamori",
+			"holding me by the scruff of my neck.",
+			"It makes me feel even worse in the car,",
+			"which is shaking after a sudden start."
 		]
 	},
 	{
@@ -340,9 +341,9 @@
 	},
 	{
 		"STRINGS": [
-			"搭載されている無線からは、",
-			"モニター監視をしている署員による",
-			"リアルタイム情報がひっきりなしだった。"
+			"The on-board radio provided a constant stream",
+			"of real-time information from the",
+			"station's monitoring staff."
 		]
 	},
 	{

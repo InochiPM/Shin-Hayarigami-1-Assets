@@ -162,7 +162,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -367,7 +367,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -531,7 +531,7 @@
 	{
 		"STRINGS": [
 			"\"さ……さぁ……ぐふっ……いひっ……。",
-			"　僕と……僕と幸せな家庭を築こうねェ〜？\""
+			"　僕と……僕と幸せな家庭を築こうねェ~？\""
 		]
 	},
 	{
@@ -554,7 +554,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -685,7 +685,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -735,7 +735,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -862,7 +862,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"さぁ〜紗希……オマエはこれで、",
+			"\"さぁ~紗希……オマエはこれで、",
 			"　永遠に僕のモノだからねぇ、いひひひひ……\""
 		]
 	},

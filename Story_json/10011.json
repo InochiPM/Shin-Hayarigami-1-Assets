@@ -538,7 +538,7 @@
 	},
 	{
 		"STRINGS": [
-			"Houjou Saki,",
+			"Hojo Saki,",
 			"who had lived a life of seclusion,",
 			"was now wrapped up in all of the commotion."
 		]
@@ -913,7 +913,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1051,7 +1051,7 @@
 		"STRINGS": [
 			",",
 			"My Senior, who doesn't even try to",
-			"hide his frustrations.",
+			"hide his frustrations."
 		]
 	},
 	{
@@ -1357,7 +1357,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -2569,7 +2569,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

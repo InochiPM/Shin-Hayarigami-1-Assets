@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\""
+			"\"You'll have to"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"絶対にイヤ"
+			" Absolutely Disagree. "
 		]
 	},
 	{
@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"––って、拒絶するしかないでしょう？",
-			"　あなたと違って私は組織の人間なんです\""
+			"Wont you?",
+			"Unlike you, I am a member of an organization.\""
 		]
 	},
 	{
@@ -151,8 +151,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"はいはい。そんな言い訳は聞き飽きましたよ。",
-			"　大丈夫ですって。あなたに迷惑はかけませんって\""
+			"\"Yes, yes. I'm tired of hearing such excuses.",
+			"It'll be fine. I won't cause you any trouble.\""
 		]
 	},
 	{
@@ -175,12 +175,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"どうしてそんな事を断言できるんですか？",
-			"　あなたは機密漏洩を持ちかけているんですよ\""
+			"\"How can you be so sure?",
+			"Sir, you are offering to leak classified information.\""
 		]
 	},
 	{
@@ -231,8 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"私の経験上、マスコミのリークぐらいで",
-			"　クビになりゃしませんって\""
+			"\"In my experience, you don't get fired",
+			"just because of a media leak.\""
 		]
 	},
 	{
@@ -249,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"私を安心させようとしているつもりなのか、",
-			"彼は満面の笑顔で私に囁く。"
+			"He whispers to me with a big smile,",
+			"as if he is trying to reassure me."
 		]
 	},
 	{
@@ -267,8 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"マスコミのリークぐらいでクビにならない？",
-			"しかし、それで犯人が動きを変えてしまったら？"
+			"Can't he be fired for so much as a media leak?",
+			"But what if it changed the killer's moves?"
 		]
 	},
 	{
@@ -285,7 +285,7 @@
 	},
 	{
 		"STRINGS": [
-			"そう思うと私は彼の持ちかけに乗るわけにはいかない。"
+			"With that in mind, I cannot take him up on his offer."
 		]
 	},
 	{

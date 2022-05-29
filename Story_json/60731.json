@@ -138,7 +138,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -503,7 +503,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -876,7 +876,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"は〜、いい加減に認めてくれよ。",
+			"\"は~、いい加減に認めてくれよ。",
 			"　こっちの身にもなれっつーの。",
 			"　おい、北條\""
 		]
@@ -901,7 +901,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1564,7 +1564,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あっちゃ〜……参ったなァ\""
+			"\"あっちゃ~……参ったなァ\""
 		]
 	},
 	{
@@ -1810,7 +1810,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1982,7 +1982,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

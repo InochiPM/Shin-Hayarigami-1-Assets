@@ -151,9 +151,9 @@
 	},
 	{
 		"STRINGS": [
-			"そして私は現場に向かった。",
-			"発進寸前、風守さんが助手席に滑りこむ。",
-			"他の署員達も次々と車に乗り込み、分署から飛び出してゆく。"
+			"Then I headed to the scene.",
+			"Kazamori slides into the passenger seat",
+			"as well as the other members piling into the backseat."
 		]
 	},
 	{
@@ -186,9 +186,8 @@
 	},
 	{
 		"STRINGS": [
-			"同時に、誰もが嫌な予感を抱えていた。",
-			"もしかしたら、次の惨劇が",
-			"起きてしまったのかもしれない、と。"
+			"At the same time, everyone had a bad feeling.",
+			"Perhaps the next tragedy had occurred, they thought."
 		]
 	},
 	{
@@ -239,9 +238,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"なあ、北條。",
-			"　もしやとは思うが、",
-			"　あの留置所の変人の予言が当たるのか\""
+			"\"Say Hojo",
+			"I'm wondering if, by any chance, the",
+			"prophecy of that jailhouse freak is going to come true.\""
 		]
 	},
 	{
@@ -262,9 +261,9 @@
 	},
 	{
 		"STRINGS": [
-			"『また死体が増えるぞ』",
-			"その言葉を思い出した瞬間、",
-			"ずん、と胃に重さを感じた。"
+			"'\"There will be more victims.\"",
+			"Once I remembered those words,",
+			"I felt the heaviness in my stomach again."
 		]
 	},
 	{
@@ -283,12 +282,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"そんなの……現場に行かなきゃ",
-			"　なんとも言えるわけがないです……！\""
+			"\"How can I say that without being there!\""
 		]
 	},
 	{

@@ -93,12 +93,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"––出て。",
-			"　聞きたい事があるの\""
+			"\"––Gwt out here.",
+			"I would like to ask you some questions.\""
 		]
 	},
 	{
@@ -175,8 +175,8 @@
 	},
 	{
 		"STRINGS": [
-			"私の素っ気ない指示のもと、",
-			"関本爽二朗は素直に従った。"
+			"At my simple instructions,",
+			"Sekimoto obeyed with utmost candor."
 		]
 	},
 	{
@@ -231,8 +231,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"遅かったね。",
-			"　私は少々待ちくたびれてしまった\""
+			"\"Your late.",
+			"I was getting tired of waiting.\""
 		]
 	},
 	{
@@ -261,9 +261,9 @@
 	},
 	{
 		"STRINGS": [
-			"わざとはぐらかすような発言に",
-			"いちいち構っている余裕なんて、",
-			"私にはなかった。"
+			"I didn't have the luxury of worrying about",
+			"every single comment he made, as if he was",
+			"deliberately trying to evade my questions."
 		]
 	},
 	{
@@ -280,9 +280,9 @@
 	},
 	{
 		"STRINGS": [
-			"しばらく彼を見つめる。",
-			"だが、当の関本は、そんな私の様子など",
-			"興味がなさそうだ。"
+			"I stare at him for a while.",
+			"Sekimoto, however, doesn't seem",
+			"interested in my situation."
 		]
 	},
 	{
@@ -305,7 +305,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"さっさと要件を言えばいいだろう？\""
+			"\"Why don't you just get on with",
+			"it and tell me what you need?\""
 		]
 	},
 	{
@@ -328,11 +329,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"たった今、新たな被害者が出たの\""
+			"\"There was a new victim.\""
 		]
 	},
 	{
@@ -359,7 +360,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうか、それで？\""
+			"\"Okay, and?\""
 		]
 	},
 	{
@@ -382,13 +383,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"手口は実に特徴的——",
-			"　両目を酷く傷つけられていた。",
-			"　……まるで、鋏で貫いたようにね\""
+			"\"The M.O. was really distinctive",
+			"--both eyes were severely damaged.",
+			"...as if he had pierced them with scissors.\""
 		]
 	},
 	{
@@ -415,7 +416,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"なるほど。他には？\""
+			"\"I see. Anything else?\""
 		]
 	},
 	{
@@ -438,13 +439,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"予告状もあった。",
-			"　『お前の目を寄越せ』と。",
-			"　あなたの話を聞かせてほしいの\""
+			"\"There was also a note.",
+			"It said [Give me your eyes].",
+			"I want to hear your opinion.\""
 		]
 	},
 	{
@@ -461,9 +462,8 @@
 	},
 	{
 		"STRINGS": [
-			"私は深呼吸を行い、",
-			"胸の中に新鮮な空気を取り入れるのと同時に",
-			"決心した。"
+			"I took a deep breath,",
+			"making up my mind at the same time."
 		]
 	},
 	{
@@ -480,8 +480,7 @@
 	},
 	{
 		"STRINGS": [
-			"この刑事事件の被告人から",
-			"教えを請う覚悟を。"
+			"I prepared myself to learn whatever I could from him."
 		]
 	},
 	{
@@ -500,12 +499,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"––ブラインドマンについて、",
-			"　知っている事を全部話して\""
+			"\"--Tell me about the Blindman,",
+			"I want to know everything about them.\""
 		]
 	},
 	{
@@ -560,8 +559,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ようやく私の出番だな。いいだろう。",
-			"　少々長い話になるのは覚悟してほしい\""
+			"\"I guess it's finally my turn. All right.",
+			"Better sit down, because this story is a long one.\""
 		]
 	},
 	{
@@ -584,8 +583,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"だがこれで、私の説が正しかった事を",
-			"　わからせてやる\""
+			"\"I will show you now, that I was right.\""
 		]
 	},
 	{
@@ -634,7 +632,7 @@
 	},
 	{
 		"STRINGS": [
-			"関本はそう言うと、ニヤッ、と笑った。"
+			"Sekimoto grinned as he said that."
 		]
 	},
 	{
@@ -705,9 +703,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"ブラインドマンは都市伝説である事に間違いないが、",
-			"　正確にはネットロアだ。",
-			"　北條くん、ネットロアはわかるか？\""
+			"\"The Blindman is an urban legend, no doubt,",
+			"but it's Net Lore to be exact.",
+			"Do you know what Net Lore is?\""
 		]
 	},
 	{
@@ -730,11 +728,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"たしか、ネット発祥の都市伝説とでも言えば––\""
+			"\"I guess you could call it an",
+			"urban legend that originated on the Internet--\""
 		]
 	},
 	{
@@ -761,8 +760,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そうだ。伝播形式が口コミによるものを",
-			"　フォークロア\""
+			"\"Yes. Folklore when the form of",
+			"transmission is by word of mouth.\""
 		]
 	},
 	{
@@ -785,9 +784,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"それに対して、ネット掲示板やメール、ＳＮＳなどで",
-			"　噂が広がるのをネットロアという。",
-			"　ただし、これは学術的にまだ、定義しきれてはいない\""
+			"\"In contrast, the spread of rumors through",
+			"online bulletin boards, e-mail, and social",
+			"networking sites is called Net Lore.",
+			"However, this hasn't been fully defined academically.\""
 		]
 	},
 	{
@@ -804,7 +804,8 @@
 	},
 	{
 		"STRINGS": [
-			"関本の口調は、今までとはうってかわっていた。"
+			"Sekimoto's tone of voice was",
+			"a complete change from before."
 		]
 	},
 	{
@@ -821,8 +822,9 @@
 	},
 	{
 		"STRINGS": [
-			"聡明にして簡潔。",
-			"力強い弁舌で、聞くものに邪念を抱かせない。"
+			"He was intelligent and concise.",
+			"His powerful eloquence leaves",
+			"listeners with no room for doubt."
 		]
 	},
 	{
@@ -873,8 +875,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"だが、ネットロアが従来のものと大きく違う点は、",
-			"　話の変節と進化を比較的容易に追跡できるという点だ\""
+			"\"But where Net Lore differs significantly from",
+			"its predecessors is in the relative ease with",
+			"which it can track the inflection",
+			"and evolution of a story.\""
 		]
 	},
 	{
@@ -897,9 +901,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"たとえば渦中の『ブラインドマン』は、",
-			"　検索サイトで検索して、それを日付順に並べ替えれば",
-			"　あっという間に内容の変遷を確認できてしまう\""
+			"\"For example, the \"Blind Man\"",
+			"can be searched for on a search ",
+			"site and then sorted by date to see how the",
+			"content has changed in a matter of seconds!\""
 		]
 	},
 	{
@@ -950,7 +955,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"まったく、便利な世の中になったものだな\""
+			"\"It's a very convenient world we live in, isn't it?\""
 		]
 	},
 	{
@@ -973,12 +978,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あなたは、このブラインドマンの",
-			"　オリジナルを知っているの？\""
+			"\"Do you know the original of this Blindman?\""
 		]
 	},
 	{
@@ -1033,9 +1037,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"まあな。最初のきっかけはなんでもないものだ。",
-			"　視力を失った一人暮らしの男が、",
-			"　光を取り戻すべく奮闘するブログだ\""
+			"\"Well. the origin is nothing.",
+			"It's a blog post about a man",
+			"living alone who lost ",
+			"his eyesight and is struggling to get his light back.\""
 		]
 	},
 	{
@@ -1058,7 +1063,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その彼は、角膜バンクへの登録をしきりに訴えていた。"
+			"\"He was the one who insisted on ",
+			"registering with the Eye Bank."
 		]
 	},
 	{
@@ -1067,8 +1073,8 @@
 	},
 	{
 		"STRINGS": [
-			"　登録者が増えれば、必然的に自分の角膜移植が",
-			"　早まるかもしれないからだ\""
+			"The sooner and more frequent people enroll,",
+			"the sooner he would get his transplant.\""
 		]
 	},
 	{
@@ -1091,9 +1097,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"そして同時に、国内各地の取り扱い機関に",
-			"　紹介したりもするようになったんだ。",
-			"　少しでも登録が増えるよう、コメントの返事もマメだった\""
+			"\"At the same time, they began to introduce",
+			"the program to other agencies around the country.。",
+			"They responded to comments frequently to increase",
+			"the number of registrations as much as possible.\""
 		]
 	},
 	{
@@ -1116,8 +1123,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"その時だ、彼の運命に曲がり角がやってきたのは。",
-			"　なぜだかわかるか？\""
+			"\"It was then that a curveball in his destiny came.",
+			"Do you know why?\""
 		]
 	},
 	{
@@ -1140,11 +1147,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"いえ……どういう事？\""
+			"\"No. What do you mean...?\""
 		]
 	},
 	{
@@ -1199,8 +1206,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いわゆる炎上をしたんだよ。",
-			"　こいつは偽物なんじゃないかってね\""
+			"\"We had what was called a [Flame War].",
+			"People began to doubt the mans truthfulness.\""
 		]
 	},
 	{
@@ -1223,11 +1230,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"別にそうは見えないけど……\""
+			"\"I don't really understand why?\""
 		]
 	},
 	{
@@ -1254,8 +1261,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"本当にそうか？",
-			"　ではなぜ、盲目の男がブログのコメントを返せるんだ？\""
+			"\"Are you sure about that?",
+			"If you trust him so much, then how",
+			"can he reply to comments on his blog?\""
 		]
 	},
 	{
@@ -1276,9 +1284,10 @@
 	},
 	{
 		"STRINGS": [
-			"あ……そうか、なるほど。",
-			"厳密には読み上げ機能を使えば返事も可能だろう。",
-			"だが、そこまで民衆は気が付かなかったのだ。"
+			"A-... Oh, I see.",
+			"Strictly speaking, you could probably",
+			"use the read-out function to reply.",
+			"But I guess the people didn't realize that."
 		]
 	},
 	{
@@ -1297,11 +1306,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それで、本人のその後は？\""
+			"\"So, what happened to the man himself?\""
 		]
 	},
 	{
@@ -1356,9 +1365,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ブログを放置してそのまま消えたよ。",
-			"　だがそれをきっかけにして、",
-			"　新たな噂が立ち上ったんだ\""
+			"\"They left the blog and just disappeared.",
+			"But that started a whole new set of rumors.\""
 		]
 	},
 	{
@@ -1381,9 +1389,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"フェードアウトしたブログ主は、",
-			"　炎上を焚きつけた奴を探している、と。",
-			"　見つけ次第、この恨みを晴らすんじゃないかってね\""
+			"\"The blogger who vanished said that he was",
+			"looking for the person who started the flame war.",
+			"I think that as soon as they find them,",
+			"they're going to settle their grudge.\""
 		]
 	},
 	{
@@ -1406,9 +1415,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんな憶測は噂を呼び、本人に対する歪んだイメージは",
-			"　固定化されてしまう有様だったようだ。",
-			"　そして『両目を潰す怪物』へと噂は変貌する\""
+			"\"Such speculation led to rumors, and the",
+			"distorted image of him became fixed.",
+			"Then the rumors transformed into",
+			"[a monster who crushes both eyes].\""
 		]
 	},
 	{
@@ -1431,11 +1441,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"それがブラインドマン……の発祥なの？\""
+			"\"Is that the origin of Blindman...?\""
 		]
 	},
 	{
@@ -1490,7 +1500,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"表向きはな。だが、あくまでも表向きだ\""
+			"\"On the surface, yes. But only ostensibly.\""
 		]
 	},
 	{
@@ -1513,8 +1523,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"しかるべき噂話でも、信憑性さえあれば、",
-			"　じきに一人歩きをするものさ\""
+			"\"Even a proper rumor will soon take on a",
+			"life of its own, as long as it has credibility.\""
 		]
 	},
 	{
@@ -1565,9 +1575,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいか。人が求めているのは真実ではない。",
-			"　もっともらしくて、共感する物語だ。",
-			"　今の盲目の男の話もそれにあたる\""
+			"\"Look. What people are searching for is not the truth.",
+			"They want a story that is plausible",
+			"and that they can relate to.",
+			"That's what the Blindman's story is now.\""
 		]
 	},
 	{
@@ -1590,9 +1601,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"純粋な気持ちと行動。",
-			"　心ない誹謗と中傷、その結果の悲劇。",
-			"　それだけで噂が暴走するには充分だ\""
+			"\"Pure feelings and actions.",
+			"Heartless slander and libel, and the result is tragedy.",
+			"That alone is enough to send rumors",
+			"spiraling out of control.\""
 		]
 	},
 	{
@@ -1613,9 +1625,9 @@
 	},
 	{
 		"STRINGS": [
-			"彼は真剣そのものだ。",
-			"だが、話の内容は概念的な部分が多く、",
-			"正直、ついていくのがやっとだ。"
+			"He's serious.",
+			"But the content of his talk is so conceptual",
+			"that, to be honest, I can barely keep up."
 		]
 	},
 	{
@@ -1634,12 +1646,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"つまり……今の話は捏造だという事？",
-			"　じゃあ真実はなに？\""
+			"\"So you're saying...that the story",
+			"you just told is a fabrication?",
+			"What's the truth then?\""
 		]
 	},
 	{
@@ -1666,7 +1679,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"実験だよ。これはただの実験なんだよ\""
+			"\"It's an experiment. This is just an experiment.\""
 		]
 	},
 	{
@@ -1689,12 +1702,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"え？　どういうこと？",
-			"　さっぱり話が見えないんだけど\""
+			"\"What? What do you mean?",
+			"I have no idea what you're talking about.\""
 		]
 	},
 	{
@@ -1749,8 +1762,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"落ち着きたまえ。",
-			"　つまりだ––\""
+			"\"Calm down.",
+			"I mean --\""
 		]
 	},
 	{
@@ -1849,8 +1862,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"この話は、私が研究目的で創作し、",
-			"　それを流布させたのだから\""
+			"\"I created this story for",
+			"research purposes, and I let it circulate.\""
 		]
 	},
 	{
@@ -1919,8 +1932,8 @@
 	},
 	{
 		"STRINGS": [
-			"……え？",
-			"今、彼はなんて言ったの？"
+			"...... What?",
+			"What did he just say?"
 		]
 	},
 	{
@@ -1943,7 +1956,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"都市伝説『ブラインドマン』の生みの親は私だよ\""
+			"\"I'm the creator of the urban legend [BlindMan].\""
 		]
 	},
 	{
@@ -1964,9 +1977,8 @@
 	},
 	{
 		"STRINGS": [
-			"関本は断言した。",
-			"その事実は、私の思考を停止させるには充分な",
-			"インパクトを持っていた。"
+			"Sekimoto assured me.",
+			"That fact had enough impact to make me stop and think."
 		]
 	},
 	{
@@ -1985,11 +1997,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"つまり、ブラインドマンはあなたがでっち上げた\""
+			"\"In other words, you made up the Blindman?\""
 		]
 	},
 	{
@@ -2044,7 +2056,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"その通りだよ\""
+			"\"That's right.\""
 		]
 	},
 	{
@@ -2067,11 +2079,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"ならば、どうしてブラインドマンが現実に存在するの！？\""
+			"\"Then why does the Blindman exists in reality?!\""
 		]
 	},
 	{
@@ -2126,9 +2138,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"それは私にだってわからない。",
-			"　でも、この事件には私にも責任がある。",
-			"　だから、私は公判で発言したんだ\""
+			"\"Even I don't know the answer.",
+			"But I am responsible for this case.",
+			"That's why I spoke up at the trial.\""
 		]
 	},
 	{
@@ -2151,13 +2163,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"お願い。順を追って話して。",
-			"　事実のみを。簡潔に。",
-			"　話を整理させて\""
+			"\"Please. Tell me everything step by step.",
+			"Just the facts. Be concise.",
+			"Let me get my story straight.\""
 		]
 	},
 	{
@@ -2212,8 +2224,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいだろう。",
-			"　長い話になるぞ\""
+			"\"Alright.",
+			"It's still going to be a long story.\""
 		]
 	},
 	{
@@ -2262,8 +2274,8 @@
 	},
 	{
 		"STRINGS": [
-			"関本は深いため息をついた。",
-			"そしてゆっくりと瞼を閉じて力を抜く。"
+			"Sekimoto sighed deeply.",
+			"Then he slowly closed his eyelids and relaxed."
 		]
 	},
 	{
@@ -2342,9 +2354,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"都市伝説『ブラインドマン』の発端は、",
-			"　私が専攻する民俗学の実験としてスタートした",
-			"　プロジェクトだった\""
+			"\"The origin of the urban legend \"Blindman\",",
+			"was a project that started as an experiment",
+			"about folklore, my major.\""
 		]
 	},
 	{
@@ -2367,8 +2379,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"目的は、ある情報が、人から人、ネットなど口コミ効果",
-			"　でどれくらいの速度で拡散するのか\""
+			"\"The objective is to determine how quickly",
+			"certain information spreads from person to person,",
+			"over the Internet, through word-of-mouth etc.,\""
 		]
 	},
 	{
@@ -2391,8 +2404,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"またその過程で、情報内容がどのように変容するのかを",
-			"　検証するものだ\""
+			"\"It also examines how the contents",
+			"are transformed in the process.\""
 		]
 	},
 	{
@@ -2415,8 +2428,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ここから得られるデータは、広告代理店がよく用いる",
-			"　バイラルマーケティングや、デマによる混乱の収束を"
+			"\"The data obtained would have provided the",
+			"basis for more efficient viral marketing and the"
 		]
 	},
 	{
@@ -2425,7 +2438,8 @@
 	},
 	{
 		"STRINGS": [
-			"　より効率的に実行するための基礎データになるはずだった\""
+			"convergence of confusion caused by hoaxes, both of",
+			"which are often used by advertising agencies.\""
 		]
 	},
 	{
@@ -2448,8 +2462,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そこで私が用意したのは、さっき伝えた盲目男性の",
-			"　運動と炎上の痕跡––\""
+			"\"So I created the blindman",
+			"and the subsequent issues that arose--\""
 		]
 	},
 	{
@@ -2472,9 +2486,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"そして怪物『ブラインドマン』だ。",
-			"　ひきこさん、くねくねなど、既存の都市伝説に",
-			"　匹敵するようにとキャラクターを肉付けしていった\""
+			"\"And then there's the monster \"Blindman\".",
+			"The character was fleshed out to rival",
+			"existing urban legends such as the waving Hikiko-san.\""
 		]
 	},
 	{
@@ -2497,12 +2511,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"すると、『ブラインドマン』はネットを媒介にして",
-			"　急速に存在感を増していったのね\""
+			"\"So then the \"Blindman\" rapidly grew its",
+			"presence through the Internet.\""
 		]
 	},
 	{
@@ -2557,9 +2571,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"いいや……当初は全くと言っていいほど",
-			"　拡散速度は遅かった。",
-			"　集客性の高いと思われる掲示板に自作自演までしたのにな\""
+			"\"No..the spread in the beginning was slow",
+			"if nothing at all.",
+			"I even staged it myself on a forum that was",
+			"supposed to attract a lot of visitors.\""
 		]
 	},
 	{
@@ -2582,9 +2597,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"それでもだ、正直、ほとんど誰も",
-			"　興味を持たなかったんだ。",
-			"　当時の私は自分の不甲斐なさを恨んだよ\""
+			"\"And yet, honestly, almost no one was interested.",
+			"I hated myself for my inadequacies back then.\""
 		]
 	},
 	{
@@ -2635,9 +2649,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"だがしかし、敗戦処理をするかのような惨めな気持ちで",
-			"　たんたんと自作自演を繰り返していたあるとき、",
-			"　急に拡散が始まった\""
+			"\"However, one day, after repeating my own",
+			"work with a sense of misery, as if I were ",
+			"dealing with a lost battle, it suddenly began",
+			"to spread.\""
 		]
 	},
 	{
@@ -2762,7 +2777,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -2821,7 +2836,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3204,7 +3219,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3289,7 +3304,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3373,7 +3388,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3474,7 +3489,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3557,7 +3572,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3796,7 +3811,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -3879,7 +3894,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -4148,7 +4163,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -4364,7 +4379,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -4418,7 +4433,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -4575,7 +4590,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -4702,7 +4717,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -5324,7 +5339,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -5519,7 +5534,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -5598,7 +5613,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

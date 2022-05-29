@@ -86,7 +86,7 @@
 	{
 		"STRINGS": [
 			"\"……となると、さっそく立花のやつを聴取だな。",
-			"　さ〜て、何と言ってあの女を引っ張るかな……\""
+			"　さ~て、何と言ってあの女を引っ張るかな……\""
 		]
 	},
 	{
@@ -244,7 +244,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -305,7 +305,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"あ〜、それもそうか……。",
+			"\"あ~、それもそうか……。",
 			"　何つーか、色々と面倒な女だよなァ……\""
 		]
 	},
@@ -329,7 +329,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -354,7 +354,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -434,7 +434,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

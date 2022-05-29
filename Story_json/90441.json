@@ -73,7 +73,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -191,12 +191,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
 			"\"あは……あははははは。",
-			"　ですよねー！　いやん、わかってますって★",
+			"　ですよねー！　いやん、わかってますってí",
 			"　今のは軽ぅいジョークですってば！！\""
 		]
 	},

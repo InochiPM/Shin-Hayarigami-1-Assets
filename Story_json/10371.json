@@ -19,7 +19,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "0c000e00000000000300"
+		"UNK0": "0c000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000300"
 	},
 	{
 		"TYPE": "LOGIC_DRAW_MARK",
@@ -39,7 +41,9 @@
 	},
 	{
 		"TYPE": "IFRV",
-		"UNK0": "08000e00000000000000"
+		"UNK0": "08000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000000"
 	},
 	{
 		"TYPE": "LOGIC_DRAW_MARK",

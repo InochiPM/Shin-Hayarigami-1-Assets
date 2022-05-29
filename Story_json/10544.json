@@ -101,9 +101,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"いやだなぁ、黙らないでくださいってばぁ〜。",
-			"　ただの冗談じゃないですか。",
-			"　仲良くしていきましょう？　損はさせませんから\""
+			"\"Oh no, don't go quiet on me now~",
+			"It was just a joke okay?",
+			"Let's be friends, okay?",
+			"I promise I won't cause you any issues.\""
 		]
 	},
 	{
@@ -120,7 +121,8 @@
 	},
 	{
 		"STRINGS": [
-			"いや、彼は絶対に自分だけが得をする計算をしているはず。"
+			"No, he must definitely be making",
+			"calculations that benefit only himself."
 		]
 	},
 	{
@@ -137,8 +139,8 @@
 	},
 	{
 		"STRINGS": [
-			"彼の言葉には裏がある。",
-			"そう思って挑まないとだめだ。"
+			"His words have a backstory.",
+			"You have to challenge him with that in mind."
 		]
 	},
 	{

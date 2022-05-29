@@ -73,7 +73,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -169,7 +169,7 @@
 	},
 	{
 		"STRINGS": [
-			"う〜ん……これでは砂堀さんにお詫びに来たつもりが、",
+			"う~ん……これでは砂堀さんにお詫びに来たつもりが、",
 			"余計に不愉快にさせてしまいそうだ。"
 		]
 	},
@@ -270,7 +270,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [

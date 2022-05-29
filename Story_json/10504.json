@@ -73,9 +73,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"どうしました、黙っちゃって。",
-			"　でも、口が堅いのはいい事です。",
-			"　それは、あなたが何か情報を持っている証ですから\""
+			"\"What the matter, you got all quite all of a sudden.",
+			"It's good to be tight-lipped.",
+			"It's a sign that you have some information.\""
 		]
 	},
 	{
@@ -92,8 +92,9 @@
 	},
 	{
 		"STRINGS": [
-			"……どうやら彼は、とことん諦めない性格のようだ。",
-			"私が返答しなかったおかげで余計執着されそうだ。"
+			"Apparently he has a personality that won't give up...",
+			"He seems to be even more obsessed with",
+			"me because I didn't respond."
 		]
 	},
 	{

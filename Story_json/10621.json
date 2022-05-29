@@ -159,8 +159,8 @@
 	},
 	{
 		"STRINGS": [
-			"私を始めとした署員たちは、不審者の周囲を取り囲む",
-			"ように距離を取った。"
+			"I and other station staff members kept",
+			"our distance to surround the suspicious person."
 		]
 	},
 	{
@@ -213,9 +213,9 @@
 	},
 	{
 		"STRINGS": [
-			"背後からヘッドライトに照らされた不審者は、",
-			"私達の気配に気づいたのか、",
-			"のたのたと振り返った。"
+			"The suspicious person, illuminated by",
+			"headlights from behind, noticed our ",
+			"presence, and turned around with a leaning back."
 		]
 	},
 	{
@@ -530,7 +530,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ア……アアアア……！\""
+			"\"Ah……Aaaaahhhhh...!\""
 		]
 	},
 	{
@@ -565,7 +565,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"救急車の手配、すぐに呼べ！！\""
+			"\"Get an ambulance, call it in now!\""
 		]
 	},
 	{
@@ -610,7 +610,7 @@
 	},
 	{
 		"STRINGS": [
-			"一気に騒然となる現場。"
+			"All at once, the scene becomes loud and noisy."
 		]
 	},
 	{
@@ -631,7 +631,9 @@
 	},
 	{
 		"STRINGS": [
-			"だが、光を奪われた老婆は、ゆっくりと仰向けに倒れこむ。"
+			"But the old woman,",
+			"deprived of light, ",
+			"slowly falls onto her back."
 		]
 	},
 	{
@@ -736,7 +738,7 @@
 	},
 	{
 		"STRINGS": [
-			"反射的に私は腕を伸ばして彼女の身体を受け止める。"
+			"Reflexively, I extend my arm to catch her body."
 		]
 	},
 	{
@@ -755,11 +757,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"大丈夫ですか！？　しっかり！！\""
+			"\"Are you okay!? Stay with me!\""
 		]
 	},
 	{
@@ -778,11 +780,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"何があったんですか！？\""
+			"\"What happened to you!?\""
 		]
 	},
 	{
@@ -853,7 +855,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ア……アアアア……！\""
+			"\"Ah...Aaaaaahhhhh!!\""
 		]
 	},
 	{
@@ -878,8 +880,9 @@
 	},
 	{
 		"STRINGS": [
-			"しきりに問い掛けても彼女は答える代わりに",
-			"唸り声とゴボゴボと吐血混じりのような呼吸音しか発しない。"
+			"When I asked her, instead of an",
+			"answer, she only made gurgling,",
+			"blood-curdling breathing noises."
 		]
 	},
 	{
@@ -896,8 +899,8 @@
 	},
 	{
 		"STRINGS": [
-			"私の腕の中で、老婆はまるでカナブンのように",
-			"身体を強張らせていた。"
+			"In my arms, the old woman was",
+			"like a little canary, her body tense."
 		]
 	},
 	{
@@ -914,7 +917,7 @@
 	},
 	{
 		"STRINGS": [
-			"だめだ、彼女は死ぬ。"
+			"It's not use, she's going to die."
 		]
 	},
 	{
@@ -931,7 +934,7 @@
 	},
 	{
 		"STRINGS": [
-			"そう誰もが確信してやまなかった。"
+			"I couldn't help but realize this."
 		]
 	},
 	{
@@ -968,7 +971,8 @@
 	},
 	{
 		"STRINGS": [
-			"騒然とした現場の中、私は呆然とその光景を見つめていた。"
+			"I stared at the scene in",
+			"dismay amidst the commotion."
 		]
 	},
 	{
@@ -985,8 +989,8 @@
 	},
 	{
 		"STRINGS": [
-			"小刻みに痙攣を繰り返す老婆は、",
-			"やがて動かなくなった。"
+			"The old woman, who kept twitching",
+			"and moving, eventually stopped."
 		]
 	},
 	{
@@ -1085,8 +1089,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"おい、北條……。",
-			"　ガイシャの口の中に何かある\""
+			"\"Hey, Hojo...",
+			"There's something in that Geisha's mouth.\""
 		]
 	},
 	{
@@ -1123,8 +1127,9 @@
 	},
 	{
 		"STRINGS": [
-			"風守さんに言われて、私は初めて気がついた。",
-			"歯の隙間から、何か薄いものが見え隠れしている。"
+			"I had never notices until Kazamori pointed it out.",
+			"Something thin was hiding",
+			"in the gap between her teeth."
 		]
 	},
 	{
@@ -1157,8 +1162,8 @@
 	},
 	{
 		"STRINGS": [
-			"ポケットからハンカチを取り出して、慎重に",
-			"それを引きずり出す。"
+			"He quickly pulls a handkerchief from his",
+			"pocket and carefully pills it out."
 		]
 	},
 	{
@@ -1175,8 +1180,9 @@
 	},
 	{
 		"STRINGS": [
-			"その時、口腔の中にあるはずの舌が",
-			"ざっくりと切り取られていたのに気付いた。"
+			"It was then that I noticed that her tongue,",
+			"which should have been in her mouth,",
+			"had been roughly cut out."
 		]
 	},
 	{
@@ -1193,8 +1199,8 @@
 	},
 	{
 		"STRINGS": [
-			"きつい臭いを発する唾液が",
-			"べっとりとついていて、鼻が曲がりそうだ。"
+			"The item was slick with saliva.",
+			"It emits a smell that makes my nose curl."
 		]
 	},
 	{
@@ -1233,7 +1239,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"それ……紙か？\""
+			"\"Is it...paper?\""
 		]
 	},
 	{
@@ -1266,9 +1272,9 @@
 	},
 	{
 		"STRINGS": [
-			"小さく折りたたまれている。",
-			"それを慎重に広げると、",
-			"そっけない一文が記されていた。"
+			"It was folded up small.",
+			"When I carefully unfolded it,",
+			"I found a simple sentence."
 		]
 	},
 	{
@@ -1341,7 +1347,7 @@
 	},
 	{
 		"STRINGS": [
-			"『お前の目を寄越せ』、と。"
+			"\"Give me your eyes\" it said."
 		]
 	},
 	{
@@ -1360,11 +1366,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"当たった……二人目だ\""
+			"\"I was right...A second victim\""
 		]
 	},
 	{
@@ -1381,8 +1387,9 @@
 	},
 	{
 		"STRINGS": [
-			"留置所に潜む偏屈殺人教授——",
-			"––関本爽二朗の予言が的中してしまった。"
+			"A bigoted murderous professor",
+			"lurks in a detention center--",
+			"--Soujiro Sekimoto's prophecy has come true."
 		]
 	},
 	{
@@ -1399,7 +1406,7 @@
 	},
 	{
 		"STRINGS": [
-			"そう実感した時、私の身体の震えが始まった。"
+			"When I realized this, my body began to tremble."
 		]
 	},
 	{

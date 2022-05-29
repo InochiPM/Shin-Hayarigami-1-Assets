@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あなたも本気で取り組んでいるんですね。",
-			"　だったら、私も是が非でも聞きたくなりました。"
+			"\"I see you're serious about this.",
+			"I to would like to be as serious. Fine I'll"
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"　とことんお話を"
+			" Tell you "
 		]
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"STRINGS": [
-			"聞かせてもらいますからね\""
+			"all about this case.\""
 		]
 	},
 	{
@@ -151,8 +151,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"ふふ……でもこれは任意聴取でしょ？",
-			"　私にも拒否権があるんですよ\""
+			"\"Hmmm...but this is voluntary, right?",
+			"I have the right to veto it.\""
 		]
 	},
 	{
@@ -175,11 +175,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"別件でホニャララ……って知ってます？\""
+			"\"On an unrelated matter, is",
+			"there something  or other I should know about?\""
 		]
 	},
 	{
@@ -206,8 +207,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"そんな事をしたら、",
-			"　私も誌面を使ってホニャララしますよ？\""
+			"\"Well nothing that I can think of.",
+			"Something or other will come along.\""
 		]
 	},
 	{
@@ -224,7 +225,8 @@
 	},
 	{
 		"STRINGS": [
-			"それからしばらく私達は隠語を駆使して駆け引きを続けた。"
+			"Then for a while we continued to play",
+			"games with our cryptic language."
 		]
 	},
 	{
@@ -241,8 +243,8 @@
 	},
 	{
 		"STRINGS": [
-			"……とは言っても、",
-			"互いにホニャララと言い合っていただけだ。"
+			"But we were just using that cryptic",
+			"phrase over and over again to each other."
 		]
 	},
 	{
@@ -259,7 +261,7 @@
 	},
 	{
 		"STRINGS": [
-			"なんなのこの不毛な応酬は……。"
+			"What is this barbaric exchange..."
 		]
 	},
 	{

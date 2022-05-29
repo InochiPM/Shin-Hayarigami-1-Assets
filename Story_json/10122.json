@@ -139,7 +139,8 @@
 	},
 	{
 		"STRINGS": [
-			"This meter indicates the psychological state of the other party."
+			"This meter indicates the psychological",
+			"state of the other party."
 		]
 	},
 	{
@@ -254,7 +255,7 @@
 	},
 	{
 		"STRINGS": [
-			" returned."
+			" ."
 		]
 	},
 	{

@@ -67,9 +67,10 @@
 	},
 	{
 		"STRINGS": [
-			"どうにか彼をコントロールしなければ。",
-			"でないと、今以上に困難な状況に追い込まれてしまう。",
-			"だからこそ、私は——"
+			"We have to control him somehow.",
+			"Otherwise, he will put us in an even more ",
+			"difficult situation than we are in now.",
+			"That's why I--"
 		]
 	},
 	{
@@ -88,11 +89,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
-			"\"あの……少し落ち着いて下さい\""
+			"\"Excuse me...but that needs to be calmed down a bit.\""
 		]
 	},
 	{
@@ -147,8 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"私は、落ち着いていますよ。",
-			"　あなたこそ、ねえ？\""
+			"\"I'm keeping my composure, you know.",
+			"Aren't you?\""
 		]
 	},
 	{

@@ -77,7 +77,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -191,7 +191,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"よ〜し、イイコだなぁ。",
+			"\"よ~し、イイコだなぁ。",
 			"　ははっ……じゃあ、まずはそこの包丁を取りな。",
 			"　んでもって、取り除いたモツはそのバケツにだ\""
 		]
@@ -244,7 +244,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -355,7 +355,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -452,7 +452,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -484,7 +484,7 @@
 	{
 		"STRINGS": [
 			"\"おう。これでだな、チョイチョイと突付いてくれよ。",
-			"　そうすりゃあ、ガ〜っと手足も首もバラけて、",
+			"　そうすりゃあ、ガ~っと手足も首もバラけて、",
 			"　動かなくなってやり易くなるぜ\""
 		]
 	},
@@ -529,7 +529,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -587,7 +587,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -722,7 +722,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -753,7 +753,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"さぁ〜て、ソイツでだなぁ、",
+			"\"さぁ~て、ソイツでだなぁ、",
 			"　まずは津田沼のだな、首と、腕だな。",
 			"　バスっと刎ねちまいな、バスっと\""
 		]
@@ -778,7 +778,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -868,7 +868,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1014,7 +1014,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "FONT",
@@ -1459,7 +1459,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"TYPE": "MSPEED",

@@ -176,7 +176,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -361,7 +361,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -548,7 +548,7 @@
 	{
 		"STRINGS": [
 			"\"さぁてと。黒田のおっさんが来るまで一丁、",
-			"　軽〜く流しておきますか、っと\""
+			"　軽~く流しておきますか、っと\""
 		]
 	},
 	{
@@ -1089,7 +1089,7 @@
 	},
 	{
 		"STRINGS": [
-			"始めて３〜４時間ほどだろうか。",
+			"始めて３~４時間ほどだろうか。",
 			"不意に、外から足音がした。黒田課長だ。"
 		]
 	},
@@ -1219,7 +1219,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"メンゴメンゴ、ちょ〜っち遅くなっちゃった。",
+			"\"メンゴメンゴ、ちょ~っち遅くなっちゃった。",
 			"　いやー上と色々モメてね、手間取ってね\""
 		]
 	},
@@ -1326,7 +1326,7 @@
 	{
 		"STRINGS": [
 			"\"いささか古典的なんだけどね、これでどうかな。",
-			"　じゃじゃ〜ん\""
+			"　じゃじゃ~ん\""
 		]
 	},
 	{
@@ -1566,7 +1566,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -1728,7 +1728,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -2022,7 +2022,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -2373,7 +2373,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
@@ -2457,7 +2457,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Houjou Saki"
+		"NAME": "Hojo Saki"
 	},
 	{
 		"STRINGS": [
