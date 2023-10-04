@@ -101,11 +101,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It's' often said that you are quiet and eloquent.",
+			"\"You're often said to be uncommunicative but eloquent.",
 			"Your impatience is palpable.\""
 		]
 	},
@@ -123,9 +123,9 @@
 	},
 	{
 		"STRINGS": [
-			"Despite these agitated words, he was smiling",
+			"Contrary to those instigative words, he was smiling",
 			"with a very satisfied look on his face.",
-			"I wondered what had caught his interest."
+			"I wonder what had caught his interest?"
 		]
 	},
 	{
@@ -166,8 +166,8 @@
 	},
 	{
 		"STRINGS": [
-			"But there is no question, that we mustn't remain silent.",
-			"If we dont speak up we will...!"
+			"However, there's no mistake that staying silent isn't helping.",
+			"I must speak up, no matter what comes out...!"
 		]
 	},
 	{

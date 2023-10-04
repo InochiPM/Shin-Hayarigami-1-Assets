@@ -69,14 +69,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Don't be silent. I don't think ",
-			"contemplation is the way to go.",
+			"\"Don't stay silent.",
+			"Silent contemplation isn't the way to go.",
 			"I'll make it clearer for you to understand.",
-			"if we don't hurry, the Blind Man is going to attack us.\""
+			"If we don't hurry, Blindman will attack again, got it?\""
 		]
 	},
 	{
@@ -93,7 +93,7 @@
 	},
 	{
 		"STRINGS": [
-			"Oh shit, I lost the timing to answer..."
+			"Damnit... I lost the timing to answer..."
 		]
 	},
 	{
@@ -111,7 +111,7 @@
 	{
 		"STRINGS": [
 			"He's showing his frustration too.",
-			"It seems he'd rather answer anything than be silent."
+			"It seems he'd rather answer anything than stay silent."
 		]
 	},
 	{

@@ -69,12 +69,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You don't like being told what to do by criminals?",
-			"Of course you don't. Who does?\""
+			"\"Do you dislike being ordered around by a criminal?",
+			"Of course you do. Who wouldn't?\""
 		]
 	},
 	{
@@ -91,8 +91,8 @@
 	},
 	{
 		"STRINGS": [
-			"Thanks to the fact that I was wondering what words",
-			"I should say to him, I got lost for time."
+			"Thanks to the fact that I was unsure of what words to use,",
+			"I lost the timing to reply."
 		]
 	},
 	{
@@ -109,7 +109,7 @@
 	},
 	{
 		"STRINGS": [
-			"I guess silence isn't golden in this day and age."
+			"Silence isn't golden in this day and age, I guess."
 		]
 	},
 	{

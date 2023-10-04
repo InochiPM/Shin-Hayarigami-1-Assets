@@ -68,8 +68,8 @@
 	{
 		"STRINGS": [
 			"I'll take the deal here.",
-			"He's right, if the quality of the information is",
-			"poor, we can just cut them loose."
+			"As he said, if the quality of the information is poor,",
+			"I can just cut him loose."
 		]
 	},
 	{
@@ -88,11 +88,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I understand. I will take you up on your offer--\""
+			"\"I understand. I accept your proposa--\""
 		]
 	},
 	{
@@ -187,12 +187,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"--Hey, Hojo.",
-			"　Why are you selling information in a place like this?\""
+			"\"--Hey, Hojou.",
+			"What are you doing loafing around in a place like this?\""
 		]
 	},
 	{
@@ -215,11 +215,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ka...Kazamori!\""
+			"\"K-Kazamori...!\""
 		]
 	},
 	{
@@ -242,12 +242,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Why are you so overly surprised?",
-			"Hmm?　Who are you?\""
+			"\"What's with the big surprise?",
+			"Hmm? Who're you?\""
 		]
 	},
 	{
@@ -280,8 +280,8 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori looked at Tsudanuma questioningly.",
-			"Tsudanuma was perplexed, but smiled affectionately."
+			"Kazamori glared at Tsudanuma doubtfully.",
+			"Tsudanuma, although startled, put on an ingratiating smile."
 		]
 	},
 	{
@@ -324,11 +324,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Who's That?",
+			"\"I asked, who are you?",
 			"A tiny old man?\""
 		]
 	},
@@ -380,11 +380,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh no, haha...\""
+			"\"Oh no, hahaha...\""
 		]
 	},
 	{
@@ -407,12 +407,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I haven't seen you at the precinct.",
-			"All right, Hojo. Take him away.\""
+			"\"I haven't seen you in the precinct at all.",
+			"All right, Hojou. Take him away.\""
 		]
 	},
 	{
@@ -459,11 +459,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, wait a minute!\""
+			"\"H-hey, wait a minute!\""
 		]
 	},
 	{

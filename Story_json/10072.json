@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You're like a clairvoyant who sees everything.\""
+			"\"Do you have some kind of all-seeing second sight or something?\""
 		]
 	},
 	{
@@ -128,12 +128,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"If you want, we can conduct an experiment.",
-			"Just like the clairvoyant experiments we",
+			"\"If you want, Why don't we conduct an experiment?",
+			"Just like the clairvoyant experiments",
 			"conducted during the Meiji era.\""
 		]
 	},
@@ -157,12 +157,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Time is not on our side.",
-			"Let me show you the case files first.\""
+			"Anyway, let me show you the case files.\""
 		]
 	},
 	{
@@ -179,8 +179,8 @@
 	},
 	{
 		"STRINGS": [
-			"I presented the materials I had prepared",
-			"in advance through the grating."
+			"I presented the materials I had",
+			"prepared in advance through the grating."
 		]
 	},
 	{

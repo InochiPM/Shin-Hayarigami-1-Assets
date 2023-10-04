@@ -94,7 +94,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -149,11 +149,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"What? Why?\""
+			"\"Eh, why?\""
 		]
 	},
 	{
@@ -176,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I don't think you two would get along quite well.\""
+			"\"Because, you two absolutely wouldn't get along well.\""
 		]
 	},
 	{
@@ -227,11 +227,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"Please don't judge me before I meet the man.",
+			"\"Please don't decide it for me before I even meet the man.",
 			"I know I'm at least sociable.\""
 		]
 	},
@@ -261,7 +261,7 @@
 	},
 	{
 		"STRINGS": [
-			"I couldn't honestly nod my head to Misuzu's words."
+			"I couldn't honestly nod my head to Misuzu's comment."
 		]
 	},
 	{
@@ -278,8 +278,7 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto is a weirdo who wields",
-			"urban legends and the occult."
+			"Sekimoto is an eccentric who follows urban legends and the occult."
 		]
 	},
 	{
@@ -296,10 +295,10 @@
 	},
 	{
 		"STRINGS": [
-			"Misuzu, on one hand, is an eccentric person",
-			"who crawls on the ground at the crime scene and ",
-			"devotes her life to detecting data by analyzing ",
-			"materials."
+			"Misuzu, on the other hand, is a narrow-minded person who",
+			"devotes her life to obtaining data by crawling along the",
+			"ground at crime scenes and applying material analysis",
+			"to even the smallest piece of evidence."
 		]
 	},
 	{
@@ -316,10 +315,9 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto, on the other hand is the poster",
-			"child for the occult, and Misuzu is the poster",
-			"child for science. It's clear as day that the two",
-			"of them together would be a disaster."
+			"Soujirou Sekimoto, the poster child of the occult,",
+			"and Misuzu Tachibana, the poster child of science.",
+			"It's plain as day that nothing good will come out of them meeting."
 		]
 	},
 	{
@@ -336,9 +334,9 @@
 	},
 	{
 		"STRINGS": [
-			"I bowed my head again and again, saying that I",
-			"was very sorry to Misuzu, who agreed to meet with us,",
-			"but we would take care of the rest from there."
+			"I repeatedly bowed my head to Misuzu, who had already become",
+			"interested in meeting with Sekimoto, saying I was very sorry",
+			"but that we'll take care of the rest from here."
 		]
 	},
 	{

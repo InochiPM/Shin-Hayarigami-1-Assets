@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"...... Okay, I get it. I've lost.\""
+			"\"...Okay, I get it. It's my loss.\""
 		]
 	},
 	{
@@ -124,11 +124,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"That's all right, young lady.\""
+			"\"That's good to see, young lady.\""
 		]
 	},
 	{
@@ -145,8 +145,8 @@
 	},
 	{
 		"STRINGS": [
-			"It was as if I was dealing with amateurs,",
-			"and my stomach almost churned instantly."
+			"He spoke as if dealing with amateurs,",
+			"and I could feel my stomach almost boiling for an instant."
 		]
 	},
 	{

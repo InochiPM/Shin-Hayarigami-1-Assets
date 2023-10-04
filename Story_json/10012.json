@@ -84,7 +84,7 @@
 	{
 		"STRINGS": [
 			"That said, I didn't feel like he",
-			"was obeying my orders honestly."
+			"was obeying my orders in earnest."
 		]
 	},
 	{
@@ -157,7 +157,7 @@
 	},
 	{
 		"STRINGS": [
-			"We took the elevator directly to the",
+			"Following that, we took the elevator to the",
 			"parking lot downstairs."
 		]
 	},
@@ -307,8 +307,8 @@
 	},
 	{
 		"STRINGS": [
-			"There were several more men and a",
-			"new vehicle waiting for us."
+			"There were several more men and",
+			"a new vehicle waiting for us."
 		]
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"STRINGS": [
 			"The car was fully tinted to completely",
-			"shut out the outside world."
+			"shut out the outside world's prying eyes."
 		]
 	},
 	{
@@ -379,10 +379,9 @@
 	},
 	{
 		"STRINGS": [
-			"As agreed, we promptly boarded our new car.",
-			"Then we drove away from underground parking lot",
-			"while the media was still distracted",
-			"at the other entrance."
+			"Just like we were briefed, we promptly boarded our new car.",
+			"Then we drove away from the underground parking lot",
+			"while the media was still distracted at the back entrance."
 		]
 	},
 	{
@@ -549,7 +548,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -578,11 +577,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"There's no time for celebrating just yet Kazamori.\""
+			"\"There's no time for celebrating just yet, Kazamori.\""
 		]
 	},
 	{
@@ -605,11 +604,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I know, okay? But we did it well, didn't we?\""
+			"\"I know, okay? But it went pretty well, didn't it?\""
 		]
 	},
 	{
@@ -675,12 +674,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, what do you have to say about that, Mr?",
-			"i'm just impressed that an "
+			"\"Hey, would you say something, Mister Sekimoto?",
+			"I'm just impressed that an "
 		]
 	},
 	{
@@ -692,7 +691,7 @@
 	{
 		"STRINGS": [
 			" like you",
-			"would do things a bit differently.\""
+			"would do things so differently.\""
 		]
 	},
 	{
@@ -709,7 +708,7 @@
 	},
 	{
 		"STRINGS": [
-			"Still, Sekimoto was silent.",
+			"Still, Sekimoto kept his silence.",
 			"He wasn't going to give into Kazamori's",
 			"cheap provocations."
 		]
@@ -728,7 +727,7 @@
 	},
 	{
 		"STRINGS": [
-			"Having not reacted the way he expected,",
+			"Not having reacted the way he expected,",
 			"Kazamori became more agitated."
 		]
 	},
@@ -776,13 +775,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"C'mon say something will ya?",
-			"Were going to be together for quite a while you know",
-			"It's alright if we chat a bit first right?\""
+			"\"C'mon, say something, will ya?",
+			"We're going to be together for quite a while, you know.",
+			"It's alright if we have a bit of a chat, right?\""
 		]
 	},
 	{
@@ -805,11 +804,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's enough, Kazamori.\""
+			"\"Kazamori, please leave it at that.\""
 		]
 	},
 	{
@@ -860,14 +859,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Shut up! Mind your own business!",
-			"Dont worry, its not like we can use what ever you say",
-			"here in court anyway, it's not like they would",
-			"believe us anyway.\""
+			"Don't worry, it's not like we can use whatever you say here",
+			"in court, they wouldn't believe us anyway.\""
 		]
 	},
 	{
@@ -926,7 +924,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Kazamori, We dont stoop to their level.\""
+			"\"Kazamori, what's with the self-deprecation?\""
 		]
 	},
 	{
@@ -977,12 +975,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"It's fact isn't it? It's what we all do!",
-			"So come on, tell me what your really thinking.\""
+			"\"It's true, though, isn't it?",
+			"So come on, tell me what you're really thinking.\""
 		]
 	},
 	{
@@ -1061,11 +1059,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Why are you sticking your nose in our business?\""
+			"\"Why did you stick your nose in our business?\""
 		]
 	},
 	{
@@ -1084,12 +1082,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You're trying to gain favor by cooperating in the case?",
-			"You're probably gonna  get life or the death penalty.\""
+			"\"Are you trying to curry favor by cooperating in this case?",
+			"Otherwise, you'd probably get life or the death penalty, yeah?\""
 		]
 	},
 	{
@@ -1106,9 +1104,8 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto was once again silent.",
-			"Moreover, he didn't even look at Kazamori",
-			"at all during his comments"
+			"Sekimoto remained silent yet again.",
+			"Moreover, he didn't even throw a glance at Kazamori."
 		]
 	},
 	{
@@ -1127,14 +1124,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Maybe the Higher-up's are getting desperate?",
-			"After all, we're having a hard time",
-			"with our own investigation.",
-			"So I understand why there holding onto you.\""
+			"\"Well, maybe the higher-ups are getting desperate?",
+			"After all, we're having a hard time with our own investigation.",
+			"So, I understand why they'd go so far",
+			"as to cling to someone like you.\""
 		]
 	},
 	{
@@ -1153,11 +1150,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"But listen here you murderer.\""
+			"\"But... Listen here, you murderer.\""
 		]
 	},
 	{
@@ -1174,7 +1171,7 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori pushed his way into Sekimoto's face."
+			"Kazamori brought his face directly in front of Sekimoto's."
 		]
 	},
 	{
@@ -1193,12 +1190,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Don't think you can fool us in",
-			"the frontline the same way.\""
+			"\"Don't you think you can fool us in the frontline the same way.\""
 		]
 	},
 	{
@@ -1215,8 +1211,8 @@
 	},
 	{
 		"STRINGS": [
-			"But Sekimoto was still silent.",
-			"I have to hand it to him, hes resilient."
+			"But, surely enough, Sekimoto was still silent.",
+			"I have to hand it to him, he's resilient."
 		]
 	},
 	{
@@ -1263,11 +1259,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Tch... What a boring person.\""
+			"\"...Tch, how boring.\""
 		]
 	},
 	{
@@ -1290,7 +1286,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -1349,11 +1345,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Whoa! That's not what I had in mind!\""
+			"\"Whoa! Don't say stuff so abruptly!\""
 		]
 	},
 	{
@@ -1376,11 +1372,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Wasn't it Kazamori who said, « Let's chat » ......\""
+			"\"Weren't you the one who asked him to speak, Kazamori...?\""
 		]
 	},
 	{
@@ -1431,12 +1427,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hahaha. That's true. Interesting isn't it Hojo?",
-			"But I'm definitely curious, too.\""
+			"\"Hahaha, indeed. Funny, isn't it, Hojou?",
+			"But my interested has been piqued, too.\""
 		]
 	},
 	{
@@ -1454,7 +1450,7 @@
 	{
 		"STRINGS": [
 			"In contrast to Kazamori, Chief Kuroda",
-			"spoke to me in a calm manner."
+			"spoke to Sekimoto in a calm manner."
 		]
 	},
 	{
@@ -1477,9 +1473,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"It's totally just a hunch,",
-			"you know? Detective's intuition.",
-			"I don't think someone like him is a killer.\""
+			"\"This is just a hunch, alright? Call it detective's intuition.",
+			"I don't think a person like you could be the killer.\""
 		]
 	},
 	{
@@ -1502,11 +1497,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What...do you mean?\""
+			"\"What do you mean?\""
 		]
 	},
 	{
@@ -1534,8 +1529,7 @@
 	{
 		"STRINGS": [
 			"\"Most of the people who commit crimes are either",
-			"driven by something or have a very vindictive",
-			"nature.\""
+			"driven by something or have a very vindictive personality.\""
 		]
 	},
 	{
@@ -1558,9 +1552,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"What can I say?",
-			"Normally, I feel something dark and sinister",
-			"But I don't feel it with him.\""
+			"\"How should I say it?",
+			"Normally, I'd feel something dark and sinister in my back.",
+			"But I don't feel anything like that from you.\""
 		]
 	},
 	{
@@ -1623,13 +1617,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Old man, what are you talking about?",
 			"It's obvious that this guy did it.",
-			"He was caught red-handed.\""
+			"Hell, he was caught red-handed.\""
 		]
 	},
 	{
@@ -1662,9 +1656,9 @@
 	},
 	{
 		"STRINGS": [
-			"Yes. He; Soujiro Sekimoto was arrested for murder.",
-			"Even though we're from a shady department,",
-			"We were given some basic information about him."
+			"Yes, he-- Soujirou Sekimoto was arrested in flagrante delicto.",
+			"Even though we're from an obscure department,",
+			"we were given some basic information about him."
 		]
 	},
 	{
@@ -1681,7 +1675,7 @@
 	},
 	{
 		"STRINGS": [
-			"Yes...that's..."
+			"Yes, it went something like this--"
 		]
 	},
 	{

@@ -101,13 +101,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I see, so you are silent...",
-			"Then I'll take that as a deliberate cover-up by ",
-			"the police. Hehehe.\""
+			"\"I see, silence, huh...?",
+			"Then I take it this is a deliberate cover-up",
+			"by the police, isn't it? Kukuku.\""
 		]
 	},
 	{
@@ -148,10 +148,10 @@
 	},
 	{
 		"STRINGS": [
-			"Using his mouth and hands,",
-			"he wields his own selfish interpretation.",
-			"If I continue to let him speak without",
-			"permission, I don't know what he will do."
+			"Using both his eloqunce and skill,",
+			"he proclaimed his own selfish interpretation.",
+			"If I continue to let him speak as he wishes,",
+			"I don't know what he will do."
 		]
 	},
 	{
@@ -168,9 +168,8 @@
 	},
 	{
 		"STRINGS": [
-			"I will not have my investigation interrupted",
-			"by a single middle-aged man",
-			"who is not very elegant."
+			"I will not have my investigation interrupted by a single",
+			"middle-aged man who can't be called graceful by any standard."
 		]
 	},
 	{

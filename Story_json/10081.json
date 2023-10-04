@@ -125,13 +125,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"The documents I've given you are an outline",
-			"of a series of murder cases that have been",
-			"occurring in Town C, S Prefecture.\""
+			"of the series of murder cases that have been",
+			"occurring in C Town, S Prefecture.\""
 		]
 	},
 	{
@@ -160,9 +160,8 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto listened to me while",
-			"looking over the materials.",
-			"Eventually, he stopped. His eyes on a picture."
+			"Sekimoto listened to my speech while looking over the materials.",
+			"Eventually, he stopped his eyes on a picture."
 		]
 	},
 	{
@@ -207,9 +206,9 @@
 	},
 	{
 		"STRINGS": [
-			"It was the body of a naked man.",
-			"He was found in a river not far",
-			"from the town C train station."
+			"It was the corpse of a naked man.",
+			"He was found in a river not far from this town's--",
+			"C Town's Substation."
 		]
 	},
 	{
@@ -226,9 +225,9 @@
 	},
 	{
 		"STRINGS": [
-			"What's unique is the method of killing.",
-			"Both eyes were pierced with the blades",
-			"of a large pair of scissors."
+			"What's unique about it is the method of killing.",
+			"Both eyes were pierced with the blades of a",
+			"large pair of sewing scissors."
 		]
 	},
 	{
@@ -245,9 +244,8 @@
 	},
 	{
 		"STRINGS": [
-			"As well as the victim's teeth had been removed.",
-			"Making it almost impossible to identify him",
-			"by way of eyes and dental records."
+			"Additionally, all of the victim's teeth had been removed.",
+			"It was impossible to identify him by way of medical scars."
 		]
 	},
 	{
@@ -264,9 +262,9 @@
 	},
 	{
 		"STRINGS": [
-			"He had no belongings, as he was found completely",
-			"naked. as well as no surgical scars.",
-			"At present, this cadaver is «Nameless»."
+			"He had no belongings, as he was found completely naked.",
+			"He had no surgical scars.",
+			"At present, this cadaver is a \"John Doe\"."
 		]
 	},
 	{
@@ -337,11 +335,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"That's pretty...horrific.\""
+			"\"How very... dreadful.\""
 		]
 	},
 	{
@@ -388,12 +386,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Are you serious?",
-			"Even a guy like you has to look away?\""
+			"\"Even an experienced person like you wants",
+			"to avert his eyes, huh?\""
 		]
 	},
 	{
@@ -444,12 +442,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"At the same time, there have been a number of",
-			"missing persons cases in the vicinity of Town C.",
+			"\"And in the meantime, a series of missing person cases",
+			"have been occurring in C Town's vicinity.",
 			"However, the connection to this case is unknown.\""
 		]
 	},
@@ -501,12 +499,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"To sum it up.",
-			"Were in one hell of a predicament.\""
+			"\"To sum it up,",
+			"we're in one hell of a predicament.\""
 		]
 	},
 	{
@@ -557,12 +555,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"That's when your testimony",
-			"popped in like a ray of sunshine.\""
+			"\"That's when your testimony popped in like a ray of sunshine.\""
 		]
 	},
 	{
@@ -597,11 +594,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"So Mr.Sekimoto.",
+			"\"Now then, Se-- Mr. Sekimoto.",
 			"I want to ask you right away.\""
 		]
 	},
@@ -619,9 +616,9 @@
 	},
 	{
 		"STRINGS": [
-			"I dared to call him [Mister].",
-			"This is the kind of title you need",
-			"when you step into someone's mind."
+			"I purposely addressed him with 'mister'.",
+			"This is the kind of intonation you need",
+			"when you step into someone's psyche."
 		]
 	},
 	{
@@ -640,12 +637,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I want you to tell me something fundamental first-",
-			"Do you really have information about this case?\""
+			"\"But first, I want you to tell me something fundamental--",
+			"Do you really have critical information about this case?\""
 		]
 	},
 	{
@@ -694,9 +691,9 @@
 	},
 	{
 		"STRINGS": [
-			"I looked him in the eyes gazing so intently,",
-			"like I was casting a spell.",
-			"So that he could not escape my question."
+			"I looked him in the eyes.",
+			"I gazed so intently as if casting a binding spell,",
+			"such that he couldn't escape my question."
 		]
 	},
 	{
@@ -715,13 +712,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I guess I have no credibility here.",
-			"I can't believe you would use the same",
-			"question more than once.\""
+			"\"It seems I have no credibility here.",
+			"I can't believe you would ask the most basic of questions.\""
 		]
 	},
 	{
@@ -744,7 +740,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -771,7 +767,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -796,8 +792,8 @@
 	},
 	{
 		"STRINGS": [
-			"Daringly, he tries to satisfy my goal only",
-			"without using the specified words."
+			"He intentionally chose to not use the words I specified",
+			"when fulfilling my conditions."
 		]
 	},
 	{
@@ -816,7 +812,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -843,7 +839,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -870,12 +866,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Now, I'm going to ask you a question.",
-			"Who are they? Give me answers now.\""
+			"\"Then, I'll go straight to the point.",
+			"Who are they? Otherwise, tell us what you know.\""
 		]
 	},
 	{
@@ -922,18 +918,18 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"...It's the "
+			"\"...It was "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "14000a00",
 		"KEYWORD_ID": 3008,
-		"KEYWORD": "Blind Man"
+		"KEYWORD": "Blindman"
 	},
 	{
 		"STRINGS": [
@@ -968,7 +964,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -989,9 +985,9 @@
 	},
 	{
 		"STRINGS": [
-			"His confident words were completely unexpected.",
-			"Of course, I had never heard of a blind man before.",
-			"I felt anger burning towards his words."
+			"His words, filled with confidence, were completely unexpected.",
+			"Obviously, this was the first time I've heard of Blindman.",
+			"I felt anger towards the way he acted."
 		]
 	},
 	{
@@ -1010,12 +1006,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That' s not what we're looking for.",
-			"Don't be ridiculous.\""
+			"\"That's not what we're looking for.",
+			"Stop joking around.\""
 		]
 	},
 	{
@@ -1038,13 +1034,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Of course, I'm not kidding.",
-			"There is only one person in the world who can",
-			"pull off this trick, and that's the «Blind Man».\""
+			"\"Naturally, I'm not joking around.",
+			"There is only one person in the whole world who",
+			"follows this modus operandi, and that's \"Blindman\".\""
 		]
 	},
 	{
@@ -1091,11 +1087,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Don't fuck with us.",
+			"\"Don't screw with us police.",
 			"We asked you who they are.\""
 		]
 	},
@@ -1175,12 +1171,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"The Blind Man is the Blind Man",
-			"Nothing more, nothing less,\""
+			"\"Blindman is Blindman.",
+			"Nothing more, nothing less.\""
 		]
 	},
 	{
@@ -1199,7 +1195,7 @@
 		"STRINGS": [
 			"What's with this guy?",
 			"All I feel is frustration and disappointment.",
-			"That atmosphere enveloped the entire detention center."
+			"This mood enveloped the entire detention center."
 		]
 	},
 	{
@@ -1218,11 +1214,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Do you have any idea what I'm majoring in?\""
+			"\"Do you know what I specialize in?\""
 		]
 	},
 	{
@@ -1253,13 +1249,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"That's enough.",
-			"Chief Kuroda, let's get him back into Tokyo's custody.",
-			"Any more is a waste of time.\""
+			"Chief Kuroda, let's return him to Tokyo's custody.",
+			"Talking with him any further would be a waste of time.\""
 		]
 	},
 	{
@@ -1302,13 +1298,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"I agree.",
-			"I don't care how many are in Special Investigations.",
-			"I don't want to waste a single ounce of time on this.\""
+			"I don't care how we're the Special Division or some such,",
+			"I don't want to waste a single ounce of time on this guy.\""
 		]
 	},
 	{
@@ -1371,14 +1367,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"The Blind Man is a fictional character in urban legend.",
-			"He is a demonic person who appears in front of",
-			"people who walk the streets alone late at night",
-			"and kills them with the help of scissors in both eyes.\""
+			"\"--Blindman is a fictional character from a urban legend.",
+			"He is a slasher who appears in front of people who walk the",
+			"streets alone late at night and kills them by jabbing",
+			"scissors into both of their eyes.\""
 		]
 	},
 	{
@@ -1401,13 +1397,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"No one knows its true identity.",
-			"But because of the uniqueness of its modus operandi,",
-			"he has been given the name «Light Stealer».\""
+			"\"No one knows his true identity.",
+			"But because of the unique nature of his modus operandi,",
+			"he has been given the name \"Light Stealer\".\""
 		]
 	},
 	{
@@ -1425,9 +1421,9 @@
 	{
 		"STRINGS": [
 			"Perhaps he was getting impatient, but he started",
-			"lecturing me in a rather eloquent manner.",
-			"Listening to his deafening voice,",
-			"the anger in me was amplified."
+			"lecturing us in a rather long-winded manner.",
+			"Listening to his grating voice,",
+			"the anger in me was greatly magnified."
 		]
 	},
 	{
@@ -1444,9 +1440,8 @@
 	},
 	{
 		"STRINGS": [
-			"I want to peel off his skin",
-			"and expose his true nature,",
-			"hidden behind that aloof attitude!"
+			"I want to rip off his mask.",
+			"I want to expose his true nature, hidden behind that aloof attitude."
 		]
 	},
 	{

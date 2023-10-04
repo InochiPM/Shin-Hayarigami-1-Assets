@@ -75,9 +75,9 @@
 	},
 	{
 		"STRINGS": [
-			"When we returned from the detention center to",
-			"our home base, the person we were looking for",
-			"was already waiting for us."
+			"When we returned from the detention center to our home base--",
+			"to the Special Patrol Division, the person we were looking for",
+			"was already there, waiting for us."
 		]
 	},
 	{
@@ -112,12 +112,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"...This place is as disgusting as ever.",
-			"I'm tired of coming here again and again. It's a dump.\""
+			"\"...This place is as filthy as ever.",
+			"I'm fed up of coming here again and again. It's like a dump.\""
 		]
 	},
 	{
@@ -156,12 +156,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Don't talk to me like that.",
-			"Besides, I'm tired of hearing that crap now.\""
+			"\"Don't talk like that.",
+			"Besides, I'm tired of hearing that same crap now.\""
 		]
 	},
 	{
@@ -212,12 +212,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"How are you a «Window Department»",
-			"with actually windows?\""
+			"\"How about I call you a",
+			"\"window-sitting department without actual windows\", then?\""
 		]
 	},
 	{
@@ -273,13 +273,12 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "1c000a00",
 		"KEYWORD_ID": 3011,
-		"KEYWORD": "Tachibana Misuzu"
+		"KEYWORD": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
 			".",
-			"My classmate. We've known each",
-			"other since the police academy."
+			"My classmate. We've known each other since the police academy."
 		]
 	},
 	{
@@ -296,10 +295,10 @@
 	},
 	{
 		"STRINGS": [
-			"She was assigned to the First Field Forensics",
-			"Section of the S Prefectural Police. ",
-			"She was the highest-ranking officer",
-			"among our classmates."
+			"She was assigned to the S Prefectural Police Forensics Division,",
+			"First Field Forensics Team as Field Forensics Foreman.",
+			"She gained that position due to her exceptional grades",
+			"among our graduation group."
 		]
 	},
 	{
@@ -316,9 +315,9 @@
 	},
 	{
 		"STRINGS": [
-			"Normally, I would be sitting in the prefectural",
-			"police offices, but due to the incident",
-			"that occurred at the Town C station, I am here instead."
+			"On paper, she's on stand-by in the prefectural police",
+			"station, but due to the incident that occurred at the",
+			"C Town substation, she's staying here instead."
 		]
 	},
 	{
@@ -353,7 +352,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
@@ -398,13 +397,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"Hahaha. You don't hold back.",
-			"You seem to get along well with Kazamori, so ",
-			"why don't you join us?\""
+			"You seem to get along well with Kazamori,",
+			"so why don't you join us?\""
 		]
 	},
 	{
@@ -427,13 +426,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
 			"\"I'll have to pass, Chief Kuroda.",
-			"I love forensic work, searching for the",
-			"truth from particulate fragments.\""
+			"I love forensic work, probing into the",
+			"truth from even the smallest fragments.\""
 		]
 	},
 	{
@@ -452,13 +451,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"Besides, I'm only providing information to the ",
-			"Special Section for the good of my peers.",
-			"Thank you for your understanding.\""
+			"\"Besides, I'm only providing information to the",
+			"Special Division for the good of my classmate.",
+			"Please understand.\""
 		]
 	},
 	{
@@ -481,12 +480,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Koo! that's harsh.",
-			"However, I am not averse to it.\""
+			"\"Kh~... That's harsh.",
+			"However, I don't dislike it.\""
 		]
 	},
 	{
@@ -507,9 +506,8 @@
 	},
 	{
 		"STRINGS": [
-			"I have to admit that I'm not good",
-			"at this straight talk.",
-			"But I know there is no malice behind it all."
+			"I have to admit that I'm not a fan of her blunt style of talking.",
+			"But, I do at least know that there's no malice behind it."
 		]
 	},
 	{
@@ -526,8 +524,8 @@
 	},
 	{
 		"STRINGS": [
-			"She just doesn't like to waste her",
-			"time worrying about other people."
+			"She just doesn't like to waste her time",
+			"worrying about other people's comfort."
 		]
 	},
 	{
@@ -578,13 +576,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Misuzu, give me a break.",
-			"Let's get down to business.",
-			"What's this new discovery?\""
+			"\"Misuzu, let's stop there and get down to business.",
+			"What's this new discovery you've got from the victim?\""
 		]
 	},
 	{
@@ -607,11 +604,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"Were pretty sure we got an I.D.\""
+			"\"We're pretty sure we got an I.D.\""
 		]
 	},
 	{
@@ -667,7 +664,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
@@ -678,13 +675,12 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "20000a00",
 		"KEYWORD_ID": 3012,
-		"KEYWORD": "Tamura Koutarou"
+		"KEYWORD": "Koutarou Tamura"
 	},
 	{
 		"STRINGS": [
-			".",
-			"Thirty-five years old.",
-			"Salesman at a big bank in the foothills.\""
+			". Thirty-five years old.",
+			"Salesman at a certain bank in the base of the urban area.\""
 		]
 	},
 	{
@@ -703,14 +699,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"Currently, the forensic team is trying to get a",
-			"background check, but I'm almost certain.",
-			"For the record, the bodies DNA is being",
-			"analyzed by Forensic Scientists.\""
+			"\"Currently, the First Investigative Division is trying to",
+			"get a background check, but I'm almost certain it's accurate.",
+			"For the record, the victim's DNA is still being analyzed",
+			"by the crime lab.\""
 		]
 	},
 	{
@@ -737,13 +733,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"How could you have known?",
-			"I'm sure the naked body was impossible to ",
-			"identify with even their teeth pulled out...\""
+			"\"It's good to know that.",
+			"Although, I thought the naked body was impossible to",
+			"identify since even their teeth were pulled out...\""
 		]
 	},
 	{
@@ -766,12 +762,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"You can't take forensics for granted.",
-			"We're going to find out everything we can.\""
+			"\"You shouldn't underestimate forensics.",
+			"We thoroughly investigate until we get to the bottom of the crime.\""
 		]
 	},
 	{
@@ -790,13 +786,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"The key is the nano-level fibers",
-			"we were able to harvest.",
-			"That's what we found under the victims fingernails.\""
+			"\"The key was the nano-fibers we were able to collect.",
+			"They were found under the victim's fingernails.\""
 		]
 	},
 	{
@@ -815,12 +810,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"I ran it through the mass spectrometer,",
-			"and it had the certain characteristics.\""
+			"\"Once we ran them through the mass spectrometer,",
+			"we found they had a unique characteristic.\""
 		]
 	},
 	{
@@ -843,11 +838,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Characteristics? Like what?\""
+			"\"A unique characteristic... Which was?\""
 		]
 	},
 	{
@@ -870,14 +865,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"The fiber was made from something that",
-			"was not available to the public.",
-			"I ran the data through our holdings, and it",
-			"matched something. What do you think it is?\""
+			"\"Those fibers were made from something",
+			"unavailable to the general public.",
+			"I ran the data through our databases,",
+			"and there was a match. What do you think it was?\""
 		]
 	},
 	{
@@ -895,8 +890,8 @@
 	{
 		"STRINGS": [
 			"We could only stare blankly at each other.",
-			"She knew exactly what was going on.",
-			"Misuzu just wanted us to say, «I don't know»."
+			"She knew exactly that was going to happen.",
+			"Misuzu just wanted us to say, \"I don't know\"."
 		]
 	},
 	{
@@ -915,11 +910,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"This is the strip that holds the new banknotes.",
+			"\"The bill strip for newly-printed banknotes.",
 			"The materials used by the Bank of Japan are",
 			"different from those used by commercial banks.\""
 		]
@@ -940,13 +935,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"There are only a few people who can",
-			"handle those strips, right?",
-			"That's why I've been going through all the banks.\""
+			"\"Only a few people have access to those strips, you know?",
+			"That's why I've been scouring through every bank in the city.\""
 		]
 	},
 	{
@@ -985,12 +979,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"So you found someone who fits",
-			"the description of victim...",
+			"the description of victim to a T...",
 			"How did you find something like that?\""
 		]
 	},
@@ -1042,12 +1036,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"Even the smallest object can be authenticated",
-			"as long as it has physical proof.",
+			"\"Even the smallest object can be analyzed",
+			"as long as there is physical proof.",
 			"Just like in this case.\""
 		]
 	},
@@ -1069,10 +1063,10 @@
 	},
 	{
 		"STRINGS": [
-			"Misuzu sniffed and looked pleased with herself.",
-			"It must have been cathartic for her to be able to",
-			"break through the stalemate without",
-			"identifying the victim."
+			"Misuzu snorted and looked pleased with herself.",
+			"It must have surely been cathartic for her to be able to",
+			"break through the stalemate created by the inability to",
+			"identify the victim."
 		]
 	},
 	{
@@ -1139,12 +1133,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"So from now on, the investigation will",
-			"shift to finding out who was around the victim.\""
+			"\"So, from now on, the investigation will",
+			"shift to bringing to light the victim's circumstances.\""
 		]
 	},
 	{
@@ -1167,13 +1161,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"That's how it's going to be.",
-			"It looks like Sekimoto won't be",
-			"able to get out of this one.\""
+			"It looks like Sekimoto won't be needed.\""
 		]
 	},
 	{
@@ -1196,11 +1189,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"No, it may not be that easy.\""
+			"\"No, it may not turn out to be that easy.\""
 		]
 	},
 	{
@@ -1255,11 +1248,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"What's this about, Hojo?\""
+			"\"What's this about, Hojou?\""
 		]
 	},
 	{
@@ -1282,7 +1275,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1304,9 +1297,8 @@
 	},
 	{
 		"STRINGS": [
-			"I remembered the series of events that",
-			"had irritated me just a moment ago with",
-			"his thoughtful comments."
+			"I remembered the series of events just moments ago that",
+			"had his dismissive remarks irritating me."
 		]
 	},
 	{
@@ -1325,7 +1317,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1384,12 +1376,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"You're really taking his side, aren't you?",
-			"You and Sekimoto had quite a fight earlier.\""
+			"In spite of the shouting match you and Sekimoto had earlier.\""
 		]
 	},
 	{
@@ -1410,10 +1402,9 @@
 	},
 	{
 		"STRINGS": [
-			"When Chief Kuroda pointed out the contradiction,",
-			"I felt a heavy weight on my stomach.",
-			"It's true that his words and actions",
-			"made me feel resentful."
+			"When Chief Kuroda pointed out that contradiction,",
+			"I felt a heavy weight on my stomach, \"Guh\".",
+			"It's true that the way he spoke and acted made me resent him."
 		]
 	},
 	{
@@ -1432,12 +1423,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"That's true, but...",
-			"That and this are different.\""
+			"This and that are different.\""
 		]
 	},
 	{
@@ -1456,13 +1447,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"As a possibility,",
-			"if we are able to sniff it out,",
-			"aren't we the only ones who",
+			"\"This is just a possibility, but if this suggests the",
+			"existence of a new crime, aren't we the only ones who",
 			"can take preventive measures?\""
 		]
 	},
@@ -1484,9 +1474,9 @@
 	},
 	{
 		"STRINGS": [
-			"The Investigation Section, the center of the ",
-			"has its hands full with only the matter",
-			"of the victim, Tamura."
+			"The First Investigative Division, the central player of",
+			"the investigative structure's line-up, has its hands full with",
+			"just the matters related to the victim, Mr. Tamura."
 		]
 	},
 	{
@@ -1503,9 +1493,8 @@
 	},
 	{
 		"STRINGS": [
-			"If that's the case, then only we, the Special",
-			"Section, can afford to start working",
-			"on future possibilities."
+			"If that's the case, then only we, the Special Division,",
+			"can afford to start working on future possibilities."
 		]
 	},
 	{
@@ -1522,7 +1511,7 @@
 	},
 	{
 		"STRINGS": [
-			"If I strike out, so be it.",
+			"If it's a swing and a miss, so be it.",
 			"As long as it doesn't create any more victims."
 		]
 	},
@@ -1570,14 +1559,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"If your right,",
-			"We need to get something out of him.",
-			"I'll leave it to you to decide whether or",
-			"not you want to give us this information.\""
+			"\"That murderer said it, huh?",
+			"If he's right, then you'll need to draw something out of him.",
+			"I'll leave it to you to decide whether to",
+			"give him this information or not.\""
 		]
 	},
 	{
@@ -1632,12 +1621,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Honestly, I don't want him getting any weird ideas.",
-			"He's a bit of a weirdo, isn't he?\""
+			"He's quite the weirdo, isn't he?\""
 		]
 	},
 	{
@@ -1688,11 +1677,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"By the way, just who is this "
+			"\"By the way, just what's the deal with this \""
 		]
 	},
 	{
@@ -1703,7 +1692,7 @@
 	},
 	{
 		"STRINGS": [
-			"?\""
+			"\"?\""
 		]
 	},
 	{
@@ -1726,12 +1715,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"The culprit in this case is the",
-			"famous urban legend of the Blind Man.\""
+			"\"He claims that the culprit in this case is",
+			"\"Blindman\", a famous urban legend.\""
 		]
 	},
 	{
@@ -1778,13 +1767,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
 			"\"Huh? What is that?",
 			"You're being made a complete fool of.",
-			"Get a grip, Special Agent.\""
+			"Get a grip, Special Division.\""
 		]
 	},
 	{
@@ -1801,9 +1790,9 @@
 	},
 	{
 		"STRINGS": [
-			"I have no words.",
+			"...I have no words.",
 			"Is Sekimoto just playing us for fools, after all?",
-			"I'm not sure what to say."
+			"Or does he hold another piece of essential information?"
 		]
 	},
 	{
@@ -1820,8 +1809,8 @@
 	},
 	{
 		"STRINGS": [
-			"As a bargaining tactic, using the information",
-			"Misuzu had brought might be an effective."
+			"Using the information Misuzu gave us",
+			"might be an effective bargaining tactic."
 		]
 	},
 	{
@@ -1838,7 +1827,7 @@
 	},
 	{
 		"STRINGS": [
-			"However, I don't think it's a good idea to",
+			"However, I don't think it would be a good idea to",
 			"bring Sekimoto and Misuzu together."
 		]
 	},
@@ -1857,7 +1846,7 @@
 	{
 		"STRINGS": [
 			"My intuition tells me that the two of them",
-			"might not be a good match."
+			"might not be a very good match."
 		]
 	},
 	{

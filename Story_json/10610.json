@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"モニターを見つめた"
+			"Look at the monitor."
 		]
 	},
 	{
@@ -101,12 +101,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 19,
-		"SELECT_ITEM_INFO": "２：Hold my tongue.",
+		"SELECT_ITEM_INFO": "２：Suddenly cover my mouth.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"思わず口を抑えた"
+			"Suddenly cover my mouth."
 		]
 	},
 	{
@@ -117,12 +117,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 20,
-		"SELECT_ITEM_INFO": "３：We're on our way.",
+		"SELECT_ITEM_INFO": "３：Head to the crime scene.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"現場に向かった"
+			"Head to the crime scene."
 		]
 	},
 	{

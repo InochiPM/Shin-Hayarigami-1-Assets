@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I guess you're not interested in that kind of thing.\""
+			"\"As expected, you're not interested in such things.\""
 		]
 	},
 	{
@@ -90,7 +90,7 @@
 	},
 	{
 		"STRINGS": [
-			"...I've discouraged him."
+			"...Damnit. I've discouraged him."
 		]
 	},
 	{
@@ -108,7 +108,7 @@
 	{
 		"STRINGS": [
 			"No matter how ridiculous his words were,",
-			"he was still a valuable collaborator."
+			"he's still a valuable collaborator in the end."
 		]
 	},
 	{
@@ -125,8 +125,7 @@
 	},
 	{
 		"STRINGS": [
-			"I think I should react a little",
-			"more carefully and agilely."
+			"It seems I'd better react a little more carefully and astutely."
 		]
 	},
 	{

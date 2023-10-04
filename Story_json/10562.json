@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You'll have to"
+			"\""
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" Absolutely Disagree. "
+			"Absolutely not"
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"Wont you?",
+			"-- I have no choice but to refuse, understand?",
 			"Unlike you, I am a member of an organization.\""
 		]
 	},
@@ -147,7 +147,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -175,12 +175,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"How can you be so sure?",
-			"Sir, you are offering to leak classified information.\""
+			"Sir, you are asking me to leak classified information.\""
 		]
 	},
 	{
@@ -227,7 +227,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -250,7 +250,7 @@
 	{
 		"STRINGS": [
 			"He whispers to me with a big smile,",
-			"as if he is trying to reassure me."
+			"as if trying to reassure me."
 		]
 	},
 	{
@@ -267,8 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"Can't he be fired for so much as a media leak?",
-			"But what if it changed the killer's moves?"
+			"I won't fired for so much as a media leak?",
+			"But, what if that changed the killer's moves?"
 		]
 	},
 	{
@@ -285,7 +285,7 @@
 	},
 	{
 		"STRINGS": [
-			"With that in mind, I cannot take him up on his offer."
+			"With that in mind, I simply cannot take him up on his offer."
 		]
 	},
 	{

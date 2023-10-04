@@ -69,12 +69,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Alright, I get it!",
-			"Wha is it that"
+			"What is it that"
 		]
 	},
 	{
@@ -115,12 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"Cooperation with your team.",
-			"I want to see who the Blind Man is with my own eyes.\""
+			"I want to see who Blindman is with my own eyes.\""
 		]
 	},
 	{
@@ -143,7 +143,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -170,11 +170,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"What's the point of lying in a situation like this?\""
+			"\"Why would I lie in a situation like this?\""
 		]
 	},
 	{
@@ -191,8 +191,8 @@
 	},
 	{
 		"STRINGS": [
-			"The word «Cooperation» was uttered by Sekimoto...",
-			"The look on his face never seemed to be a lie."
+			"Sekimoto, uttering the word \"cooperation\"...",
+			"The look on his face didn't seem like a liar's at all."
 		]
 	},
 	{
@@ -209,8 +209,7 @@
 	},
 	{
 		"STRINGS": [
-			"If so, we need to find out what",
-			"exactly we can do to help..."
+			"Then, I need to find out exactly what we can do to help..."
 		]
 	},
 	{

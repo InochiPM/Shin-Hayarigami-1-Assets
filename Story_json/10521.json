@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Do you have any"
+			"\"By the way, do you have "
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			" Tips & Tricks "
+			"any pointers"
 		]
 	},
 	{
@@ -91,6 +91,7 @@
 	},
 	{
 		"STRINGS": [
+			"",
 			"you would like to share?\""
 		]
 	},
@@ -114,12 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I guess i can tell you...",
-			"w-wait! That was close!",
+			"\"I guess if I must say something...",
+			"...W-wait! That was close!",
 			"I almost spoke out of turn.\""
 		]
 	},
@@ -143,11 +144,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Don't be coy, just tell me.\""
+			"\"Don't be coy, please tell me.\""
 		]
 	},
 	{
@@ -170,11 +171,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Nop, not a chance!",
+			"\"Nope, not a chance!",
 			"Each piece of information is a meal ticket for me!\""
 		]
 	},
@@ -192,8 +193,8 @@
 	},
 	{
 		"STRINGS": [
-			"Hmmm... I cant seem to find an opening...",
-			"I wonder if i can catch him off guard? "
+			"Hmmm... I can't seem to find an opening...",
+			"I wonder how I can catch him off guard...?"
 		]
 	},
 	{

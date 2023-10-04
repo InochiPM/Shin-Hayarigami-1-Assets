@@ -65,13 +65,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Right, but you amaze me.",
-			"We have an entire organization chasing ",
-			"information, and you alone are struggling.\""
+			"\"Right... but, you amaze me.",
+			"We have an entire organization chasing after information,",
+			"and yet, you're working hard by yourself.\""
 		]
 	},
 	{
@@ -122,12 +122,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Huhuhu...Thanks for that.",
-			"But its just business as usual.\""
+			"\"Kukukuku... Thanks for that.",
+			"But this is just part of the trade.\""
 		]
 	},
 	{

@@ -106,7 +106,7 @@
 	},
 	{
 		"STRINGS": [
-			"怒る"
+			"Get angry."
 		]
 	},
 	{
@@ -117,12 +117,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 14,
-		"SELECT_ITEM_INFO": "２：Get noisy",
+		"SELECT_ITEM_INFO": "２：Make a commotion.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"騒ぐ"
+			"Make a commotion."
 		]
 	},
 	{
@@ -137,12 +137,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "0c000e00",
 		"SELECT_ITEM_ID": 15,
-		"SELECT_ITEM_INFO": "３：Be silly.",
+		"SELECT_ITEM_INFO": "３：Play the fool.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"おどける"
+			"Play the fool."
 		]
 	},
 	{

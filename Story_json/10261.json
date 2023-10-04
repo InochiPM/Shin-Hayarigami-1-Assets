@@ -85,11 +85,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"If the same thing had happened to me...",
+			"\"If the same thing happened to me--",
 			"I'd file a criminal complaint.\""
 		]
 	},
@@ -141,12 +141,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"Thank God you feel the same way as me...",
-			"Uhm...Can I file that complaint now?\""
+			"\"Right? Thank goodness you feel the same way as me...",
+			"Uhm, can I file that complaint now?\""
 		]
 	},
 	{
@@ -197,13 +197,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sorry, the person you want to sue is already dead.",
-			"You can still file a complaint even if the suspect is",
-			"dead, but you won't get a sincere apology from Tamura.\""
+			"\"I'm sorry, the person you want to sue-- Tamura is already dead.",
+			"You can still file a complaint even if the suspect is dead,",
+			"but you won't get a sincere apology from Tamura.\""
 		]
 	},
 	{
@@ -222,12 +222,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I feel very sorry for you,",
-			"but it doesn't mean you'll be saved.\""
+			"\"I sympathize with your troubles,",
+			"but filing a complaint doesn't mean you'll be saved.\""
 		]
 	},
 	{
@@ -330,7 +330,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
@@ -380,7 +380,8 @@
 	{
 		"STRINGS": [
 			"Haruka bit her lip and slammed the desk.",
-			"Perhaps the emotions she had been suppressing erupted."
+			"Perhaps the emotions she had been suppressing",
+			"until now finally erupted."
 		]
 	},
 	{
@@ -397,8 +398,8 @@
 	},
 	{
 		"STRINGS": [
-			"I can only sympathize with her feelings.",
-			"But at the same time, something made me suspicious."
+			"All we can do is sympathize with her feelings.",
+			"But at the same time, a certain suspicion arose."
 		]
 	},
 	{
@@ -415,8 +416,7 @@
 	},
 	{
 		"STRINGS": [
-			"Haruka-san also has a sufficient",
-			"motive to kill Tamura......"
+			"Haruka also has an adequate motive to want to kill Mr. Tamura..."
 		]
 	},
 	{

@@ -69,7 +69,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -92,7 +92,7 @@
 	{
 		"STRINGS": [
 			"are.",
-			"Are you trying to smoke us out?\""
+			"Are you trying to confuse us?\""
 		]
 	},
 	{
@@ -115,14 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You are the ones who refuse",
-			"to take my words seriously.",
-			"The killer is the Blind Man.",
-			"That much is certain.\""
+			"\"You are the ones who refuse to take my words seriously.",
+			"The killer is Blindman. That much is certain.\""
 		]
 	},
 	{
@@ -145,11 +143,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I don't know what that means.",
+			"\"I don't understand what you mean.",
 			"Are you trying to get us to verify an urban legend?\""
 		]
 	},
@@ -173,13 +171,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"How could you not know?",
-			"The sequence of events traces",
-			"back to this urban legend.\""
+			"\"What is there to misunderstand?",
+			"This sequence of events is modeled after the urban legend.\""
 		]
 	},
 	{
@@ -196,7 +193,7 @@
 	},
 	{
 		"STRINGS": [
-			"He couldn't hide his frustration."
+			"He was unable to conceal his frustration."
 		]
 	},
 	{
@@ -213,8 +210,8 @@
 	},
 	{
 		"STRINGS": [
-			"I'm sorry but, I don't know what to do",
-			"when you say you're tracing the blind man."
+			"I'm sorry, but even if you say it's modeled after",
+			"the Blindman legend, I still have no idea what to do."
 		]
 	},
 	{
@@ -231,10 +228,8 @@
 	},
 	{
 		"STRINGS": [
-			"How can I question him to get some",
-			"clues to the investigation?...",
-			"I will need to explore his response",
-			"a little more carefully."
+			"How should I question him to get some clues for the investigation...?",
+			"I will need to probe his responses a little more carefully."
 		]
 	},
 	{

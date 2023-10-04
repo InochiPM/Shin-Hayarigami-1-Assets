@@ -69,12 +69,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Haruka, can you be more specific?",
-			"Where were you at the time of Tamura's murder?\""
+			"\"Haruka, can you be a little more specific?",
+			"Where were you at the time of Mr. Tamura's murder?\""
 		]
 	},
 	{
@@ -113,11 +113,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"What do you mean by that...?\""
+			"\"Eh... What do you mean by that?\""
 		]
 	},
 	{
@@ -140,13 +140,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"I mean exactly what I said.",
-			"Where are you and what are you doing?",
-			"And do you have proof?\""
+			"Where were you and what were you doing?",
+			"Also, do you have a way to verify it?\""
 		]
 	},
 	{
@@ -197,12 +197,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
 			"\"Please wait a minute.",
-			"I look like a criminal, don't I?\""
+			"I don't look like the culprit, do I?\""
 		]
 	},
 	{
@@ -225,12 +225,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's not how it works.",
-			"But we need to make sure we get this right.\""
+			"\"It's nothing like that.",
+			"We just want to make sure everything's proper.\""
 		]
 	},
 	{
@@ -281,7 +281,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
@@ -309,7 +309,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -364,11 +364,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"See, I knew you suspected me!\""
+			"\"See, I knew you suspected me!!\""
 		]
 	},
 	{
@@ -439,12 +439,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"You know, if you say you didn't do it,",
-			"then you have to prove it, right?\""
+			"then you also have to prove it, right?\""
 		]
 	},
 	{
@@ -461,9 +461,9 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori joined me.",
-			"His tone was as gentle as possible, but he ",
-			"seemed to feel the same suspicion I did."
+			"Kazamori backed me up.",
+			"His tone was as gentle as possible,",
+			"but he seemed to have the same suspicions as I had."
 		]
 	},
 	{
@@ -482,7 +482,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -539,11 +539,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"I don't want to say...\""
+			"\"...I don't want to say.\""
 		]
 	},
 	{
@@ -566,12 +566,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Haruka, you' re putting yourself",
-			"in a disadvantageous situation.\""
+			"\"Haruka, you're putting yourself",
+			"in a disadvantageous position in this way.\""
 		]
 	},
 	{
@@ -594,13 +594,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"I told you I don't want to tell you!",
+			"\"Like I told you, I don't want to tell you!",
 			"Hey, this is voluntary, right?",
-			"Then let's get this over with!\""
+			"Then let's end it here!!\""
 		]
 	},
 	{
@@ -647,11 +647,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"What are you hiding from me?\""
+			"\"You're hiding something from us!!\""
 		]
 	},
 	{
@@ -706,12 +706,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"It's nothing! I swear I didn't do it!",
-			"So get me out of here!\""
+			"\"I'm hiding nothing!! I swear I didn't do it!!",
+			"That's why I'm getting out of here!!!\""
 		]
 	},
 	{
@@ -816,8 +816,7 @@
 	},
 	{
 		"STRINGS": [
-			"She was suddenly hysterical and we",
-			"had no choice but to give her up."
+			"Her sudden hysterics forced us to give up."
 		]
 	},
 	{
@@ -834,10 +833,9 @@
 	},
 	{
 		"STRINGS": [
-			"Finally, Chief Kuroda, who had come to see how",
-			"she was doing, gave us a pained look and",
-			"ordered us to end the interview, so we had no",
-			"choice but to let her go."
+			"In the end, Chief Kuroda, who had come to see",
+			"what was happening, gave us a pained look and ordered us to",
+			"end the interview, so we had no choice but to let her go."
 		]
 	},
 	{
@@ -928,11 +926,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Bingo on the first one, huh?\""
+			"\"Bingo right on the first one... don't you agree?\""
 		]
 	},
 	{
@@ -975,8 +973,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Kazamori, your assumptions",
-			"will hamper our investigation.\""
+			"\"Kazamori, your assumptions will only hamper our investigation.\""
 		]
 	},
 	{
@@ -999,12 +996,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I know, but she just snapped!",
-			"And refused to give an alibi.\""
+			"\"I know, but... look at how she snapped out of nowhere.",
+			"Furthermore, she refused to give her alibi.\""
 		]
 	},
 	{
@@ -1051,12 +1048,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sure she knows something.",
-			"You think so to don't you?\""
+			"\"Agh, there's no way she doesn't know something.",
+			"You think so too, don't you, Hojou?\""
 		]
 	},
 	{
@@ -1079,13 +1076,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"I agree with Kazamori.",
-			"I think ...... Haruka knows",
-			"something about this.\""
+			"...I think Haruka is aware of something important.\""
 		]
 	},
 	{
@@ -1104,12 +1100,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"With the her motive,",
-			"I don't think she's unrelated to the case.\""
+			"\"And with a motive at play,",
+			"I doubt that she is unconnected to the case.\""
 		]
 	},
 	{
@@ -1132,12 +1128,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"What do you think, old man?",
-			"If we do well, we might just get the credit.\""
+			"If we do well, we might just get some credit.\""
 		]
 	},
 	{
@@ -1165,8 +1161,8 @@
 	{
 		"STRINGS": [
 			"\"Oh, well. There's no point in being so hasty.",
-			"There are still people to interrogate.",
-			"We can decide after we hear from them all.\""
+			"There are still more people to interrogate.",
+			"We can decide after we hear from them all, alright?\""
 		]
 	},
 	{
@@ -1189,8 +1185,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Come on, the next person's been",
-			"waiting for you for a while now.\""
+			"\"Come now, our next guest has been waiting for a while.\""
 		]
 	},
 	{
@@ -1211,8 +1206,8 @@
 	},
 	{
 		"STRINGS": [
-			"Chief Kuroda hurried us along as if the lunch",
-			"hour at a nice restaurant was about to begin."
+			"Chief Kuroda hurried us along as if",
+			"the lunch hour at a nice restaurant was about to begin."
 		]
 	},
 	{
@@ -1259,11 +1254,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Who's next?\""
+			"\"Who's next again?\""
 		]
 	},
 	{
@@ -1290,7 +1285,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"He's a liquor store owner.\""
+			"\"The liquor store owner.\""
 		]
 	},
 	{
@@ -1337,11 +1332,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Tch, it's that guy...\""
+			"\"Tch, that guy, huh...?\""
 		]
 	},
 	{

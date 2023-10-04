@@ -69,13 +69,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"You're right, I was out of line.",
-			"But do you really think this is a situation that can",
-			"be handled now, depending on your mood?\""
+			"But do you really think that this situation will",
+			"turn out alright if you act as your fancy dictates?\""
 		]
 	},
 	{
@@ -98,7 +98,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -123,9 +123,9 @@
 	},
 	{
 		"STRINGS": [
-			"He doesn't want to look at me.",
-			"He remains silent, staring at a point on the wall.",
-			"He doesn't seem to be interested in what I have to say."
+			"He didn't look at me.",
+			"Remaining silent, he staring at a spot on the wall behind me.",
+			"It's as if he isn't interested in what I have to say."
 		]
 	},
 	{
@@ -144,12 +144,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"...... You know what, Soujiro Sekimoto,",
-			"listen to me carefully.\""
+			"\"...You know what, Mr. Soujirou Sekimoto, listen to me carefully.\""
 		]
 	},
 	{
@@ -188,14 +187,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo, calm down.",
+			"\"Hojou, calm down.",
 			"You're certainly making a good point.",
-			"But sometimes you have to make concessions",
-			"to get things done.\""
+			"But, sometimes you have to make concessions to get things moving.\""
 		]
 	},
 	{
@@ -224,9 +222,9 @@
 	},
 	{
 		"STRINGS": [
-			"Thanks to the interruption,",
+			"Thanks to his interjection,",
 			"I was able to keep my mouth shut for a moment.",
-			"The next words out of my mouth were-"
+			"Then, the next words that came out of my mouth were--"
 		]
 	},
 	{

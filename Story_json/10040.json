@@ -121,7 +121,7 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 1,
-		"SELECT_ITEM_INFO": "１：I'm going to speak my mind.",
+		"SELECT_ITEM_INFO": "１：Speak my mind.",
 		"UNK1": "00000000"
 	},
 	{
@@ -137,7 +137,7 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 2,
-		"SELECT_ITEM_INFO": "２：I'll try to make him angry.",
+		"SELECT_ITEM_INFO": "２：Try to annoy him.",
 		"UNK1": "00000000"
 	},
 	{
@@ -157,12 +157,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "0c000e00",
 		"SELECT_ITEM_ID": 3,
-		"SELECT_ITEM_INFO": "３：Observe.",
+		"SELECT_ITEM_INFO": "３：Observe him.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"Observe"
+			"Observe him."
 		]
 	},
 	{

@@ -141,11 +141,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ahhhhh!!!!!\""
+			"\"Enooooouuuugghhhh!!!!!\""
 		]
 	},
 	{
@@ -256,12 +256,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's enough!",
-			"You're two grown men, act like it!\""
+			"\"Cut it out!",
+			"You're two grown men, act like it!!\""
 		]
 	},
 	{
@@ -284,11 +284,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo...!\""
+			"\"Hojou...!\""
 		]
 	},
 	{
@@ -311,14 +311,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Hahahahahahahahaha...!",
-			"Come on, get your ass in the chair!",
-			"You can't be serious about",
-			"fighting in a police station!\""
+			"\"Huff, huff, huff...!",
+			"Now, get your ass in the chair!",
+			"Are you seriously quarreling in a police station!?!\""
 		]
 	},
 	{
@@ -369,12 +368,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Y-yeah!",
-			"You tell him!\""
+			"That's right! You tell him!\""
 		]
 	},
 	{
@@ -425,13 +424,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm talking to you as well Kazamori!!!",
-			"You're the one who can work the",
-			"night shift at the pigpen tonight!\""
+			"\"I'm talking to you as well, Kazamori!!!",
+			"You're the one who's going to work the night shift tonight!!\""
 		]
 	},
 	{
@@ -454,11 +452,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Sorry...\""
+			"\"I'm sorry...\""
 		]
 	},
 	{
@@ -481,13 +479,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Mr. Sunahori, you're the owner",
-			"of a traditional sake brewery!",
-			"Don't be so easily provoked by someone like him!\""
+			"\"Mr. Sunahori, you're the owner of a traditional sake brewery!",
+			"Don't be so easily provoked by someone like him!!\""
 		]
 	},
 	{
@@ -510,7 +507,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -537,12 +534,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Shake hands if you understand!",
-			"What are you waiting for?",
+			"\"if you understand, then shake hands!",
+			"What are you waiting for!?",
 			"Do it now!!\""
 		]
 	},
@@ -584,8 +581,8 @@
 	},
 	{
 		"STRINGS": [
-			"The two of them shook hands,",
-			"moving with my momentum."
+			"The two of them vigorously shook hands,",
+			"spurren on by my momentum."
 		]
 	},
 	{
@@ -604,11 +601,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"All right!\""
+			"\"--Good!!\""
 		]
 	},
 	{

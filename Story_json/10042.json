@@ -103,7 +103,7 @@
 	},
 	{
 		"STRINGS": [
-			"Try to annoy him."
+			"I'll try to annoy him."
 		]
 	},
 	{
@@ -122,12 +122,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"It's said the person you murdered was",
-			"a student in your class... Correct?\""
+			"\"...The person you killed was",
+			"a student in your own class, I've heard.\""
 		]
 	},
 	{
@@ -146,11 +146,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"How does it feel to know your careers been",
+			"\"How does it feel to know your career's been",
 			"wiped clean because of your criminal standing?\""
 		]
 	},
@@ -198,11 +198,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Woah, Hojo. Can't you say that",
+			"\"Woah, Hojo... Can't you say that",
 			"a little more delicately?\""
 		]
 	},
@@ -224,8 +224,8 @@
 	},
 	{
 		"STRINGS": [
-			"I was surprised how easy it was to come up",
-			"with such a burning question."
+			"I surprised even myself with how easily I came up",
+			"with this horribly inflammatory question."
 		]
 	},
 	{
@@ -244,13 +244,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You're trying to make me react angerly I see.",
-			"Unfortunately I have been through a lot of that already",
-			"having been arrested and questioned by the police.\""
+			"\"You are deliberately annoying me to see my response, yes?",
+			"Unfortunately, I have been through a lot of that already in the",
+			"interrogation room. I've seen enough to grow tired of it.\""
 		]
 	},
 	{
@@ -267,9 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"I see now.",
-			"It appears you can't catch him off",
-			"guard with words alone"
+			"...I see now.",
+			"It seems run-of-the-mill strategies won't work."
 		]
 	},
 	{

@@ -97,11 +97,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"..Hehe\""
+			"\"...Fufu\""
 		]
 	},
 	{
@@ -124,11 +124,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What's so funny?\""
+			"\"W-what's so funny?\""
 		]
 	},
 	{
@@ -151,12 +151,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I wasn't laughing at you.",
-			"I was laughing at my own stupidity.\""
+			"\"I wasn't mocking you.",
+			"I was laughing my own stupidity.\""
 		]
 	},
 	{
@@ -175,14 +175,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I just treated you as if you were my own student.",
-			"You're not my student or anything, you know.",
-			"It's just that I was that",
-			"enthusiastic about our conversation.\""
+			"\"I had just treated you as if you were my own student.",
+			"Despite the dact you aren't like them at all.",
+			"But, I became quite engrossed in our conversation nonetheless.\""
 		]
 	},
 	{
@@ -205,11 +204,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"...Do you think you're sorry for that, by any chance?\""
+			"\"...Are you trying to apologize for that, by any chance?\""
 		]
 	},
 	{
@@ -256,11 +255,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"What else could it be?\""
+			"\"What else could I be trying to do?\""
 		]
 	},
 	{
@@ -283,14 +282,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Do you even know what you're up against?",
-			"I don't know if you're a professor or what, but ",
-			"right now you're just a defendant",
-			"in a criminal trial.\""
+			"\"Do you even understand your position?",
+			"I don't care if you're a professor or whatnot, but,",
+			"right now, you're just a defendant in a criminal trial.\""
 		]
 	},
 	{
@@ -309,12 +307,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"And yet...",
-			"Why are you being so arrogant?\""
+			"Why are you being so self-important?\""
 		]
 	},
 	{
@@ -337,12 +335,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Arrogant...huh?",
-			"I don't think i've ever been like that.\""
+			"\"Self-important... huh.",
+			"I don't feel like that, though?\""
 		]
 	},
 	{
@@ -365,11 +363,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Oh... Come on...!\""
+			"\"Agh... This guy...!\""
 		]
 	},
 	{
@@ -386,9 +384,8 @@
 	},
 	{
 		"STRINGS": [
-			"I'm thoroughly disgusted by his",
-			"constant self-pacing attitude.",
-			"Will I have to deal with him forever?"
+			"I'm thoroughly sick of his incessant egotistic attitude.",
+			"I'm going to have to deal with him for how long...?"
 		]
 	},
 	{

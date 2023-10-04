@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"No, you have"
+			"\"No, that can still be"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" Value"
+			" useful"
 		]
 	},
 	{
@@ -96,9 +96,8 @@
 	{
 		"STRINGS": [
 			".",
-			"Honestly, if I could score some points here,",
-			"I'd be able to get out of this cesspool department.",
-			"Maybe we can find a way out of this.\""
+			"...Honestly, if I score some points here,",
+			"I may be able to get out of this cesspool of a department.\""
 		]
 	},
 	{
@@ -149,12 +148,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I like that.... The moment of honesty in that desire.",
-			"You know, maybe you and I could be a lot alike.\""
+			"\"I like it.... That moment of honesty with your desires.",
+			"You know, maybe you and I are cut from the same cloth.\""
 		]
 	},
 	{
@@ -177,7 +176,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -204,14 +203,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"They are scared of other people, use other people, and",
-			"are honest with other people in order to outsmart them,",
-			"That's what human beings are all about.",
-			"One day, when you are free, will you see me again?\""
+			"\"They fear others, make use of them, and are only honest",
+			"with other people in order to get an edge over them.",
+			"That's the kind of being human beings are.",
+			"One day, when I'm free, would you come meet me again?\""
 		]
 	},
 	{
@@ -228,7 +227,7 @@
 	},
 	{
 		"STRINGS": [
-			"What's with the approach?",
+			"Wh-what's with the approach?",
 			"Is he trying to hit on me?"
 		]
 	},
@@ -270,8 +269,8 @@
 	},
 	{
 		"STRINGS": [
-			"Since I have not had much experience",
-			"with men wooing me, I was surprised."
+			"Since I haven't had much experience",
+			"with men trying to woo me, I was taken aback."
 		]
 	},
 	{

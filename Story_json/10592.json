@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"No, but I kind of get it.\""
+			"\"Well, I think I get it.\""
 		]
 	},
 	{
@@ -100,11 +100,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What did you find out?\""
+			"\"Get what?\""
 		]
 	},
 	{
@@ -127,13 +127,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I'm not sure what your position",
-			"in the investigative is.",
-			"Apparently, you're really low on the totem pole.\""
+			"\"Your position in the investigative structure, duh.",
+			"Seems like you're really a grunt.\""
 		]
 	},
 	{
@@ -154,8 +153,9 @@
 	},
 	{
 		"STRINGS": [
-			"That is true, but when a stranger says it to my",
-			"face, it makes me sick to my stomach."
+			"That is true,",
+			"but when a complete stranger says that to my face,",
+			"it makes me sick to my stomach."
 		]
 	},
 	{
@@ -174,12 +174,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"If you understand, that's fine.",
-			"Please don't hang around me from now on.\""
+			"\"If you understand, that's wonderful.",
+			"Please don't follow me around from now on.\""
 		]
 	},
 	{
@@ -226,12 +226,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Yes, sir. Excuse me...",
-			"Is what you thought I would say right?\""
+			"\"Yes, ma'am. Please excuse me...",
+			"Is what you thought I would say?\""
 		]
 	},
 	{
@@ -254,7 +254,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -281,13 +281,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"Just five minutes.",
-			"Can you please let me interview the ",
-			"murderous professor in the case?\""
+			"Could you let me interview the Murder Professor, please?\""
 		]
 	},
 	{
@@ -310,11 +309,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Absolutely not! Out of the question!\""
+			"\"Absolutely not! That's out of the question!\""
 		]
 	},
 	{

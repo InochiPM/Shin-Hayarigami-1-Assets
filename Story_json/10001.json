@@ -123,9 +123,9 @@
 	},
 	{
 		"STRINGS": [
-			"都市伝説",
-			"それは、口承される噂話のうち、現代発祥のもので、",
-			"根拠が曖昧・不明であるもの——"
+			"Urban Legends:",
+			"Rumors spread by word of mouth that originated in modern times,",
+			"yet whose origins are vague and unclear--"
 		]
 	},
 	{
@@ -248,7 +248,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はぁ……はぁ……はぁ……\""
+			"\"Haa... Haa... Haa...\""
 		]
 	},
 	{
@@ -371,7 +371,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ひっ！\""
+			"\"Hih!\""
 		]
 	},
 	{
@@ -414,7 +414,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お、お願い……ゆ、ゆ、ゆ……！\""
+			"\"P-please... Fo-fo-for...!\""
 		]
 	},
 	{
@@ -445,7 +445,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ゆ……る……し…………て…………！\""
+			"\"For...gi...ve......me......!\""
 		]
 	},
 	{
@@ -502,10 +502,9 @@
 	},
 	{
 		"STRINGS": [
-			"２０世紀後半",
-			"フランスの民俗学者エドガール・モランが初めて提唱し、",
-			"その後、ジャン・ハロルド・ブルンヴァンによって",
-			"一般的に知られるようになった。"
+			"In the latter half of the 20th Century,",
+			"It was first proposed by French folklorist Edgar Morin",
+			"and later popularized by Jan Harold Brunvand."
 		]
 	},
 	{
@@ -588,7 +587,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"許してくださいィィッ！\""
+			"\"Please forgive meeee!\""
 		]
 	},
 	{
@@ -615,7 +614,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お願いだから……い、い、命だけは……！\""
+			"\"So please... J-ju-just let me live...!\""
 		]
 	},
 	{
@@ -668,9 +667,9 @@
 	},
 	{
 		"STRINGS": [
-			"その内容は、現代都市で生活する人々の",
-			"僅かな心の隙間に忍び込み、",
-			"奇妙なリアリティを感じさせるものが多い。"
+			"The content of these works often creeps into the slight",
+			"crevices of the minds of people living in modern cities,",
+			"giving them a strange sense of reality."
 		]
 	},
 	{
@@ -841,7 +840,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ひいいぃッ！！！\""
+			"\"Hyiiiih!!!\""
 		]
 	},
 	{
@@ -914,10 +913,10 @@
 	},
 	{
 		"STRINGS": [
-			"そして同時に恐怖を感じさせる。",
-			"しかし我々は忌避すべき恐怖こそが、",
-			"魅力的に思えてしまう。",
-			"––それこそが都市伝説の本質のひとつだ。"
+			"And at the same time, dread.",
+			"However, it is this very fear we ought to avoid",
+			"that makes them so fascinating.",
+			"--That is the essence of the urban legend."
 		]
 	},
 	{
@@ -996,7 +995,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"はぁ……はぁ……あああああああ……！\""
+			"\"Haa... Haa... Aaaaaah!\""
 		]
 	},
 	{
@@ -1049,8 +1048,8 @@
 	},
 	{
 		"STRINGS": [
-			"非科学的で荒唐無稽な噂話であるはずなのに、",
-			"どうして人間はその蠱惑な魅力を感じてしまうのか……。"
+			"Although it is supposed to be unscientific and absurd gossip,",
+			"why is it that humans find it so bewitchingly alluring...?"
 		]
 	},
 	{
@@ -1181,7 +1180,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"やだ……やだやだやだやだ\""
+			"\"No... NONONONONONO\""
 		]
 	},
 	{
@@ -1254,7 +1253,7 @@
 	},
 	{
 		"STRINGS": [
-			"人の心というものは、いまだ未解明の部分が多い。"
+			"Many aspects of the human mind yet remain unexplainable."
 		]
 	},
 	{
@@ -1321,7 +1320,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"お願いです、た、た、たたたたたたたた––\""
+			"\"Please, s-s-s-sa-sa-sa-sa--\""
 		]
 	},
 	{
@@ -1374,8 +1373,8 @@
 	},
 	{
 		"STRINGS": [
-			"それは時として、",
-			"恐怖、狂気といった『闇の部分』と直結している——"
+			"And at times, they are directly connected",
+			"to the 'dark side', that which is called fear, madness--"
 		]
 	},
 	{
@@ -1442,7 +1441,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"たすけて……くださ……い……！\""
+			"\"Please...save...me...!\""
 		]
 	},
 	{
@@ -1593,7 +1592,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"ダマレ　ウゴクナ\""
+			"\"BE QUIET, DON'T MOVE\""
 		]
 	},
 	{
@@ -1648,7 +1647,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……！\""
+			"\"......!\""
 		]
 	},
 	{
@@ -1701,8 +1700,8 @@
 	},
 	{
 		"STRINGS": [
-			"そして、またひとつ。",
-			"恐怖に彩られた蠱惑的な都市伝説が生まれようとしていた。"
+			"And, one last thing.",
+			"A bewitching urban legend steeped in fear was about to be born."
 		]
 	},
 	{
@@ -1769,7 +1768,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"シズカ　ニ　シナイト––\""
+			"\"YOU MUST STAY SILENT--\""
 		]
 	},
 	{
@@ -1796,7 +1795,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"チャント　モラエナインダヨ\""
+			"\"SO I CAN TAKE THEM PROPERLY\""
 		]
 	},
 	{
@@ -1883,7 +1882,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"……え？\""
+			"\"...Eh?\""
 		]
 	},
 	{
@@ -1964,7 +1963,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"オマエ　ノ　メ　ヲ　ヨコセ\""
+			"\"GIVE ME YOUR EYES\""
 		]
 	},
 	{

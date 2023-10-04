@@ -105,7 +105,7 @@
 	},
 	{
 		"STRINGS": [
-			"[Plea Bargain]"
+			"\"Plea bargaining, huh?\""
 		]
 	},
 	{
@@ -154,7 +154,7 @@
 	},
 	{
 		"STRINGS": [
-			"Tutorial: F.O.A.F Database"
+			"Tutorial: F.O.A.F. Database"
 		]
 	},
 	{
@@ -188,7 +188,7 @@
 	},
 	{
 		"STRINGS": [
-			"For Example."
+			"For example:"
 		]
 	},
 	{
@@ -215,7 +215,7 @@
 	},
 	{
 		"STRINGS": [
-			"[Plea"
+			"\"Plea bargaining, huh?"
 		]
 	},
 	{
@@ -224,7 +224,7 @@
 	},
 	{
 		"STRINGS": [
-			" Bargain]"
+			"\""
 		]
 	},
 	{
@@ -245,7 +245,7 @@
 	},
 	{
 		"STRINGS": [
-			"will be registered in the database like this."
+			"They will be registered in the database like this."
 		]
 	},
 	{
@@ -270,7 +270,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can refer to it at any time by pressing the"
+			"You can refer to them at any time by pressing the"
 		]
 	},
 	{
@@ -363,7 +363,7 @@
 	},
 	{
 		"STRINGS": [
-			"Some terms may require you to play a different route."
+			"Some terms may require specific paths to register them."
 		]
 	},
 	{

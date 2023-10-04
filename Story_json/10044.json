@@ -113,12 +113,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 1,
-		"SELECT_ITEM_INFO": "１：I'm going to speak my mind.",
+		"SELECT_ITEM_INFO": "１：Speak my mind.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"Speak my mind."
+			"I'm going to speak my mind."
 		]
 	},
 	{
@@ -129,12 +129,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 2,
-		"SELECT_ITEM_INFO": "２：I'll try to make him angry.",
+		"SELECT_ITEM_INFO": "２：Try to annoy him.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"Try to annoy him."
+			"I'll try to annoy him."
 		]
 	},
 	{
@@ -196,7 +196,7 @@
 	},
 	{
 		"STRINGS": [
-			"The gauge displayed in the upper right part"
+			"The gauge displayed in the upper right corner"
 		]
 	},
 	{
@@ -255,7 +255,7 @@
 	},
 	{
 		"STRINGS": [
-			"Options are marked and require"
+			"options are marked and require"
 		]
 	},
 	{
@@ -314,7 +314,7 @@
 	},
 	{
 		"STRINGS": [
-			"you'll not be able to select any of the options"
+			"you won't be able to select any of the options"
 		]
 	},
 	{
@@ -373,7 +373,7 @@
 	},
 	{
 		"STRINGS": [
-			"clear judgment, gather information."
+			"clear judgment to gather information."
 		]
 	},
 	{

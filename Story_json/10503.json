@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You want us to keep you informed about future",
-			"cases is what your trying to say, correct?",
-			"It seems your not"
+			"\"You want us to keep you informed about future cases.",
+			"That's what you're trying to say, correct?",
+			"But it seems that "
 		]
 	},
 	{
@@ -88,7 +88,7 @@
 	},
 	{
 		"STRINGS": [
-			" giving us anything "
+			"there's nothing in it for me"
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"in return,\""
+			".\""
 		]
 	},
 	{
@@ -148,7 +148,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -178,13 +178,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You see, there is nothing but disadvantages",
-			"for an individual to be a comedian in a",
-			"police organization.\""
+			"\"You see, an individual who shows off in",
+			"the police force is nothing but a demerit.\""
 		]
 	},
 	{
@@ -231,13 +230,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"It would be a shame not to assert",
-			"your individuality in that way.",
-			"You are so pretty that way.\""
+			"\"It would be a waste for you not to assert",
+			"your individuality in some way.",
+			"You're just that pretty, you know?\""
 		]
 	},
 	{
@@ -254,8 +253,8 @@
 	},
 	{
 		"STRINGS": [
-			"He's a...smirking, giggling sycophant.",
-			"I can't fend off his relentless devotion."
+			"...As he grinned, he talked a lot of smarmy nonsense.",
+			"I can't fend off his relentless hounding."
 		]
 	},
 	{
@@ -272,8 +271,8 @@
 	},
 	{
 		"STRINGS": [
-			"As one would expect from a reporter, he is quite tough.",
-			"We must find a way to get rid of him easily!"
+			"As one would expect from a reporter, he's quite tough.",
+			"I have to find a way to deal with him skillfully...!"
 		]
 	},
 	{

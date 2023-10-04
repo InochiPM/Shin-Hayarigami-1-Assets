@@ -97,12 +97,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh no, don't go quiet on me now~",
-			"It was just a joke okay?",
+			"\"Oh no~, don't go quiet on me now~",
+			"It was just a joke, okay?",
 			"Let's be friends, okay?",
 			"I promise I won't cause you any issues.\""
 		]
@@ -121,8 +121,7 @@
 	},
 	{
 		"STRINGS": [
-			"No, he must definitely be making",
-			"calculations that benefit only himself."
+			"No, he's definitely making plans that benefit only himself."
 		]
 	},
 	{
@@ -139,8 +138,8 @@
 	},
 	{
 		"STRINGS": [
-			"His words have a backstory.",
-			"You have to challenge him with that in mind."
+			"There's more to his words than meets the eye.",
+			"I have to challenge him with that in mind."
 		]
 	},
 	{

@@ -67,10 +67,10 @@
 	},
 	{
 		"STRINGS": [
-			"We have to control him somehow.",
-			"Otherwise, he will put us in an even more ",
-			"difficult situation than we are in now.",
-			"That's why I--"
+			"I have to rein him in somehow.",
+			"Otherwise, he'll put us in an even",
+			"more difficult situation than we are in now.",
+			"As such, I--"
 		]
 	},
 	{
@@ -93,7 +93,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Excuse me...but that needs to be calmed down a bit.\""
+			"\"Ahem... please calm down a bit.\""
 		]
 	},
 	{
@@ -148,8 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I'm keeping my composure, you know.",
-			"Aren't you?\""
+			"\"But I am calm.",
+			"What about you, though?\""
 		]
 	},
 	{

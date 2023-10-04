@@ -114,11 +114,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"After what I said at the trial...\""
+			"\"After my statement at the trial--\""
 		]
 	},
 	{
@@ -137,13 +137,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"The Warden came to the Tokyo Detention Center,",
-			"to see if I meant what I said.",
-			"And he made me this offer\""
+			"\"The warden came to the Tokyo Detention Center",
+			"to confirm the true intentions behind my remark.",
+			"That is when he made me this offer.\""
 		]
 	},
 	{
@@ -162,13 +162,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\" «If you promise to cooperate and give",
-			"me the info I want your sentence will be lessened» ",
-			"Is what he said.\""
+			"\" \"If you promise to cooperate, I'll lessen your sentence.",
+			"Now hand over the information you know.\" ",
+			"So he said.\""
 		]
 	},
 	{

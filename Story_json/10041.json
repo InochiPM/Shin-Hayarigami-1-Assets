@@ -111,7 +111,7 @@
 	},
 	{
 		"STRINGS": [
-			"Speak my mind."
+			"I'm going to speak my mind."
 		]
 	},
 	{
@@ -130,11 +130,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Um, why are you...\""
+			"\"Ahem, why are you--\""
 		]
 	},
 	{
@@ -157,13 +157,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It would appear that i have a relative of some",
-			"official working the prosecutes office",
-			"I thought you guy's should know.\""
+			"\"It would appear that one of the people related to this case",
+			"has a Public Prosecutor's Office high official as",
+			"a distant relative. You guys probably didn't know that, though.\""
 		]
 	},
 	{
@@ -182,12 +182,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I guess you're grasping at straws.",
-			"I'm trying to solve the case.\""
+			"\"I guess they're taking desperate measures",
+			"in attempt to solve the case.\""
 		]
 	},
 	{
@@ -205,7 +205,7 @@
 	{
 		"STRINGS": [
 			"That shocked me.",
-			"Was he reading my mind?"
+			"Did he read my mind?"
 		]
 	},
 	{

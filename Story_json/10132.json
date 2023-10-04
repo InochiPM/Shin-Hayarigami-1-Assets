@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"I'm telling you, that's enough.",
-			"I'm really "
+			"I'm quite "
 		]
 	},
 	{
@@ -147,12 +147,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Ignorance is scary.",
-			"You refuse to swallow even the many suggestive words.\""
+			"\"How terrifying ignorance is.",
+			"You refuse to understand even my most helpful remarks.\""
 		]
 	},
 	{
@@ -193,10 +193,9 @@
 	},
 	{
 		"STRINGS": [
-			"I've...lost it, he's taken me aback.",
-			"I tried to get more testimony from him by",
-			"showing a retracted reaction, but it seems",
-			"to have the opposite effect."
+			"...Damnit, he's dumbfounded.",
+			"I tried to get more evidence from him with a withdrawn response,",
+			"but it seems to have had the opposite effect."
 		]
 	},
 	{

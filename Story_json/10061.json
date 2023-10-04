@@ -108,8 +108,7 @@
 	{
 		"STRINGS": [
 			"After a two and a half hour drive, we arrived at",
-			"our destination. The Town C Police Station",
-			"in S Prefecture."
+			"our destination, the C Town, S Prefecture Substation."
 		]
 	},
 	{
@@ -326,8 +325,8 @@
 	},
 	{
 		"STRINGS": [
-			"They whisked Sekimoto away to the",
-			"underground detention center swiftly"
+			"Following our arrival, we quickly hauled",
+			"Sekimoto away to the underground detention cells."
 		]
 	},
 	{
@@ -518,12 +517,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Here, we've arrived at your suite",
-			"I've prepared for you. Do you like it?\""
+			"\"Here it is, this is the suite we've prepared for you.",
+			"Do you like it?\""
 		]
 	},
 	{
@@ -550,11 +549,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Thanks for that.\""
+			"\"I appreciate it.\""
 		]
 	},
 	{
@@ -629,11 +628,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo, please give us a basic description of this place.\""
+			"\"Hojou, please give him a basic explanation of this place.\""
 		]
 	},
 	{
@@ -684,13 +683,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Yes sir. Normally, you'll live here by yourself.",
-			"You'll be handcuffed at all times",
-			"except when in your cell.\""
+			"\"Yes, sir. This is the place where you'll be living from now on.",
+			"You'll be handcuffed at all times, except when in your cell.\""
 		]
 	},
 	{
@@ -709,13 +707,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"This is a special measure in a special case.",
 			"Only a limited number of people know about this.",
-			"But that doesn't mean you have the prerogative.\""
+			"But, that doesn't mean you have any prerogative.\""
 		]
 	},
 	{
@@ -734,14 +732,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Nominally, you are supposed to be undergoing a",
+			"\"On paper, you are supposed to be undergoing a",
 			"psychiatric evaluation at a hospital in Tokyo",
 			"in response to your statements in court. Therefore,",
-			"a formal interview with a psychiatrist will be needed.\""
+			"a formal interview with a psychiatrist has been arranged.\""
 		]
 	},
 	{
@@ -760,14 +758,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Also, if we decide that there is no point in",
-			"continuing this measure even within the",
-			"scheduled period, we will ask you to",
-			"return to Tokyo immediately.\""
+			"continuing this action even within the alloted period,",
+			"we will ask you to return to Tokyo immediately.\""
 		]
 	},
 	{
@@ -838,7 +835,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -974,12 +971,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"Nice place. It smells faintly sweet.",
-			"Citrusy or......Or maybe......\""
+			"It's citrusy? ...Or maybe...\""
 		]
 	},
 	{
@@ -1006,12 +1003,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"We've been told by the First Department to",
-			"extract specific information from you.",
+			"\"We've been told by the FirstInvestigative Department",
+			"to extract concrete information from you.",
 			"We don't have time for chit-chat.\""
 		]
 	},
@@ -1047,12 +1044,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"No, thank you. Time is not going to wait.",
-			"If we don't hurry, we'll have another corpse.\""
+			"\"Splendid. Time is not one to wait, after all.",
+			"If we don't hurry, the next corpse will emerge.\""
 		]
 	},
 	{
@@ -1069,7 +1066,7 @@
 	},
 	{
 		"STRINGS": [
-			"The next victim?",
+			"The next corpse?",
 			"I latched onto those words."
 		]
 	},

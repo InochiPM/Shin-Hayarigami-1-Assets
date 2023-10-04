@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"A personal story? I'd love to hear it.",
+			"\"A personal story... huh? I'd love to hear it.",
 			"I would like to"
 		]
 	},
@@ -83,7 +83,7 @@
 	},
 	{
 		"STRINGS": [
-			" understand "
+			" understand you"
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			"you more.\""
+			" more.\""
 		]
 	},
 	{
@@ -115,12 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"There had never been anyone like that,",
-			"not a detective, not a prosecutor.",
+			"\"...There wasn't anyone like you among",
+			"the detectives or the prosecutors.",
 			"Since the incident, I've had nothing but",
 			"suspicion and accusations directed at me.\""
 		]
@@ -145,11 +145,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's unfortunate. I can honestly say that.",
+			"\"That's unfortunate. I genuinely think that.",
 			"I can be your ally if you want.\""
 		]
 	},
@@ -173,7 +173,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -213,8 +213,7 @@
 	{
 		"STRINGS": [
 			"...Not a bad response.",
-			"I would be grateful if he would",
-			"continue to keep an open mind."
+			"I would appreciate it if he kept his heart open wide..."
 		]
 	},
 	{

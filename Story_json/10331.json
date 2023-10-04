@@ -81,11 +81,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I see. Suicide... That's a complicated situation.\""
+			"\"I see. Suicide, hm... That's a complicated situation.\""
 		]
 	},
 	{
@@ -114,8 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			"As he said this, Chief Kuroda",
-			"started writing on the whiteboard."
+			"As he said this, Chief Kuroda started writing on the whiteboard."
 		]
 	},
 	{
@@ -136,9 +135,9 @@
 	},
 	{
 		"STRINGS": [
-			"Mr.Tamura, the victim.",
-			"And the three people we interviewed",
-			"this time, Haruka, Sunahori, and Sanae."
+			"Mr. Tamura, the victim.",
+			"And the three people we interviewed today,",
+			"Haruka, Sunahori, and Sanae."
 		]
 	},
 	{
@@ -161,7 +160,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
@@ -188,12 +187,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"First of all, it's clear that the victim,",
-			"Mr. Tamura, is not a person to be admired.\""
+			"Mr. Tamura, is not a person to be admired at all.\""
 		]
 	},
 	{
@@ -252,12 +251,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Every human being has their own amount of trouble.",
-			"Doesn't look like he has a good personality either.\""
+			"\"He seems to have caused trouble for just about everyone.",
+			"Doesn't look like he had a good personality either.\""
 		]
 	},
 	{
@@ -280,12 +279,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Of all of them, Mr. Sunahori",
-			"may have the strongest motivation.\""
+			"\"Of all of them, Mr. Sunahori could be",
+			"said to have the strongest motivation.\""
 		]
 	},
 	{
@@ -336,12 +335,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"However, Haruka is also a prime suspect.",
-			"It would be a shame to have a young girl's skin damaged.\""
+			"\"However, Haruka-chan is also a prime suspect.",
+			"Leaving a mark on a young girl's skin is inexcusable.\""
 		]
 	},
 	{
@@ -396,13 +395,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"As for Sanae, I can't say for sure.",
 			"There is no direct motive.",
-			"Above all, she can't profit from the victim's death.\""
+			"Above all, she didn't gain anything from the victim's death.\""
 		]
 	},
 	{
@@ -421,12 +420,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I wish I could have talked",
-			"to the man before he committed suicide...\""
+			"\"If possible, I wish we could have talked to",
+			"the chief director before he committed suicide...\""
 		]
 	},
 	{
@@ -443,10 +442,10 @@
 	},
 	{
 		"STRINGS": [
-			"Kuroda mumbled to himself.",
-			"He put his pen to the whiteboard.",
-			"He was having a hard time figuring",
-			"out how to put this together."
+			"Chief Kuroda groaned to himself as",
+			"he put the pen's tip to the whiteboard.",
+			"He was having a hard time figuring out",
+			"how he should put this together."
 		]
 	},
 	{
@@ -465,12 +464,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"No, my hardened brain can't handle it.",
-			"What would you do Hojo?\""
+			"\"It's no good, my hardened brain can't handle it.",
+			"How would you do it, Hojou?\""
 		]
 	},
 	{
@@ -493,11 +492,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Huh? Me?\""
+			"\"Eh, me?\""
 		]
 	},
 	{
@@ -544,7 +543,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
@@ -592,12 +591,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"And if you do, maybe you'll see something new.",
-			"Now lets try it!\""
+			"Now, try it please.\""
 		]
 	},
 	{
@@ -626,7 +625,7 @@
 	},
 	{
 		"STRINGS": [
-			"Having been handed a dry erase marker,",
+			"Having been handed a water-based ink marker from Chief Kuroda,",
 			"I stood in front of the whiteboard and crossed my arms."
 		]
 	},
@@ -644,8 +643,8 @@
 	},
 	{
 		"STRINGS": [
-			"What exudes from the relationship between the victim,",
-			"Mr. Tamura, and the people around him..."
+			"What reveals itself from the relationship between the victim,",
+			"Mr. Tamura, and the people around him...?"
 		]
 	},
 	{
@@ -662,9 +661,9 @@
 	},
 	{
 		"STRINGS": [
-			"I began to write while I thought.",
+			"I began to write with a thought in mind.",
 			"It was a much more simplified version of",
-			"the diagram I had in my head.",
+			"the diagram I drew in my head.",
 			"There was just too little space to write it all down."
 		]
 	},
@@ -698,7 +697,7 @@
 	},
 	{
 		"STRINGS": [
-			"That' s how I pictured the whole thing in my head."
+			"The full picture that formed in my mind was---"
 		]
 	},
 	{

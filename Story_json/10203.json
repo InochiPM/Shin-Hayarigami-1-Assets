@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"OK, stop there.",
-			"Let's not waste any more of each other's time, okay?\""
+			"Let's not waste any more of each other's time, alright?\""
 		]
 	},
 	{
@@ -101,11 +101,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What the hell does that mean?\""
+			"\"What do you mean?\""
 		]
 	},
 	{
@@ -152,7 +152,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -180,11 +180,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Wait, what does that mean?!\""
+			"\"Wait, wait. What does that mean!?\""
 		]
 	},
 	{
@@ -207,13 +207,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"I must admit, I think I overestimated you.",
-			"I'm going to have to pretend that my",
-			"cooperation with you guys never happened.\""
+			"It makes me want to pretend my cooperation with",
+			"you guys never happened.\""
 		]
 	},
 	{
@@ -236,11 +236,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"What? What do you mean?! Hey!\""
+			"\"Wha!? What do you mean?! Hey!\""
 		]
 	},
 	{
@@ -263,13 +263,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Oh well. You don't have to make such a",
-			"big deal out of it. Miss Hojo is not mature enough.",
-			"Try to calm down a little, okay?\""
+			"\"Oh, well. You don't have to make such a big deal out of it.",
+			"Hojou is being childish, too.",
+			"Try to calm down a little, you two, okay?\""
 		]
 	},
 	{
@@ -286,8 +286,8 @@
 	},
 	{
 		"STRINGS": [
-			"Section Chief Kuroda intervened and tried",
-			"to correct this complicated atmosphere."
+			"Chief Kuroda intervened and tried to",
+			"correct this complicated atmosphere."
 		]
 	},
 	{
@@ -304,7 +304,7 @@
 	},
 	{
 		"STRINGS": [
-			"It was probably not very mature of me.",
+			"Certainly, it may haven't very mature of me to say that.",
 			"I took a deep breath and calmed myself."
 		]
 	},

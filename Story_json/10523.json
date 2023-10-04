@@ -77,12 +77,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I see, I get it now.",
-			"This could lead to"
+			"\"I see, I get it now...",
+			"However, that also means you are participating in",
+			""
 		]
 	},
 	{
@@ -91,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			" Obstruction "
+			"obstruction of justice"
 		]
 	},
 	{
@@ -100,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"of our investigation.\""
+			".\""
 		]
 	},
 	{
@@ -147,13 +148,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Huh?! Give me a break, please!",
-			"Are you trying to violate the",
-			"public's right to information?\""
+			"\"Wha?! Cut me some slack, please.",
+			"Are you trying to violate the public's right to know?\""
 		]
 	},
 	{
@@ -176,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"It's not fair to bring up the Constitution here.\""
+			"\"How cunning of you to bring up the constitution now.\""
 		]
 	},
 	{
@@ -227,12 +227,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"Hahaha! What are you babbling about?",
-			"The \"Right To Know\" isn't in the constitution.\""
+			"The \"right To know\" isn't in the constitution, you know?\""
 		]
 	},
 	{
@@ -249,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"Wait...what? You're lying. did I really say that?",
-			"I am becoming less and less confident in my knowledge."
+			"...Wait, what? You're lying. Is that true?",
+			"I am becoming less and less confident in my own knowledge."
 		]
 	},
 	{
@@ -267,8 +267,8 @@
 	},
 	{
 		"STRINGS": [
-			"He looks pleased with my blunder.",
-			"I'm afraid that I'll be swept away by his annoyances."
+			"He looks evidently pleased with my blunder.",
+			"This is bad. At this rate, I'll be caught up in his pace."
 		]
 	},
 	{

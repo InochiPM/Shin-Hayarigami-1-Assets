@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I have a lot of confidence in alcohol.",
-			"It might be a bad idea if it comes from the racoon.",
-			"Youll make great "
+			"\"I'll have you know I'm confident in my ability to handle alcohol.",
+			"You might find yourself beaten at your own game of sly cunning.",
+			"You'll certainly "
 		]
 	},
 	{
@@ -88,7 +88,7 @@
 	},
 	{
 		"STRINGS": [
-			"Racoon Soup"
+			"make for some great tanuki soup"
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"STRINGS": [
-			"you know.\""
+			", you know.\""
 		]
 	},
 	{
@@ -148,13 +148,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Eheheheh...",
-			"That's some talent in the measly department!",
-			"I've never been so insulted in my life!!\""
+			"\"Pfh... Kukuku...",
+			"They've got some talent in that department full of misfits!",
+			"I've never been so insulted in my life...!!\""
 		]
 	},
 	{
@@ -177,11 +177,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Is that what that sounds like?\""
+			"\"Is that what it sounded like?\""
 		]
 	},
 	{
@@ -228,7 +228,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -249,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"He was indignant that I had insulted",
-			"him, but he looked at me with glee."
+			"He spoke words of indignation as if I had insulted him,",
+			"but he looked at me with glee."
 		]
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"STRINGS": [
-			"I hope this conveys the intent of my rejection..."
+			"I hope this conveys my intention to reject his offer..."
 		]
 	},
 	{

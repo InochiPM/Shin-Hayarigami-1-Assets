@@ -97,12 +97,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh, you must have thought I'm being annoying?",
-			"In "
+			"\"Oh, you must think I'm being annoying?",
+			"I've gotten used to being hated by the subjects of",
+			"my interviews, such is"
 		]
 	},
 	{
@@ -113,8 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			" I could care less if you like me.",
-			"I'm used to it at this point, I like the bite.\""
+			". But I like the bite, you know~?\""
 		]
 	},
 	{
@@ -132,7 +132,7 @@
 	{
 		"STRINGS": [
 			"He stares at me seriously,",
-			"as if he were licking his lips."
+			"as if he were salivating at the thought."
 		]
 	},
 	{
@@ -149,7 +149,7 @@
 	},
 	{
 		"STRINGS": [
-			"Silence may not be very effective with him.",
+			"Silence probably isn't very effective against him.",
 			"It would be better to talk about something."
 		]
 	},

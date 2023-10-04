@@ -95,9 +95,9 @@
 	},
 	{
 		"STRINGS": [
-			"I held my tongue and kept quiet.",
+			"I suddenly covered my mouth.",
 			"The person on the monitor was making me",
-			"feel creeped out."
+			"feel ca strange, visceral disgust."
 		]
 	},
 	{
@@ -114,9 +114,9 @@
 	}, 
 	{
 		"STRINGS": [
-			"The uneasiness made my stomach turn, ",
-			"making my lunch almost come back up.",
-			"I tried to cover my mouth to prevent it escaping."
+			"This revulsion made my stomach turn, ",
+			"making my lunch come back up my throat.",
+			"I could only press my mouth shut to prevent it escaping."
 		]
 	},
 	{
@@ -159,12 +159,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Hojo! What the hell are you doing?",
-			"We're going to the field. Come on!\""
+			"\"Hey, Hojou! What are you dilly-dallying for!?!",
+			"We're going to the field, stat!\""
 		]
 	},
 	{
@@ -301,10 +301,8 @@
 	},
 	{
 		"STRINGS": [
-			"I was pushed into the vehicle with Kazamori",
-			"holding me by the scruff of my neck.",
-			"It makes me feel even worse in the car,",
-			"which is shaking after a sudden start."
+			"Kazamori dragged me by the nape and pushed me into a car.",
+			"The car shaking from a sudden start made me feel even worse."
 		]
 	},
 	{
@@ -341,9 +339,8 @@
 	},
 	{
 		"STRINGS": [
-			"The on-board radio provided a constant stream",
-			"of real-time information from the",
-			"station's monitoring staff."
+			"The on-board radio provided a constant stream of",
+			"real-time information from the station's monitoring staff."
 		]
 	},
 	{

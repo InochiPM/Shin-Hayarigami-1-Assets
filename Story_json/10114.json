@@ -69,13 +69,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"What's the matter? You surrender when",
-			"someone hit you where it hurts?",
-			"I enjoy debating with you......\""
+			"\"What's the matter?",
+			"You surrender when someone hits you where it hurts?",
+			"But I enjoyed debating with you...\""
 		]
 	},
 	{
@@ -92,9 +92,9 @@
 	},
 	{
 		"STRINGS": [
-			"I was never at a loss for his words.",
-			"I was, in fact, disappointed by his response.",
-			"But I have to be sure of his intentions."
+			"I was not at a loss for words at all.",
+			"I was, in fact, disappointed by his response,",
+			"but I had to be sure of his intentions."
 		]
 	},
 	{
@@ -111,8 +111,8 @@
 	},
 	{
 		"STRINGS": [
-			"......I guess I'd better get back",
-			"some words next time, whatever they are."
+			"...I guess I'd better get back some words next time,",
+			"whatever they may be."
 		]
 	},
 	{

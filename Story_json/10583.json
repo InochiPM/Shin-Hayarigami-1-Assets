@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Don't underestimate me.",
-			"Be it snake or racoon I'm "
+			"If you play the snake or tanuki, then "
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"STRINGS": [
-			" the fox "
+			"I'll be the fox"
 		]
 	},
 	{
@@ -147,13 +147,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Hehehehe...",
+			"\"Fh... fufufufu...",
 			"Oh, scary, scary.",
-			"Apparently I'm being tested on my resolve as well.\""
+			"Looks like my resolve is being tested as well.\""
 		]
 	},
 	{
@@ -176,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Would you like a taste of that fox's scheming?\""
+			"\"Would you like to taste some of a fox's scheming?\""
 		]
 	},
 	{
@@ -227,12 +227,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"I can see how confident you are",
-			"in your ability to outsmart me...hehe\""
+			"in your ability to outsmart me... kuku.\""
 		]
 	},
 	{
@@ -249,8 +249,8 @@
 	},
 	{
 		"STRINGS": [
-			"All I can do is mumble words and fend",
-			"off his strong advance."
+			"All I can do is play evasively",
+			"and fend off his strong advance."
 		]
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"STRINGS": [
-			"Hopefully they will just give up on this."
+			"Hopefully he'll just give up at this rate, but..."
 		]
 	},
 	{

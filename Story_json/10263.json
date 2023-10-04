@@ -81,12 +81,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"If I had to go through that...",
-			"I would want "
+			"\"If the same thing happened to me--",
+			"I'd probably seek "
 		]
 	},
 	{
@@ -152,12 +152,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Hojo!",
-			"Don't talk like that, you are a detective!\""
+			"\"Oy, Hojou...!",
+			"A detective shouldn't think about that, not even for a moment!\""
 		]
 	},
 	{
@@ -180,12 +180,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sorry. I'm aware that I'm overstepping my bounds.",
-			"But personally, I have to agree.\""
+			"\"Sorry... I'm aware that I spoke too much.",
+			"But personally, I can't not think that.\""
 		]
 	},
 	{
@@ -236,11 +236,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"Thank you for understanding...\""
+			"\"...Thank you for understanding.\""
 		]
 	},
 	{
@@ -263,12 +263,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's why I'd like to ask",
-			"you a few more questions.\""
+			"\"It's for that very reason that",
+			"I'd like to ask you a few more questions.\""
 		]
 	},
 	{
@@ -315,11 +315,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 11,
-		"NAME": "Minase Haruka"
+		"NAME": "Haruka Minase"
 	},
 	{
 		"STRINGS": [
-			"\"...eh?\""
+			"\"...Eh?\""
 		]
 	},
 	{
@@ -348,7 +348,8 @@
 	},
 	{
 		"STRINGS": [
-			"I realized that Haruka had been hiding her feelings."
+			"I realized that I came into contact with",
+			"an aspect of the feelings hidden within Haruka Minase."
 		]
 	},
 	{
@@ -365,8 +366,7 @@
 	},
 	{
 		"STRINGS": [
-			"That is, she has a motive",
-			"worthy of killing Tamura."
+			"That being a sufficient motive to want to kill Mr. Tamura..."
 		]
 	},
 	{

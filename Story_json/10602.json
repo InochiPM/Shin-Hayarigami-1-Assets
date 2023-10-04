@@ -71,7 +71,7 @@
 	},
 	{
 		"STRINGS": [
-			"When we arrived, many of the station's",
+			"When we arrived, most of the station's",
 			"employees had already gathered.",
 			"All of them were staring at something on the wall."
 		]
@@ -90,9 +90,9 @@
 	},
 	{
 		"STRINGS": [
-			"It is a myriad of televisions.",
-			"If this were not a police station, it would",
-			"remind one of a TV station's programming room."
+			"That being a myriad of televisions.",
+			"If this wasn't a police station, it would",
+			"remind one of a TV station's scheduling room."
 		]
 	},
 	{
@@ -109,9 +109,9 @@
 	},
 	{
 		"STRINGS": [
-			"They called it \"Useless\" in this Town.",
-			"It was mostly maintained by a huge grant",
-			"given to us by the government of Town C."
+			"It's been purported to be \"useless\" in this town.",
+			"Still, it's maintained by a huge grant",
+			"given to C Town by the government."
 		]
 	},
 	{
@@ -129,9 +129,9 @@
 	{
 		"STRINGS": [
 			"Street cameras were installed throughout the village.",
-			"Of course, they are for security purposes, but",
-			"as the population of the village is not",
-			"large, these cameras cannot be useful."
+			"Of course, they're for security purposes, but",
+			"as the population of the village isn't large,",
+			"these cameras don't have much use."
 		]
 	},
 	{
@@ -148,9 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"That security camera captured",
-			"something suspicious for the",
-			"first time since its installation."
+			"These security cameras captured something suspicious",
+			"for the first time since their installation."
 		]
 	},
 	{
@@ -169,11 +168,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What...is that...?\""
+			"\"What... is that...?\""
 		]
 	},
 	{
@@ -233,8 +232,8 @@
 	},
 	{
 		"STRINGS": [
-			"The way he's walking is strange.",
-			"He was unsteady on his feet."
+			"The way it walks is strange.",
+			"It was unsteady on its feet, waddling and tottering around."
 		]
 	},
 	{
@@ -251,10 +250,9 @@
 	},
 	{
 		"STRINGS": [
-			"His posture is also strange.",
-			"His upper body is bent over to an unnatural degree.",
-			"It is as if his head is so",
-			"heavy that he cannot balance."
+			"Its posture is also strange.",
+			"Its upper body is bent over to an unnatural degree.",
+			"It's as if its head is so heavy that it cannot balance itself."
 		]
 	},
 	{
@@ -271,8 +269,8 @@
 	},
 	{
 		"STRINGS": [
-			"Perhaps this is why his hands are thrust",
-			"forward as if he is daring others to do the same."
+			"Perhaps this is why its hands are thrust forward,",
+			"as though it was flying in the air."
 		]
 	},
 	{
@@ -289,8 +287,8 @@
 	},
 	{
 		"STRINGS": [
-			"I even have a thinly veiled fear of",
-			"suspicious people with their strange walking style."
+			"This suspicious person, with their strange way of walking,",
+			"even made me feel a chilling terror."
 		]
 	},
 	{
@@ -307,9 +305,9 @@
 	},
 	{
 		"STRINGS": [
-			"There is no doubt that it is a human being.",
-			"But I suddenly felt as if it were",
-			"a different kind of monster."
+			"There's no doubt that it's a human being.",
+			"But even so, it unexpectedly seemed like",
+			"Something else, a deformed monster."
 		]
 	},
 	{
@@ -364,8 +362,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"What the hell are you guys doing!",
-			"Hurry to the scene of the crime!\""
+			"\"What the hell are you guys doing!?!",
+			"Hurry to the scene of the crimeeeee!!!\""
 		]
 	},
 	{
@@ -438,10 +436,9 @@
 	},
 	{
 		"STRINGS": [
-			"Someone behind me shouted as if to shake off my fear.",
-			"As if spurred on by that order, the station ",
-			"staff rushed out one after another.",
-			"And then I--"
+			"Someone behind me shouted as if to shake off their fear.",
+			"Spurred on by that order, the station staff rushed out",
+			"one after another. That's when I--"
 		]
 	},
 	{

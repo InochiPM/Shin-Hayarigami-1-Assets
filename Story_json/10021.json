@@ -84,7 +84,7 @@
 	{
 		"STRINGS": [
 			"After a report was made to the police,",
-			"officers rushed to the university."
+			"officers immediately rushed to the university."
 		]
 	},
 	{
@@ -121,7 +121,7 @@
 	},
 	{
 		"STRINGS": [
-			"He was standing quietly",
+			"He was standing quietly to the side",
 			"when they stepped onto the scene."
 		]
 	},
@@ -223,8 +223,8 @@
 	},
 	{
 		"STRINGS": [
-			"A machine room on the second basement,",
-			"floor, an empty space of poured concrete."
+			"The boiler room on the second basement floor",
+			"was an empty space of undressed concrete."
 		]
 	},
 	{
@@ -247,7 +247,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"H-hey...Did you do this?\""
+			"\"H-hey... Did you do this?\""
 		]
 	},
 	{
@@ -264,10 +264,10 @@
 	},
 	{
 		"STRINGS": [
-			"It's obvious without asking.",
-			"He must have been very shaken up.",
-			"He was still holding the weapon in his hand.",
-			"At least, that's what I saw in the documents I checked."
+			"It was obvious even without asking.",
+			"They must have been very shaken up.",
+			"He was still holding the murder weapon in his hand.",
+			"At least, that's what the documents I checked said."
 		]
 	},
 	{
@@ -285,7 +285,7 @@
 	{
 		"STRINGS": [
 			"The body's skin had already turned pale due to the large",
-			"amount of blood loss. The blood that clung",
+			"amount of blood loss. The spurt of blood that clung",
 			"to him was also more viscous, indicating that a",
 			"certain amount of time had passed."
 		]
@@ -304,8 +304,8 @@
 	},
 	{
 		"STRINGS": [
-			"The torso and heart had been stabbed.",
-			"And the victim had died almost instantly."
+			"The body's heart was destroyed with precision.",
+			"He clearly held murderous intent for the victim."
 		]
 	},
 	{
@@ -322,7 +322,7 @@
 	},
 	{
 		"STRINGS": [
-			"However, despite his considerable killing intent", 
+			"However, contrary to his considerable urge to kill,", 
 			"he was just standing there quietly."
 		]
 	},
@@ -341,7 +341,7 @@
 	{
 		"STRINGS": [
 			"The following officers, who caught up with the",
-			"upset officer, immediately arrested Sekimoto."
+			"upset officer, immediately arrested Sekimoto without a warrant."
 		]
 	},
 	{
@@ -441,7 +441,7 @@
 	},
 	{
 		"STRINGS": [
-			"It was then that he fell silent."
+			"For then on, he held onto his silence."
 		]
 	},
 	{
@@ -459,7 +459,7 @@
 	{
 		"STRINGS": [
 			"No matter what he was asked,",
-			"he never spoke a word."
+			"he stubbornly kept his mouth shut."
 		]
 	},
 	{
@@ -494,7 +494,7 @@
 	},
 	{
 		"STRINGS": [
-			"They threatened him, and force him into talking."
+			"They threatened him. They questioned him harshly."
 		]
 	},
 	{
@@ -511,8 +511,7 @@
 	},
 	{
 		"STRINGS": [
-			"But every once and a while they would play the",
-			"good cop, bad cop routine."
+			"At times, they'd address him amiably."
 		]
 	},
 	{
@@ -529,7 +528,7 @@
 	},
 	{
 		"STRINGS": [
-			"However they tried, he remained silent."
+			"However they tried, he never answered their questions."
 		]
 	},
 	{
@@ -578,9 +577,9 @@
 	},
 	{
 		"STRINGS": [
-			"...Yeah, up until that moment in the court room.",
-			"his statement set off a mass amount",
-			"hysteria and confusion."
+			"--Yeah, up until that statement in the court room.",
+			"That single remark, which didn't even clarify anything,",
+			"plunged the case into a chaotic development."
 		]
 	},
 	{

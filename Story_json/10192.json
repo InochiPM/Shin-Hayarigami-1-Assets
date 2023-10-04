@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I understand...but,"
+			"\"I understand... But, you should listen"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" listen "
+			" to our words, too."
 		]
 	},
 	{
@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"to what I have to say.",
-			"Any more of this, and it'll go against your case.\""
+			"",
+			"Any more of this will negatively impact your case.\""
 		]
 	},
 	{
@@ -147,12 +147,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Heh...trial is of no interest to me.",
-			"But taking you at your word is not a bad proposition.\""
+			"\"Heh... The trial is of no interest to me.",
+			"However, listening to your words isn't a bad proposition.\""
 		]
 	},
 	{
@@ -175,12 +175,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What do you mean you don't care about the trial...?",
-			"Are you saying you don't care if your found guilty?\""
+			"\"What do you mean... by you don't care about the trial?",
+			"Are you saying you're fine with getting found guilty?\""
 		]
 	},
 	{
@@ -203,13 +203,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You're more concerned about me than the investigation.",
+			"\"You're more concerned about me than the investigation, huh?",
 			"I guess I should reciprocate that kindness.",
-			"Heh, I'm feeling a bit tense.\""
+			"Fufu, I'm feeling a bit tense.\""
 		]
 	},
 	{
@@ -226,9 +226,8 @@
 	},
 	{
 		"STRINGS": [
-			"His indifference to the outcome of his own trial is",
-			"worrisome, but it is nice to see him being so",
-			"cooperative."
+			"His indifference to the outcome of his own trial is worrisome,",
+			"but it's nice to see him being so cooperative."
 		]
 	},
 	{
@@ -269,8 +268,8 @@
 	},
 	{
 		"STRINGS": [
-			"But this is finally the starting line.",
-			"What we do now...all depends on us."
+			"However, we've finally reached the starting line.",
+			"Whatever happens from now on... all depends on us."
 		]
 	},
 	{

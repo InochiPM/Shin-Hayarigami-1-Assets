@@ -69,12 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What's the reason for your",
-			"obsession with the blind man?\""
+			"\"What's the reason for your obsession with Blindman?\""
 		]
 	},
 	{
@@ -101,11 +100,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"...It's none of your business.",
+			"\"...That's unrelated to you.",
 			"It's a very personal story.\""
 		]
 	},

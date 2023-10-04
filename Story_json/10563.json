@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'll just have to"
+			"\"I'd rather "
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" bite off my own tongue "
+			"bite off my own tongue"
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"and die.\""
+			" and die.\""
 		]
 	},
 	{
@@ -146,14 +146,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Wow...that's the spirit.",
-			"I think I'm going to fall in",
-			"love with that interesting look.",
-			"If I were Ten years younger I would "
+			"\"Woah... that's the spirit.",
+			"I think I'm gonna fall in love with that frigidity.",
+			"If I were ten years younger I'd "
 		]
 	},
 	{
@@ -187,11 +186,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Thats sexual harassment you know.\""
+			"\"...That's sexual harassment, you know.\""
 		]
 	},
 	{
@@ -238,11 +237,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh no. I was just expressing my",
+			"\"Oh no, no. I was just expressing my",
 			"admiration for you in my own way.\""
 		]
 	},
@@ -260,8 +259,8 @@
 	},
 	{
 		"STRINGS": [
-			"He didn't seem to take offense,",
-			"but he put the words out there."
+			"He didn't seem to take offense",
+			"since he's talking a lot of nonsense."
 		]
 	},
 	{
@@ -278,9 +277,8 @@
 	},
 	{
 		"STRINGS": [
-			"There may be advantages to working with",
-			"him, but I can only assume that the",
-			"Cons outweigh the Pros."
+			"There may be advantages to working with him,",
+			"but I can only imagine the cons outweighing the pros."
 		]
 	},
 	{
@@ -297,10 +295,9 @@
 	},
 	{
 		"STRINGS": [
-			"You know what they say,",
-			"No entry into a tiger's den",
-			"brings about no capture of its cub",
-			"should I still join forces with him?"
+			"However, you know what they say,",
+			"nothing ventured, nothing gained--",
+			"Will I be better off joining forces with him?"
 		]
 	},
 	{

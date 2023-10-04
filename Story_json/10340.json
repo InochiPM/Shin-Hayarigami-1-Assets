@@ -59,7 +59,7 @@
 	},
 	{
 		"STRINGS": [
-			"Tutorial: Inference Logic"
+			"~Tutorial: [Inference Logic]~"
 		]
 	},
 	{
@@ -84,7 +84,7 @@
 	},
 	{
 		"STRINGS": [
-			"So far, we have obtained several keywords"
+			"Up until now, numeroud keywords thought to be"
 		]
 	},
 	{
@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"that we believe are related to the case."
+			"related to the case have been obtained automatically."
 		]
 	},
 	{
@@ -126,7 +126,10 @@
 	},
 	{
 		"STRINGS": [
-			"These keywords are used in Inference Logic."
+			"These keywords are utilized in [Inference Logic].",
+			"Inference Logic mode can be entered at any time",
+			"by selecting \"Inference Logic\" from the pause menu",
+			"and pressing the "
 		]
 	},
 	{
@@ -147,24 +150,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can enter the Inference Logic mode at any "
-		]
-	},
-	{
-		"TYPE": "FONTtm",
-		"UNK0": "34000800"
-	},
-	{
-		"TYPE": "BR",
-		"UNK0": "08000a000000"
-	},
-	{
-		"TYPE": "FONT",
-		"UNK0": "0c000a000003"
-	},
-	{
-		"STRINGS": [
-			"By selecting it from the pause menu."
+			" button."
 		]
 	},
 	{
@@ -193,7 +179,7 @@
 	},
 	{
 		"STRINGS": [
-			"Reasoning Logic is a logic diagram that"
+			"Reasoning Logic is a logic chart meant for"
 		]
 	},
 	{
@@ -210,7 +196,7 @@
 	},
 	{
 		"STRINGS": [
-			"helps you organize the whole case."
+			"organizing the full picture of the case."
 		]
 	},
 	{
@@ -235,7 +221,7 @@
 	},
 	{
 		"STRINGS": [
-			"Basically, the characters are automatically added."
+			"Fundamental characters are automatically added."
 		]
 	},
 	{
@@ -252,7 +238,7 @@
 	},
 	{
 		"STRINGS": [
-			"The fields connecting important info are left blank,"
+			"The fields connecting important matters and characters are"
 		]
 	},
 	{
@@ -269,7 +255,7 @@
 	},
 	{
 		"STRINGS": [
-			"fill them with the keywords, and organize the case."
+			"left blank. Please fill them with the keywords and organize the case."
 		]
 	},
 	{
@@ -294,7 +280,7 @@
 	},
 	{
 		"STRINGS": [
-			"A final check will happen at the end of the case."
+			"Also, a final check will happen at the end of the case."
 		]
 	},
 	{
@@ -311,7 +297,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please note, this will be the final evaluation."
+			"Please note that this will affect the final evaluation."
 		]
 	},
 	{
@@ -368,7 +354,8 @@
 	},
 	{
 		"STRINGS": [
-			"Move the cursor to an empty field and press the "
+			"Move the cursor to an empty field (Keyword Slot)",
+			"and press the "
 		]
 	},
 	{
@@ -389,7 +376,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button."
+			" button."
 		]
 	},
 	{
@@ -414,7 +401,7 @@
 	},
 	{
 		"STRINGS": [
-			"A list of keywords will be displayed when clicked."
+			"This will display a list of insertable keywords."
 		]
 	},
 	{
@@ -473,7 +460,7 @@
 	},
 	{
 		"STRINGS": [
-			"You can skip to the next blank by pressing the"
+			"It is possible to skip to the next blank by pressing the"
 		]
 	},
 	{
@@ -490,7 +477,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button"
+			" button"
 		]
 	},
 	{
@@ -532,7 +519,7 @@
 	},
 	{
 		"STRINGS": [
-			"Move the cursor to the person panel and press the "
+			"Move the cursor to a person panel and press the "
 		]
 	},
 	{
@@ -549,7 +536,7 @@
 	},
 	{
 		"STRINGS": [
-			" Button"
+			" button"
 		]
 	},
 	{
@@ -566,7 +553,7 @@
 	},
 	{
 		"STRINGS": [
-			"to display a description of the person"
+			"to display a description of the pictured person"
 		]
 	},
 	{
@@ -583,7 +570,7 @@
 	},
 	{
 		"STRINGS": [
-			"that you can use as a reference for the case."
+			"that can be used as a reference for the investigation."
 		]
 	},
 	{
@@ -608,7 +595,7 @@
 	},
 	{
 		"STRINGS": [
-			"While selecting a person panel using the"
+			"By pressing the"
 		]
 	},
 	{
@@ -625,7 +612,7 @@
 	},
 	{
 		"STRINGS": [
-			"button,"
+			"button while selecting a person panel,"
 		]
 	},
 	{
@@ -642,7 +629,7 @@
 	},
 	{
 		"STRINGS": [
-			"you can swiftly check all the people."
+			"it is possible to swiftly check every panel."
 		]
 	},
 	{
@@ -667,7 +654,7 @@
 	},
 	{
 		"STRINGS": [
-			"Now, let's actually organize the"
+			"Now, let's put all of this to practice."
 		]
 	},
 	{
@@ -684,7 +671,7 @@
 	},
 	{
 		"STRINGS": [
-			"case using the Inference Logic board."
+			"Please organize the case by using [Inference Logic]."
 		]
 	},
 	{
@@ -709,7 +696,7 @@
 	},
 	{
 		"STRINGS": [
-			"If you don't find any keywords that apply,"
+			"If there are no keywords that seem correct,"
 		]
 	},
 	{
@@ -726,7 +713,7 @@
 	},
 	{
 		"STRINGS": [
-			"you can leave it blank."
+			"it si possible to leave slots blank."
 		]
 	},
 	{
@@ -768,7 +755,7 @@
 	},
 	{
 		"STRINGS": [
-			"and you can modify them at any time, so"
+			"and the inserted keywords can be modified at any time."
 		]
 	},
 	{
@@ -785,7 +772,8 @@
 	},
 	{
 		"STRINGS": [
-			"please close Inference Logic"
+			"Once the organization is completed,",
+			"[Inference Logic] can be closed by pressing the "
 		]
 	},
 	{
@@ -802,7 +790,7 @@
 	},
 	{
 		"STRINGS": [
-			"when you are done."
+			" button."
 		]
 	},
 	{

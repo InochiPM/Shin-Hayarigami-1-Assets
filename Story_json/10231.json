@@ -123,10 +123,9 @@
 	},
 	{
 		"STRINGS": [
-			"Let's go see Sekimoto.",
-			"We might be able to give some new information.",
-			"With this expectation, we headed back",
-			"to the detention center."
+			"Still, let's go see Sekimoto.",
+			"We might be able to get some new information.",
+			"With expectation in mind, we headed back to his cell."
 		]
 	},
 	{
@@ -273,7 +272,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -301,7 +300,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -329,13 +328,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Hmm, okay.",
-			"Who is that woman?",
-			"You're part of the blowhard department?\""
+			"\"Hmm, alright.",
+			"...Who is that woman?",
+			"Are you also part of the castaway department?\""
 		]
 	},
 	{
@@ -398,8 +397,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Nice to meet you. ",
-			"I'm Tachibana from the Forensics Section.",
+			"\"Nice to meet you. I'm Tachibana from the Forensics Division.",
 			"How's it going in your new cage?\""
 		]
 	},
@@ -467,14 +465,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"Not bad at all.",
-			"There's not a woman like you at the",
-			"Detention center ill tell you that.",
-			"That alone is a dream come true.\""
+			"I never had a chance to meet a woman like you in",
+			"the Tokyo Detention Center. That alone is a dream come true.\""
 		]
 	},
 	{
@@ -533,11 +530,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Misuzu, be careful. He's a good talker.\""
+			"\"Misuzu, be careful. He's a smooth talker.\""
 		]
 	},
 	{
@@ -564,9 +561,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I know that.",
-			"-Now then. I have a question for you.",
-			"is the Blind Man responsible for the murders in Town C?\""
+			"\"I know.",
+			"--Now then. I have a question for you.",
+			"Is Blindman responsible for the murders in C Town?\""
 		]
 	},
 	{
@@ -633,11 +630,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Ahh, well..\""
+			"\"Yes, he is.\""
 		]
 	},
 	{
@@ -700,9 +697,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Just a moment ago, we were",
-			"able to identify a victim.",
-			"Can you identify the Blind Man?\""
+			"\"Just a while ago, we were able to identify a victim.",
+			"Can you identify this Blindman?\""
 		]
 	},
 	{
@@ -769,11 +765,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"...I'm not sure what your getting at.\""
+			"\"...I'm not sure what you're getting at.\""
 		]
 	},
 	{
@@ -831,8 +827,8 @@
 	{
 		"STRINGS": [
 			"A smile appeared on the corner of Misuzu's mouth.",
-			"Whenever she smiles, it's always when she's",
-			"trying to get someone to do something.",
+			"Whenever she smiles, it's always because she's",
+			"trying to get someone to do something for her.",
 			"I have a bad feeling about this."
 		]
 	},
@@ -856,8 +852,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"You could say that my job is to",
-			"identify the remains left at the scene.",
+			"\"You could say that my job is to identify the",
+			"articles left bahind at the scene of a crime.",
 			"It means I don't work with baseless stories like yours.\""
 		]
 	},
@@ -881,7 +877,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Rumor has it, the victim was never born.\""
+			"\"Rumor has it that the victim was never born to begin with.\""
 		]
 	},
 	{
@@ -936,8 +932,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hey, hey, Hojo.",
-			"This looks like it could be bad...\""
+			"\"Hey, hey, Hojou.",
+			"...Isn't the mood getting kinda bad?\""
 		]
 	},
 	{
@@ -958,9 +954,9 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori-san gave me an uneasy earful.",
-			"He remembered that in the course of",
-			"her duties, Misuzu hated unsubstantiated occultism."
+			"Kazamori whispered in my ear, seeming uneasy.",
+			"I remembered that in the course of her duties,",
+			"Misuzu grew to hate unsubstantiated occult talk."
 		]
 	},
 	{
@@ -977,8 +973,8 @@
 	},
 	{
 		"STRINGS": [
-			"If I don't cut off this conversation at the",
-			"right place, I'm going to get into trouble."
+			"If I don't cut off this conversation at",
+			"the right moment, it's going to become trouble."
 		]
 	},
 	{
@@ -1013,7 +1009,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1069,13 +1065,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"But sometimes unsubstantiated rumors can make",
-			"people feel uneasy and lead them to commit heinous acts.",
-			"I don't consider myself to be a senseless person.\""
+			"\"But sometimes, unsubstantiated rumors can throw",
+			"people into anxiety and lead them to commit heinous acts.",
+			"I don't consider them to be meaningless existences.\""
 		]
 	},
 	{
@@ -1138,8 +1134,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"So you're saying that this incident was caused by",
-			"an inhuman entity created by a myth?\""
+			"\"Basically, you're saying that this case was",
+			"caused by an inhuman entity created by a hoax?\""
 		]
 	},
 	{
@@ -1160,8 +1156,8 @@
 	},
 	{
 		"STRINGS": [
-			"It's no use, Misuzu's heart's been set a flame.",
-			"As Kazamori pointed out, it's clear that she's ",
+			"It's no use, Misuzu's heart hass been set aflame.",
+			"As Kazamori pointed out, it's clear that this is",
 			"heading in a very bad direction."
 		]
 	},
@@ -1225,11 +1221,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It''s not like it's out of the ordinary...",
+			"\"I never called it inhuman...",
 			"I just don't think we should dismiss",
 			"occultism without a second thought..\""
 		]
@@ -1250,14 +1246,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It,s true that the occult is said to be",
-			"unscientific and unrealistic. But that doesn't negate",
-			"the analysis of the psychological structure",
-			"that leads people to believe in the occult.\""
+			"\"It's true that the occult can be called",
+			"unscientific and unrealistic. However, that doesn't negate",
+			"the scientific analysis of the psychological framework",
+			"and background that leads people to believe in the occult.\""
 		]
 	},
 	{
@@ -1320,7 +1316,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Okay?　We're not here to pursue academics.",
+			"\"Okay? We police aren't here to pursue academics.",
 			"Don't lump us in with criminals like you.\""
 		]
 	},
@@ -1384,13 +1380,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You, the poster child for material supremacy, are ",
-			"so satisfied with the data that you risk missing",
-			"the point of the matter.\""
+			"\"You, the product of material supremacism,",
+			"are so satisfied with just data that you are risking",
+			"overlooking the true nature of everything around you.\""
 		]
 	},
 	{
@@ -1445,12 +1441,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Yes! That's quite enough!",
-			"Don't provoke him any further.\""
+			"\"Okay, that's quite enough!!",
+			"Drop it. Don't provoke him any further.\""
 		]
 	},
 	{
@@ -1494,7 +1490,7 @@
 	{
 		"STRINGS": [
 			"\"Oh, I didn't mean to.",
-			"I was just having an argument with him.\""
+			"I was just having a discussion with him.\""
 		]
 	},
 	{
@@ -1557,13 +1553,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You're right. It was a lot of fun.",
-			"They stopped me in the middle this time,",
-			"but I'll ask again if I get a chance.\""
+			"\"She's right. It was great fun.",
+			"We were stopped halfway through this time,",
+			"but I hope you'll indulge me if we get another chance.\""
 		]
 	},
 	{
@@ -1618,7 +1614,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Yeah. I'm sure we'll be seeing you around.\""
+			"\"Yeah. Same here.\""
 		]
 	},
 	{
@@ -1648,8 +1644,8 @@
 	{
 		"STRINGS": [
 			"The two of them smiled at each other.",
-			"But I wasn't the only one who felt a",
-			"twinge of chill."
+			"But, I don't think I was the only one",
+			"who felt a faint chillrun down my spine."
 		]
 	},
 	{

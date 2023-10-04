@@ -93,11 +93,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Fu...Hahahaha...\""
+			"\"Fu...kukukuku\""
 		]
 	},
 	{
@@ -120,11 +120,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"W-What's so funny?\""
+			"\"W-What's so funny!?\""
 		]
 	},
 	{
@@ -147,14 +147,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"No, it's nothing.",
-			"I just thought it would be fun to",
-			"have a conversation with you.",
-			"I haven't seen you act like this since my arrest.\""
+			"\"No, pardon me.",
+			"I just thought how fun it is to talk with you.",
+			"I haven't felt like this since my arrest.\""
 		]
 	},
 	{
@@ -177,12 +176,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Fun...?",
-			"Do you understand what you're saying?\""
+			"Are you listening to what you're saying?\""
 		]
 	},
 	{
@@ -205,11 +204,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Of course I do.",
+			"\"Of course I am.",
 			"I think you and I would make a good team.",
 			"We'll get along great. Nice to meet you.\""
 		]
@@ -234,11 +233,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What are you talking about?\""
+			"\"What's with the condescending attitude!?\""
 		]
 	},
 	{

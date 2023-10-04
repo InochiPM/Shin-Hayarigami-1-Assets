@@ -83,8 +83,8 @@
 	},
 	{
 		"STRINGS": [
-			"The second interview was with a",
-			"local sake brewery owner "
+			"The second interview was with the owner of",
+			"the local sake brewery, "
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "0c000a00",
 		"KEYWORD_ID": 3020,
-		"KEYWORD": "Sunahori Masaharu"
+		"KEYWORD": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -116,7 +116,7 @@
 	},
 	{
 		"STRINGS": [
-			"It has been brewing local sake in Town C",
+			"It has been brewing local sake in C Town",
 			"for generations, and is well known by the locals."
 		]
 	},
@@ -134,8 +134,8 @@
 	},
 	{
 		"STRINGS": [
-			"The taste is quite good, and even many",
-			"of the staff at the branch station like it."
+			"The taste is quite good, and its patronage extends",
+			"to even many of the staff of our substation."
 		]
 	},
 	{
@@ -152,10 +152,9 @@
 	},
 	{
 		"STRINGS": [
-			"Mr. Sunahori, is a craftsman type of person.",
-			"It would not be an exaggeration to say that it is",
-			"because of his spirit that he is able to produce",
-			"delicious sake every year."
+			"The person we summoned now, Mr. Sunahori, is an artisan type.",
+			"It's no exaggeration to say that it's precisely because of that",
+			"artisan spirit that he's able to produce delicious sake every year."
 		]
 	},
 	{
@@ -172,8 +171,8 @@
 	},
 	{
 		"STRINGS": [
-			"That's why I found it surprising that",
-			"I was called in for this interview."
+			"That's why I find it surprising that",
+			"he was called in for an interrogation."
 		]
 	},
 	{
@@ -244,12 +243,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Sunahori. You still look so serious.",
-			"How's work going?\""
+			"\"Yo, Sunahori. Still having that sour look, eh?",
+			"How's work going for you?\""
 		]
 	},
 	{
@@ -272,11 +271,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"It's time to start thinking about what's new this year.\""
+			"\"It's nearing the time when I have to",
+			"think about this year's new products.\""
 		]
 	},
 	{
@@ -299,13 +299,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I guess that means you're not",
-			"busy until the new crop is ready.",
-			"Well, then, let's have a long talk today, shall we?\""
+			"\"So there's still time until the new crop's ready, huh?",
+			"Well then, let's have a long talk today, shall we?\""
 		]
 	},
 	{
@@ -328,13 +327,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Unlike you, I'm not up to date.",
-			"My mind is occupied with my work.",
-			"If you have something for me, make it quick.\""
+			"\"Unlike you, I'm not good at multitasking.",
+			"My mind is fully occupied with my work.",
+			"If you have business with me, make it quick.\""
 		]
 	},
 	{
@@ -357,13 +356,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You're still as tough as ever.",
-			"I've heard that you're very busy at night,",
-			"even though you pretend not to be.\""
+			"\"You're still as harsh as ever.",
+			"I've heard that you're quite active at night for",
+			"someone who acts busy all the time.\""
 		]
 	},
 	{
@@ -386,7 +385,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -441,13 +440,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, hey. Hojo.",
-			"Apparently, this big boss doesn't like me.",
-			"I leave it to you.\""
+			"\"Hey-hey, Hojou.",
+			"Looks like boss man here doesn't like me.",
+			"I'll leave him to you.\""
 		]
 	},
 	{
@@ -500,9 +499,9 @@
 	},
 	{
 		"STRINGS": [
-			"The whole atmosphere was unsettling from the start.",
-			"Sunahori's whole body gave off an air of",
-			"displeasure at being summoned out of the blue."
+			"The atmosphere was somewhat disquieting from the start.",
+			"Mr. Sunahori's whole being gave off an air of annoyance",
+			"at being called here out of the blue."
 		]
 	},
 	{
@@ -519,9 +518,9 @@
 	},
 	{
 		"STRINGS": [
-			"As much as possible, I tried not to be swallowed up",
-			"by the atmosphere, so I decided to keep my",
-			"composure and start the interview."
+			"In order to not be swallowed up by this atmosphere",
+			"if at all possible, I decided to put on a",
+			"brave front and start the interview."
 		]
 	},
 	{
@@ -556,12 +555,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Thank you, Mr.Sunahori for taking time out",
-			"of your busy schedule to help us!\""
+			"\"Thank you, Mr. Sunahori, for taking precious time out",
+			"of your busy schedule to assist us.\""
 		]
 	},
 	{
@@ -584,12 +583,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Don't be a social butterfly. Just get on with it.",
-			"You want to hear about Tamura.\""
+			"\"Stop it with the diplomatic language. Just get on with it.",
+			"You want to hear about Tamura, yeah?\""
 		]
 	},
 	{
@@ -612,11 +611,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Uhh...Yes.\""
+			"\"Uh, yes...\""
 		]
 	},
 	{
@@ -633,7 +632,7 @@
 	},
 	{
 		"STRINGS": [
-			"I don't know about this...",
+			"He's kind of hard to deal with...",
 			"I can't seem to take the initiative."
 		]
 	},
@@ -653,11 +652,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What was your relation with Tamura, Mr.Sunahori?\""
+			"\"What was your relation with Mr. Tamura, Mr. Sunahori?\""
 		]
 	},
 	{
@@ -680,12 +679,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"He was our banker, you know.",
-			"He's been loaning us money.\""
+			"\"That guy was our banker, you know.",
+			"He'd been loaning us money.\""
 		]
 	},
 	{
@@ -704,11 +703,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"But lately, he's been losing his touch.\""
+			"\"But as of late, he suddenly took a turn.\""
 		]
 	},
 	{
@@ -731,7 +730,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -798,7 +797,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -809,7 +808,7 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "10000a00",
 		"KEYWORD_ID": 3021,
-		"KEYWORD": "Loan Repayment"
+		"KEYWORD": "Loan Retraction"
 	},
 	{
 		"STRINGS": [
@@ -836,12 +835,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm not a financial expert,",
-			"but if I could just recap...\""
+			"\"I'm not a financial expert, but there's no need for a recap.\""
 		]
 	},
 	{
@@ -862,9 +860,9 @@
 	},
 	{
 		"STRINGS": [
-			"The term «Defualting» refers to terminating a",
-			"loan agreement and forcing the borrower",
-			"to repay the loaned funds suddenly."
+			"The term \"Loan Retraction\" refers to the sudden",
+			"termination of a loan agreement in such a manner that",
+			"compels a swift repayment of the loaned amount."
 		]
 	},
 	{
@@ -881,9 +879,8 @@
 	},
 	{
 		"STRINGS": [
-			"In general, small and medium-sized companies do",
-			"not have enough money to run their",
-			"businesses entirely on their own."
+			"In general, small and medium-sized companies don't have the",
+			"ample funds required to run a business entirely on their own."
 		]
 	},
 	{
@@ -920,8 +917,8 @@
 		"STRINGS": [
 			"This cycle is how small and medium-sized businesses",
 			"maintain their operations, but if they were suddenly",
-			"asked to pay back all the money they have lent, there",
-			"is no way they would be able to maintain operations."
+			"asked to pay back all the money they have borrowed,",
+			"there's no way they would be able to maintain operations."
 		]
 	},
 	{
@@ -968,12 +965,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Tamura wanted us to repay the",
-			"money we owed him in one go.\""
+			"\"Tamura urged us to repay all the money we owed him in one go.\""
 		]
 	},
 	{
@@ -996,7 +992,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1023,14 +1019,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
 			"\"That was three weeks before he was killed.",
-			"I heard that the bank's policy had changed, and ",
-			"they were going to be more strict with",
-			"their business screening.\""
+			"I heard that the bank's policy had changed,",
+			"and that they were going to be more strict with",
+			"their business screening and approval.\""
 		]
 	},
 	{
@@ -1085,19 +1081,19 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"So, what's the matter with you?",
-			"Dont tell me you wait on a "
+			"\"So, what did you do?",
+			"Don't tell me you went on the "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "14000a00",
 		"KEYWORD_ID": 3022,
-		"KEYWORD": "Raid"
+		"KEYWORD": "Attack"
 	},
 	{
 		"STRINGS": [
@@ -1156,13 +1152,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"How can that be?",
+			"\"I didn't do anything like that.",
 			"I went with Yuuko and we frantically bowed.",
-			"What do you think he said then?\""
+			"When he saw us, what do you think he said?\""
 		]
 	},
 	{
@@ -1215,8 +1211,8 @@
 	},
 	{
 		"STRINGS": [
-			"I looked at Kazamori.",
-			"Honestly, he must have said something not very nice."
+			"Kazamori and I looked at each other.",
+			"To be frank, he must have said something not very nice."
 		]
 	},
 	{
@@ -1265,8 +1261,8 @@
 	},
 	{
 		"STRINGS": [
-			"But I didn't dare touch on it",
-			"I waited for him to say something."
+			"But I didn't dare touch on it.",
+			"I waited for him to speak first."
 		]
 	},
 	{
@@ -1285,24 +1281,24 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"«If you want me to give",
-			"you a break you'll have to"
+			"\" \"If you want me to spare you the loan retraction,",
+			"then you better "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "30000a00",
 		"KEYWORD_ID": 3023,
-		"KEYWORD": "Tsushita"
+		"KEYWORD": "Get Down on the Ground"
 	},
 	{
 		"STRINGS": [
-			".» ",
-			"-That's what he said.\""
+			".\"",
+			"--That's what that bastard said.\""
 		]
 	},
 	{
@@ -1357,11 +1353,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"So tell me, how did you do it?\""
+			"\"So tell me, did you do it?\""
 		]
 	},
 	{
@@ -1416,12 +1412,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"I thought if I could manage it",
-			"on my knees, I'd do it right.",
+			"\"I thought that I could manage it if it was just",
+			"getting down on my knees, so I did it properly.",
 			"I'll never forget the humiliation of that moment.\""
 		]
 	},
@@ -1441,13 +1437,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"But in the end, he didn't withdraw the loan.",
-			"He forced me to pay him back even",
-			"if I had to sell the land.\""
+			"\"But in the end, he didn't withdraw the retraction.",
+			"He urged me to pay it back even if I had to sell the land.\""
 		]
 	},
 	{
@@ -1470,11 +1465,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Thats just...\""
+			"\"That's just...\""
 		]
 	},
 	{
@@ -1495,9 +1490,8 @@
 	},
 	{
 		"STRINGS": [
-			"No, I can't find the right words.",
-			"I was beginning to lose sympathy",
-			"for Mr.Tamura."
+			"It's no use, I can't find the right words.",
+			"I had begun to lose sympathy for the victim, Mr. Tamura."
 		]
 	},
 	{
@@ -1516,12 +1510,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"In the end, he stubbornly",
-			"refused to listen to my request.",
+			"\"In the end, he stubbornly refused to listen to my request.",
 			"To be honest, I wanted him dead.\""
 		]
 	},
@@ -1577,12 +1570,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"«Wanted him dead» ?",
-			"Hey you, you can't be serious...!\""
+			"\"Wanted him dead?",
+			"Hey you, you couldn't have...!?\""
 		]
 	},
 	{
@@ -1603,8 +1596,8 @@
 	},
 	{
 		"STRINGS": [
-			"The words that indicated a direct",
-			"motive were there, and like Kazamori, I reacted."
+			"Same as Kazamori, I too reacted to those words that",
+			"indicated a personal motive."
 		]
 	},
 	{
@@ -1653,8 +1646,8 @@
 	},
 	{
 		"STRINGS": [
-			"Mr.Sunahori, who was the first to notice this,",
-			"coughed lightly and straightened up his posture."
+			"Mr. Sunahori, who was quick to notice this,",
+			"coughed lightly and straightened up his sitting posture."
 		]
 	},
 	{
@@ -1673,7 +1666,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -1702,11 +1695,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"However, that Mr.Tamura was murdered.",
+			"\"However, Mr. Tamura was still murdered.",
 			"So what happened to the matter of the loan?\""
 		]
 	},
@@ -1730,14 +1723,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"I don't know. we've not had contact or",
+			"\"I don't know. we haven't had contact or",
 			"gotten a new handler since then.",
-			"It was only a few days ago that we found",
-			"out that the dead body was Tamura, wasn't it?\""
+			"...Also, wasn't the discovery that the corpse was",
+			"Tamura's quite recent?\""
 		]
 	},
 	{
@@ -1756,13 +1749,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"That's if the whole thing with the loan comes",
-			"back up again, which would take a while.",
-			"Then you're right.\""
+			"\"Even if the loan matter comes back up again,",
+			"it should still take a little while.",
+			"That's what I believe at least.\""
 		]
 	},
 	{
@@ -1785,13 +1778,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"By the way, Mr. Sunahori,",
-			"what were you doing at the",
-			"time of Mr. Tamura's murder?\""
+			"what were you doing at the time of Mr. Tamura's murder?\""
 		]
 	},
 	{
@@ -1814,7 +1806,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -1890,13 +1882,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"I see... Hmm...",
-			"We'll be able to corroborate that alibi",
-			"later, right?\""
+			"We'll corroborate that alibi later, alright?\""
 		]
 	},
 	{
@@ -1919,7 +1910,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -1990,13 +1981,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"But I'm not sure I'd get down",
-			"on my knees for something like that...",
-			"I'd be pissed, too.\""
+			"\"And well, if I had to get down on your knees for that...",
+			"I'd be pissed off, too.\""
 		]
 	},
 	{
@@ -2019,11 +2009,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Hmm...\""
+			"\"...Hmph.\""
 		]
 	},
 	{
@@ -2046,12 +2036,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I guess that would be enough",
-			"to motivate me to do it...\""
+			"\"That'd be enough to make anyone want to do it, isn't it...?\""
 		]
 	},
 	{
@@ -2074,7 +2063,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -2141,11 +2130,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, what's that supposed to mean?\""
+			"\"Oy, what's that supposed to mean?\""
 		]
 	},
 	{
@@ -2168,11 +2157,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What?　Hey, Mr. Sunahori!\""
+			"\"Eh? Mr. Sunahori, wait!?\""
 		]
 	},
 	{
@@ -2217,8 +2206,7 @@
 	},
 	{
 		"STRINGS": [
-			"--Mr. Sunahori immediately",
-			"responded to Kazamori's words."
+			"--Mr. Sunahori immediately responded to Kazamori's words."
 		]
 	},
 	{
@@ -2247,8 +2235,7 @@
 	},
 	{
 		"STRINGS": [
-			"He grabbed Kazamori by the chest",
-			"pilled him close by his shirt."
+			"He grabbed Kazamori by the collar, pulling his face closer."
 		]
 	},
 	{
@@ -2275,12 +2262,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Come on, give me a break.",
-			"That's called obstruction of justice, okay?\""
+			"What you're doing is called obstruction of justice, don't you know?\""
 		]
 	},
 	{
@@ -2331,11 +2318,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"You're treating me like a murderer!\""
+			"\"You're treating me like a murderer, aren't you!?\""
 		]
 	},
 	{
@@ -2358,7 +2345,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -2413,12 +2400,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You can't be serious!",
-			"I'm not buying any more of your liquor!\""
+			"\"You want a fight, huh!?",
+			"I'm not buying any more of your booze!\""
 		]
 	},
 	{
@@ -2445,11 +2432,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Oh, that' s good!",
+			"\"Oh, that's just fine, you hear!",
 			"I can't let a filthy mouth like yours",
 			"drink my carefully brewed sake!\""
 		]
@@ -2474,12 +2461,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Oh, yeah?",
-			"Are we going to sleep in a pigpen tonight?\""
+			"\"Oh yeah!?",
+			"Do you want to sleep in a jail cell tonight!?\""
 		]
 	},
 	{
@@ -2502,12 +2489,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
 			"\"Do you want to get banned from the",
-			"cabaret club that's our wholesale supplier!\""
+			"cabaret clubs that we supply!?!\""
 		]
 	},
 	{
@@ -2534,7 +2521,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -2565,11 +2552,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"You heard me!\""
+			"\"You heard me!!\""
 		]
 	},
 	{
@@ -2596,7 +2583,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -2627,11 +2614,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Why you!!!!\""
+			"\"Why you!!\""
 		]
 	},
 	{
@@ -2654,11 +2641,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ohhhh... both of you...!!!!\""
+			"\"Aaaaggghhh... You two...!!!!\""
 		]
 	},
 	{
@@ -2680,7 +2667,7 @@
 	{
 		"STRINGS": [
 			"I don't know what to say.",
-			"It's like two cats in heat losing their temper!"
+			"They're like two cats in heat losing their temper."
 		]
 	},
 	{
@@ -2699,11 +2686,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Hojo! What are you waiting for?\""
+			"\"Hey, Hojou! What are you waiting for?\""
 		]
 	},
 	{
@@ -2730,11 +2717,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Huh.. me??\""
+			"\"Huh, me!?\""
 		]
 	},
 	{
@@ -2757,11 +2744,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Whose side are you on, huh?\""
+			"\"Whose side are you on, huh!?\""
 		]
 	},
 	{
@@ -2784,12 +2771,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
 			"\"You're going to just let this",
-			"arrogant detective get away with this?\""
+			"tyrant detective get away with this, huh!?\""
 		]
 	},
 	{
@@ -2806,8 +2793,8 @@
 	},
 	{
 		"STRINGS": [
-			"Aaahhhhhh... What should I do?",
-			"How can I, an helpless person,",
+			"Aaaaaahhhhhh... What should I do?",
+			"How can I, completely out of my depth,",
 			"get out of this situation...!?"
 		]
 	},

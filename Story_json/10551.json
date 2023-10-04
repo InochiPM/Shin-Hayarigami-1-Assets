@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Oh my god...you're so persistent...\""
+			"\"Oh God... You're so persistent...\""
 		]
 	},
 	{
@@ -128,13 +128,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"I'll take that as a compliment.",
 			"Yes, I am persistent.",
-			"So, please get to talking~\""
+			"So, please, let's get to talking~\""
 		]
 	},
 	{

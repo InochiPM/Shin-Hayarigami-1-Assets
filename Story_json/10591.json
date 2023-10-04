@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"You are a really interesting person.",
+			"\"But, well... You're a really interesting person.",
 			"You've piqued my personal interest.\""
 		]
 	},
@@ -101,11 +101,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I don't think that's a compliment.\""
+			"\"That doesn't sound like a compliment to me at all, you know?\""
 		]
 	},
 	{
@@ -152,11 +152,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I'll leave it to you to accept.",
+			"\"You can take that as you will.",
 			"--Okay, here's what we'll do.\""
 		]
 	},
@@ -176,11 +176,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Let me first tell you what I know.\""
+			"\"I'll tell you what I know before anything.\""
 		]
 	},
 	{
@@ -203,12 +203,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Huh, Is that okay though?",
-			"What happened to the confidentially of the source?\""
+			"\"Huh, is that okay, though?",
+			"What happened to your source's confidentiality...?\""
 		]
 	},
 	{
@@ -229,10 +229,9 @@
 	},
 	{
 		"STRINGS": [
-			"I honestly could not hide my surprise",
+			"I honestly couldn't hide my surprise",
 			"at the sudden softening of his attitude.",
-			"I couldn't help but feel that there",
-			"might be something behind it."
+			"I couldn't help but feel that he was hiding something."
 		]
 	},
 	{
@@ -251,13 +250,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"You can call it a token of our new relationship.",
-			"Knowing that, it would be useful, from you as well.",
-			"How about a give and take situation?\""
+			"\"Let's just call it a token of our new relationship.",
+			"With this knowledge, I'll be useful to you, and you to me.",
+			"What do you think of this give and take?\""
 		]
 	},
 	{
@@ -274,10 +273,9 @@
 	},
 	{
 		"STRINGS": [
-			"...They are lost when it comes down to it.",
-			"I could just ask and cut them off.",
-			"In that sense, I am concerned that",
-			"I have a one-sided advantage."
+			"...To tell the truth, this course of events confuses me.",
+			"I could just hear what I need and then cut him off.",
+			"In that sense, I'm concerned that he gave me an one-sided advantage."
 		]
 	},
 	{

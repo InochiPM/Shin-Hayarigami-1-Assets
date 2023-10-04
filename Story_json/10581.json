@@ -73,12 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ha! With you? Of course I refuse.",
-			"If i spend a night of drinking with you"
+			"\"Ha! With you? I refuse, of course.",
+			"If I spent a night of drinking with you",
+			"and your greedy eyes, "
 		]
 	},
 	{
@@ -91,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			" and your snake eyes"
+			"like those of a snake"
 		]
 	},
 	{
@@ -100,8 +101,8 @@
 	},
 	{
 		"STRINGS": [
-			".",
-			"Even the best sake will taste of mud.\""
+			",",
+			"even the best sake in the world would taste of mud.\""
 		]
 	},
 	{
@@ -152,13 +153,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"You have a very sharp tongue, don't you?",
-			"No, I am impressed.",
-			"It seems you have a literary background as well.\""
+			"\"Kukukukuku... You have quite the glib tongue, don't you?",
+			"No no, I'm pleasantly impressed.",
+			"Seems like you have a literary background as well.\""
 		]
 	},
 	{
@@ -181,12 +182,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I don't feel bad about receiving compliments.",
-			"But it doesn't feel quite right.\""
+			"\"I don't dislike being complimented.",
+			"But this and that are different.\""
 		]
 	},
 	{
@@ -233,11 +234,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I understand.",
+			"\"I know.",
 			"I just want you to trust me.\""
 		]
 	},
@@ -255,7 +256,7 @@
 	},
 	{
 		"STRINGS": [
-			"He repeatedly rubs his hands deliberately."
+			"He repeatedly and affectedly rubs his hands."
 		]
 	},
 	{
@@ -272,8 +273,8 @@
 	},
 	{
 		"STRINGS": [
-			"He probably would not hesitate to kick",
-			"down collaborators for the sake of his cause."
+			"He probably wouldn't hesitate to kick down",
+			"collaborators for the sake of his goal."
 		]
 	},
 	{

@@ -92,8 +92,8 @@
 	},
 	{
 		"STRINGS": [
-			"--Yes, Never again in person.",
-			"Then a few days later."
+			"--Yes, never again in person.",
+			"Then, a few days later."
 		]
 	},
 	{
@@ -128,7 +128,7 @@
 	},
 	{
 		"STRINGS": [
-			"He interviewed Sekimoto repeatedly",
+			"We interviewed Sekimoto repeatedly",
 			"and took pains to extract anything useful from him."
 		]
 	},
@@ -146,9 +146,8 @@
 	},
 	{
 		"STRINGS": [
-			"However, Sekimoto's statements were",
-			"abstract at every turn, and nothing concrete",
-			"was said about the case."
+			"However, Sekimoto's statements were abstract at every turn,",
+			"not one piece of concrete information was said about the case."
 		]
 	},
 	{
@@ -232,12 +231,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo!  Kazamori!",
-			"What in the world have you guys done!\""
+			"\"Hojou!  Kazamori!",
+			"What in the world have you two done!?\""
 		]
 	},
 	{
@@ -342,8 +341,8 @@
 	},
 	{
 		"STRINGS": [
-			"Chief Kuroda threw a weekly magazine",
-			"for middle-aged men on the desk with an angry shout."
+			"With an angry shout, Chief Kuroda threw a weekly magazine",
+			"aimed at middle-aged men on the desk."
 		]
 	},
 	{
@@ -406,11 +405,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"The Weekly Salary.",
+			"\"Weekly Salary...",
 			"What's wrong with it?\""
 		]
 	},
@@ -450,12 +449,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I don't care!",
-			"Why is he in jail being mentioned in the Column!\""
+			"\"What's wrong!?",
+			"The fact he's in our detention center was exposed!",
+			"How did this happen!?\""
 		]
 	},
 	{
@@ -518,11 +518,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You're lying!?\""
+			"\"You're joking...!?\""
 		]
 	},
 	{
@@ -595,8 +595,8 @@
 	},
 	{
 		"STRINGS": [
-			"We looked through the pages and sure enough,",
-			"Sekimoto was mentioned in the article."
+			"We looked through the pages and, sure enough,",
+			"Sekimoto was mentioned in an article."
 		]
 	},
 	{
@@ -613,9 +613,9 @@
 	},
 	{
 		"STRINGS": [
-			"[The government conspiracy is exposed!]",
-			"[The Incompetent Police Department's",
-			"Intentions in Secretly Releasing Murderer S.]"
+			"[Government Conspiracy Exposed!",
+			"Incompetent Police Department Intends to",
+			"Secretly Let Murderer S be Released!!]"
 		]
 	},
 	{
@@ -632,9 +632,9 @@
 	},
 	{
 		"STRINGS": [
-			"[The identity of the beautiful detective assigned",
-			"to the murderer!] [The existence of a",
-			"[top-secret department is revealed!]"
+			"[True Colors of Beautiful Lady Detective",
+			"Assigned to Murdered Revealed!!",
+			"Top-secret Division's Existence Unveiled!!]"
 		]
 	},
 	{
@@ -651,10 +651,9 @@
 	},
 	{
 		"STRINGS": [
-			"[The corruption of the police has come this far!]",
-			"[The  S. Prefectural Police who asked a vicious ]",
-			"[murderer to cooperate with their",
-			"investigation is now on full display!]"
+			"[Has the Police's Corruption Come This Far!?",
+			"Grand Expose of S Prefectural Police's Predicament,",
+			"Requesting Heinous Murderer to Cooperate with Investigation!!]"
 		]
 	},
 	{
@@ -673,11 +672,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Is this... possibly Sekimoto's fault??\""
+			"\"Is this... about Sekimoto...!?\""
 		]
 	},
 	{
@@ -698,10 +697,9 @@
 	},
 	{
 		"STRINGS": [
-			"There is no specific name for Sekimoto.",
-			"He is only listed by his initials.",
-			"The details of the case are also",
-			"blurred out as much as possible."
+			"They don't specifically name Sekimoto.",
+			"They only mention him by his initials.",
+			"The details of the case are also obscured as much as possible."
 		]
 	},
 	{
@@ -719,7 +717,7 @@
 	{
 		"STRINGS": [
 			"It is safe to say that its content is embellished",
-			"with speculation and paranoia.",
+			"with speculation and hyperbolic fantasies.",
 			"However..."
 		]
 	},
@@ -779,12 +777,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey hey...if the officials see this, they'll know",
-			"what it''s all about in an instant!!\""
+			"\"Oy oy... If the officials see this, they'll know",
+			"what it's all about in an instant, won't they...!?\""
 		]
 	},
 	{
@@ -835,13 +833,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"This morning, the chief of police sternly",
-			"corrected me on the situation.",
-			"You guys are not involved in this story, are you?\""
+			"\"This morning, the Station Chief sternly",
+			"grilled me about the situation.",
+			"You guys aren't involved in this article, are you?\""
 		]
 	},
 	{
@@ -892,12 +890,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Of course! There's no reason to",
-			"give information to this bad mag!!\""
+			"\"Of course! We have no reason to",
+			"give information to this cheap mag!!\""
 		]
 	},
 	{
@@ -920,11 +918,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo?...\""
+			"\"...And you, Hojou?\""
 		]
 	},
 	{
@@ -1085,9 +1083,9 @@
 	},
 	{
 		"STRINGS": [
-			"I remembered. A few days ago, I was",
-			"approached by a man claiming to be",
-			"Yoichi Tsudanuma with a business offer."
+			"I remember. A few days ago, I was",
+			"approached by a man calling himself",
+			"Youichi Tsudanuma with a business offer."
 		]
 	},
 	{
@@ -1156,8 +1154,8 @@
 	},
 	{
 		"STRINGS": [
-			"When he looked at Chief Kuroda with a",
-			"huff, he seemed to have guessed something",
+			"When I looked at Chief Kuroda with a jump",
+			"he seemed to have inferred something",
 			"just by the look on my face."
 		]
 	},
@@ -1177,13 +1175,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"...... Hojo kun, you will now go to",
+			"\"...Hojou, you'll now be going to",
 			"the prefectural police headquarters.",
-			"I'll ask you to cooperate with the",
+			"You'll be cooperating with the",
 			"internal investigation there, okay?\""
 		]
 	},
@@ -1207,13 +1205,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Well, I don't know anything.",
-			"Yes, the reporter did try to get me",
-			"to talk, but I didn't tell him anything.\""
+			"\"Uhm, I don't know anything.",
+			"Yes, the reporter did try to get me to talk,",
+			"but I didn't tell him anything.\""
 		]
 	},
 	{
@@ -1236,12 +1234,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"This is no longer your problem alone.",
-			"You can explain yourself at headquarters, not to me.\""
+			"\"This is not just your problem anymore.",
+			"The one who needs an explanation is not me, but HQ.\""
 		]
 	},
 	{
@@ -1258,8 +1256,7 @@
 	},
 	{
 		"STRINGS": [
-			"The atmosphere is no longer",
-			"conducive to any more excuses."
+			"The atmosphere is no longer conducive to any more excuses."
 		]
 	},
 	{
@@ -1298,7 +1295,7 @@
 		"STRINGS": [
 			"Depending on the investigation at headquarters,",
 			"I may never be able to fulfill my",
-			"duties as a police officer again.。"
+			"duties as a police officer ever again."
 		]
 	},
 	{
@@ -1315,7 +1312,7 @@
 	},
 	{
 		"STRINGS": [
-			"I was aghast, and my whole body was drained."
+			"I was aghast,my whole body drained of energy."
 		]
 	},
 	{

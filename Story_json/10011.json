@@ -97,8 +97,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I have information on a murder case",
-			"from Town C, S Prefecture.\""
+			"\"I have information on the murder case",
+			"that occurred in C Town, S Prefecture.\""
 		]
 	},
 	{
@@ -220,8 +220,8 @@
 	},
 	{
 		"STRINGS": [
-			"A defendant in a criminal case had remained",
-			"completely silent until then."
+			"A certain criminal case's defendant had remained",
+			"completely silent until that moment."
 		]
 	},
 	{
@@ -242,8 +242,8 @@
 	},
 	{
 		"STRINGS": [
-			"[I have information on a murder case",
-			"from Town C, Prefecture S]"
+			"'I have information on the murder case",
+			"that occurred in Town C, Prefecture S'"
 		]
 	},
 	{
@@ -260,7 +260,7 @@
 	},
 	{
 		"STRINGS": [
-			"However, with this one sentence,",
+			"However, with this single sentence,",
 			"the defendant was released on bail."
 		]
 	},
@@ -391,7 +391,7 @@
 	{
 		"STRINGS": [
 			"At the same time, the press, which hadn't paid",
-			"any attention to the issue, began to write",
+			"any attention to the matter, began to write",
 			"sensational articles about it."
 		]
 	},
@@ -454,7 +454,7 @@
 	},
 	{
 		"STRINGS": [
-			"And then theres "
+			"And then there's "
 		]
 	},
 	{
@@ -465,7 +465,7 @@
 	},
 	{
 		"STRINGS": [
-			" ..."
+			" --"
 		]
 	},
 	{
@@ -538,8 +538,8 @@
 	},
 	{
 		"STRINGS": [
-			"Hojo Saki,",
-			"who had lived a life of seclusion,",
+			"Even Saki Hojou,",
+			"who had lived a quiet life up until then,",
 			"was now wrapped up in all of the commotion."
 		]
 	},
@@ -703,7 +703,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"A car has appeared with the defendant inside!\""
+			"\"Just now, the car transporting defendant Sekimoto has appeared!\""
 		]
 	},
 	{
@@ -758,8 +758,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"From here the expression of the defendant",
-			"looks calm and collected!\""
+			"\"As seen from here, the defendant's expression",
+			"appears calm and collected!\""
 		]
 	},
 	{
@@ -862,12 +862,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Damn, why's it so loud and bright?",
-			"The damned people.. why are they so...\""
+			"\"Tch, it's so noisy, and these flashes...",
+			"Argh, these journalists are so...!\""
 		]
 	},
 	{
@@ -886,11 +886,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, step on it will ya?\""
+			"\"Hey, step on it, will ya?\""
 		]
 	},
 	{
@@ -913,12 +913,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Calm down Kazamori.",
-			"That's what the media wants you to do.\""
+			"\"Calm down, Kazamori.",
+			"That's what the media wants us to do.\""
 		]
 	},
 	{
@@ -973,7 +973,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -996,11 +996,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Being from the country and all.",
+			"\"But, being from the country and all...",
 			"I can't stand large crowds like this.\""
 		]
 	},
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"STRINGS": [
-			"In the backseat on the passenger side "
+			"In the backseat on the passenger side, "
 		]
 	},
 	{
@@ -1045,12 +1045,12 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "0c000a00",
 		"KEYWORD_ID": 3001,
-		"KEYWORD": "Kazamori Hayato"
+		"KEYWORD": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			",",
-			"My Senior, who doesn't even try to",
+			" ,",
+			"my senior, doesn't even try to",
 			"hide his frustrations."
 		]
 	},
@@ -1086,8 +1086,8 @@
 	},
 	{
 		"STRINGS": [
-			"It makes him seem rude and",
-			"often times will invite unwanted trouble."
+			"Thanks to that, he ends up seeming rude and",
+			"often invites unwanted trouble."
 		]
 	},
 	{
@@ -1104,7 +1104,7 @@
 	},
 	{
 		"STRINGS": [
-			"As a junior member of the team, I have been",
+			"As a junior member of the team, I've been",
 			"caught in the crossfire more than once."
 		]
 	},
@@ -1190,7 +1190,7 @@
 	},
 	{
 		"STRINGS": [
-			"Then theres"
+			"Then there's "
 		]
 	},
 	{
@@ -1201,12 +1201,13 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "0c000a00",
 		"KEYWORD_ID": 3002,
-		"KEYWORD": "Kuroda Kunio"
+		"KEYWORD": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			", sitting in the passenger seat.",
-			"Hes my boss, who peeks at me with a smile."
+			" sitting in the passenger seat,",
+			"peeking at me with a smile.",
+			"He's our boss."
 		]
 	},
 	{
@@ -1225,14 +1226,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"That's what the media is for, that's their job.",
-			"If they don't have any sensitive pictures,",
+			"If they don't get any sensational pictures,",
 			"they can't get any results.",
-			"Keeping us always on our toes!\""
+			"That's why they always keep us on our toes.\""
 		]
 	},
 	{
@@ -1255,12 +1256,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"What's with the newbie course?",
-			"Treat me the way you treat the others.\""
+			"Stop it with this and treat me like an adult.\""
 		]
 	},
 	{
@@ -1283,12 +1284,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I'm in my fifties, and to me",
-			"you both look like to adorable kids.\""
+			"\"Well, for someone in their fifties like me,",
+			"you both look just like adorable little kids.\""
 		]
 	},
 	{
@@ -1329,12 +1330,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo, you're lucky.",
-			"Old man said he's going to adopt you.\""
+			"\"Hojou, you're lucky.",
+			"Pops here said he's gonna adopt you.\""
 		]
 	},
 	{
@@ -1357,11 +1358,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"No, that's...uhh... ",
+			"\"No, that's... sigh... ",
 			"Thank you very much.\""
 		]
 	},
@@ -1413,12 +1414,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You can't be serious.",
-			"You're too naïve for your own good.\""
+			"\"Don't accept it for real.",
+			"You're too serious for your own good.\""
 		]
 	},
 	{
@@ -1441,11 +1442,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Kazamori, Relax..relax!",
+			"\"Kazamori, relax, relax.",
 			"Deep breathing is the best in these situations!",
 			"Come now, like me! Hi-Hi-Hooooo, Hi-Hi-Hooooo.\""
 		]
@@ -1470,12 +1471,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Listen here old man, im not about to",
-			"fall for one of your old man jokes.\""
+			"\"Listen here, old man, I'm not about to",
+			"fall for one of your dad jokes.\""
 		]
 	},
 	{
@@ -1498,11 +1499,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Ha-ha-ha! I guess you got me there!\""
+			"\"A-ha-ha-ha! I guess you got me there!\""
 		]
 	},
 	{
@@ -1523,8 +1524,8 @@
 	},
 	{
 		"STRINGS": [
-			"Despite the unimportant conversation between them.",
-			"The man next to him was unfazed."
+			"Despite the unimportant conversation between them,",
+			"the man next to me remained unfazed."
 		]
 	},
 	{
@@ -1639,7 +1640,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"You murderer! You should be ashamed of yourself!\""
+			"\"You murderer-! You should be ashamed of yourself-!\""
 		]
 	},
 	{
@@ -1686,7 +1687,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Execute him immediately!\""
+			"\"Execute him immediately-!\""
 		]
 	},
 	{
@@ -1707,7 +1708,7 @@
 	},
 	{
 		"STRINGS": [
-			"Even in the face of emotional abuse,",
+			"--Even in the face of emotional abuse,",
 			"he doesn't raise an eyebrow.",
 			"Guess the man's got guts."
 		]
@@ -1783,7 +1784,7 @@
 	{
 		"STRINGS": [
 			"Though I don't say it aloud,",
-			"I too am annoyed by the constant flashing."
+			"I, too, am annoyed by the constant flashing."
 		]
 	},
 	{
@@ -1800,9 +1801,9 @@
 	},
 	{
 		"STRINGS": [
-			"And at the same time, I feel like I should be scared.",
-			"I have this nasty feeling that maybe one day I will",
-			"be at the center of all this ridicule and abuse."
+			"And at the same time, I feel pretty scared.",
+			"I have this nasty feeling that maybe one day I'll be",
+			"the one at the center of all these flashes, ridicule, and abuse."
 		]
 	},
 	{
@@ -1819,7 +1820,7 @@
 	},
 	{
 		"STRINGS": [
-			"So how can he be so calm?"
+			"And yet, how can he be so calm?"
 		]
 	},
 	{
@@ -1840,8 +1841,8 @@
 	},
 	{
 		"STRINGS": [
-			"Did you already anticipate that the",
-			"situation would heat up so much?"
+			"Did he anticipate that the situation",
+			"would heat up so much?"
 		]
 	},
 	{
@@ -1858,8 +1859,8 @@
 	},
 	{
 		"STRINGS": [
-			"Or perhaps he is feeling an inexplicable",
-			"sense of pleasure from the response?"
+			"Or perhaps he is gaining an inexplicable",
+			"sense of pleasure from the repercussions of his actions?"
 		]
 	},
 	{
@@ -1900,7 +1901,7 @@
 	},
 	{
 		"STRINGS": [
-			"Whit this in mind, i glanced over the man.",
+			"With this in mind, I threw the man a glance.",
 			"He seemed to be faintly smiling."
 		]
 	},
@@ -1952,8 +1953,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"The defendant who made headlines by hinting at",
-			"his involvement in another case during his current trial",
+			"\"The defendant who made headlines by hinting at his involvement in",
+			"another case in the middle of his trial at the Tokyo District Court",
 			"is currently leaving the Tokyo Detention Center.\""
 		]
 	},
@@ -1981,19 +1982,19 @@
 	},
 	{
 		"STRINGS": [
-			"\"The defendants name; "
+			"\"The defendant's name: "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "20000a00",
 		"KEYWORD_ID": 3003,
-		"KEYWORD": "Sekimoto Soujirou"
+		"KEYWORD": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			".",
-			"a 36 year old male and former university professor",
+			"A 36-year-old former university professor",
 			"who was arrested for murder in 2012.\""
 		]
 	},
@@ -2019,7 +2020,7 @@
 		"STRINGS": [
 			"\"He was arrested on suspicion that he murdered",
 			"a student who belonged to his class.",
-			"Since then he's maintained complete and total silence.\""
+			"Since then, he has maintained complete and total silence.\""
 		]
 	},
 	{
@@ -2042,10 +2043,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"However, during the trial of the murder case",
-			"he mentioned his involvement in a completely",
-			"different case, and the court was temporarily",
-			"adjourned, causing confusion.\""
+			"\"That was until the trial of his murder case,",
+			"where he mentioned his involvement in a completely",
+			"different case, which led to the court being",
+			"temporarily adjourned, a most confusing state of affairs.\""
 		]
 	},
 	{
@@ -2069,9 +2070,9 @@
 	{
 		"STRINGS": [
 			"\"In response, both the prosecution and the",
-			"defendant requested a psychiatric evaluation,",
-			"which was approved by the court, and he was",
-			"released on bail today.\""
+			"defense requested a psychiatric evaluation,",
+			"which was granted by the court,",
+			"and he was released on bail today.\""
 		]
 	},
 	{
@@ -2095,8 +2096,8 @@
 	{
 		"STRINGS": [
 			"\"A psychiatric evaluation by a specialist will be",
-			"conducted at a hospital in Tokyo, and the",
-			"outcome of the evaluation will affect the trial.\""
+			"conducted at a hospital in the metropolitan area, and",
+			"it appears that the results will affect the trial's outcome.\""
 		]
 	},
 	{
@@ -2155,8 +2156,9 @@
 	},
 	{
 		"STRINGS": [
-			"Unfortunately for them, the story we had ",
-			"prepared for them was different."
+			"Unfortunately for them,",
+			"their frantic preparations were for nought",
+			"because the story we had prepared was different."
 		]
 	},
 	{
@@ -2282,8 +2284,8 @@
 	{
 		"STRINGS": [
 			"We managed to get the car out of the commotion",
-			"and when we reached the main road in Tokyo,",
-			"we picked up speed."
+			"and once we reached Tokyo's arterial road,",
+			"we began to pick up speed."
 		]
 	},
 	{
@@ -2316,7 +2318,7 @@
 	},
 	{
 		"STRINGS": [
-			"A motorcycle squad of media companies followed behind us.",
+			"The media's motorcycle squads followed behind us.",
 			"Several helicopters flew overhead as well."
 		]
 	},
@@ -2362,8 +2364,8 @@
 	},
 	{
 		"STRINGS": [
-			"Finally, we arrived at the back entrance of",
-			"M General Hospital in Tokyo right on time."
+			"However, we arrived at the back entrance of",
+			"the metropolitan M General Hospital right on time."
 		]
 	},
 	{
@@ -2436,9 +2438,9 @@
 	},
 	{
 		"STRINGS": [
-			"A large number of waiting police officers",
-			"quickly surrounded the entrance of the car.",
-			"It was to protect us from the media and the cameras."
+			"A large number of police officers lying in wait",
+			"quickly surrounded the car's entrances.",
+			"A countermeasure to the press and their cameras."
 		]
 	},
 	{
@@ -2569,11 +2571,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Step out of the car please.\""
+			"\"Step out of the car, please.\""
 		]
 	},
 	{
@@ -2666,8 +2668,8 @@
 	},
 	{
 		"STRINGS": [
-			"silently following my instructions",
-			"like the good little "
+			"He-- Sekimoto silently followed my instructions.",
+			"He reminded me of a "
 		]
 	},
 	{
@@ -2678,7 +2680,7 @@
 	},
 	{
 		"STRINGS": [
-			" he was."
+			" ."
 		]
 	},
 	{

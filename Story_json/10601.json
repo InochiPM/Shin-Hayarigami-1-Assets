@@ -67,8 +67,8 @@
 	},
 	{
 		"STRINGS": [
-			"––その時だ。",
-			"休憩室の外が、急に騒がしくなった。"
+			"--That's when it happened.",
+			"Outside the rest area, there was a sudden clamoring."
 		]
 	},
 	{
@@ -87,11 +87,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 12,
-		"NAME": "Official"
+		"NAME": "Station Member"
 	},
 	{
 		"STRINGS": [
-			"\"Hey! Hey, what the hell was that?\""
+			"\"Hey! What the hell is that!?\""
 		]
 	},
 	{
@@ -108,8 +108,8 @@
 	},
 	{
 		"STRINGS": [
-			"I forced myself to break off my conversation",
-			"with Tsudanuma and rushed toward the noise."
+			"I forcefully broke off from the conversation",
+			"with Mr. Tsudanuma and rushed toward the sourde of the racket."
 		]
 	},
 	{

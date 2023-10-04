@@ -77,12 +77,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, what do you mean you don't want more bodies?",
-			"Don't you think your being a little"
+			"\"Hey, what do you mean by 'increase the number of bodies?",
+			"Don't you think you've been"
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			" persistant "
+			" insistent enough"
 		]
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"STRINGS": [
-			"here?\""
+			" here?\""
 		]
 	},
 	{
@@ -151,12 +151,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"...Okay. That's enough.",
-			"I can't say I'm disappointed in you.\""
+			"\"...Understood. I'll drop it.",
+			"But I can't help feel disappointed in you.\""
 		]
 	},
 	{
@@ -179,12 +179,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's not what I meant.",
-			"I was out of line...\""
+			"\"No-- That's not what I meant.",
+			"I was out of line. So--\""
 		]
 	},
 	{
@@ -231,14 +231,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Heh...I know. It was a little too",
-			"much of a joke on my part.",
-			"But I want you to be aware.",
-			"That I might be the key to breaking the stalemate.\""
+			"\"Fufu... I know. I went too far on my joke as well.",
+			"But I'm saying it because want you to be completely aware",
+			"that I might be the key to breaking your stalemate.\""
 		]
 	},
 	{
@@ -255,8 +254,8 @@
 	},
 	{
 		"STRINGS": [
-			"I was lucky that he softened his attitude",
-			"immediately in response to my apology..."
+			"I was lucky that he immediately softened",
+			"his attitude in response to my apology..."
 		]
 	},
 	{
@@ -297,8 +296,8 @@
 	},
 	{
 		"STRINGS": [
-			"It's not a good idea to make a stand against a criminal.",
-			"But still, it would be best to handle him carefully."
+			"It's not a good idea to act modestly towards a criminal.",
+			"But still, it would be best if I handled him carefully."
 		]
 	},
 	{

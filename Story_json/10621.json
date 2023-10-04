@@ -159,8 +159,8 @@
 	},
 	{
 		"STRINGS": [
-			"I and other station staff members kept",
-			"our distance to surround the suspicious person."
+			"The station staff members, including me, kept",
+			"our distance in order to surround the suspicious person."
 		]
 	},
 	{
@@ -213,9 +213,8 @@
 	},
 	{
 		"STRINGS": [
-			"The suspicious person, illuminated by",
-			"headlights from behind, noticed our ",
-			"presence, and turned around with a leaning back."
+			"The suspicious person, illuminated by headlights from behind,",
+			"noticed our presence, and ponderously turned around."
 		]
 	},
 	{
@@ -530,7 +529,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Ah……Aaaaahhhhh...!\""
+			"\"Ah...aaaaahhhhh...!\""
 		]
 	},
 	{
@@ -565,7 +564,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Get an ambulance, call it in now!\""
+			"\"Get an ambulance, call it in ASAP!\""
 		]
 	},
 	{
@@ -610,7 +609,7 @@
 	},
 	{
 		"STRINGS": [
-			"All at once, the scene becomes loud and noisy."
+			"All at once, the scene went into an uproar."
 		]
 	},
 	{
@@ -631,9 +630,7 @@
 	},
 	{
 		"STRINGS": [
-			"But the old woman,",
-			"deprived of light, ",
-			"slowly falls onto her back."
+			"But the old woman, deprived of light, slowly fell onto her back."
 		]
 	},
 	{
@@ -738,7 +735,7 @@
 	},
 	{
 		"STRINGS": [
-			"Reflexively, I extend my arm to catch her body."
+			"Reflexively, I extended my arms to catch her body."
 		]
 	},
 	{
@@ -757,11 +754,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Are you okay!? Stay with me!\""
+			"\"Are you okay!? Stay with me!!\""
 		]
 	},
 	{
@@ -780,7 +777,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -855,7 +852,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Ah...Aaaaaahhhhh!!\""
+			"\"Ah...aaahhh...!!\""
 		]
 	},
 	{
@@ -880,9 +877,8 @@
 	},
 	{
 		"STRINGS": [
-			"When I asked her, instead of an",
-			"answer, she only made gurgling,",
-			"blood-curdling breathing noises."
+			"Despite my constant asking, instead of answering me,",
+			"she only made groans and blood-gurgling breathing noises."
 		]
 	},
 	{
@@ -900,7 +896,7 @@
 	{
 		"STRINGS": [
 			"In my arms, the old woman was",
-			"like a little canary, her body tense."
+			"like a drone beetle, her body gone stiff."
 		]
 	},
 	{
@@ -934,7 +930,7 @@
 	},
 	{
 		"STRINGS": [
-			"I couldn't help but realize this."
+			"Everybody had unwillingly become convinced of this."
 		]
 	},
 	{
@@ -971,8 +967,7 @@
 	},
 	{
 		"STRINGS": [
-			"I stared at the scene in",
-			"dismay amidst the commotion."
+			"Amidst the commotion, I stared at the scene in dismay."
 		]
 	},
 	{
@@ -989,8 +984,8 @@
 	},
 	{
 		"STRINGS": [
-			"The old woman, who kept twitching",
-			"and moving, eventually stopped."
+			"The old woman, who kept twitching and spasming,",
+			"eventually stopped moving."
 		]
 	},
 	{
@@ -1085,12 +1080,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, Hojo...",
-			"There's something in that Geisha's mouth.\""
+			"\"Oy, Hojou...",
+			"There's something in the victim's mouth.\""
 		]
 	},
 	{
@@ -1127,9 +1122,8 @@
 	},
 	{
 		"STRINGS": [
-			"I had never notices until Kazamori pointed it out.",
-			"Something thin was hiding",
-			"in the gap between her teeth."
+			"I would've never noticed it had Kazamori not pointed it out.",
+			"Something thin was hiding in the gap between her teeth."
 		]
 	},
 	{
@@ -1162,8 +1156,7 @@
 	},
 	{
 		"STRINGS": [
-			"He quickly pulls a handkerchief from his",
-			"pocket and carefully pills it out."
+			"I took out a handkerchief from my pocket and carefully pulled it out."
 		]
 	},
 	{
@@ -1199,8 +1192,8 @@
 	},
 	{
 		"STRINGS": [
-			"The item was slick with saliva.",
-			"It emits a smell that makes my nose curl."
+			"The item was slick with saliva,",
+			"emitting a stench that made my nose curl."
 		]
 	},
 	{
@@ -1235,11 +1228,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Is it...paper?\""
+			"\"Is that... a piece of paper?\""
 		]
 	},
 	{
@@ -1273,8 +1266,8 @@
 	{
 		"STRINGS": [
 			"It was folded up small.",
-			"When I carefully unfolded it,",
-			"I found a simple sentence."
+			"After I carefully unfolded it,",
+			"I found a blunt sentence."
 		]
 	},
 	{
@@ -1347,7 +1340,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Give me your eyes\" it said."
+			"\"Give me your eyes\", it said."
 		]
 	},
 	{
@@ -1366,11 +1359,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I was right...A second victim\""
+			"\"He was right... This is the second victim.\""
 		]
 	},
 	{
@@ -1387,9 +1380,9 @@
 	},
 	{
 		"STRINGS": [
-			"A bigoted murderous professor",
-			"lurks in a detention center--",
-			"--Soujiro Sekimoto's prophecy has come true."
+			"The unreasonable Murder Professor",
+			"that lurks in our jail cells--",
+			"--Soujirou Sekimoto's prophecy has come true."
 		]
 	},
 	{

@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You really like making the"
+			"\"You really like"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" rules "
+			" making the rules as you please"
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			"up as you go eh?\""
+			", don't you?\""
 		]
 	},
 	{
@@ -118,14 +118,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I'm going to take you at your word.",
+			"\"Let me echo that sentiment.",
 			"What we need is to resolve our emotional rift.",
-			"If we don't do that, we're going to be",
-			"left with an unsolved problem.\""
+			"If we can't do that, this case will remain unresolved.\""
 		]
 	},
 	{
@@ -148,11 +147,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm not sure that's how that works...\""
+			"\"Unresolved... Will it really go that way?\""
 		]
 	},
 	{
@@ -175,13 +174,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sure you're right.",
-			"Then we need to come to terms with each other.",
-			"But if your attitude continues to be like this...\""
+			"\"I'm sure it will.",
+			"That's why we need come to terms with each other.",
+			"But, if your attitude continues to be like this...\""
 		]
 	},
 	{
@@ -226,7 +225,7 @@
 	},
 	{
 		"STRINGS": [
-			"He smiled.",
+			"He grinned.",
 			"I felt his intentions without the need for words."
 		]
 	},
@@ -269,7 +268,7 @@
 	{
 		"STRINGS": [
 			"How am I supposed to control him?",
-			"I am going to have a lot of trouble."
+			"That seems to be the source of my worries."
 		]
 	},
 	{

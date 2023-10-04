@@ -69,14 +69,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Hmmm...I see... you are also taking",
-			"a certain amount of risk.",
-			"Then may I ask where you got said",
-			"Information from?\""
+			"\"Fufu... I see you are also taking a certain amount of risk.",
+			"Then, may I ask from whom you got said Information from?\""
 		]
 	},
 	{
@@ -103,13 +101,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Huh, huh? Is it okay to do that?",
-			"Isn't that a violation of freedom of",
-			"the press regarding public authority?\""
+			"\"Oh? Are you allowed to do that?",
+			"Isn't that a violation of the freedom of",
+			"the press regarding governmental authority?\""
 		]
 	},
 	{

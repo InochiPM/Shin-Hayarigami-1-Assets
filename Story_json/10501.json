@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Don't be in such a "
+			"\"Please don't be so"
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"Hurry"
+			"hasty"
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 	{
 		"STRINGS": [
 			".",
-			"Let me discuss this with you upstairs.\""
+			"Let me discuss this with your superiors.\""
 		]
 	},
 	{
@@ -147,13 +147,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Whoa! That just wont do.",
-			"You wouldn't just give preferential treatment",
-			"to a single media outlet, would you?\""
+			"\"Whoa! That just won't do.",
+			"Can't the police give preferential treatment",
+			"to specific media outlets?\""
 		]
 	},
 	{
@@ -176,13 +176,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I cannot say.",
-			"But I can't move on my own personal decision.",
-			"If I make a bad move, it could get me in trouble.\""
+			"\"That's hard for me to say...",
+			"But I won't move based on my own personal decisions.",
+			"If I make a bad move, it could get you in trouble.\""
 		]
 	},
 	{
@@ -229,11 +229,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Any other bright ideas?\""
+			"\"But, you've got an idea, right?\""
 		]
 	},
 	{
@@ -250,10 +250,10 @@
 	},
 	{
 		"STRINGS": [
-			"I was about to say, \"Well, that's because-\"",
-			"and then I hurriedly stopped talking.",
-			"Before I knew it, I was about to reply on the",
-			"premise of cooperating with him..."
+			"I was about to say, \"Well, that's--\",",
+			"before hurriedly shutting up.",
+			"Before I knew it, I was about to reply on",
+			"the premise of cooperating with him... What a close call."
 		]
 	},
 	{
@@ -270,9 +270,8 @@
 	},
 	{
 		"STRINGS": [
-			"Let's be a little more calm.",
-			"If we don't, we might even leak",
-			"unnecessary information."
+			"Let's be a little more serene.",
+			"Otherwise, I might even let slip unnecessary information."
 		]
 	},
 	{

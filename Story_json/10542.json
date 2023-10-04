@@ -73,12 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I see you're serious about this.",
-			"I to would like to be as serious. Fine I'll"
+			"\"I see you're serious about this. In that case,",
+			"I too want to ask you some things, no matter the cost.",
+			"Let me "
 		]
 	},
 	{
@@ -91,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			" Tell you "
+			"tell you all about"
 		]
 	},
 	{
@@ -100,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"all about this case.\""
+			" this case.\""
 		]
 	},
 	{
@@ -147,12 +148,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Hmmm...but this is voluntary, right?",
-			"I have the right to veto it.\""
+			"\"Fufu... But this is a voluntary interview, alright?",
+			"I'll also have the right to veto it.\""
 		]
 	},
 	{
@@ -175,12 +176,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"On an unrelated matter, is",
-			"there something  or other I should know about?\""
+			"\"On an unrelated matter,",
+			"do you know about... 'that'?\""
 		]
 	},
 	{
@@ -203,12 +204,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Well nothing that I can think of.",
-			"Something or other will come along.\""
+			"\"If I did, I'd use the maganize for 'that' too.\""
 		]
 	},
 	{
@@ -225,8 +225,7 @@
 	},
 	{
 		"STRINGS": [
-			"Then for a while we continued to play",
-			"games with our cryptic language."
+			"Then, we continued to play games with that cryptic term for a while."
 		]
 	},
 	{
@@ -243,8 +242,7 @@
 	},
 	{
 		"STRINGS": [
-			"But we were just using that cryptic",
-			"phrase over and over again to each other."
+			"...So I say, but we were just dancing around the term."
 		]
 	},
 	{
@@ -261,7 +259,7 @@
 	},
 	{
 		"STRINGS": [
-			"What is this barbaric exchange..."
+			"What is this fruitless repartee...?"
 		]
 	},
 	{

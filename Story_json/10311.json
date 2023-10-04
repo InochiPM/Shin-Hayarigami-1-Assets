@@ -81,12 +81,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"However, Kazamori.",
-			"Let's just say it didn't go unnoticed.",
+			"Let's just say what you did didn't go unnoticed.",
 			"I got a lecture from my superiors.\""
 		]
 	},
@@ -142,11 +142,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"...shut it.\""
+			"\"...Ugh.\""
 		]
 	},
 	{
@@ -167,8 +167,8 @@
 	},
 	{
 		"STRINGS": [
-			"A flustered Kazamori-san muddied the waters",
-			"with a reply that could not be described as an apology."
+			"The sulking Kazamori beat around the bush with",
+			"a reply that could not be described as an apology."
 		]
 	},
 	{
@@ -185,8 +185,8 @@
 	},
 	{
 		"STRINGS": [
-			"It's times like this when it's a good idea",
-			"for an adult to apologize honestly... ugh!"
+			"It's at times like these when grown, functional adults would",
+			"just honestly apologize... Good grief."
 		]
 	},
 	{
@@ -233,13 +233,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"However, following Haruka Minase earlier,",
-			"the young master of the Sunahori Brewery",
-			"also has his own motives.\""
+			"the young gentleman of the Sunahori Brewery",
+			"also had a motive for committing this crime.\""
 		]
 	},
 	{
@@ -262,13 +262,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Yes...",
+			"\"Yeah...",
 			"It seems that before he died,",
-			"Mr. Tamura wasn't well liked by others.\""
+			"Mr. Tamura wasn't well-liked by others in the least.\""
 		]
 	},
 	{
@@ -323,11 +323,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"One could say they hold a "
+			"\"You could say they hold a "
 		]
 	},
 	{
@@ -389,14 +389,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I don't know.",
-			"If this keeps up, though, it's going to",
-			"be more than a dozen people",
-			"with inevitable motives.\""
+			"\"I don't know about that.",
+			"If this keeps up, though, we'll inevitably have",
+			"more than a dozen people with a motive to kill.\""
 		]
 	},
 	{
@@ -415,12 +414,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Anyhow, I'm calling one more person.",
-			"Let's listen to what she has to say as well, okay?\""
+			"\"Anyhow, we'll be calling one more person.",
+			"Let's listen to what that girl has to say as well, okay?\""
 		]
 	},
 	{
@@ -443,11 +442,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"A girl?",
+			"\"That girl?",
 			"Is she young?\""
 		]
 	},
@@ -495,13 +494,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Well, yeah. Anyway, I don't want any more",
+			"\"Well, yes. Anyway, I don't want any more",
 			"disturbances like the one before.",
-			"The Special Division will get a lot of flak.\""
+			"The Special Division already gets a lot of flak",
+			"and we don't need any more.\""
 		]
 	},
 	{
@@ -518,8 +518,8 @@
 	},
 	{
 		"STRINGS": [
-			"«Well Then I'll go get them»,",
-			"he said leaving the hearing room."
+			"He left the interrogation room saying,",
+			"\"Well then, I'll go get them\"."
 		]
 	},
 	{
@@ -612,8 +612,8 @@
 	},
 	{
 		"STRINGS": [
-			"Not long after, a woman who",
-			"looked quite young appeared."
+			"Not long after, a woman that still showed",
+			"traces of immaturity made her appearance."
 		]
 	},
 	{

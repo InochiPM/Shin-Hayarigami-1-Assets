@@ -85,12 +85,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 51,
-		"SELECT_ITEM_INFO": "２：I've lost.",
+		"SELECT_ITEM_INFO": "２：It's my loss.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"I've lost."
+			"It's my loss."
 		]
 	},
 	{

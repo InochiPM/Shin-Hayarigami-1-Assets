@@ -101,11 +101,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Plea"
+			"\"Plea bargaining, huh?"
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 	},
 	{
 		"STRINGS": [
-			" Bargaining.\""
+			"\""
 		]
 	},
 	{
@@ -135,8 +135,7 @@
 	},
 	{
 		"STRINGS": [
-			"Having said that, the plea bargaining",
-			"system is not legal in Japan."
+			"Having said that, the plea bargaining system isn't legal in Japan."
 		]
 	},
 	{
@@ -153,9 +152,8 @@
 	},
 	{
 		"STRINGS": [
-			"In other words, this is an attempt to use",
-			"all the powers of the warden",
-			"to tamper with the case."
+			"In other words, the warden is making full use of",
+			"the authority given to him at his own discretion."
 		]
 	},
 	{
@@ -178,7 +176,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"So I came up with tree conditions.\""
+			"\"Well, yes. That's why I came out with three conditions.\""
 		]
 	},
 	{
@@ -201,9 +199,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"You' re going to let me go to the place",
-			"where the incident happened,",
-			"and Hojo Saki is going to be in charge of me.\""
+			"\"I'll be sent to the physical location where the case occurred.",
+			"You-- Saki Hojou will be responsible for supervising me.\""
 		]
 	},
 	{
@@ -226,11 +223,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What, me? Why would you...\""
+			"\"What, me? Why--\""
 		]
 	},
 	{
@@ -251,7 +248,7 @@
 	},
 	{
 		"STRINGS": [
-			"I became confused as the sudden mention of my name."
+			"I could only became confused at the sudden mention of my name."
 		]
 	},
 	{
@@ -270,7 +267,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -302,8 +299,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"He wants me to confirm a rumor that's been",
-			"going around about the Tokyo Detention Center.\""
+			"\"I wanted to confirm the veracity of a certain rumor",
+			"regarding the Tokyo Detention Center.\""
 		]
 	},
 	{
@@ -326,8 +323,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"So, I thought, does this place have a",
-			"real death row inmate that doesn't die?\""
+			"\"--Does this place really have an",
+			"immortal death row prisoner, I asked.\""
 		]
 	},
 	{
@@ -382,11 +379,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Who would that be?\""
+			"\"Hah! The hell's up with that?\""
 		]
 	},
 	{
@@ -417,9 +414,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"Because of my profession, I really wanted to know.",
-			"I'm a university professor that studies folklore.",
-			"Mostly Urban Legends to be precise.\""
+			"\"Fitting of my profession, I wished to know at all costs.",
+			"I am a university professor of folklore.",
+			"Furthermore, a researcher of urban legends.\""
 		]
 	},
 	{
@@ -458,11 +455,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"So, what was their reaction?\""
+			"\"So, what was their reply?\""
 		]
 	},
 	{
@@ -489,9 +486,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"«I'll tell you all about it when you become useful.» ",
-			"So I've decided to cooperate fully with you people.",
-			"That's why i chose to speak at my trial.\""
+			"\"He replied, \"I'll tell you all about it when you become useful.\"",
+			"That's why I've decided to fully cooperate with you all.",
+			"That was the reason I spoke up at my trial.\""
 		]
 	},
 	{
@@ -513,7 +510,7 @@
 	{
 		"STRINGS": [
 			"Academics are beyond my comprehension.",
-			"The word «Eccentric» is appropriate I think."
+			"The word \"eccentric\" is appropriate."
 		]
 	},
 	{
@@ -532,7 +529,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -563,8 +560,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"You're not used to being",
-			"approached by men, are you?\""
+			"\"You're not used to being approached by men, are you?\""
 		]
 	},
 	{
@@ -587,7 +583,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -618,7 +614,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"I'm not opposed to being scolded by a woman.",
+			"\"I don't dislike to being scolded by a woman, you know.",
 			"There wasn't much of a reason.",
 			"I found out about you from a magazine.\""
 		]
@@ -643,9 +639,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I heard that there was a very beautiful",
-			"detective at the station that had",
-			"jurisdiction over the City C.\""
+			"\"There was a very beautiful detective at the station",
+			"that has jurisdiction over C Town, it said.\""
 		]
 	},
 	{
@@ -684,11 +679,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, hey, Hojo, what are you going to do?",
+			"\"Oy oy, Hojou, what are you going to do?",
 			"You've got a murderer hitting on you.\""
 		]
 	},
@@ -716,9 +711,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I didn't mean to.",
-			"Or should I say, I fell in love",
-			"with you at first sight?\""
+			"\"That wasn't my intention.",
+			"Or would you prefer I said I fell in love with you at first sight?\""
 		]
 	},
 	{
@@ -739,9 +733,9 @@
 	},
 	{
 		"STRINGS": [
-			"Sekimoto's jaw hung loose.",
-			"Is he trying to catch us off guard with his",
-			"light-hearted words? ...He's so hard to read."
+			"Sekimoto's mouth had loosened.",
+			"Is he trying to catch us off guard with his witty talk?",
+			"...He's so hard to read."
 		]
 	},
 	{
@@ -758,8 +752,7 @@
 	},
 	{
 		"STRINGS": [
-			"It's best not to take the bait",
-			"if hes even aiming for that.",
+			"However, this bewilderment may have been what he was aiming for.",
 			"So I decided to play it cool and keep a straight face."
 		]
 	},
@@ -779,12 +772,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Sorry to break it to you, but I still think the ",
-			"higher-ups are skeptical of your story.\""
+			"\"Sorry to break it to you, but I think",
+			"the higher-ups are still skeptical of your story.\""
 		]
 	},
 	{
@@ -856,8 +849,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"You're trying to get back at me",
-			"for talking down to you earlier.\""
+			"\"Are you trying to get back at me for talking down to you earlier?\""
 		]
 	},
 	{
@@ -880,7 +872,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -913,7 +905,7 @@
 	{
 		"STRINGS": [
 			"\"Then why would you think that?",
-			"I'd like to know why.\"　"
+			"I'd like to know why.\""
 		]
 	},
 	{
@@ -936,7 +928,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -967,8 +959,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Aren't you the three best",
-			"detectives in the department?\""
+			"\"Aren't you guys a trio of capable detectives",
+			"from the First Investigative Division?\""
 		]
 	},
 	{
@@ -1019,7 +1011,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -1123,8 +1115,8 @@
 	{
 		"STRINGS": [
 			"\"I'm sorry to disappoint you, but we're not.",
-			"We' re not in charge of violent cases",
-			"like murders, robberies, break-ins, sex crimes.\""
+			"We're not in charge of violent cases",
+			"like murders, robberies, break-ins, or sex crimes.\""
 		]
 	},
 	{
@@ -1151,7 +1143,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"So......what?\""
+			"\"Then... What are you in charge of?\""
 		]
 	},
 	{
@@ -1178,7 +1170,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"We go by the name «Special Agent».\""
+			"\"We are nicknamed the \"Special Division\".\""
 		]
 	},
 	{
@@ -1233,7 +1225,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Meaning...?\""
+			"\"Special... Division?\""
 		]
 	},
 	{
@@ -1255,8 +1247,7 @@
 	{
 		"STRINGS": [
 			"Sekimoto's expression faltered slightly.",
-			"It was the first time he had actually",
-			"responded to our words."
+			"It was the first time our words stuck out to him."
 		]
 	},
 	{
@@ -1279,8 +1270,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"The official name is «Special Police Division,",
-			"City C Devision, S Prefecture.»"
+			"\"The official name is \"C Town, S Prefecture Substation,",
+			"Specialized Patrol Division\"."
 		]
 	},
 	{
@@ -1289,8 +1280,9 @@
 	},
 	{
 		"STRINGS": [
-			"was created.",
-			"Our job is to verify evidence.\""
+			" A demonstrational section",
+			"established after the formulation of revisions to the",
+			"organizational division once sectioned by criminal field."
 		]
 	},
 	{
@@ -1313,10 +1305,10 @@
 	},
 	{
 		"STRINGS": [
-			"\"The main purpose is to arrange appropriate",
+			"\"Our main purpose is to arrange appropriate",
 			"support personnel to deal with each department",
-			"and each case for the purpose of flexible",
-			"operation of investigation.\""
+			"and each circumstance for the purpose of flexible",
+			"management of investigation personnel.\""
 		]
 	},
 	{
@@ -1339,9 +1331,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"At the same time, maintaining past case files and",
-			"analyzing information on unsolved cases.",
-			"Do you understand?\""
+			"\"And at the same time, we manage past case files,",
+			"analyze information on unsolved cases, and",
+			"maintain investigational systems. Do you understand?\""
 		]
 	},
 	{
@@ -1392,7 +1384,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"In other words, a useless department.",
+			"\"In other words, a department for rejects.",
 			"They call on you to fill in the empty spaces",
 			"when they're to busy to do it themselves.\""
 		]
@@ -1449,14 +1441,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"You're right on the money!",
-			"This is the only department that goes side-to-side",
+			"\"You go straight to the point, don't you?",
+			"But, this is the only department that goes side-to-side",
 			"in an organization that goes top-to-bottom.",
-			"At least we get good ventilation.\""
+			"At least we get open communication.\""
 		]
 	},
 	{
@@ -1479,13 +1471,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Anyway, as a result of your inability to deal with",
-			"the unprecedented situation you've caused,",
-			"you've been put on the back burner.\""
+			"\"Anyway, as a result of the police's inability to deal with",
+			"the unprecedented situation you've caused, you were",
+			"handed around since no one wanted the responsibility.\""
 		]
 	},
 	{
@@ -1504,12 +1496,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Then, the task fell to us, the Special Affairs",
-			"Section, who could never say no.\""
+			"\"Then, the task fell to us,",
+			"the Special Division, who could never say no.\""
 		]
 	},
 	{
@@ -1530,9 +1522,8 @@
 	},
 	{
 		"STRINGS": [
-			"It doesn't feel good to self-identify",
-			"as a useless blowhard. But it's better",
-			"to let people know the facts as they are."
+			"It doesn't feel good to admit we're a hangout for useless castaways.",
+			"But it's better to let him know the facts as they are."
 		]
 	},
 	{
@@ -1568,8 +1559,7 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori-san looked at him as",
-			"if to say, \"You must be disappointed.\""
+			"Kazamori looked at him as if to say, \"A let-down, isn't it?\""
 		]
 	},
 	{
@@ -1592,9 +1582,9 @@
 	},
 	{
 		"STRINGS": [
-			"\"I get it.",
-			"Useless detectives and an unruly defendant.",
-			"This is shaping up to be fun.\""
+			"\"I see now.",
+			"Useless detectives and an unruly defendant, huh?",
+			"This is shaping up to be interesting.\""
 		]
 	},
 	{
@@ -1641,7 +1631,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [

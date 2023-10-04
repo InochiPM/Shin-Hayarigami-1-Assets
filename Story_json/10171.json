@@ -77,13 +77,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Well, if it's personal, it's none of my business.",
-			"However, you keep making strange statements.",
-			"They might be of"
+			"However, you keep repeating that strange statement.",
+			"It might be of"
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			" interest "
+			" interest to us."
 		]
 	},
 	{
@@ -101,7 +101,7 @@
 	},
 	{
 		"STRINGS": [
-			"to us.\""
+			"\""
 		]
 	},
 	{
@@ -152,13 +152,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Huh. Well, I'm flattered.",
-			"Would it make you feel better if",
-			"I said, «I'm thrilled»......?\""
+			"\"Hah. I'm flattered.",
+			"I feel even inspired...",
+			"Would it make you feel better if I said that?\""
 		]
 	},
 	{
@@ -181,11 +181,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Nope, that kind of compliment",
+			"\"Nope, that sort of compliment",
 			"won't help us one iota in our investigation.\""
 		]
 	},
@@ -233,11 +233,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Huh. ...Well, I guess so.\""
+			"\"Hah. ...Well, I guess so.\""
 		]
 	},
 	{
@@ -254,8 +254,8 @@
 	},
 	{
 		"STRINGS": [
-			"Then He smiled. A smile that could",
-			"be taken as self-mockery or sarcasm."
+			"Saying so, a smile formed on his face,",
+			"one that could be taken as either self-mockery or sarcasm."
 		]
 	},
 	{
@@ -296,8 +296,8 @@
 	},
 	{
 		"STRINGS": [
-			"I can't continue the current futile exchange.",
-			"I guess I'd better be more careful in my replies."
+			"I can't afford to continue with this futile exchange.",
+			"I guess I'd better be more careful with my replies."
 		]
 	},
 	{

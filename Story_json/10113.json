@@ -73,11 +73,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Someone infected by your"
+			"\"If I was like the victim who "
 		]
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			" lies "
+			"fell to your clutches"
 		]
 	},
 	{
@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"might",
-			"easy to fool with your words alone.\""
+			",",
+			"I might have been extremely easy to fool.\""
 		]
 	},
 	{
@@ -115,12 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"But I'll tell you what happens when",
-			"you fuck with the police.\""
+			"\"But, let me tell you what happens",
+			"when you mess with the police.\""
 		]
 	},
 	{
@@ -171,11 +171,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It's as if I'm a "
+			"\"You treat me as if a "
 		]
 	},
 	{
@@ -203,8 +203,7 @@
 	},
 	{
 		"STRINGS": [
-			"...... He gave a deep sigh and",
-			"threw me a disappointed glance."
+			"...He let off a deep sigh and threw me a disappointed glance."
 		]
 	},
 	{
@@ -245,8 +244,8 @@
 	},
 	{
 		"STRINGS": [
-			"I guess the way I responded was a mistake.",
-			"Maybe I should change the way I speak next time."
+			"Maybe the way I responded was mistaken...",
+			"Perhaps I should change the way I speak next time."
 		]
 	},
 	{

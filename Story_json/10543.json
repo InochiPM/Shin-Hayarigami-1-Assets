@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Um... Listen, Mr. Tsudanuma.",
-			"If you continue on i'll have to make a"
+			"If you continue any further, I'll have to "
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"STRINGS": [
-			" Criminal Case."
+			"assemble a case"
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 	{
 		"STRINGS": [
 			"",
-			"You dont want to held for obstruction do you?\""
+			"against you for obstruction of justice, understand?\""
 		]
 	},
 	{
@@ -144,13 +144,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Then let's start a big campaign too!",
-			"[A corrupt police force with no concept of rights!]",
-			"Wow, that's going to double our sales!\""
+			"\"Then I'll start a big campaign too!",
+			" 'Corrupt police with no concept of rights make messy investigation!' ",
+			"Wow, that's gonna double our sales!\""
 		]
 	},
 	{
@@ -173,11 +173,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Are you going to threaten...the police?\""
+			"\"...Are you threatening the police force?\""
 		]
 	},
 	{
@@ -200,12 +200,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"Please talk straight with me.",
-			"Were both grown adults here right?\""
+			"We're both grown adults here, right?\""
 		]
 	},
 	{
@@ -222,8 +222,8 @@
 	},
 	{
 		"STRINGS": [
-			"He pushes and pulls, but skillfully dodges.",
-			"This person must have gone through quite a few fights!"
+			"Come push or pull, he'll skillfully dodge.",
+			"This person must have survived quite a few scenes of carnage."
 		]
 	},
 	{
@@ -240,8 +240,8 @@
 	},
 	{
 		"STRINGS": [
-			"He must surely think of me as a",
-			"little girl who can be easily embraced."
+			"He must surely think of me as",
+			"a little girl who can be easily led by the nose."
 		]
 	},
 	{
@@ -259,7 +259,7 @@
 	{
 		"STRINGS": [
 			"This is the time to hold still and wait for an opening.",
-			"I'll hold on somehow, I told myself."
+			"I have to withstand somehow-- so I advised myself."
 		]
 	},
 	{

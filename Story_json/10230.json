@@ -81,12 +81,12 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 7,
-		"SELECT_ITEM_INFO": "１：I'm going to see Sekimoto.",
+		"SELECT_ITEM_INFO": "１：Go meet with Sekimoto.",
 		"UNK1": "00000000"
 	},
 	{
 		"STRINGS": [
-			"I'm going to see Sekimoto."
+			"Go meet with Sekimoto."
 		]
 	},
 	{
@@ -97,7 +97,7 @@
 		"TYPE": "SELECT_ITEM",
 		"UNK0": "08000e00",
 		"SELECT_ITEM_ID": 8,
-		"SELECT_ITEM_INFO": "２：That won't be necessary.",
+		"SELECT_ITEM_INFO": "２：No need for that.",
 		"UNK1": "00000000"
 	},
 	{
@@ -118,7 +118,7 @@
 	},
 	{
 		"STRINGS": [
-			"You interested in him?"
+			"Are you interested in him?"
 		]
 	},
 	{

@@ -145,11 +145,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Come ooooooooon!!!\""
+			"\"Enooooouuuugghhhh...!\""
 		]
 	},
 	{
@@ -170,8 +170,8 @@
 	},
 	{
 		"STRINGS": [
-			"The two of them engulfed me and I",
-			"freaked out and acted out in a panic."
+			"The two of them engulfed me and I freaked out,",
+			"acting out in a panic."
 		]
 	},
 	{
@@ -282,8 +282,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"Whoa!",
-			"What's going on here?!\""
+			"\"Wha-!?",
+			"What's going on here!?\""
 		]
 	},
 	{
@@ -304,9 +304,9 @@
 	},
 	{
 		"STRINGS": [
-			"The police rushed to the scene.",
-			"They crowded into the hearing room,",
-			"each carrying a fire extinguisher and a bucket."
+			"The station employees rushed to the scene.",
+			"They crowded into the interrogation room,",
+			"each carrying fire extinguishers and buckets."
 		]
 	},
 	{
@@ -423,8 +423,7 @@
 	},
 	{
 		"STRINGS": [
-			"Waiting for them were two nice",
-			"adults who were grabbing each other."
+			"Waiting for them were two grown adults grappling each other."
 		]
 	},
 	{
@@ -447,7 +446,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Where's the fire?\""
+			"\"Where's the fire-!?\""
 		]
 	},
 	{
@@ -470,12 +469,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"heh.....No, theres not..hahaha",
-			"Hey, Hojo!　Where did you go?\""
+			"\"...Heh. No, there's... Hahaha.",
+			"Damn you, Hojou! Where did you go-!?!\""
 		]
 	},
 	{
@@ -524,8 +523,7 @@
 	},
 	{
 		"STRINGS": [
-			"I decided to hide in the",
-			"bathroom until things cooled down."
+			"I decided to hide in the bathroom until things cooled down."
 		]
 	},
 	{
@@ -542,9 +540,8 @@
 	},
 	{
 		"STRINGS": [
-			"However, this did not help the situation,",
-			"and I was soon found and was",
-			"put through the wringer by Kazamori."
+			"However, this didn't help the situation.",
+			"I was soon found and put through the wringer by Kazamori."
 		]
 	},
 	{

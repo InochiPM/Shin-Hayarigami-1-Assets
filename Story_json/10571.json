@@ -73,13 +73,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"This conversation is going in circles.",
 			"Please give it up.",
-			"You talk as if you don't trust me?\""
+			"There's no way we can talk without mutual trust, understand?\""
 		]
 	},
 	{
@@ -130,13 +130,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"I see!　Trust!",
+			"\"I see! Trust!",
 			"Then why don't we have a drink tonight?",
-			"A drinking game.\""
+			"Let's bond over alcohol!\""
 		]
 	},
 	{

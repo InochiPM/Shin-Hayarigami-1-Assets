@@ -113,12 +113,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 14,
-		"NAME": "Sunahori Yuuko"
+		"NAME": "Yuuko Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"I'm really sorry, my husband",
-			"caused you a lot of trouble...\""
+			"\"I'm so sorry,",
+			"my husband caused you so much trouble...\""
 		]
 	},
 	{
@@ -141,12 +141,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"No, no, no. I was the one who",
-			"got upset and caused you trouble...!\""
+			"\"D-don't worry. We were the ones who caused you trouble...!\""
 		]
 	},
 	{
@@ -179,15 +178,15 @@
 	},
 	{
 		"STRINGS": [
-			"The one who kept bowing was Mr. Sunahori's wife.",
-			"Mrs. "
+			"The woman who kept bowing her head was",
+			"Mr. Sunahori's wife, Mrs. "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "24000a00",
 		"KEYWORD_ID": 3024,
-		"KEYWORD": "Sunahori Yuuka"
+		"KEYWORD": "Yuuko Sunahori"
 	},
 	{
 		"STRINGS": [
@@ -208,9 +207,8 @@
 	},
 	{
 		"STRINGS": [
-			"Apparently there was a commotion during the",
-			"interview and someone called to come",
-			"and pick him up anyway."
+			"Apparently, because of the commotion that took place in",
+			"the interview, someone called her to come and pick him up."
 		]
 	},
 	{
@@ -231,7 +229,7 @@
 	},
 	{
 		"STRINGS": [
-			"Yuko and I kept bowing our heads to each other."
+			"Ms. Yuuko and I kept bowing our heads to each other."
 		]
 	},
 	{
@@ -248,7 +246,7 @@
 	},
 	{
 		"STRINGS": [
-			"Right beside her was their son "
+			"Accompanying right beside her was their son, "
 		]
 	},
 	{
@@ -259,13 +257,12 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "0c000a00",
 		"KEYWORD_ID": 3025,
-		"KEYWORD": "Sunahori Satoshi"
+		"KEYWORD": "Satoshi Sunahori"
 	},
 	{
 		"STRINGS": [
-			".",
-			"but she doesn't know what",
-			"the situation is yet."
+			",",
+			"but he doesn't seem to know what the situation is about yet."
 		]
 	},
 	{
@@ -352,11 +349,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 13,
-		"NAME": "Sunahori Masaharu"
+		"NAME": "Masaharu Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Yuko, that's enough.",
+			"\"Yuuko, that's enough.",
 			"If anything, he's the one who started it all.\""
 		]
 	},
@@ -380,11 +377,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 14,
-		"NAME": "Sunahori Yuuko"
+		"NAME": "Yuuko Sunahori"
 	},
 	{
 		"STRINGS": [
-			"\"Dear!\""
+			"\"Dear...!\""
 		]
 	},
 	{
@@ -447,13 +444,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Hojo, leave it at that.",
-			"Anyway, I'll make sure to",
-			"corroborate everything later.\""
+			"\"Hojou, leave it at that.",
+			"Anyway, I'll make sure to corroborate everything later.\""
 		]
 	},
 	{
@@ -480,12 +476,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"But thats what i was saying...!",
-			"You spoke one word to many..!\""
+			"\"I told you already, Kazamori...!",
+			"You keep speaking one word too many..!\""
 		]
 	},
 	{

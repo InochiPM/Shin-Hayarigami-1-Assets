@@ -69,12 +69,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Don't get quiet on me now!",
-			"Don't take this the wrong way!",
+			"\"Uh oh, you got all quiet.",
+			"Please don't take this the wrong way!",
 			"It's just a drink at the pub!\""
 		]
 	},
@@ -92,7 +92,7 @@
 	},
 	{
 		"STRINGS": [
-			"I didn't mean it that way...",
+			"I didn't really mean it that way...",
 			"I was just at a loss for words, that's all."
 		]
 	},

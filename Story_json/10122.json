@@ -157,7 +157,7 @@
 	},
 	{
 		"STRINGS": [
-			"The more you lean toward [Sincere] the better."
+			"The more you lean toward [Sincere], the better."
 		]
 	},
 	{
@@ -216,7 +216,7 @@
 	},
 	{
 		"STRINGS": [
-			"Story Progression"
+			"the story progression"
 		]
 	},
 	{
@@ -229,7 +229,8 @@
 	},
 	{
 		"STRINGS": [
-			" and the amount of"
+			" and the amount of",
+			""
 		]
 	},
 	{
@@ -255,7 +256,7 @@
 	},
 	{
 		"STRINGS": [
-			" ."
+			" recovered."
 		]
 	},
 	{
@@ -297,7 +298,7 @@
 	},
 	{
 		"STRINGS": [
-			"The point is to judge well the character of"
+			"Your objective is to properly judge the character of"
 		]
 	},
 	{
@@ -314,7 +315,7 @@
 	},
 	{
 		"STRINGS": [
-			"the other person and the situation at hand."
+			"the opponent and consider the situation at hand."
 		]
 	},
 	{

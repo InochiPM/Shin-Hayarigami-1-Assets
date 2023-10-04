@@ -69,7 +69,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -94,8 +94,7 @@
 	},
 	{
 		"STRINGS": [
-			"Quietly, but with a strong will,",
-			"I suppressed his words.",
+			"Quietly, but with a strong will, I suppressed his words.",
 			"I can't keep playing his games any longer."
 		]
 	},
@@ -143,11 +142,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Phew ...... Well, okay.",
+			"\"Sigh... Well, okay.",
 			"I'm not in charge here, you are.\""
 		]
 	},
@@ -169,7 +168,7 @@
 	},
 	{
 		"STRINGS": [
-			"Despite his pretense of obedience,",
+			"Despite his pretense of unaffected obedience,",
 			"I felt a strange pressure from him."
 		]
 	},
@@ -187,8 +186,8 @@
 	},
 	{
 		"STRINGS": [
-			"Perhaps inspired by this attitude of ",
-			"generosity, a gut feeling binds me."
+			"Perhaps provoked by his composed demeanour,",
+			"a gut feeling bound me."
 		]
 	},
 	{
@@ -205,7 +204,7 @@
 	},
 	{
 		"STRINGS": [
-			"Don't let your guard down around him, they said."
+			"Don't let your guard down around him, it said."
 		]
 	},
 	{
@@ -224,7 +223,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [

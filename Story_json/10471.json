@@ -85,11 +85,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ugh...My heads still all messed up.\""
+			"\"Afh... My head's still all messed up.\""
 		]
 	},
 	{
@@ -118,8 +118,7 @@
 	},
 	{
 		"STRINGS": [
-			"I put the cold juice I had just",
-			"purchased against my forehead.",
+			"I put the cold juice I had just purchased against my forehead.",
 			"At any rate, there are still too many missing elements.",
 			"That's all I know right now."
 		]
@@ -139,7 +138,7 @@
 	{
 		"STRINGS": [
 			"How should we proceed with the investigation now?",
-			"What are the points still overlooked?"
+			"What points are we still overlooking?"
 		]
 	},
 	{
@@ -156,10 +155,9 @@
 	},
 	{
 		"STRINGS": [
-			"We also have to corroborate the alibis",
-			"of the people we interviewed.",
-			"And at the same time,",
-			"we have to look for new witnesses."
+			"We also have to corroborate the alibis of",
+			"the people we interviewed.",
+			"And at the same time, look for new witnesses."
 		]
 	},
 	{
@@ -177,8 +175,8 @@
 	{
 		"STRINGS": [
 			"The same goes for physical evidence.",
-			"We must always cooperate with Misuzu and",
-			"hope for new physical evidence."
+			"It is indispensable for us to cooperate with Misuzu",
+			"and hope it produces new evidence."
 		]
 	},
 	{
@@ -197,12 +195,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"There's...",
-			"...Quite a lot to do.\""
+			"...quite a lot of things to do.\""
 		]
 	},
 	{
@@ -225,8 +223,8 @@
 		"STRINGS": [
 			"We mustn't rush things.",
 			"We must proceed calmly and methodically.",
-			"If we don't, we will be at the mercy of the criminals",
-			"who are lurking somewhere out there."
+			"If we don't, we will be at the mercy of the criminal",
+			"who's still lurking somewhere out there."
 		]
 	},
 	{
@@ -243,9 +241,10 @@
 	},
 	{
 		"STRINGS": [
-			"I think i need some rest.",
-			"I closed my eyes and got",
-			"into a comfortable position."
+			"I think I need to get some rest first,",
+			"even if it's only for just a little while.",
+			"I closed my eyes and got into a comfortable position.",
+			"And that's when it happened."
 		
 		]
 	},
@@ -365,7 +364,7 @@
 	},
 	{
 		"STRINGS": [
-			"\"Hello?...Excuse me, do you have a minute?\""
+			"\"Hello... Excuse me, do you have a minute?\""
 		]
 	},
 	{
@@ -392,7 +391,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -481,10 +480,9 @@
 	},
 	{
 		"STRINGS": [
-			"I was just resting, but I was totally exhausted.",
-			"I slowly raised my body and looked in the",
-			"direction of the voice, and saw a man",
-			"standing there with a hint of a smile on his face."
+			"Jeez, there goes a precious moment of rest.",
+			"I slowly raised my body and looked in the direction of the voice,",
+			"where I saw a man standing there with a hint of a smile on his face."
 		]
 	},
 	{
@@ -501,9 +499,9 @@
 	},
 	{
 		"STRINGS": [
-			"We've never met before.",
-			"He's not an employee of the branch office.",
-			"I wonder who he is."
+			"This is my first time meeting him.",
+			"He's not an employee of the substation.",
+			"I wonder who he is?"
 		]
 	},
 	{
@@ -554,8 +552,8 @@
 	},
 	{
 		"STRINGS": [
-			"\"I'm sorry to interrupt your...leisurely nap.",
-			"Seems like i'm always doing that.\""
+			"\"Sorry about disturbing your rest.",
+			"I'm just that type of person.\""
 		]
 	},
 	{
@@ -576,10 +574,9 @@
 	},
 	{
 		"STRINGS": [
-			"The man showed me his business card.",
-			"It was a simple design with only black",
-			"letters on a white background.",
-			"It had only his title and name written on it."
+			"The man skillfully took out and showed me his business card.",
+			"It had a simple design with only black letters on a white background.",
+			"The only things written on it were his name and job title."
 		]
 	},
 	{
@@ -619,7 +616,7 @@
 		"TYPE": "KEYWORD",
 		"UNK0": "0c000a00",
 		"KEYWORD_ID": 3031,
-		"KEYWORD": "Tsudanuma Youichi"
+		"KEYWORD": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -640,9 +637,9 @@
 	},
 	{
 		"STRINGS": [
-			"There wasn't address or phone number on it.",
+			"There wasn't an address or phone number on it.",
 			"It would take less than five minutes to make",
-			"something like this if I wanted to."
+			"something like this if you wanted to."
 		]
 	},
 	{
@@ -695,9 +692,9 @@
 	},
 	{
 		"STRINGS": [
-			"Perhaps sensing my suspicion, the corners of",
-			"his mouth turned up even more,",
-			"making him more suspicious."
+			"Perhaps sensing my suspicion,",
+			"the corners of his mouth lifted up even more,",
+			"further increasing his dubiousness."
 		]
 	},
 	{
@@ -716,12 +713,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Thank you so much for your daily investigations.",
-			"Can I ask you a few questions?\""
+			"\"Thank you so much for investigating crime every day.",
+			"May I have some small talk with you?\""
 		]
 	},
 	{
@@ -744,7 +741,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -800,7 +797,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -823,7 +820,7 @@
 	{
 		"STRINGS": [
 			"He pulled back without handing over his business card.",
-			"His hands, now free, had become clasped together",
+			"His hands, now free, were clasped together,",
 			"moving in a rubbing motion."
 		]
 	},
@@ -871,13 +868,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"It's a weekly magazine in the metropolitan area.",
-			"You've'never heard of \"Weekly Salary\" have you?",
-			"It is not a magazine for young women.\""
+			"\"I'm from the editorial department of a Tokyoite weekly magazine.",
+			"Have you ever heard of... \"Weekly Salary\"? No?",
+			"Well, it's not a magazine for young women anyhow.\""
 		]
 	},
 	{
@@ -941,9 +938,8 @@
 	},
 	{
 		"STRINGS": [
-			"It's a magazine for old businessmen,",
-			"and its contents include politics, events,",
-			"entertainment, and financial technology.",
+			"It's a magazine for older salarymen.",
+			"Its contents include politics, events, entertainment, and finance.",
 			"These themes are seasoned with a gossipy flavor."
 		]
 	},
@@ -961,9 +957,9 @@
 	},
 	{
 		"STRINGS": [
-			"I think it was the structure of the magazine",
-			"that agitated the theme that smelled a bit",
-			"fishy by spreading it out to a point of concern."
+			"I believe the structure of the magazine lend itself well",
+			"to fanning the flames and even making mountains out of molehills",
+			"of the subject matters, no matter how shady it was."
 		]
 	},
 	{
@@ -980,9 +976,9 @@
 	},
 	{
 		"STRINGS": [
-			"Anyway, they seem like a nasty opponent.",
-			"If you say something bad, you can be sure",
-			"that it will be written in a very exaggerated way."
+			"Anyway, they seem like a nasty fellow.",
+			"If I utter something I shouldn't, I can be sure that",
+			"it will be reported on in a very hyperbolic manner."
 		]
 	},
 	{
@@ -999,8 +995,8 @@
 	},
 	{
 		"STRINGS": [
-			"If they knew I was involved in something like this,",
-			"I would get major flak."
+			"If he realizes I'm involved in the case,",
+			"I'm going to get major flak from the Chief."
 		]
 	},
 	{
@@ -1049,8 +1045,8 @@
 	},
 	{
 		"STRINGS": [
-			"Tsudanuma pulled an IC recorder from",
-			"his pocket with a smile on his face."
+			"Mr. Tsudanuma pulled out a digital voice recorder",
+			"from his breast pocket without ceasing to smile."
 		]
 	},
 	{
@@ -1077,11 +1073,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"May I ask you to tell us your story...?",
+			"\"May I ask you to tell us your... story?",
 			"Of course, we won't name names.\""
 		]
 	},
@@ -1103,10 +1099,9 @@
 	},
 	{
 		"STRINGS": [
-			"Censoring the names? Seriously?",
-			"We cannot afford to bo taken for fools.",
-			"They'll identify the source pretty quickly and",
-			"give us a hard time about it anyway."
+			"Omitting my name would be a pointless gesture.",
+			"The police force shouldn't be taken for fools.",
+			"They'd identify the source no matter what and give me a scolding."
 		]
 	},
 	{
@@ -1124,7 +1119,7 @@
 	{
 		"STRINGS": [
 			"I smiled faintly.",
-			"Of course, it was to catch him off guard."
+			"Naturally, it was to make him drop his guard."
 		]
 	},
 	{
@@ -1143,13 +1138,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sorry but you won't get anything good",
-			"from talking to a low rank guy like me.",
-			"I think you should aim higher up.\""
+			"\"...I'm sorry, but you won't get anything good",
+			"from talking to a lowly officer like me.",
+			"Shouldn't you be aiming a little higher?\""
 		]
 	},
 	{
@@ -1200,14 +1195,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Again, humble yourself.",
-			"You are very famous, are you not?",
-			"You were chosen to be the chaperone",
-			"of that murderous professor.\""
+			"\"Once again, you humble yourself. Aren't you famous?",
+			"You were chosen to be the chaperone of",
+			"that murderous professor, after all.\""
 		]
 	},
 	{
@@ -1242,13 +1236,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What...How did you?!...",
-			"Me?? Famous??",
-			"Where did you pull that from?\""
+			"\"Eh... How do you...!?",
+			"Me!? Famous!?",
+			"Where did you pull that from!?\""
 		]
 	},
 	{
@@ -1299,13 +1293,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Hahaha! I'm not your average nobody you know.",
-			"I have to do a good job to survive in these",
-			"days of publishing recession.\""
+			"\"Hahaha! I'm not a journalist just for show.",
+			"I have to do a good job in order to survive in",
+			"these days of devastating publishing recession.\""
 		]
 	},
 	{
@@ -1352,13 +1346,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"It's called keeping your sources secret.",
 			"I'm sorry, but I can't tell you.",
-			"Hey, Hojo Saki-san?\""
+			"Got it, Ms. Saki Hojou?\""
 		]
 	},
 	{
@@ -1378,7 +1372,7 @@
 			"He even knows my full name...",
 			"What in the world is happening",
 			"with the info management system?",
-			"I could not help but be amazed."
+			"I couldn't help but be amazed."
 		]
 	},
 	{
@@ -1425,11 +1419,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Did you see who the Blindman was?\""
+			"\"Do you know who Blindman is?\""
 		]
 	},
 	{
@@ -1450,8 +1444,8 @@
 	},
 	{
 		"STRINGS": [
-			"You're joking...He also has that information?",
-			"The only people who know about \"Blind Man\" are",
+			"You're joking... He also knows that?",
+			"The only people who know about \"Blindman\" are",
 			"Kazamori, Chief Kuroda, Misuzu, Sekimoto and myself."
 		]
 	},
@@ -1471,12 +1465,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Oh please, where on earth did",
-			"you get that information from?\""
+			"\"Please tell me, where on earth did",
+			"you obtain that information from?\""
 		]
 	},
 	{
@@ -1527,13 +1521,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Various places, Various people.",
-			"I have my own social life, too.",
-			"Will you give that up already?\""
+			"\"Various places, various people.",
+			"Even I have a social life.",
+			"Now, let's forget about that, alright?\""
 		]
 	},
 	{
@@ -1580,13 +1574,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Well, that's the catch.",
-			"I think your information has made it clear how ",
-			"important it is for us to know about \"The Blindman.\"\""
+			"\"Well, here's the deal.",
+			"My information on you has made it clear",
+			"how important \"Blindman.\" is to the case.\""
 		]
 	},
 	{
@@ -1607,10 +1601,9 @@
 	},
 	{
 		"STRINGS": [
-			"This is bad, my whole gut turns on its head.",
-			"If I don't do something, they might write a",
-			"full-page gossip spread just based",
-			"on our current exchange."
+			"This is bad. A horrible premonition pierces my whole body.",
+			"At this rate, he might write a full-page gossip spread",
+			"just based on our current exchange."
 		]
 	},
 	{
@@ -1627,8 +1620,8 @@
 	},
 	{
 		"STRINGS": [
-			"Perhaps sensing my impatience, Tsudanuma's",
-			"expression grew increasingly sullen."
+			"Perhaps sensing my impatience,",
+			"Mr. Tsudanuma's smile grew increasingly wider."
 		]
 	},
 	{
@@ -1680,12 +1673,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Sorry, but I'm not in a",
-			"position to speak about it publicly.\""
+			"\"Forgive me, but I'm not in a position to speak about it publicly.\""
 		]
 	},
 	{
@@ -1714,9 +1706,8 @@
 	},
 	{
 		"STRINGS": [
-			"I got up and tried to go back to the office.",
-			"But he blocked the exit to the",
-			"break room and got in my way."
+			"I stood up to make my way back to the Special Division's office.",
+			"However, he stood in my way, blocking the exit to the break room."
 		]
 	},
 	{
@@ -1751,13 +1742,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Hey, hey, hey, wait a minute!",
-			"You don't have to be so rude to me.",
-			"I don't mean to cause you any trouble.\""
+			"\"Wait, wait, wait, wait a minute please!",
+			"There's no need to be so harsh.",
+			"I don't mean to cause you any trouble, okay?.\""
 		]
 	},
 	{
@@ -1780,13 +1771,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Requesting the leak of investigative information that",
-			"entails confidentiality is nothing",
-			"short of harassment!\""
+			"\"Requesting the diclosure of investigative information,",
+			"which entails confidentiality, is nothing short of trouble!\""
 		]
 	},
 	{
@@ -1837,13 +1827,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"No, no, no! You have it all wrong!",
-			"The media is a two-way street.",
-			"For ages you police have been using the media.\""
+			"The media is a two-way street, isn't it?",
+			"You policemen have been using the media for ages.\""
 		]
 	},
 	{
@@ -1866,7 +1856,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -1881,8 +1871,8 @@
 	},
 	{
 		"STRINGS": [
-			". I can't count the number of ",
-			"cases where that has moved us to a solution.",
+			". The number of cases where",
+			"that has led to a resolution is uncountable.",
 			"Isn't that right?\""
 		]
 	},
@@ -1906,7 +1896,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1963,7 +1953,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
@@ -2015,13 +2005,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"If that's the case, then I guess I'll just",
-			"have to write the article as-is",
-			"about the current situation\""
+			"have to write the article about this case as-is...\""
 		]
 	},
 	{
@@ -2044,11 +2033,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Please do so then.\""
+			"\"Please do so then. Goodbye.\""
 		]
 	},
 	{
@@ -2105,7 +2094,7 @@
 	},
 	{
 		"STRINGS": [
-			"I said shortly and started to walk away."
+			"I curtly said over my shoulder and started to walk away."
 		]
 	},
 	{
@@ -2124,12 +2113,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"[New Developments in the C Town Murder Case!]",
-			"[Top-secret contact with the murder professor!]\""
+			"\" 'New Developments in Town C Murder Case!",
+			"Investigation HQ in Top-secret Contact with the Murder Professor!?' \""
 		]
 	},
 	{
@@ -2204,7 +2193,7 @@
 	{
 		"STRINGS": [
 			"When I turned around, he was still",
-			"smiling that same sarcastic smile."
+			"smiling that same tasteless smile."
 		]
 	},
 	{
@@ -2223,12 +2212,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"[The C-Town Murder Case is an Urban Legend!?]",
-			"[The Mystery Behind the Blind Man!]\""
+			"\" 'Key to Town C Murder Case is an Urban Legend!?",
+			"The Mystery Surrounding Blindman!' \""
 		]
 	},
 	{
@@ -2251,11 +2240,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What are you talking about?\""
+			"\"What are you saying?\""
 		]
 	},
 	{
@@ -2302,13 +2291,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"No, I was just trying to figure out",
-			"what would be a good headline for the article.",
-			"Well, it's my job, you know?\""
+			"\"Well, I was just trying to figure out what",
+			"would be a good headline for the article.",
+			"It's also part of my job, you know?\""
 		]
 	},
 	{
@@ -2351,14 +2340,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"Oh, how about this one...",
-			"[The beautiful detective delirious!?]",
-			"[Swooping in on a secret meeting",
-			"with a murderous professor!]\""
+			" 'Beautiful Detective Lovestruck!?",
+			"Uncovering Secret Meeting with the Murder Professor!!' \""
 		]
 	},
 	{
@@ -2385,11 +2373,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Mr. Tsudanuma!\""
+			"\"Mr. Tsudanuma!!\""
 		]
 	},
 	{
@@ -2406,8 +2394,8 @@
 	},
 	{
 		"STRINGS": [
-			"With a strong tone I stopped his well-spun tongue.",
-			"But it also resulted in exposing my impatience."
+			"With a strong tone I stopped his loose tongue.",
+			"But, that also resulted in the exposure of my impatience."
 		]
 	},
 	{
@@ -2424,8 +2412,8 @@
 	},
 	{
 		"STRINGS": [
-			"All I can say is that I got tangled",
-			"up with that troublesome reporter."
+			"All I can say is, I got tangled up",
+			"with a troublesome reporter."
 		]
 	},
 	{

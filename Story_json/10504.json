@@ -69,13 +69,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"What the matter, you got all quite all of a sudden.",
-			"It's good to be tight-lipped.",
-			"It's a sign that you have some information.\""
+			"\"What's the matter, you got all quiet all of a sudden.",
+			"But, you being tight-lipped is a good sign.",
+			"That's evidence that you have some info.\""
 		]
 	},
 	{
@@ -92,9 +92,8 @@
 	},
 	{
 		"STRINGS": [
-			"Apparently he has a personality that won't give up...",
-			"He seems to be even more obsessed with",
-			"me because I didn't respond."
+			"...Looks like he has an unyielding personality to the end.",
+			"He seems to be even more fixated on me because I didn't respond."
 		]
 	},
 	{

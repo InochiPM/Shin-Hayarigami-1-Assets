@@ -175,7 +175,7 @@
 	},
 	{
 		"STRINGS": [
-			"Tutorial: Scene Tree"
+			"Tutorial: Branching Tree"
 		]
 	},
 	{
@@ -200,7 +200,7 @@
 	},
 	{
 		"STRINGS": [
-			"This is the Scene Tree."
+			"This is the Branching Tree."
 		]
 	},
 	{
@@ -263,7 +263,7 @@
 	},
 	{
 		"STRINGS": [
-			"Moreover, you can get ot this menu by"
+			"Additionally, you can get to this menu by"
 		]
 	},
 	{
@@ -450,7 +450,7 @@
 	},
 	{
 		"STRINGS": [
-			"The Highlighted line and icons are the path your on."
+			"The highlighted line and icons are the path you are on."
 		]
 	},
 	{
@@ -547,7 +547,7 @@
 	},
 	{
 		"STRINGS": [
-			"Moreover the tree features a jump function, that"
+			"Furthermore, the tree features a jump function, that"
 		]
 	},
 	{
@@ -673,7 +673,7 @@
 	},
 	{
 		"STRINGS": [
-			"Please note, when you start over the Keywords"
+			"Please note, when you start over, the Keywords"
 		]
 	},
 	{
@@ -690,7 +690,7 @@
 	},
 	{
 		"STRINGS": [
-			"And the path you have taken will remain the same"
+			"and the path you have taken will remain the same"
 		]
 	},
 	{

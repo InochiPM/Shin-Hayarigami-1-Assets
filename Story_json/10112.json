@@ -73,11 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'll report it to the D.A. in charge."
+			"\"I'll be reporting this to the D.A. in charge,",
+			"Soujirou Sekimoto is a "
 		]
 	},
 	{
@@ -90,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"Sojiro Sekimoto is a man of "
+			"compulsive liar"
 		]
 	},
 	{
@@ -99,7 +100,7 @@
 	},
 	{
 		"STRINGS": [
-			"extraordinary lies.\""
+			".\""
 		]
 	},
 	{
@@ -122,13 +123,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You' re the ones who couldn't find any",
-			"clues to the case, right? I'm sure I've helped",
-			"a great deal with this information alone.\""
+			"\"You were unable to find any leads to this case, no?",
+			"I'm sure I've helped a great deal with this information alone.\""
 		]
 	},
 	{
@@ -151,13 +151,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"So you think you've defended yourself?",
-			"All we have is a sense of futility, of being at the",
-			"mercy of your complacency.\""
+			"\"So you think you've acquitted yourself?",
+			"All we have is a feeling of wasted effort,",
+			"of being led around by the nose for your own satisfaction.\""
 		]
 	},
 	{
@@ -208,11 +208,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Fu...he he",
+			"\"Fu...kukuku...",
 			"You're a fool, really.\""
 		]
 	},
@@ -254,8 +254,9 @@
 	},
 	{
 		"STRINGS": [
-			"Is he trying to mess with the police?",
-			"I can't decide if he's just playing with us or not."
+			"He was just playing with the police, hm?",
+			"I can't seem to decide whether he's just a",
+			"criminal that takes delight in our reactions or not."
 		]
 	},
 	{
@@ -272,10 +273,9 @@
 	},
 	{
 		"STRINGS": [
-			"I'm not sure if I should blame him",
-			"for the way things are.",
-			"Or I'm not sure if I should drastically",
-			"change the way I treat him."
+			"I'm not sure what I should do.",
+			"Should I press him as things are now?",
+			"Or should I completely change my approach?"
 		]
 	},
 	{

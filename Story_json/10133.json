@@ -73,7 +73,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -86,7 +86,7 @@
 	},
 	{
 		"STRINGS": [
-			"Shut up!"
+			"Be quiet!"
 		]
 	},
 	{
@@ -95,7 +95,7 @@
 	},
 	{
 		"STRINGS": [
-			" I'm sick of this!\""
+			" I'm sick of this!!\""
 		]
 	},
 	{
@@ -118,13 +118,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You are quite attractive when you are agitated.",
-			"I even feel affection for you but...",
-			"I told you I don't have time for this.\""
+			"\"You're quite attractive when you are agitated.",
+			"I'm even getting some feelings for you, but...",
+			"Didn't I say that we have no time to waste?\""
 		]
 	},
 	{
@@ -147,12 +147,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Then you'll have to help me more.",
-			"I need more concrete testimony.",
+			"\"Then you'll have to be more helpful.",
+			"We need more concrete testimony.",
 			"This isn't a lecture hall where you can",
 			"show off your academic acumen.\""
 		]
@@ -177,12 +177,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Why don't you examine each and every,",
-			"one of my words a little bit?\""
+			"\"Why not try scrutinizing each and every",
+			"single word I speak a little closer?\""
 		]
 	},
 	{
@@ -199,7 +199,7 @@
 	},
 	{
 		"STRINGS": [
-			"I felt dizzy from the back-and-forth."
+			"I felt dizzy from this pointless back-and-forth."
 		]
 	},
 	{
@@ -216,10 +216,9 @@
 	},
 	{
 		"STRINGS": [
-			"How should I treat him?",
+			"How should I deal with him?",
 			"The only thing I am sure of is that trying to upset",
-			"him with an emotional response won't be",
-			"effective against him."
+			"him with an emotional response isn't effective."
 		]
 	},
 	{

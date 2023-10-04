@@ -151,9 +151,9 @@
 	},
 	{
 		"STRINGS": [
-			"Then I headed to the scene.",
-			"Kazamori slides into the passenger seat",
-			"as well as the other members piling into the backseat."
+			"Then I headed for the scene.",
+			"Just before starting, Kazamori slipped into the passenger's seat.",
+			"The other station members also manned their cars, and so we set out."
 		]
 	},
 	{
@@ -187,7 +187,7 @@
 	{
 		"STRINGS": [
 			"At the same time, everyone had a bad feeling.",
-			"Perhaps the next tragedy had occurred, they thought."
+			"Perhaps the next tragedy had already occurred, so we intuited."
 		]
 	},
 	{
@@ -234,13 +234,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Say Hojo",
-			"I'm wondering if, by any chance, the",
-			"prophecy of that jailhouse freak is going to come true.\""
+			"\"Hey, Hojou,",
+			"I'm wondering if, by any chance, that",
+			"jailhouse freak's prophecy is going to come true.\""
 		]
 	},
 	{
@@ -261,9 +261,9 @@
 	},
 	{
 		"STRINGS": [
-			"'\"There will be more victims.\"",
+			"\"There will be more victims.\"",
 			"Once I remembered those words,",
-			"I felt the heaviness in my stomach again."
+			"I felt a sudden heaviness in my stomach."
 		]
 	},
 	{
@@ -282,11 +282,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"How can I say that without being there!\""
+			"\"Uh, well... There's no way we can tell unless we go there...!\""
 		]
 	},
 	{

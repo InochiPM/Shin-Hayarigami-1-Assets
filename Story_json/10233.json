@@ -101,7 +101,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -156,7 +156,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
@@ -183,11 +183,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"No, Misuzu has had no flirtatious stories lately.\""
+			"\"Well, you haven't had any flirtatious stories lately.\""
 		]
 	},
 	{
@@ -218,8 +218,7 @@
 		"STRINGS": [
 			"Misuzu hasn't had a boyfriend in a while, I think?",
 			"She never talks about it, but I have a feeling she's",
-			"been a little nervous since she broke up with",
-			"her last boyfriend."
+			"been a little nervous since she broke up with her last boyfriend."
 		]
 	},
 	{
@@ -266,14 +265,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
 			"\"You know, Saki.",
-			"No matter how much I want to, I'm not in",
-			"enough trouble to want a murderer as a",
-			"potential boyfriend.\""
+			"No matter what you think of me, I'm not desperate enough",
+			"to consider a murderer as a candidate for my boyfriend.\""
 		]
 	},
 	{
@@ -292,12 +290,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"It's true that I have a lot of",
-			"time on my off days...\""
+			"\"It's certainly true that I've had more time than",
+			"I know what to do with on my days off, but...\""
 		]
 	},
 	{
@@ -368,13 +366,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Oh, is that so?",
-			"Then maybe I should try to be a",
-			"candidate for Misuzu's boyfriend!\""
+			"Then maybe I should apply as a candidate",
+			"for Misuzu-chan's boyfriend~!\""
 		]
 	},
 	{
@@ -421,11 +419,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 10,
-		"NAME": "Tachibana Misuzu"
+		"NAME": "Misuzu Tachibana"
 	},
 	{
 		"STRINGS": [
-			"\"No, thank you. I'll pass.\""
+			"\"I'll kindly decline.\""
 		]
 	},
 	{
@@ -466,8 +464,7 @@
 	},
 	{
 		"STRINGS": [
-			"He was rejected without hesitation,",
-			"Kazamori's hopes were dashed."
+			"Rejected without hesitation, Kazamori's hopes were dashed."
 		]
 	},
 	{
@@ -508,8 +505,8 @@
 	},
 	{
 		"STRINGS": [
-			"Anyway, if Misuzu wasn't that interested in him,",
-			"she wouldn't have to go out of her way to see him."
+			"Anyway, if Misuzu isn't interested in him in that way,",
+			"then it would be better if she didn't meet with him."
 		]
 	},
 	{

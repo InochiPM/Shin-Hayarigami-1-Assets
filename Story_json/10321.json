@@ -97,11 +97,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"...... Um, nice to meet you!\""
+			"\"...Um, nice to meet you.\""
 		]
 	},
 	{
@@ -124,7 +124,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
@@ -151,14 +151,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Wait a minute.",
+			"\"Wait a minute please.",
 			"Are you sure she's the right one?",
-			"I thought you said she was in",
-			"charge of a welfare facility?\""
+			"I thought you said she was the",
+			"manager of a welfare facility--?\""
 		]
 	},
 	{
@@ -207,8 +207,8 @@
 	},
 	{
 		"STRINGS": [
-			"She seemed to have sensed something in my confusion,",
-			"She shrunk into herself."
+			"Seemingly having sensed something in my confusion,",
+			"the woman in front of me shrunk into herself."
 		]
 	},
 	{
@@ -227,7 +227,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
@@ -291,23 +291,23 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\" I'm "
+			"\"I'm called "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "10000a00",
 		"KEYWORD_ID": 3027,
-		"KEYWORD": "Makimura Sanae"
+		"KEYWORD": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
 			".",
-			"Please to make your acquaintance....\""
+			"Pleased to make your acquaintance...\""
 		]
 	},
 	{
@@ -330,7 +330,7 @@
 		"STRINGS": [
 			"How can such a young girl be involved",
 			"with a person like Mr. Tamura?",
-			"They can't be in a relation ship can they?"
+			"It couldn't have been a relationship like Haruka's, could it...?"
 		]
 	},
 	{
@@ -349,13 +349,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"Technically, she's a representative.",
-			"She's the only one on the staff that we",
-			"can talk to properly right now.\""
+			"She's the only one on the staff that",
+			"we can directly talk to right now.\""
 		]
 	},
 	{
@@ -410,7 +410,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -465,12 +465,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Don't go digging up every little detail.",
-			"Do your job right and be mindful when interrogating her.",
+			"\"Don't go digging up every single little detail.",
+			"Please be mindful of that when interrogating her.",
 			"I'm counting on you two.\""
 		]
 	},
@@ -550,11 +550,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"And, hes gone...\""
+			"\"...And he's gone.\""
 		]
 	},
 	{
@@ -599,10 +599,10 @@
 	},
 	{
 		"STRINGS": [
-			"He told me to ask her the questions...",
-			"I looked to Kazamori as quickly as I could,",
-			"but he gestured over to me as if it was to much",
-			"effort for him."
+			"Anyway, he said we could ask her questions...",
+			"I looked to Kazamori for an instant, as I felt that",
+			"he was plotting something smelling of trouble,",
+			"but he only gestured to me for me to go first."
 		]
 	},
 	{
@@ -619,9 +619,8 @@
 	},
 	{
 		"STRINGS": [
-			"Why are the men of the Special Division",
-			"so freaking useless?",
-			"I turned to Sanae, unsure as what to say."
+			"Why are the men of the Special Division so useless...?",
+			"I turned to Sanae, breathing out a miniscule sigh."
 		]
 	},
 	{
@@ -672,14 +671,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sorry for the confusion.",
+			"\"Er, I'm sorry for the confusion.",
 			"I'll get started right away.",
-			"I'm Hojo, and that guy over there",
-			"is Kazamori. Nice to meet you.\""
+			"I'm Hojou, and that guy there is Kazamori. Nice to meet you.\""
 		]
 	},
 	{
@@ -702,11 +700,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Mhm...\""
+			"\"Hello...\""
 		]
 	},
 	{
@@ -729,12 +727,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You know about the murders that took",
-			"place in town the other day, right?.\""
+			"\"You know about the murder that took",
+			"place in town the other day, right?\""
 		]
 	},
 	{
@@ -757,12 +755,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
 			"\"Yes, I have heard some stories,",
-			"but I have't been watching the news lately.\""
+			"but I haven't been watching the news lately.\""
 		]
 	},
 	{
@@ -785,12 +783,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"We got an I.D. on the victim.",
-			"Kotaro Tamura, a bank employee.",
+			"\"We got an ID on the victim.",
+			"A Mr. Koutarou Tamura, a bank employee.",
 			"You know him, right?\""
 		]
 	},
@@ -814,11 +812,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"No...\""
+			"\"No.\""
 		]
 	},
 	{
@@ -853,11 +851,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"huh..? But I thought...\""
+			"\"Eh... You don't know?\""
 		]
 	},
 	{
@@ -880,12 +878,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
 			"\"Yeah. Not at all.",
-			"I've never met the guy.",
+			"I've never met with this man.",
 			"Sorry...\""
 		]
 	},
@@ -903,10 +901,9 @@
 	},
 	{
 		"STRINGS": [
-			"What is this about?",
-			"Why did we even summon her if",
-			"she's never met the man?",
-			"The smell of something suspicious was getting to me."
+			"What does this mean?",
+			"Why did we summon someone who's never met the victim?",
+			"...The smell of trouble hung in the air."
 		]
 	},
 	{
@@ -924,8 +921,8 @@
 	{
 		"STRINGS": [
 			"Again, I look to Kazamori.",
-			"Who's now deliberately ignoring",
-			"the situation....Great job."
+			"...Who's now deliberately acting like",
+			"he wasn't paying attention. Agh, jeez."
 		]
 	},
 	{
@@ -948,24 +945,23 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Perhaps This Mr. Tamura is related to the "
+			"\"Perhaps this Mr. Tamura is related to the "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "28000a00",
 		"KEYWORD_ID": 3028,
-		"KEYWORD": "Chairman"
+		"KEYWORD": "Chief Director"
 	},
 	{
 		"STRINGS": [
 			"?",
-			"I'm sure of it.",
-			"He's called him a couple of times.\""
+			"He did initially contact us calling for him.\""
 		]
 	},
 	{
@@ -984,12 +980,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"But all I can tell you is",
-			"what I've heard. ...... Is that okay?\""
+			"\"But all I can tell you is what I've heard.",
+			"...Is that okay?\""
 		]
 	},
 	{
@@ -1012,12 +1008,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"That's fine. It's the police",
-			"who check things like that.\""
+			"\"That's fine. It's the police's job to investigate those things.\""
 		]
 	},
 	{
@@ -1086,14 +1081,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"The welfare facility I work at has always",
-			"had financial difficulties.",
-			"Perhaps the chairman",
-			"and the victim had some kind of connection?\""
+			"\"The welfare facility I work at has",
+			"always had financial difficulties.",
+			"I think the chief director and the victim had",
+			"a connection related to that.\""
 		]
 	},
 	{
@@ -1112,12 +1107,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
 			"\"The situation has improved somewhat now,",
-			"but late salaries were still common.",
+			"but delayed salaries are still common.",
 			"Because of this, many of our",
 			"senior staff left the company.\""
 		]
@@ -1142,7 +1137,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -1169,13 +1164,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"The national exam for care",
-			"takers requires work experience.",
-			"That's why I'm still enrolled.\""
+			"\"Work experience is required to take the",
+			"national exam for care workers.",
+			"That's why I'm still an employee.\""
 		]
 	},
 	{
@@ -1201,7 +1196,7 @@
 	{
 		"STRINGS": [
 			"I see now...",
-			"She's a health care student."
+			"What an admirable nursing student."
 		]
 	},
 	{
@@ -1218,10 +1213,10 @@
 	},
 	{
 		"STRINGS": [
-			"On the surface, there is plenty of compassion.",
+			"On the surface, there is plenty to be sympathetic about.",
 			"But if you think about it calmly, it's just",
 			"a matter of transferring to another facility.",
-			"Even with a shortage of workers in that field."
+			"Especially considering the shortage of workers in that field."
 		]
 	},
 	{
@@ -1238,7 +1233,7 @@
 	},
 	{
 		"STRINGS": [
-			"Mr. Tamura "
+			"She claims she "
 		]
 	},
 	{
@@ -1249,8 +1244,8 @@
 	},
 	{
 		"STRINGS": [
-			" Her, but I decided to press further",
-			"to see if that was really the truth or not."
+			" Mr. Tamura, but I decided to",
+			"press further to see if that was really the truth or not."
 		]
 	},
 	{
@@ -1269,12 +1264,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"You said you've never met Mr. Tamura.",
-			"Is there any bad blood between you two?\""
+			"\"You said you've never met Mr. Tamura,",
+			"but do you resent him?\""
 		]
 	},
 	{
@@ -1325,7 +1320,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
@@ -1352,13 +1347,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"The reason you were having financial difficulties",
-			"was because Mr.Tamura refused your request for a loan.",
-			"Is that right?\""
+			"was because Mr. Tamura refused your request for a loan.",
+			"That's directly responsible for your cold reaction, isn't it?\""
 		]
 	},
 	{
@@ -1409,14 +1404,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"That's true...I hadn't thought of that, though.",
+			"\"That's certainly true... I hadn't thought of that, though.",
 			"I did have a problem with not getting paid.",
-			"But they provided me with a dorm room and",
-			"in the end I was able to receive payment.\""
+			"But they did provide me with a dorm room and meals.\""
 		]
 	},
 	{
@@ -1487,12 +1481,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"She's a very spirited girl, isn't she?",
-			"It's rare nowadays.\""
+			"That's rare nowadays.\""
 		]
 	},
 	{
@@ -1543,11 +1537,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Thank you very much...I think?\""
+			"\"Thank you very much... I think?\""
 		]
 	},
 	{
@@ -1598,13 +1592,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I'm sure you'll have some troubles.",
-			"If you do, don't hesitate to call me.",
-			"I always have my phone-\""
+			"\"You might have more worries in the future.",
+			"When that time comes, don't hesitate to call me.",
+			"My phone number is--\""
 		]
 	},
 	{
@@ -1627,12 +1621,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"Mr. Kazamori, you are not allowed",
-			"to exchange private information.\""
+			"to exchange private information with the witness.\""
 		]
 	},
 	{
@@ -1683,12 +1677,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"I don't feel guilty about it.",
-			"You're such a stick in the mud.\""
+			"\"It's nothing to feel guilty about.",
+			"You're such a stick in the mud, geez.\""
 		]
 	},
 	{
@@ -1707,11 +1701,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Besides, the murderer hasn't been caught yet.\""
+			"\"Besides, the murderer still hasn't been caught.",
+			"Isn't that scary?\""
 		]
 	},
 	{
@@ -1762,12 +1757,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Hmmm...to be honest.",
-			"There are no men in the facility.\""
+			"\"To be honest... Yes.",
+			"Especially since there are no men in the facility.\""
 		]
 	},
 	{
@@ -1790,11 +1785,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Mr. Kazamori, we don't mix public and private.\""
+			"\"Mr. Kazamori, we don't mix public and private business.\""
 		]
 	},
 	{
@@ -1813,12 +1808,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Besides, the interview isn't over yet.",
-			"Sanae. May I ask you one last question?\""
+			"\"Not to mention, the interview isn't over yet.",
+			"Sanae, may I ask you one last question?\""
 		]
 	},
 	{
@@ -1885,11 +1880,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Of course.\""
+			"\"Yes, of course.\""
 		]
 	},
 	{
@@ -1912,12 +1907,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Where did the chairman go today?",
-			"I think I'm going to need to question him later,",
+			"\"Where did the chief director go to today?",
+			"I think we're going to need to question him later,",
 			"if that's okay with you.\""
 		]
 	},
@@ -1965,11 +1960,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"That' s a tough one.\""
+			"\"That will be difficult.\""
 		]
 	},
 	{
@@ -1992,11 +1987,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Is he a busy man?\""
+			"\"Is he busy?\""
 		]
 	},
 	{
@@ -2055,14 +2050,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"The chairman's...He committed suicide because of the",
-			"poor conditions of the facility.",
-			"We're somehow managing to keep open",
-			"with the "
+			"\"The chief director... committed suicide to",
+			"take responsibility for the poor conditions of the facility.",
+			"We're somehow managing with the "
 		]
 	},
 	{
@@ -2096,11 +2090,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Suicide?...\""
+			"\"Suicide...?\""
 		]
 	},
 	{
@@ -2151,12 +2145,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 16,
-		"NAME": "Makimura Sanae"
+		"NAME": "Sanae Makimura"
 	},
 	{
 		"STRINGS": [
-			"\"Yes... The chairman saved the lives in",
-			"the facility and my own by taking his own life.\""
+			"\"Yeah. The chief director saved the lives in",
+			"the facility and mine at the cost of his own.\""
 		]
 	},
 	{
@@ -2174,7 +2168,7 @@
 	{
 		"STRINGS": [
 			"...Sanae replied with a blank expression on her face.",
-			"I'm not sure how to respond to that."
+			"Neither Kazamori nor I were sure how to respond to that."
 		]
 	},
 	{

@@ -69,11 +69,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ill give you"
+			"\"I'll give you credit for bringing the",
+			"trial to an adjournment by using",
+			""
 		]
 	},
 	{
@@ -82,7 +84,7 @@
 	},
 	{
 		"STRINGS": [
-			"Credit"
+			"your sophistry"
 		]
 	},
 	{
@@ -91,9 +93,7 @@
 	},
 	{
 		"STRINGS": [
-			"For bringing the",
-			"trial to an adjournment by using",
-			"sophistry, but thats it.\""
+			", but that's it.\""
 		]
 	},
 	{
@@ -116,11 +116,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You have to hear people out.\""
+			"\"Please hear people out until the end.\""
 		]
 	},
 	{
@@ -143,13 +143,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"What more do you want us to hear?",
-			"What's this about an imaginary monster being the culprit?",
-			"There are real cases out there.\""
+			"An imaginary monster was the culprit, or some such?",
+			"This case happened *in reality*, you know.\""
 		]
 	},
 	{
@@ -172,13 +172,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"That's right. The case is open.",
-			"In other words, it's nothing more than a",
-			"suggestion that the Blind Man is real.\""
+			"\"That's right. The case did happen.",
+			"Simply put, I'm merely suggesting that Blindman may be real.\""
 		]
 	},
 	{
@@ -195,10 +194,9 @@
 	},
 	{
 		"STRINGS": [
-			"He didn't change his expression and",
-			"kept a thin smile on his face.",
-			"It was as if he was completely ignoring my",
-			"feelings, and I couldn't help but feel resentful."
+			"Without changing his expression, he kept a thin smile on his face.",
+			"It was as if he was completely ignoring my feelings,",
+			"and I couldn't help but feel resentful."
 		]
 	},
 	{

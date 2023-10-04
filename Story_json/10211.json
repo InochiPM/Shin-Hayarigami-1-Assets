@@ -97,11 +97,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Hey there, that's enough.",
+			"\"Hojou, that should be enough.",
 			"Don't get so upset.\""
 		]
 	},
@@ -125,11 +125,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"But-\""
+			"\"But--\""
 		]
 	},
 	{
@@ -152,13 +152,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Yes, yes, that's good.",
-			"There's no way my department should be in",
-			"sole charge of his treatment, right?\""
+			"\"Yes, yes, calm down, calm down.",
+			"It's not like our department is the solely",
+			"in charge of his handling, remember?\""
 		]
 	},
 	{
@@ -177,12 +177,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"You know that, don't you Kazamori?",
-			"I was in agreement with her earlier.\""
+			"\"You should know that as well, right, Kazamori?",
+			"Although you were in agreement with her earlier.\""
 		]
 	},
 	{
@@ -237,11 +237,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"No well... It's ah...\""
+			"\"No, well... Sigh...\""
 		]
 	},
 	{
@@ -262,9 +262,9 @@
 	},
 	{
 		"STRINGS": [
-			"No matter how useless he is, we are not in control",
-			"of the investigation and cannot decide how",
-			"to treat him on our own."
+			"No matter how unhelpful he is, we by no means",
+			"hold control over the investigation and cannot",
+			"determine how he'll be handled on our own."
 		]
 	},
 	{
@@ -332,14 +332,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Well, what can I say?",
+			"\"Well, what should I put it?",
 			"I've had a chance to watch your heated exchange,",
-			"and I think you're a good",
-			"candidate for our lead project.\""
+			"and I think you'll fit nicely into our case, yeah.\""
 		]
 	},
 	{
@@ -406,7 +405,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
@@ -469,13 +468,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"But, you know. Even though we're in the",
-			"Special Agent Section, we want to do our job seriously.",
-			"We don't want to get angry.\""
+			"\"But, and I want you to know this, even if we are",
+			"the Special Division, we like to do our job seriously.",
+			"We'd rather not be angered, alright?\""
 		]
 	},
 	{
@@ -494,14 +493,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"You know, my men are good guys too,",
-			"despite their appearance. There's no",
-			"need to be so vicious. You should get",
-			"along with them.\""
+			"\"You know, my men are good guys too, despite everything.",
+			"You shouldn't be so crabby, okay?",
+			"Get along well with them.\""
 		]
 	},
 	{
@@ -568,11 +566,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Well, that's a problem I can't handle alone.\""
+			"\"That's not a problem I can resolve by myself.\""
 		]
 	},
 	{
@@ -631,13 +629,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"Well, yeah, I guess so.",
-			"Let's call it a handshake to make up.",
-			"Hojo, shake hands with him.\""
+			"Let's call a handshake to make up.",
+			"Hojou, shake hands with him.\""
 		]
 	},
 	{
@@ -660,13 +658,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"I firmly refuse.",
-			"If I shake hands with this guy,",
-			"I'll get infected with his weirdo germs.\""
+			"I'll get his weirdo germs if I shake hands with him.\""
 		]
 	},
 	{
@@ -689,12 +686,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Don't talk like a schoolgirl!",
-			"Well...then Kazamori!\""
+			"\"Stop acting like an elementary schooler!",
+			"W-well then, Kazamori!\""
 		]
 	},
 	{
@@ -749,11 +746,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Tch. Same as Hojo.\""
+			"\"Tch. Same for me.\""
 		]
 	},
 	{
@@ -808,7 +805,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
@@ -879,11 +876,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It's tough being a supervisor. I pity you.\""
+			"\"It's tough supervising people. I sympathize with you.\""
 		]
 	},
 	{
@@ -942,12 +939,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"No, no. that's no one else's issue but my own.",
-			"Anyway, to wrap things up.\""
+			"Anyway, let's wrap things up.\""
 		]
 	},
 	{
@@ -966,14 +963,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Don't you have any more information that",
-			"could lead directly to the killer?",
-			"If you call him Blind Man, I'll be in trouble, Mister.",
-			"How is it any different from the Slender Man?\""
+			"\"Don't you have even a little more information that",
+			"could lead us directly to the killer?",
+			"This old man's bothered by how you call them Blindman.",
+			"How is it any different from calling them Slenderman?\""
 		]
 	},
 	{
@@ -1040,12 +1037,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"If you want to hear that story,",
-			"I need a couple of hours.\""
+			"\"If you want to hear that story, I'll need a couple of hours.\""
 		]
 	},
 	{
@@ -1104,13 +1100,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Okay. Well, then, please don't do that.",
-			"Anyhow, since we have this chance,",
-			"let us earn a few points.\""
+			"\"Okay. Well then, pardon us.",
+			"Anyhow~, since we have this rare chance,",
+			"let's score a few points, shall we~?\""
 		]
 	},
 	{
@@ -1177,14 +1173,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"Did you find any threats around the victims?",
-			"For example «Give Me Your Eyes»",
-			"The Blind Man makes some kind of",
-			"announcement before he appears.\""
+			"\"Did you find any threatening letters around the victims?",
+			"Saying something like, \"give me your eyes\"?",
+			"Blindman normally makes some kind of announcement before he appears.\""
 		]
 	},
 	{
@@ -1235,12 +1230,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"I see!　Let's get to the bottom of this!",
-			"Hojo!, Kazamori!\""
+			"\"I see! Let's get to the bottom of this!",
+			"Hojou! Kazamori!\""
 		]
 	},
 	{
@@ -1279,13 +1274,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
 			"\"Hey, old man!",
-			"He's totally turning you over!",
-			"I knew it was foolish to rely on him.\""
+			"He's totally swindling you!",
+			"I knew it was a dumb idea to rely on him.\""
 		]
 	},
 	{
@@ -1304,24 +1299,24 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Now report to the main office, This "
+			"\"Report this to HQ, ASAP. This "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "30000a00",
 		"KEYWORD_ID": 3010,
-		"KEYWORD": "Crazed Killer"
+		"KEYWORD": "Insane Psycho"
 	},
 	{
 		"STRINGS": [
-			" just",
-			"wanted to get some air, and went nuts!",
-			"Send him back! Begone!\""
+			" spun this",
+			"whole farce just because he wanted to get some fresh air!",
+			"Send him back, I say! Send him back!\""
 		]
 	},
 	{
@@ -1420,12 +1415,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Yeah, yeah... ",
-			"this is the detention center, but-\""
+			"\"Hello, this is the detention center, yes--\""
 		]
 	},
 	{
@@ -1472,12 +1466,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"Are you listening to me,",
-			"you bald-headed bastard?\""
+			"\"Are you listening to me, you bald-headed-!\""
 		]
 	},
 	{
@@ -1500,11 +1493,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Yeah, yes... Hohoho...\""
+			"\"Yeah, yes, mm-hm... Hoho-...\""
 		]
 	},
 	{
@@ -1521,7 +1514,7 @@
 	},
 	{
 		"STRINGS": [
-			"Chief Kuroda casually dodged Kazamori's pursuit."
+			"Chief Kuroda nonchalantly dodged Kazamori's hounding."
 		]
 	},
 	{
@@ -1540,13 +1533,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Oh, yeah. Thanks for your help.",
-			"I'll be right back. We'll see you at the office.",
-			"I'm sorry about all this, I'll buy you a drink sometime.\""
+			"\"Oh, I see. Thanks for your help.",
+			"I'll be right back. See you at the office.",
+			"Sorry about all this, I'll buy you a drink next time.\""
 		]
 	},
 	{
@@ -1577,12 +1570,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
 			"\"It's from forensics.",
-			"They said there was a new discovery.\""
+			"They said they discovered something new from the victim.\""
 		]
 	},
 	{

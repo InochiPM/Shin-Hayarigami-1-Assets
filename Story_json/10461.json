@@ -109,11 +109,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Hmmmm...I guess it would look like this?\""
+			"\"Hmm. I guess it would look like this...\""
 		]
 	},
 	{
@@ -143,9 +143,8 @@
 	{
 		"STRINGS": [
 			"I put down the pen, having somehow managed to",
-			"piece together the ideas swirling around in my head.",
-			"To be honest, it doesn't lead to",
-			"identifying the culprit at all."
+			"piece together the fresh ideas swirling around in my head.",
+			"But to be honest, it didn't lead to identifying the culprit at all."
 		]
 	},
 	{
@@ -162,9 +161,9 @@
 	},
 	{
 		"STRINGS": [
-			"What this makes clear is that there are still",
-			"missing pieces of the puzzle to tell the full",
-			"story of the case."
+			"What this did make clear is that there are still",
+			"missing pieces of the puzzle to tell the",
+			"full story of the case."
 		]
 	},
 	{
@@ -199,12 +198,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
-			"\"What stirs all this up more than anything else",
-			"is this so called 'Blind Man' right?\""
+			"\"What's more confusing than anything else in this case is",
+			"that \"Blindman\" character, isn't it?\""
 		]
 	},
 	{
@@ -223,7 +222,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 5,
-		"NAME": "Kazamori Hayato"
+		"NAME": "Hayato Kazamori"
 	},
 	{
 		"STRINGS": [
@@ -261,8 +260,8 @@
 	},
 	{
 		"STRINGS": [
-			"Kazamori's point is well taken.",
-			"The presence of the Blind Man is too bizarre."
+			"Kazamori's point is well-taken.",
+			"The presence of Blindman is too bizarre."
 		]
 	},
 	{
@@ -279,9 +278,9 @@
 	},
 	{
 		"STRINGS": [
-			"Since the information we need from Sekimoto",
-			"would bring crucial evidence to the case,",
-			"We would have progressed even more by now."
+			"By all rights, our jailed guide, Soujirou Sekimoto,",
+			"should have brought crucial information to the case,",
+			"allowing us to rapidly progress the case in one go."
 		]
 	},
 	{
@@ -298,8 +297,8 @@
 	},
 	{
 		"STRINGS": [
-			"That is, however, what he refereed to",
-			"as the [Blindman] was his specialty."
+			"However, what he referred to was actually an urban legend,",
+			"his area of expertise, regarding the Blindman."
 		]
 	},
 	{
@@ -316,8 +315,8 @@
 	},
 	{
 		"STRINGS": [
-			"Thanks to that, were now forced",
-			"to do our usual dirty work for leads."
+			"Thanks to that, we were forced after all",
+			"to do our usual, honest legwork for leads."
 		]
 	},
 	{
@@ -352,14 +351,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"The higher-up's really kicked me in the ass.",
-			"I just wonder if we really have to",
-			"listen to the meaningless opinions of",
-			"of such a scholarly man.\""
+			"\"...I, too, got a good scolding from the First Division.",
+			"I just wonder if the only thing we can do is listen to",
+			"the senseless, 'learned' opinions of Mr. Academic.\""
 		]
 	},
 	{
@@ -378,13 +376,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 7,
-		"NAME": "Kuroda Kunio"
+		"NAME": "Kunio Kuroda"
 	},
 	{
 		"STRINGS": [
-			"\"Their disappointment seems to be considerable.",
+			"\"Their disappointment seemed as severe as ours.",
 			"If he continues to be useless, we may have to",
-			"cut his schedule short and send him back.\""
+			"cut our plans short and send him back to the Detention Center.\""
 		]
 	},
 	{

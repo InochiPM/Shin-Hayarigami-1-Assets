@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"If you could just answer "
+			"\"If you could just "
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			"my question"
+			"answer my question"
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"STRINGS": [
 			" first,",
-			"Then I would be willing to cooperate with you.\""
+			"then I would be willing to cooperate with you.\""
 		]
 	},
 	{
@@ -115,13 +115,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh?",
-			"That's how you're trying to take",
-			"control, isn't it?\""
+			"\"No way.",
+			"You're trying to take the initiative, aren't you?\""
 		]
 	},
 	{
@@ -138,7 +137,7 @@
 	},
 	{
 		"STRINGS": [
-			"Damnit... I guess they saw right through me."
+			"...Damnit. He saw right through me."
 		]
 	},
 	{
@@ -155,9 +154,9 @@
 	},
 	{
 		"STRINGS": [
-			"This reporter seems pretty smart.",
+			"This reporter seems quite sharp.",
 			"I'll have to be more careful in my replies or",
-			"I'll get more trouble."
+			"more trouble is sure to follow."
 		]
 	},
 	{

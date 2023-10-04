@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
 			"\"But I really don't know anything about it.",
-			"im just an"
+			"I'm basically on the level of a "
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			" intern "
+			"novice trainee"
 		]
 	},
 	{
@@ -100,8 +100,8 @@
 	},
 	{
 		"STRINGS": [
-			"for this office.",
-			"I barely know anything media worthy.\""
+			".",
+			"Like I said, I don't know any important info...\""
 		]
 	},
 	{
@@ -124,14 +124,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"You're being so modest!",
-			"By the way, can I make an article with the",
-			"crown of a beautiful detective who",
-			"skillfully dodges interviews like that?\""
+			"\"You're being way too modest!",
+			"By the way, would you like if I called you",
+			"the beautiful detective who skillfully dodges interviews",
+			"in the article I'm writing?\""
 		]
 	},
 	{
@@ -154,12 +154,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"Ugh...Just give me a break already!",
-			"My boss is going to be pissed enough as it is, jeez!\""
+			"\"Just give me a break already...",
+			"My boss is going to be pissed enough as is... jeez.\""
 		]
 	},
 	{
@@ -206,13 +206,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Oh, it's quite colorful!",
+			"\"Oh, how sexy!",
 			"Good, very good.",
-			"How about a beautiful detective in gravure? No?\""
+			"Have you tried being a model? No?\""
 		]
 	},
 	{
@@ -229,7 +229,7 @@
 	},
 	{
 		"STRINGS": [
-			"How dare he come up with one story after another!"
+			"He's the type to make up stories one after another."
 		]
 	},
 	{
@@ -246,10 +246,8 @@
 	},
 	{
 		"STRINGS": [
-			"But both proposals are too",
-			"stupid for me to join in on.",
-			"It seems that they like me,",
-			"which is frankly a nuisance."
+			"However, both proposals are too vulgar for me to possibly join in.",
+			"It seems that he likes me, which is frankly an unwelcome favor."
 		]
 	},
 	{

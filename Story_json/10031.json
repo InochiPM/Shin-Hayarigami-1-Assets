@@ -95,8 +95,8 @@
 	},
 	{
 		"STRINGS": [
-			"I stole a glance at him.",
-			"He still had the calm and collected look."
+			"I stole a glance at his side profile.",
+			"Sure enough, he had a calm and collected look."
 		]
 	},
 	{
@@ -114,7 +114,7 @@
 	{
 		"STRINGS": [
 			"As Chief Kuroda said,",
-			"it is not the face of a murderer."
+			"that isn't the face of a murderer."
 		]
 	},
 	{
@@ -148,9 +148,8 @@
 	},
 	{
 		"STRINGS": [
-			"Why did he mention the case that happened in",
-			"City C, S prefecture, which had nothing",
-			"to do with him at all?"
+			"Why did he mention our utterly unrelated case",
+			"that happened in C Town, S Prefecture?"
 		]
 	},
 	{
@@ -168,7 +167,7 @@
 	{
 		"STRINGS": [
 			"Why did the higher-ups trust his statements",
-			"and let him make bail in secret?..."
+			"and let him make bail in secret...?"
 		]
 	},
 	{
@@ -185,8 +184,8 @@
 	},
 	{
 		"STRINGS": [
-			"I continued to observe him, taking great",
-			"care not to be noticed."
+			"I continued to observe him,",
+			"taking great care not to be noticed."
 		]
 	},
 	{
@@ -203,7 +202,7 @@
 	},
 	{
 		"STRINGS": [
-			"There's gotta be something that proves hes a murderer."
+			"There's gotta be some hint, no matter how small..."
 		]
 	},
 	{
@@ -220,8 +219,8 @@
 	},
 	{
 		"STRINGS": [
-			"It's no use, I can't find a thing.",
-			"He's so much different from the others."
+			"...It's no use, I can't find a thing.",
+			"He's so much different from other men."
 		]
 	},
 	{
@@ -248,11 +247,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"You look like you want to ask me something...\""
+			"\"...You look like you want to ask me something.\""
 		]
 	},
 	{
@@ -323,20 +322,20 @@
 	},
 	{
 		"STRINGS": [
-			"\"Tch, Damned "
+			"\"Tch, damned "
 		]
 	},
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "14000a00",
 		"KEYWORD_ID": 3006,
-		"KEYWORD": "Pick-up Artist"
+		"KEYWORD": "Skirt Chaser"
 	},
 	{
 		"STRINGS": [
 			".",
 			"You only talk to women now?",
-			"Hey Hojo, go tell this guy to kick rocks.\""
+			"Hey Hojou, go tell this guy to kick rocks.\""
 		]
 	},
 	{
@@ -353,8 +352,8 @@
 	},
 	{
 		"STRINGS": [
-			"Will he take my words seriously?",
-			"With that in mind, I-"
+			"I wonder if he'll answer my question honestly?",
+			"With that in mind, I--"
 		]
 	},
 	{

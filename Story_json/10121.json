@@ -69,13 +69,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"I told you earlier, didn't I?",
-			"If you don't hurry, there'll be more bodies.",
-			"I don't have time to deal with your hysteria here.\""
+			"If we don't hurry, then more corpses will pile up.",
+			"We don't have time to deal with your hysteria here.\""
 		]
 	},
 	{

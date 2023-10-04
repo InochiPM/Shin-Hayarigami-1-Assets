@@ -73,12 +73,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"I guess I don't have a choice anymore.",
-			"Please wait while I go"
+			"\"I guess I don't have a choice...",
+			"Please wait while I go "
 		]
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"STRINGS": [
-			" get my boss "
+			"get my boss"
 		]
 	},
 	{
@@ -96,7 +96,7 @@
 	},
 	{
 		"STRINGS": [
-			"now.\""
+			" now.\""
 		]
 	},
 	{
@@ -147,13 +147,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
 			"\"Chief Kuroda, right?",
 			"Hahaha! I'm not afraid of him.",
-			"He's been doing his job well lately, hasn't he?\""
+			"Has he been doing his job well lately?\""
 		]
 	},
 	{
@@ -176,7 +176,7 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
@@ -227,14 +227,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 17,
-		"NAME": "Tsudanuma Youichi"
+		"NAME": "Youichi Tsudanuma"
 	},
 	{
 		"STRINGS": [
-			"\"Yeah. well yes A little bit.",
-			"Unlike you, he was flexible.",
-			"He understood the meaning of",
-			"\"holding your own\" very well.\""
+			"\"Yeah, yeah. A little bit. It's an old story.",
+			"Unlike you, he was flexible, you know?",
+			"He understood the meaning of \"give-and-take\" very well.\""
 		]
 	},
 	{
@@ -251,8 +250,8 @@
 	},
 	{
 		"STRINGS": [
-			"From his thoughtful words, I knew it",
-			"was not a good idea to gather Chief Kuroda.."
+			"From the insinuation in his words,",
+			"I presume it isn't a good idea to bring out Chief Kuroda."
 		]
 	},
 	{
@@ -269,10 +268,8 @@
 	},
 	{
 		"STRINGS": [
-			"He seems to have a certain amount",
-			"of connections in the police force.",
-			"If I make a bad move,",
-			"he will be able to pin the blame on me."
+			"He seems to have his own connections in the police force.",
+			"If I make a bad move, he'll be able to pin the blame on me."
 		]
 	},
 	{

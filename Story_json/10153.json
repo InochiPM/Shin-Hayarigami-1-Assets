@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What is it that you"
+			"\"Of those two,"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			" want? "
+			" which do you prefer?"
 		]
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"STRINGS": [
 			"",
-			"I'd like to hear that from you\""
+			"I'd like to hear that from you first.\""
 		]
 	},
 	{
@@ -115,13 +115,13 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
 			"\"It's obvious. I want to get to the bottom of this.",
-			"But it's impossible under the current circumstances.",
-			"If we don't do something, we'll lose the Blind Man.\""
+			"But that's impossible under the current circumstances.",
+			"As it stands, we'll let Blindman escape from under our very noses.\""
 		]
 	},
 	{
@@ -144,12 +144,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"In other words, we're to investigate on your advice.",
-			"...Is that what your saying?\""
+			"\"In other words, we're to investigate based on your advice.",
+			"...Is that what you're saying?\""
 		]
 	},
 	{
@@ -172,11 +172,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"That's right. Thank God you're so quick-witted.\""
+			"\"Correct. I'm glad you're so quick-witted.\""
 		]
 	},
 	{
@@ -193,8 +193,8 @@
 	},
 	{
 		"STRINGS": [
-			"He nodded his head in satisfaction.",
-			"Apparently, he was able to fulfill his plan."
+			"Saying so, he nodded his head in satisfaction.",
+			"As if he was able to fulfill his plan."
 		]
 	},
 	{
@@ -211,8 +211,8 @@
 	},
 	{
 		"STRINGS": [
-			"But why the obsession with  the Blind Man?",
-			"We need to ask more carefully about this..."
+			"But why does he obsess over Blindman?",
+			"I'll need to inquire into that more carefully..."
 		]
 	},
 	{

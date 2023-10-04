@@ -69,11 +69,11 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"What the hell is your"
+			"\"What even is your "
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"STRINGS": [
-			" objective "
+			"goal"
 		]
 	},
 	{
@@ -91,7 +91,7 @@
 	},
 	{
 		"STRINGS": [
-			"here?\""
+			"?\""
 		]
 	},
 	{
@@ -114,12 +114,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"It's not that big of a deal.",
-			"I just want to explore the truth\""
+			"\"It's nothing much.",
+			"I just want to search for the truth.\""
 		]
 	},
 	{
@@ -142,12 +142,12 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 6,
-		"NAME": "Hojo Saki"
+		"NAME": "Saki Hojou"
 	},
 	{
 		"STRINGS": [
-			"\"The search for truth?",
-			"Does that mean we'll catch the killer?\""
+			"\"Search for the truth?",
+			"Do you mean, catch the killer?\""
 		]
 	},
 	{
@@ -170,14 +170,14 @@
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
 		"CHARACTER_ID": 3,
-		"NAME": "Sekimoto Soujirou"
+		"NAME": "Soujirou Sekimoto"
 	},
 	{
 		"STRINGS": [
-			"\"For you, yes.",
+			"\"For you, that's what it means.",
 			"But for me, it's a different story.",
-			"I want to know the process by",
-			"which urban legends materialized.\""
+			"--I wish to know the process by",
+			"which urban legends materialize in reality.\""
 		]
 	},
 	{
@@ -194,8 +194,8 @@
 	},
 	{
 		"STRINGS": [
-			"I look into his eyes.",
-			"It's a hunch, but I'm not lying."
+			"I peered into his eyes.",
+			"It's only a hunch, but I feel he's not lying."
 		]
 	},
 	{
@@ -212,8 +212,7 @@
 	},
 	{
 		"STRINGS": [
-			"Then I need to listen a little more",
-			"deeply to what he has to say......"
+			"If so, I need to listen a little more deeply to his words..."
 		]
 	},
 	{
