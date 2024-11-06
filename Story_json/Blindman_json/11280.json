@@ -1,0 +1,165 @@
+[
+	{
+		"TYPE": "DEMO",
+		"UNK0": "00001000",
+		"SCRIPT_ID": 11280,
+		"UNK1": "01000000"
+	},
+	{
+		"TYPE": "BG_LOAD",
+		"UNK0": "10000c00f00a0100"
+	},
+	{
+		"TYPE": "BGM_PLAY",
+		"UNK0": "0c000c0005000100"
+	},
+	{
+		"TYPE": "BGM_VOL",
+		"UNK0": "0c000c0000008000"
+	},
+	{
+		"TYPE": "BG_WAIT",
+		"UNK0": "0c000a000100"
+	},
+	{
+		"TYPE": "BG_SET_ADJUST_Z",
+		"UNK0": "0c000c0001000100"
+	},
+	{
+		"TYPE": "BG_FADE",
+		"UNK0": "0c001000ffffffff00000100"
+	},
+	{
+		"TYPE": "EXTEND",
+		"UNK0": "1000180002000000000000000000000000000000"
+	},
+	{
+		"TYPE": "TXTWND_OUT",
+		"UNK0": "18000a001400"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "0c000a001e00"
+	},
+	{
+		"TYPE": "SCR_FADE",
+		"UNK0": "0c001000000000000a000000"
+	},
+	{
+		"TYPE": "WAIT",
+		"UNK0": "10000a000a00"
+	},
+	{
+		"TYPE": "PAGE",
+		"UNK0": "0c000e00000000000000"
+	},
+	{
+		"TYPE": "SELECT",
+		"UNK0": "10000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 44,
+		"SELECT_ITEM_INFO": "１：Joy.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"Joy."
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 45,
+		"SELECT_ITEM_INFO": "２：Fear.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"Fear."
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "SELECT_ITEM",
+		"UNK0": "08000e00",
+		"SELECT_ITEM_ID": 46,
+		"SELECT_ITEM_INFO": "３：Laughter.",
+		"UNK1": "00000000"
+	},
+	{
+		"STRINGS": [
+			"Laughter."
+		]
+	},
+	{
+		"TYPE": "SELECT_ITEMtm",
+		"UNK0": "18000800"
+	},
+	{
+		"TYPE": "SELECTtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "PAGEtm",
+		"UNK0": "08000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00",
+		"CHOICE_ID": 0,
+		"UNK1": "0000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 11281
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00",
+		"CHOICE_ID": 1,
+		"UNK1": "0000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 11282
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "IFRV",
+		"UNK0": "08000e00",
+		"CHOICE_ID": 2,
+		"UNK1": "0000000200"
+	},
+	{
+		"TYPE": "JUMP",
+		"UNK0": "10000c00",
+		"SCRIPT_ID": 11283
+	},
+	{
+		"TYPE": "IFRVtm",
+		"UNK0": "0c000800"
+	},
+	{
+		"TYPE": "DEMOtm",
+		"UNK0": "08000800"
+	}
+]

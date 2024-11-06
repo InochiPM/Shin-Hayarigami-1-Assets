@@ -329,41 +329,41 @@
 	},
 	"21": {
 		"STRINGS": [
-			"In Buddhism, the term \"hungry demon\" refers",
-			"to a deceased person who has fallen into the",
-			"world of hunger and thirst in order to",
-			"receive retribution for his or her evil deeds",
-			"in life.",
+			"In Buddhism, the term \"Petra\" refers",
+			"to a deceased soul who has fallen into the",
+			"world of hunger and thirst (hungry ghost realm)",
+			"as retribution for their evil deeds in life.",
 			"",
 			"They are often depicted with a swollen",
 			"abdomen, and any food or drink that comes",
-			"near their mouths turns into flames, making",
+			"near their mouth turns into flames, making",
 			"it impossible for them to eat",
 			"",
-			"The Character \"餓(かつえ)\" means Hunger/Starving.",
-			"The Character \"鬼(おに)\" means Dead Person"
+			"The kanji \"餓(katsue)\" means hunger/starvation.",
+			"The kanji \"鬼(oni)\" retains its Chinese meaning",
+			"of deceased person."
 		]
 	},
 	"22": {
 		"STRINGS": [
 			"A public institution that mediates between",
-			"donors of eyes after death for patients",
+			"those who donated their eyes after dying and patients",
 			"whose vision can only be restored by corneal transplant.",
 			"",
-			"It is officially called an 'eye bank' and",
-			"is permitted to operate by the Minister of",
+			"Officially called an 'eye bank',",
+			"it is permitted to operate by the Minister of",
 			"Health, Labor and Welfare.",
 			"",
 			"Donating an eye to an eye bank is called",
-			"'eye donation' and basically anyone can",
-			"register their intention to donate an eye.",
-			"",
-			"As long as they do not have an infectious disease,",
+			"an 'eye donation' and anyone fundamentally can",
+			"register their intention to donate an eye,",
+			"as long as they do not have an infectious disease,",
 			"intraocular cancer, or leukemia.",
+			"",
 			"After the eyeball is removed for donation,",
-			"the patient is fitted with a prosthetic eye,",
-			"so there will be no change in appearance, ",
-			"according to the explanation."
+			"the patient is outfitted with a prosthetic eye,",
+			"so there will be no change in appearance,",
+			"according to the official explanation."
 		]
 	},
 	"23": {
@@ -382,23 +382,23 @@
 	},
 	"24": {
 		"STRINGS": [
-			"Abbreviation for Forensic Science Laboratory.",
+			"Another name for the Forensic Science Laboratory.",
 			"It is a public research institute established",
 			"in the Criminal Investigation Department of",
 			"each prefectural police headquarters in",
-			"Japan, and is separate from the Forensic",
-			"Science Section.",
+			"Japan, and is separate from the",
+			"Forensics Division.",
 			"",
-			"It conducts a wide range of research,",
+			"It conducts a variety of work across many fields,",
 			"including the analysis of blood, body fluids,",
 			"hair, and bones left at crime scenes;",
 			"chemical tests for methamphetamine,",
-			"narcotics, and paint thinner; investigation",
-			"of the causes of arson, hit-and-run, and",
-			"shooting incidents through reenactment ",
-			"experiments; document analysis of forged",
-			"banknotes and passports; and psychological ",
-			"analysis of criminals through polygraph tests."
+			"narcotics, thinner, and other agents;",
+			"tracing the causes of arson, hit-and-run, and",
+			"shooting incidents through reenactment experiments;",
+			"document analysis of forged banknotes and passports;",
+			"and psychological analysis of criminals",
+			"through polygraph tests, among others."
 		]
 	},
 	"25": {
@@ -455,7 +455,7 @@
 	"28": {
 		"STRINGS": [
 			"This is a famous urban legend that originated",
-			"in The Orléans Rumor and has spread all over the world.",
+			"from the Orleans' rumor and has spread all over the world.",
 			"",
 			"A man and a woman stopped by a boutique",
 			"during a trip abroad, but the woman went into",
@@ -495,18 +495,16 @@
 	"30": {
 		"STRINGS": [
 			"This is a famous urban legend in the United States.",
-			"The story goes that a pet crocodile was so",
-			"overwhelmed that it was thrown into the",
-			"sewer, where it adapted to the environment",
+			"The story goes that a young crocodile kept as a pet",
+			"was too much for its owners, thus it was thrown into",
+			"the sewer system, where it adapted to the environment",
 			"and grew to a huge size.",
 			"",
-			"It is sometimes referred to as a white ",
-			"alligator in urban legends.",
+			"It is sometimes described as a 'white alligator'.",
 			"",
 			"In Manhattan, New York, a boy who tried to",
 			"dump snow into a manhole found an alligator",
 			"in the sewer.",
-			"",
 			"The alligator was later shot and killed by rescue workers.",
 			"This was covered in a famous local newspaper."
 		]
@@ -686,11 +684,11 @@
 			"and English.",
 			"",
 			"In the 5th to 4th centuries B.C., the",
-			"grammar was compiled by Purnini, a man from",
+			"grammar was compiled by Panini, a man from",
 			"northwestern India, and established as",
 			"classical Sanskrit.",
 			"",
-			"It was called \"Sanskrit\" and came to Japan",
+			"It was called \"Bon-go\" when it came to Japan",
 			"with Buddhism.",
 			"",
 			"The word \"Sanskrit\" means \"completed language\"."
@@ -751,16 +749,16 @@
 			"is an inmate on death row who",
 			"will not die even after being executed.",
 			"",
-			"No matter how many times they are executed, they cannot ",
-			"die and continue to be imprisoned.",
-			"It is also said that the execution itself is a",
-			"sentence, so the sentence is completed and the prisoner",
-			"is released.",
+			"No matter how many times they are executed,",
+			"they cannot die and continue to be imprisoned.",
+			"Otherwise, some say that the execution itself is",
+			"the sentence, so the sentence is considered completed",
+			"and the prisoner is released.",
 			"",
-			"In reality, it seems that the execution failed due to",
-			"equipment malfunction, and while the execution was",
-			"being postponed, he was pardoned and sentenced to life",
-			"imprisonment."
+			"The real story seems to be that the execution failed",
+			"due to equipment malfunction, and while the execution was",
+			"being postponed, they were pardoned and sentenced to life",
+			"imprisonment instead."
 		]
 	},
 	"44": {
@@ -776,16 +774,15 @@
 			"In Japan, however, there are three systems",
 			"similar to this transaction:",
 			"",
-			"\"surcharge reduction and exemption system\"",
-			"\"summary judgment procedure\", ",
-			"and \"summary procedure\".",
+			"The \"leniency policy\"",
+			"\"expedited trial proceedings\", ",
+			"and \"summary proceedings\".",
 			"",
-			"For example, in the surcharge reduction and",
-			"exemption system, companies that have",
-			"engaged in bid rigging or cartels in",
-			"violation of the Anti-Monopoly Law can have",
-			"their surcharges reduced or exempted if",
-			"they voluntarily file a report."
+			"For example of the leniency policy,",
+			"companies that have engaged in bid rigging",
+			"or cartels in violation of the Antitrust Law",
+			"can havetheir surcharges reduced or exempted",
+			"if they voluntarily file a report."
 		]
 	},
 	"45": {
@@ -860,13 +857,13 @@
 			"superiority of the number of troops",
 			"is used to gain victory or achieve an objective.",
 			"",
-			"The term is often used when dealing",
-			"with things like with a large number of people.",
+			"The term is often used when something is",
+			"dealt with by a large number of people.",
 			"",
-			"There is a theory that the origin of",
-			"the term \"Bury the enemy at Sea\"",
-			"comes from the strategy used by Mao",
-			"Zedong of China but it is not certain."
+			"There is a theory that the origin of the term",
+			"comes from the strategy used by Mao Zedong of China",
+			"which he described as \"burying the enemy with a sea of people\"",
+			"but that is not certain."
 		]
 	},
 	"50": {
@@ -896,9 +893,8 @@
 	},
 	"51": {
 		"STRINGS": [
-			"The act of using the Internet to ",
-			"anonymously communicate with each",
-			"other and gather information to identify individual targets.",
+			"The act of using the Internet and exchanging information",
+			"with fellow anonymous users to identify private targets.",
 			"",
 			"It was originally called \"human flesh search\"",
 			"on the Chinese Internet.",
@@ -906,7 +902,7 @@
 			"Once you become a target, you are in danger of having",
 			"almost all of your information exposed on the Internet,",
 			"including not only your name and address, but also your family",
-			"structure, annual income, assets, and attitude toward life."
+			"structure, annual income, assets, and even lifestyle."
 		]
 	},
 	"52": {
@@ -929,16 +925,16 @@
 			"One of the urban legends that is",
 			"said to have spread around during the 1990's.",
 			"",
-			"It refers to a creature with the head of a Human",
+			"It refers to a creature with the head of a human",
 			"and the body of a dog that appears in garbage dumps",
 			"and back alleys late at night.",
 			"",
 			"If you call out to it, it will say,",
-			"\"What are you looking at? Leave me alone.\"",
-			"It's also said to Mimic the words of the person talking.",
+			"\"What're you looking at? Leave me alone.\"",
+			"It's also said to mimic the words of the person talking.",
 			"",
 			"It has been seen running at speeds of 100 km/h on highways",
-			"and is often reported looking like a middle-aged man."
+			"and is often reported to look like a middle-aged man."
 		]
 	},
 	"54": {
@@ -964,25 +960,25 @@
 		"STRINGS": [
 			"It refers to a symptom in which a crime victim",
 			"develops feelings of dependence, such as sympathy and",
-			"fondness, by sharing time and place with the criminal.",
+			"fondness, by sharing time and place with a criminal.",
 			"",
-			"It was named after the bank robbery and hostage ",
-			"taking incident that occurred in Stockholm in August 1973.",
+			"It was named after the bank robbery and",
+			"hostage crisis that occurred in Stockholm in August 1973.",
 			"",
-			"In this incident, the hostages became cooperative with the ",
-			"criminals, and even though the criminals had",
-			"a chance to escape, such as going to bed, they stood ",
-			"guard and antagonized the police.",
+			"In this incident, the hostages cooperated with the criminals,",
+			"and even though they had chances to escape,",
+			"such as when the criminals went to rest,",
+			"they stood guard and antagonized the police.",
 			"",
 			"Furthermore, even after being released,",
-			"hey are said to have protected the perpetrators",
+			"they are said to have covered for the perpetrators",
 			"and testified against the police in an",
 			"uncooperative manner."
 		]
 	},
 	"56": {
 		"STRINGS": [
-			"A book written by the German philosopher Nietzsche, ",
+			"A book written by the German philosopher Nietzsche,",
 			"famous for the line,",
 			"\"When you look into the abyss, the abyss looks back\"",
 			"",
@@ -998,41 +994,51 @@
 	},
 	"57": {
 		"STRINGS": [
-			"A supernatural ability that allows ",
-			"perceiving things or events in the future",
-			"or beyond normal sensory contact",
+			"千里眼, literally translated as",
+			"\"eyes that can see a thousand miles away\",",
+			"is a clairvoyant ability originating from Chinese Buddhism.",
+			"The term also refers to those with that ability.",
 			"",
-			"In 1909, a newspaper reported that",
-			"Chizuko Mifune, who was born in",
-			"Kumamoto, was the owner of this",
-			"ability, which attracted a lot of attention.",
+			"In Japan, 1909, a newspaper reported that Chizuko",
+			"Mifune, born in Kumamoto Prefecture, held this",
+			"ability, which brought the public eye on her.",
 			"",
-			"However, in a public experiment",
-			"conducted in front of scholars and",
-			"journalists, there was plenty of",
-			"room for fraud, and the reaction to",
-			"her clairvoyant ability was lukewarm.",
+			"However, in a public experiment conducted in",
+			"front of scholars and journalists, there were",
+			"plenty suspicions of fraud, and the public",
+			"reaction to her clairvoyance was of indifference.",
 			"",
-			"In the end, Chizuko was unable to ",
-			"dispel the suspicion and committed",
-			"suicide in her hometown of Kumamoto in 1911."
+			"In the end, Chizuko was unable to dispel the",
+			"suspicions placed upon her and committed",
+			"suicide in her hometown of Kumamoto in 1911.",
+			"",
+			"At the same time, Ikuko Nagao, the wife of a",
+			"judge, also participated in clairvoyance",
+			"experiments, revealing even better results.",
+			"However, suspicions began to mount, and once",
+			"the media claimed Nagao was having an affair",
+			"with one of the researchers, clairvoyance became",
+			"the target of ridicule among the masses.",
+			"",
+			"This affected all self-proclaimed psychics, to",
+			"the point many suffered constant harassment."
 		]
 	},
 	"58": {
 		"STRINGS": [
 			"In Japan, it refers to the Internet,",
-			"and in the U.S., it refers to U.S.",
-			"neoconservative think tanks.",
+			"and in the U.S., it refers to neoconservative think tanks.",
 			"",
 			"Incidentally, it is said that the",
 			"mass media is the fourth power in",
 			"contrast to the three powers of the",
-			"\"legislature\", \"executive\", and \"judiciary\". branches."
+			"\"legislative\", \"executive\", and \"judicial\"",
+			"branches of government."
 		]
 	},
 	"59": {
 		"STRINGS": [
-			"UMAMI is the fifth taste, following",
+			"Umami is the fifth taste, following",
 			"sweet, salty, sour, and bitter.",
 			"",
 			"In 1908, Kikunae Ikeda, a professor",
@@ -1156,18 +1162,18 @@
 	"65": {
 		"STRINGS": [
 			"A disease in which the skin of the",
-			"entire body becomes red and peels",
-			"off by simply rubbing it, resembling burn marks.",
+			"entire body becomes red and peels off",
+			"by simply rubbing it, resembling burn marks.",
 			"",
-			"If more than 30% of the total body",
-			"skin area peels off, the disease is",
-			"considered to be present; if less",
-			"than 10%, Stevens-Johnson syndrome is diagnosed.",
+			"In case more than 30% of the body's",
+			"total skin area is peeled off,",
+			"the disease is considered to be present;",
+			"if less than 10%, Stevens-Johnson syndrome is diagnosed.",
 			"",
 			"If it is between 10% and 30%, it is diagnosed as both diseases.",
 			"",
-			"The mortality rate is said to be 20",
-			"-30%, and early treatment is required."
+			"The mortality rate is said to be 20~30%,",
+			"and treatment at early stages is required."
 
 		]
 	},
@@ -1217,17 +1223,16 @@
 	},
 	"68": {
 		"STRINGS": [
-			"This is one of the most famous urban",
-			"legends as a school ghost story, and",
-			"refers to the spirit of a girl who",
+			"This is one of the most famous urban legends",
+			"and school ghost stories,",
+			"referring to the spirit of a girl who",
 			"appears in the restroom of an elementary school.",
 			"",
-			"She is said to have a pigtails and",
-			"wears a white shirt and a bright red skirt.",
+			"She is said to have a bobbed haircut and wears",
+			"a white shirt and a bright red skirt.",
 			"",
-			"In some cases, the location where",
-			"she appears is fixed, such as in the",
-			"first cubicle of the restroom.",
+			"In some cases, the location where she appears is fixed,",
+			"such as a certain cubicle in a certain floor's restroom.",
 			"",
 			"But it varies from region to region."
 		]
@@ -1235,22 +1240,21 @@
 	"69": {
 		"STRINGS": [
 			"The official name of the division is the",
-			"\"Special Police Division, C Village Branch", 
-			"S Prefectural Police.\"",
-			"Also known as the \"Special Police Division.\"",
+			"\"S Prefectural Police C Town Substation", 
+			"Specialized Patrol Division.\"",
+			"Also known as the \"Special Division.\"",
 			"",
-			"The main purpose of this section is",
-			"to arrange appropriate support",
-			"personnel to deal with each",
-			"department and each case for the",
-			"purpose of flexible operation of investigative personnel.",
+			"The main purpose of this division is",
+			"to arrange appropriate support personnel",
+			"for each case of each department so as to allow",
+			"flexible maneuvering of investigative personnel.",
 			"",
 			"It also manages past case files,",
-			"analyzes information on unsolved",
-			"cases, and preserves the investigation system.",
+			"analyzes information on unsolved cases,",
+			"and preserves the investigation system.",
 			"",
-			"In other words, it is a window",
-			"department for substitute personnel."
+			"In other words,",
+			"it is a do-nothing department for substitute personnel."
 		]
 	},
 	"70": {
@@ -1268,13 +1272,13 @@
 		"STRINGS": [
 			"It is a giant unidentified mysterious animal (UMA)",
 			"that is often reported to be seen by",
-			"research & whalers around the Antarctic.",
+			"researcher & whalers around the Antarctic.",
 			"",
-			"It is known to be Humanoid in shape as well.",
+			"It is known as \"Hitogata (humanoid)\".",
 			"",
-			"It is said to be white, several tens",
-			"of meters long, and, as its name",
-			"suggests, has the appearance and shape of a human."
+			"It is said to be white, several tens of meters long,",
+			"and, as its name suggests,",
+			"has the appearance and shape of a human."
 		]
 	},
 	"72": {
@@ -1381,22 +1385,20 @@
 			"A method of advertising a product",
 			"by using word of mouth.",
 			"",
-			"The word \"viral\" means \"infectious\"",
-			"named because it can",
+			"The word \"viral\" means \"infectious\".",
+			"It was named so because it can",
 			"spread explosively if successful.",
 			"",
-			"However, it is uncontrollable and",
-			"unpredictable by the marketer, so it",
-			"may not be an efficient way of advertising.",
+			"However, the marketer cannot control or predict its results,",
+			"so it may not be an efficient way of advertising.",
 			"",
-			"There is also a risk of being",
-			"criticized for deceiving consumers",
-			"if the product is introduced without",
-			"hiding the fact that it is an advertisement.",
+			"There is also a risk of being criticized",
+			"for deceiving consumers if a product is introduced",
+			"whilst hiding the fact that it is an advertisement.",
 			"",
-			"The term \"stealth marketing\" refers",
-			"to the practice of intentionally",
-			"advertising without consumers noticing."
+			"Also, the term \"stealth marketing\" refers",
+			"to this practice of intentionally advertising",
+			"without the consumers' knowledge."
 		]
 	},
 	"78": {
@@ -1431,33 +1433,33 @@
 	},
 	"80": {
 		"STRINGS": [
-			"This is a folklore based on ",
-			"historical facts that took place in",
-			"Hameln, a city in Lower Saxony in",
-			"northern West Germany.",
+			"Folklore based on historical facts",
+			"that took place in Hameln,",
+			"a city in Lower Saxony in northern West Germany.",
 			"",
-			"In 1284, a man claiming to be a rat",
-			"catcher came to Hameln and asked the",
-			"people that he would exterminate the rats that",
-			"were destroying the city with the promise of a reward.",
+			"In 1284, a man claiming to be a rat catcher came to Hamelin,",
+			"and the people requested him to exterminate the rats",
+			"that were laying waste to the city",
+			"with the promise of a reward.",
+			"With the sound of his flute,",
+			"the rat catcher lured the swarm of rats",
+			"into the river and drowned them.",
 			"",
-			"With the sound of his flute, the rat",
-			"catcher lured the swarm of rats into",
-			"the river and drowned them.",
-			"",
-			"The request is fulfilled, but the ",
-			"people of Hameln are reluctant to pay.",
+			"The request was fulfilled,",
+			"but the people of Hamelin were reluctant to pay.",
 			"The angry rat catcher took the children",
-			"out of the city with the sound of his whistle.",
+			"out of the city with the sound of his flute.",
 			"",
-			"There were 130 children.",
+			"The children numbered 130.",
 			"It is said that the children who were",
 			"taken away never returned.",
 			"",
-			"In Hameln, there is an inscription",
+			"In Hamelin, there is an inscription",
 			"on the legend of the Rat Catcher,",
 			"which says that the Rat Catcher",
-			"was a magician (magus)."
+			"was a magician (magus).",
+			"",
+			"Additionally, mouse in Latin is 'mus'."
 		]
 	},
 	"81": {
@@ -1527,18 +1529,17 @@
 	"85": {
 		"STRINGS": [
 			"It is used in the same sense as the",
-			"crime of false accusation.",
+			"crime of false claims.",
 			"",
-			"A person may be charged with this",
-			"crime if he or she files a complaint",
-			"or accusation with the intention of",
-			"having another person take criminal",
-			"or disciplinary action against him",
-			"or her, knowing that the allegation is false.",
+			"A person may be charged with this crime",
+			"if they file a complaint or accusation",
+			"with the intention of having another person",
+			"suffer criminal or disciplinary action",
+			"while knowing that the allegation is false.",
 			"",
-			"It is stipulated in Article 172 of",
-			"the Penal Code, and is punishable by",
-			"imprisonment of between three months and ten years."
+			"It is stipulated in Article 172 of the Penal Code",
+			"that it is punishable by imprisonment of",
+			"between three months and ten years."
 		]
 	},
 	"86": {
@@ -1564,17 +1565,14 @@
 	},
 	"87": {
 		"STRINGS": [
-			"It is one of the methods of",
-			"collecting data to identify the",
-			"criminal in a criminal investigation.",
+			"It is a methods of collecting data in order to",
+			"identify criminals in criminal investigations.",
 			"",
 			"It is a process that uses statistical experience,",
-			"crime data, psychological and",
-			"behavioral science findings to",
-			"determine the image of the ",
-			"criminal, based on the",
-			"examination of the crime scene and",
-			"the items left behind."
+			"crime data, and psychological and behavioral",
+			"scientific findings to determine the profile of",
+			"the criminal, based on an examination of the crime scene",
+			"and the items left behind within."
 		]
 	},
 	"88": {
@@ -1635,15 +1633,17 @@
 	},
 	"90": {
 		"STRINGS": [
-			"He is said to be a demon or a",
-			"fallen angel with a beautiful figure and voice.",
+			"He is said to be a demon or a fallen angel",
+			"with a beautiful figure and voice.",
 			"",
 			"Every word he speaks is a lie,",
 			"and it is said that a sacrifice",
 			"is required to make him speak the truth.",
 			"",
 			"His name is a Hebrew word meaning",
-			"\"worthless\" or \"wicked\" and is also used to mean \"rogue.\""
+			"\"worthless\" or \"wicked\"",
+			"and is used as well to mean \"ruffian\"",
+			"in the idiom \"sons of Belial\"."
 		]
 	},
 	"91": {
@@ -1714,15 +1714,16 @@
 	},
 	"94": {
 		"STRINGS": [
-			"A cryptic term used by the police.",
+			"Jargon used by the police.",
+			"\"Maru\" refers to a search.",
 			"",
 			"The word \"maru\" is often used",
 			"in police terminology such as:",
-			"\"Maruso\" meaning biker gang",
-			"\"Maruki\" meaning riot police",
-			"\"Marusui\" which means drunk.",
-			"\"Marmoku\" means witness.",
-			"などがある。"
+			"\"Marusou\", meaning biker gang,",
+			"\"Maruki\", meaning riot police,",
+			"\"Marusui\", meaning drunk,",
+			"\"Marumoku\", meaning witness,",
+			"among others."
 		]
 	},
 	"95": {
