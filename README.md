@@ -11,7 +11,7 @@ _____
 
 # Translation Progress
 
-
+![SHAYA1](https://github.com/user-attachments/assets/3c4ecafb-2c83-40b3-960c-8c94e836f186)
 #
 | Chapter  | Percent | Editing |
 | ------------- |:-------------:| -------------|
