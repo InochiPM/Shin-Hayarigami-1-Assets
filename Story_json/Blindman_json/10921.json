@@ -124,8 +124,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -152,8 +151,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -269,8 +267,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -348,8 +345,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -443,8 +439,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "30000a00",
-		"KEYWORD_ID": 3042,
-		"KEYWORD": "Preta"
+		"KEYWORD_ID": 3042
 	},
 	{
 		"STRINGS": [
@@ -454,7 +449,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "100010009c130004761374ac"
+		"UNK0": "100010009c13",
+		"STRING": "Petra"
 	},
 	{
 		"TYPE": "BR",
@@ -554,8 +550,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -581,8 +576,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 18,
-		"NAME": "Hiromu Kanaya"
+		"CHARACTER_ID": 18
 	},
 	{
 		"TYPE": "FONT",
@@ -616,8 +610,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -756,8 +749,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -812,8 +804,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 18,
-		"NAME": "Hiromu Kanaya"
+		"CHARACTER_ID": 18
 	},
 	{
 		"TYPE": "FONT",
@@ -877,8 +868,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -982,8 +972,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1098,8 +1087,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1125,8 +1113,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1160,8 +1147,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1528,8 +1514,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1753,8 +1738,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 18,
-		"NAME": "Hiromu Kanaya"
+		"CHARACTER_ID": 18
 	},
 	{
 		"TYPE": "FONT",
@@ -1954,8 +1938,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 12,
-		"NAME": "Officer"
+		"CHARACTER_ID": 12
 	},
 	{
 		"STRINGS": [
@@ -2103,8 +2086,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -2194,8 +2176,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -2251,8 +2232,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -2366,8 +2346,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -2390,8 +2369,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [

@@ -100,8 +100,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -110,7 +109,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "18001400b3130008719669bf71197707"
+		"UNK0": "18001400b313",
+		"STRING": "Plea Bargain"
 	},
 	{
 		"STRINGS": [
@@ -171,8 +171,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -194,8 +193,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -222,8 +220,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -266,8 +263,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -294,8 +290,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -318,18 +313,18 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
-			"\"--Does this place really have an",
-			"immortal death row prisoner, I asked.\""
+			"\"--Does this place really hold custody of the",
+			"'Undying Death Row Inmate', I asked.\""
 		]
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "40001a00b213000e717f7d377d377d5d717f73a67105"
+		"UNK0": "40001a00b213",
+		"STRING": "Undying Death Row Inmate"
 	},
 	{
 		"TYPE": "BR",
@@ -378,8 +373,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -409,8 +403,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -454,8 +447,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -481,8 +473,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -528,8 +519,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -555,8 +545,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -582,8 +571,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -609,8 +597,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -634,8 +621,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -678,8 +664,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -706,8 +691,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -771,8 +755,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -844,8 +827,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -871,8 +853,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -899,8 +880,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -927,8 +907,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -954,8 +933,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1010,8 +988,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1022,8 +999,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "20000a00",
-		"KEYWORD_ID": 3007,
-		"KEYWORD": "Comedian"
+		"KEYWORD_ID": 3007
 	},
 	{
 		"STRINGS": [
@@ -1109,8 +1085,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1138,8 +1113,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1165,8 +1139,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1220,8 +1193,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1265,8 +1237,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1276,7 +1247,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "38001400cc130008711573877d187624"
+		"UNK0": "38001400cc13",
+		"STRING": "Specialized Patrol Division"
 	},
 	{
 		"STRINGS": [
@@ -1300,8 +1272,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1326,8 +1297,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1379,8 +1349,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1440,8 +1409,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1470,8 +1438,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1495,8 +1462,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1577,8 +1543,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1630,8 +1595,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [

@@ -68,17 +68,17 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
-			"\"Do you have some kind of all-seeing second sight or something?\""
+			"\"Do you have some kind of clairvoyance or something?\""
 		]
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "38001200c01300066f18685d751e"
+		"UNK0": "38001200c013",
+		"STRING": "Clairvoyance"
 	},
 	{
 		"TYPE": "BR",
@@ -127,13 +127,12 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
-			"\"If you want, Why don't we conduct an experiment?",
-			"Just like the clairvoyant experiments",
+			"\"If you want, why don't we conduct an experiment?",
+			"Just like the psychic experiments",
 			"conducted during the Meiji era.\""
 		]
 	},
@@ -156,8 +155,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -180,7 +178,7 @@
 	{
 		"STRINGS": [
 			"I presented the materials I had",
-			"prepared in advance through the grating."
+			"prepared in advance through the cell bars."
 		]
 	},
 	{

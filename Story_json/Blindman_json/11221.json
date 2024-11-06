@@ -153,8 +153,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -182,8 +181,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -233,8 +231,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -262,8 +259,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -309,8 +305,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -338,8 +333,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -367,8 +361,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -396,8 +389,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -459,8 +451,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -621,8 +612,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -669,8 +659,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -709,8 +698,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -759,8 +747,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -787,8 +774,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -812,8 +798,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -840,8 +825,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -864,8 +848,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -891,8 +874,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -918,8 +900,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -943,8 +924,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -967,8 +947,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -995,8 +974,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1025,8 +1003,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1053,8 +1030,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1080,8 +1056,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1140,8 +1115,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1164,8 +1138,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1193,8 +1166,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1223,8 +1195,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1247,19 +1218,19 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
 			"\"Backing a defendant already thought of as guilty,",
 			"even if not sentenced by a judge, more than the norm would",
-			"get you accusations of Stockhold syndrome."
+			"get you accusations of Stockholm syndrome."
 		]
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "3c002000be1300147ca77c987c9d7cb17c857c747c7f7038730c73ae"
+		"UNK0": "3c002000be13",
+		"STRING": "Stockholm Syndrome"
 	},
 	{
 		"TYPE": "BR",
@@ -1280,8 +1251,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1332,8 +1302,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1356,8 +1325,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1381,8 +1349,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1409,8 +1376,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [

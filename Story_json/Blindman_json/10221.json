@@ -111,8 +111,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -155,8 +154,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -211,8 +209,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -272,8 +269,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "1c000a00",
-		"KEYWORD_ID": 3011,
-		"KEYWORD": "Misuzu Tachibana"
+		"KEYWORD_ID": 3011
 	},
 	{
 		"STRINGS": [
@@ -351,8 +347,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -396,8 +391,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -425,8 +419,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -450,8 +443,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -479,8 +471,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -575,8 +566,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -603,8 +593,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -663,8 +652,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -674,8 +662,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "20000a00",
-		"KEYWORD_ID": 3012,
-		"KEYWORD": "Koutarou Tamura"
+		"KEYWORD_ID": 3012
 	},
 	{
 		"STRINGS": [
@@ -698,20 +685,20 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
 			"\"Currently, the First Investigative Division is trying to",
 			"get a background check, but I'm almost certain it's accurate.",
 			"For the record, the victim's DNA is still being analyzed",
-			"by the crime lab.\""
+			"at the Crime Lab.\""
 		]
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "3c0012009f13000676376e84735b"
+		"UNK0": "3c0012009f13",
+		"STRING": "Crime Lab"
 	},
 	{
 		"TYPE": "BR",
@@ -732,8 +719,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -761,8 +747,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -785,8 +770,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -809,8 +793,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -837,8 +820,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -864,8 +846,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -909,8 +890,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -934,8 +914,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -978,8 +957,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1035,8 +1013,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1132,8 +1109,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1160,8 +1136,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1188,8 +1163,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1247,8 +1221,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1274,8 +1247,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1316,8 +1288,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1375,8 +1346,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1422,8 +1392,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1446,8 +1415,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1558,8 +1526,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1620,8 +1587,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -1676,8 +1642,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1687,8 +1652,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "20000a00",
-		"KEYWORD_ID": 3013,
-		"KEYWORD": "Devil in the Dungeon"
+		"KEYWORD_ID": 3013
 	},
 	{
 		"STRINGS": [
@@ -1714,8 +1678,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1766,8 +1729,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [

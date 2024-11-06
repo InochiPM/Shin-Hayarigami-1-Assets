@@ -100,8 +100,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 18,
-		"NAME": "Hiromu Kanaya"
+		"CHARACTER_ID": 18
 	},
 	{
 		"STRINGS": [
@@ -111,7 +110,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "3c001600c113000a6e1973237d33735f6832"
+		"UNK0": "3c001600c113",
+		"STRING": "Fifth Estate"
 	},
 	{
 		"TYPE": "BR",

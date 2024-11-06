@@ -100,8 +100,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -210,8 +209,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 5,
-		"NAME": "Hayato Kazamori"
+		"CHARACTER_ID": 5
 	},
 	{
 		"STRINGS": [
@@ -220,7 +218,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "18001400b3130008719669bf71197707"
+		"UNK0": "18001400b313",
+		"STRING": "Plea Bargaining"
 	},
 	{
 		"STRINGS": [

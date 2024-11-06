@@ -108,8 +108,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -121,8 +120,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "18000a00",
-		"KEYWORD_ID": 3050,
-		"KEYWORD": "Drug Addiction"
+		"KEYWORD_ID": 3050
 	},
 	{
 		"STRINGS": [
@@ -180,8 +178,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -240,8 +237,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -264,8 +260,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -293,8 +288,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -320,8 +314,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -424,8 +417,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -435,8 +427,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "14000a00",
-		"KEYWORD_ID": 3049,
-		"KEYWORD": "Diet Pills"
+		"KEYWORD_ID": 3049
 	},
 	{
 		"STRINGS": [
@@ -458,8 +449,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -483,8 +473,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -525,8 +514,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -553,8 +541,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -580,8 +567,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -591,7 +577,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "38002000c81300146d796c3a6f546aa36b18760c717f6b72685c7038"
+		"UNK0": "38002000c813",
+		"STRING": "Toxic Epidermal Necrolysis"
 	},
 	{
 		"STRINGS": [
@@ -618,8 +605,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -646,8 +632,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -671,8 +656,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -731,8 +715,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -813,8 +796,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -873,8 +855,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -897,8 +878,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -957,8 +937,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -986,8 +965,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1042,8 +1020,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1085,8 +1062,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1095,7 +1071,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "34001c00ae1300107cab7c6c7ca77cb17c757c9d7c987315"
+		"UNK0": "34001c00ae13",
+		"STRING": "Sanskrit"
 	},
 	{
 		"STRINGS": [
@@ -1117,8 +1094,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1177,8 +1153,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1204,8 +1179,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1277,8 +1251,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1304,8 +1277,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1357,8 +1329,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1369,8 +1340,7 @@
 	{
 		"TYPE": "KEYWORD",
 		"UNK0": "28000a00",
-		"KEYWORD_ID": 3051,
-		"KEYWORD": "Scapegoat"
+		"KEYWORD_ID": 3051
 	},
 	{
 		"STRINGS": [
@@ -1396,8 +1366,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1421,8 +1390,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1473,8 +1441,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1497,8 +1464,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 7,
-		"NAME": "Kunio Kuroda"
+		"CHARACTER_ID": 7
 	},
 	{
 		"STRINGS": [
@@ -1524,8 +1490,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1534,7 +1499,8 @@
 	},
 	{
 		"TYPE": "DATABASE",
-		"UNK0": "3c001c00de1300107c897c727c8b7cbf7cbc7c757c6c7cb0"
+		"UNK0": "3c001c00de13",
+		"STRING": "Profiling"
 	},
 	{
 		"TYPE": "BR",
@@ -1583,8 +1549,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1607,8 +1572,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1633,8 +1597,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1658,8 +1621,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1682,8 +1644,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1738,8 +1699,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1779,8 +1739,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1803,8 +1762,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1826,8 +1784,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1849,8 +1806,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1873,8 +1829,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 3,
-		"NAME": "Soujirou Sekimoto"
+		"CHARACTER_ID": 3
 	},
 	{
 		"STRINGS": [
@@ -1912,8 +1867,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [
@@ -1955,8 +1909,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 10,
-		"NAME": "Misuzu Tachibana"
+		"CHARACTER_ID": 10
 	},
 	{
 		"STRINGS": [
@@ -1982,8 +1935,7 @@
 	{
 		"TYPE": "SPEAKER",
 		"UNK0": "10000a00",
-		"CHARACTER_ID": 6,
-		"NAME": "Saki Houjou"
+		"CHARACTER_ID": 6
 	},
 	{
 		"STRINGS": [

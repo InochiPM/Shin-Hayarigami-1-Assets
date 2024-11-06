@@ -763,10 +763,10 @@
 	},
 	"44": {
 		"STRINGS": [
-			"In a trial, the prosecutor and the",
-			"defendant make a deal in which the",
-			"defendant admits guilt or cooperates with",
-			"the investigation in exchange for a reduced sentence.",
+			"During trial, the prosecutor and the defendant",
+			"make a deal in which the defendant admits guilt",
+			"or otherwise cooperates with the investigation",
+			"in exchange for a reduced sentence.",
 			"",
 			"This system is used in the U.S.,",
 			"but is not allowed in Japan.",
@@ -1529,7 +1529,7 @@
 	"85": {
 		"STRINGS": [
 			"It is used in the same sense as the",
-			"crime of false claims.",
+			"crime of slander.",
 			"",
 			"A person may be charged with this crime",
 			"if they file a complaint or accusation",
